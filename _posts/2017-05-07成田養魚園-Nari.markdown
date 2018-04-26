@@ -1,0 +1,21 @@
+
+    --- 
+
+    layout: post 
+
+    title:  "$(fileNameTitle)" 
+
+    date:   $(feedItem.created_time) 
+
+    categories: $(jekyllCategories) 
+
+    --- 
+
+    $(mediaContent) 
+
+    
+
+    $(mainContent)
+    
+
+    
