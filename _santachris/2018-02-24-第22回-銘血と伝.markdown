@@ -9,7 +9,9 @@ date:   2018-02-23T17:42:22+0000
 
 categories: Sakai,Koishow,News 
 
-media: ["TWCtDsZ", "S0qohJo", "yAtVD5K", "TJxYMWs"] 
+media: ["sIj3j9X", "NDQR8c5"] 
+
+mInfo: ["lWn1X5lxvBIRG0RgpZY0S1rl79", "NmxRJ5WBVpiDxvDQyGNxIrkYjR"] 
 
 message:第22回 銘血と伝統の祭典-新潟錦鯉競拍會
 活動地點：長岡市山古志支所体育館
@@ -35,16 +37,10 @@ message:第22回 銘血と伝統の祭典-新潟錦鯉競拍會
 競拍魚隻照片陸續更新中，有興趣的魚友歡迎私訊委託競拍。
 
 
-<a href="https://i.imgur.com/TWCtDsZ.jpg"><img src="https://i.imgur.com/TWCtDsZ.jpg" height=300 width=225 /></a> 
+<a href="https://i.imgur.com/sIj3j9X.jpg"><img src="https://i.imgur.com/sIj3j9X.jpg" height=300 width=225 /></a> 
 
  
-<a href="https://i.imgur.com/S0qohJo.jpg"><img src="https://i.imgur.com/S0qohJo.jpg" height=300 width=225 /></a> 
-
- 
-<a href="https://i.imgur.com/yAtVD5K.jpg"><img src="https://i.imgur.com/yAtVD5K.jpg" height=300 width=225 /></a> 
-
- 
-<a href="https://i.imgur.com/TJxYMWs.jpg"><img src="https://i.imgur.com/TJxYMWs.jpg" height=300 width=225 /></a> 
+<a href="https://i.imgur.com/NDQR8c5.jpg"><img src="https://i.imgur.com/NDQR8c5.jpg" height=300 width=225 /></a> 
  
 
 
