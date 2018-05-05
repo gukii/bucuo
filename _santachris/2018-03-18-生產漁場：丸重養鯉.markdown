@@ -9,7 +9,9 @@ date:   2018-03-18T05:09:11+0000
 
 categories: Sakai,Koishow,News 
 
-media: ["uFGxF0w", "bav3UTR"] 
+media: ["XKCgmQL", "sSgKnZ8"] 
+
+mInfo: ["6AxBmjMR53fJxyNP1vMztLDzWy", "Xz6REPLBjBHPZ9Vq0gJLF93B5q"] 
 
 message:生產漁場：丸重養鯉場 Marujyu Koi Farm
 生產年份：2016.6
@@ -33,10 +35,10 @@ message:生產漁場：丸重養鯉場 Marujyu Koi Farm
 銷售方式：已售出
 
 
-<a href="https://i.imgur.com/uFGxF0w.jpg"><img src="https://i.imgur.com/uFGxF0w.jpg" height=300 width=225 /></a> 
+<a href="https://i.imgur.com/XKCgmQL.jpg"><img src="https://i.imgur.com/XKCgmQL.jpg" height=300 width=225 /></a> 
 
  
-<a href="https://i.imgur.com/bav3UTR.jpg"><img src="https://i.imgur.com/bav3UTR.jpg" height=300 width=225 /></a> 
+<a href="https://i.imgur.com/sSgKnZ8.jpg"><img src="https://i.imgur.com/sSgKnZ8.jpg" height=211 width=300 /></a> 
  
 
 
