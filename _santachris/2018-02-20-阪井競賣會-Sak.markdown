@@ -9,9 +9,9 @@ date:   2018-02-20T05:28:02+0000
 
 categories: Sakai,Koishow,News 
 
-media: ["jR732KJ", "9ZNndjr", "ci1ZBGg", "4mo7MLq"] 
+media: ["dHxQB93", "tXTgAtL", "v3kqiOX"] 
 
-mInfo: ["v4vYnYRO1nFJyE0xzAgAso40v3", "VD78M1WP2xI8Z92Yg5MKIQPZDq", "QE00jONlgBtv1V4GDMxXIrJ7xj", "LkMwlpBZn1UyP5MzopL6ij72gw"] 
+mInfo: ["0jWMDp4DNDcz6JoYyX8vi3RoJ9", "Vj83526EKBtnVnqmMmLNfkAxB0", "gO03Dm3Zv2f1GMkyrpPkS7VGVY"] 
 
 message:阪井競賣會 Sakai Auction
 活動地點：日本廣島阪井養魚場
@@ -37,16 +37,13 @@ message:阪井競賣會 Sakai Auction
 競拍魚隻照片陸續更新中，有興趣的魚友歡迎私訊委託競拍。
 
 
-<a href="https://i.imgur.com/jR732KJ.jpg"><img src="https://i.imgur.com/jR732KJ.jpg" height=159 width=300 /></a> 
+<a href="https://i.imgur.com/dHxQB93.jpg"><img src="https://i.imgur.com/dHxQB93.jpg" height=159 width=300 /></a> 
 
  
-<a href="https://i.imgur.com/9ZNndjr.jpg"><img src="https://i.imgur.com/9ZNndjr.jpg" height=225 width=300 /></a> 
+<a href="https://i.imgur.com/tXTgAtL.jpg"><img src="https://i.imgur.com/tXTgAtL.jpg" height=225 width=300 /></a> 
 
  
-<a href="https://i.imgur.com/ci1ZBGg.jpg"><img src="https://i.imgur.com/ci1ZBGg.jpg" height=225 width=300 /></a> 
-
- 
-<a href="https://i.imgur.com/4mo7MLq.jpg"><img src="https://i.imgur.com/4mo7MLq.jpg" height=225 width=300 /></a> 
+<a href="https://i.imgur.com/v3kqiOX.jpg"><img src="https://i.imgur.com/v3kqiOX.jpg" height=300 width=225 /></a> 
  
 
 
