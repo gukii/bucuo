@@ -9,9 +9,13 @@ date:   2018-02-23T17:42:22+0000
 
 categories: Sakai,Koishow,News 
 
-media: ["sIj3j9X", "NDQR8c5"] 
+media:
+  - id: Z423ikm<br />    name: kLGRJxWrgzfvOxOr9v8VhoqZ6N2<br />    description: null<br />    height: 720<br />    width: 540<br />    type: image/jpeg<br />    link: https://i.imgur.com/Z423ikm.jpg
+  - id: IS6SFYZ<br />    name: 6Nn8rwpBMktJr56W0Y6xTPkmQN1<br />    description: null<br />    height: 720<br />    width: 540<br />    type: image/jpeg<br />    link: https://i.imgur.com/IS6SFYZ.jpg
+  - id: HnAASyj<br />    name: 9NqrxzvDjntjkGkRMWqjsrmDRZE<br />    description: null<br />    height: 720<br />    width: 540<br />    type: image/jpeg<br />    link: https://i.imgur.com/HnAASyj.jpg
+  - id: PbAUrac<br />    name: 1NgwmokGM5tXMVrqqo3qI01Nn83<br />    description: null<br />    height: 720<br />    width: 540<br />    type: image/jpeg<br />    link: https://i.imgur.com/PbAUrac.jpg
 
-mInfo: ["lWn1X5lxvBIRG0RgpZY0S1rl79", "NmxRJ5WBVpiDxvDQyGNxIrkYjR"] 
+mInfo: ["qWKo8MD1ONsYxV7DwGONhNDEVP", "jmo3qZ1zRrHKyjA5MAk7f1kA4v", "KjY6yWjxxjIODDZrZKr4hpBRMB", "4ol1l3y1KWf4GjJKz3PXsMyJlE"] 
 
 message:第22回 銘血と伝統の祭典-新潟錦鯉競拍會
 活動地點：長岡市山古志支所体育館
@@ -26,21 +30,19 @@ message:第22回 銘血と伝統の祭典-新潟錦鯉競拍會
 
 --- 
 
-第22回 銘血と伝統の祭典-新潟錦鯉競拍會
-活動地點：長岡市山古志支所体育館
-活動日期：2018年3月2日(星期五)
-活動內容：競價拍賣會
-入場資格：全日本錦鯉振興會會員
-競賣產品：錦鯉 Nishikigoi
-活動網址：http://jnpa-niigata.com/event/niigataauction2018-22.html
-
-競拍魚隻照片陸續更新中，有興趣的魚友歡迎私訊委託競拍。
+第22回 銘血と伝統の祭典-新潟錦鯉競拍會<br />活動地點：長岡市山古志支所体育館<br />活動日期：2018年3月2日(星期五)<br />活動內容：競價拍賣會<br />入場資格：全日本錦鯉振興會會員<br />競賣產品：錦鯉 Nishikigoi<br />活動網址：http://jnpa-niigata.com/event/niigataauction2018-22.html<br /><br />競拍魚隻照片陸續更新中，有興趣的魚友歡迎私訊委託競拍。
 
 
-<a href="https://i.imgur.com/sIj3j9X.jpg"><img src="https://i.imgur.com/sIj3j9X.jpg" height=300 width=225 /></a> 
+<a href="https://i.imgur.com/Z423ikm.jpg"><img src="https://i.imgur.com/Z423ikm.jpg" height=300 width=225 /></a> 
 
  
-<a href="https://i.imgur.com/NDQR8c5.jpg"><img src="https://i.imgur.com/NDQR8c5.jpg" height=300 width=225 /></a> 
+<a href="https://i.imgur.com/IS6SFYZ.jpg"><img src="https://i.imgur.com/IS6SFYZ.jpg" height=300 width=225 /></a> 
+
+ 
+<a href="https://i.imgur.com/HnAASyj.jpg"><img src="https://i.imgur.com/HnAASyj.jpg" height=300 width=225 /></a> 
+
+ 
+<a href="https://i.imgur.com/PbAUrac.jpg"><img src="https://i.imgur.com/PbAUrac.jpg" height=300 width=225 /></a> 
  
 
 
