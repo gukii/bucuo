@@ -9,7 +9,28 @@ date:   2018-03-18T05:09:11+0000
 
 categories: Sakai,Koishow,News 
 
-media: ["56lWmjP", "37CSYGP", "9xu57ar"] 
+media:
+  - id: 56lWmjP
+    name: BmDBK3YM86INlB86Lkm4CRZYgrJ
+    description: null
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/56lWmjP.jpg
+  - id: 37CSYGP
+    name: NBVkZ36rE0fpMXmxY5jnt2Zojoz
+    description: null
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/37CSYGP.jpg
+  - id: 9xu57ar
+    name: AlBDJ3YLQ1S516MqDk1lHljvP9G
+    description: null
+    height: 508
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/9xu57ar.jpg
 
 mInfo: ["9MAByLXlQ8IQo9EyV7Y8TPMKQG", "7qx5450qP8UG9468z6myURQrV2", "w4ArqOYVgmSEgqOxKG8AI8v6rE"] 
 
