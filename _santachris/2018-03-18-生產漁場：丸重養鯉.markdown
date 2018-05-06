@@ -10,23 +10,17 @@ date:   2018-03-18T05:09:11+0000
 categories: Sakai,Koishow,News 
 
 media:
-  - id: 56lWmjP
-    name: BmDBK3YM86INlB86Lkm4CRZYgrJ
-    description: null
+  - id: 56lWmjP<br />    name: BmDBK3YM86INlB86Lkm4CRZYgrJ<br />    description: null
     height: 720
     width: 540
     type: image/jpeg
     link: https://i.imgur.com/56lWmjP.jpg
-  - id: 37CSYGP
-    name: NBVkZ36rE0fpMXmxY5jnt2Zojoz
-    description: null
+  - id: 37CSYGP<br />    name: NBVkZ36rE0fpMXmxY5jnt2Zojoz<br />    description: null
     height: 720
     width: 540
     type: image/jpeg
     link: https://i.imgur.com/37CSYGP.jpg
-  - id: 9xu57ar
-    name: AlBDJ3YLQ1S516MqDk1lHljvP9G
-    description: null
+  - id: 9xu57ar<br />    name: AlBDJ3YLQ1S516MqDk1lHljvP9G<br />    description: null
     height: 508
     width: 720
     type: image/jpeg
