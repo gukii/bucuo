@@ -11,9 +11,9 @@ categories: Sakai,Koishow,News
 
 media:
   - id: 56lWmjP<br />    name: BmDBK3YM86INlB86Lkm4CRZYgrJ<br />    description: null<br />    height: 720<br />    width: 540<br />    type: image/jpeg<br />    link: https://i.imgur.com/56lWmjP.jpg<br />    prevLoc: undefined
-  - id: 37CSYGP<br />    name: NBVkZ36rE0fpMXmxY5jnt2Zojoz<br />    description: null<br />    height: 720<br />    width: 540<br />    type: image/jpeg<br />    link: https://i.imgur.com/37CSYGP.jpg<br />    prevLoc: undefined
+  - id: 9xu57ar<br />    name: AlBDJ3YLQ1S516MqDk1lHljvP9G<br />    description: null<br />    height: 508<br />    width: 720<br />    type: image/jpeg<br />    link: https://i.imgur.com/9xu57ar.jpg<br />    prevLoc: undefined
 
-mInfo: ["9MAByLXlQ8IQo9EyV7Y8TPMKQG", "7qx5450qP8UG9468z6myURQrV2"] 
+mInfo: ["9MAByLXlQ8IQo9EyV7Y8TPMKQG", "w4ArqOYVgmSEgqOxKG8AI8v6rE"] 
 
 message:生產漁場：丸重養鯉場 Marujyu Koi Farm
 生產年份：2016.6
@@ -33,7 +33,7 @@ message:生產漁場：丸重養鯉場 Marujyu Koi Farm
 <a href="https://i.imgur.com/56lWmjP.jpg"><img src="https://i.imgur.com/56lWmjP.jpg" height=300 width=225 /></a> 
 
  
-<a href="https://i.imgur.com/37CSYGP.jpg"><img src="https://i.imgur.com/37CSYGP.jpg" height=300 width=225 /></a> 
+<a href="https://i.imgur.com/9xu57ar.jpg"><img src="https://i.imgur.com/9xu57ar.jpg" height=211 width=300 /></a> 
  
 
 
