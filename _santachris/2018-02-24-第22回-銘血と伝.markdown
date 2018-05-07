@@ -12,10 +12,10 @@ categories: Sakai,Koishow,News
 media:
   - id: Z423ikm<br />    name: kLGRJxWrgzfvOxOr9v8VhoqZ6N2<br />    description: null<br />    height: 720<br />    width: 540<br />    type: image/jpeg<br />    link: https://i.imgur.com/Z423ikm.jpg
   - id: HnAASyj<br />    name: 9NqrxzvDjntjkGkRMWqjsrmDRZE<br />    description: null<br />    height: 720<br />    width: 540<br />    type: image/jpeg<br />    link: https://i.imgur.com/HnAASyj.jpg
+  - id: PbAUrac<br />    name: 1NgwmokGM5tXMVrqqo3qI01Nn83<br />    description: null<br />    height: 720<br />    width: 540<br />    type: image/jpeg<br />    link: https://i.imgur.com/PbAUrac.jpg
   - id: YvT5IGd<br />    name: pmNYODWknGIZnVvGon96So2Qpy9<br />    description: null<br />    height: 720<br />    width: 540<br />    type: image/jpeg<br />    link: https://i.imgur.com/YvT5IGd.jpg
-  - id: 9wNawe1<br />    name: 075Rlnj0M4tzG1n0A014FK42Box<br />    description: null<br />    height: 720<br />    width: 540<br />    type: image/jpeg<br />    link: https://i.imgur.com/9wNawe1.jpg
 
-mInfo: ["qWKo8MD1ONsYxV7DwGONhNDEVP", "KjY6yWjxxjIODDZrZKr4hpBRMB", "ELzBEVNlE4IVAB43AWGviQrrJD", "OnqqxY0LkqTD7NkM1w6AFPoW6B"] 
+mInfo: ["qWKo8MD1ONsYxV7DwGONhNDEVP", "KjY6yWjxxjIODDZrZKr4hpBRMB", "4ol1l3y1KWf4GjJKz3PXsMyJlE", "ELzBEVNlE4IVAB43AWGviQrrJD"] 
 
 message:第22回 銘血と伝統の祭典-新潟錦鯉競拍會
 活動地點：長岡市山古志支所体育館
@@ -39,10 +39,10 @@ message:第22回 銘血と伝統の祭典-新潟錦鯉競拍會
 <a href="https://i.imgur.com/HnAASyj.jpg"><img src="https://i.imgur.com/HnAASyj.jpg" height=300 width=225 /></a> 
 
  
-<a href="https://i.imgur.com/YvT5IGd.jpg"><img src="https://i.imgur.com/YvT5IGd.jpg" height=300 width=225 /></a> 
+<a href="https://i.imgur.com/PbAUrac.jpg"><img src="https://i.imgur.com/PbAUrac.jpg" height=300 width=225 /></a> 
 
  
-<a href="https://i.imgur.com/9wNawe1.jpg"><img src="https://i.imgur.com/9wNawe1.jpg" height=300 width=225 /></a> 
+<a href="https://i.imgur.com/YvT5IGd.jpg"><img src="https://i.imgur.com/YvT5IGd.jpg" height=300 width=225 /></a> 
  
 
 
