@@ -10,10 +10,8 @@ date:   2018-03-18T05:09:11+0000
 categories: Sakai,Koishow,News 
 
 media:
-  - id: vL0K3oJ<br />    name: BmDBK3YM86INlB86Lkm4CRZYgrJ<br />    description: null<br />    height: 720<br />    width: 540<br />    type: image/jpeg<br />    link: https://i.imgur.com/vL0K3oJ.jpg<br />    prevLoc: rxEBLQ4AqgTmZwwyM18AuoN23WnoNAInV48m68MBCjxBWq81Mzt6PK706j65uvOLNyQqAlT769yJK4k8SDjgJZ0Xz6fLG9LVBVXPS1glLy9OY4hLNGlGvr5WFWnOonM6y1uPmWWK5GkgiN3kYK5nZwSkwn26A6y1FOjwyJ09KZfR1mxMYRrztVGm9xqmM0cmkVYMMD7DF6AxmqNOYDT6WyY30rqATK5mkvWky7c9XX3OPngNT24LJA8z81Hz67qYZJ3<br />    parentId: roPkQAlGE9iO1zXNpQ2lCqJA4zl<br />    postId: Q8qNxw3JlqfLN4l1j7AvS72kB1R29Yu504QL5Rg2HEP66zJLpRcQrk
-  - id: pdfxukE<br />    name: NBVkZ36rE0fpMXmxY5jnt2Zojoz<br />    description: null<br />    height: 720<br />    width: 540<br />    type: image/jpeg<br />    link: https://i.imgur.com/pdfxukE.jpg<br />    prevLoc: ZBwv2lQ7GZIjgPP1vD5MuOP6m45OPWsGLxqNVq64cR9vZK8VYmiDAgNwDBDZTQxZKpWJGMU4WrzJjQD1cVgK7qBw1GsxyJmM5OGOfXgq9mjnzJTYpyOyok97CLZXRMMPKgu2g5p9j6R0fW1EXG1nxnSl1nBVqL9kcM3QpMOKvkh855q1zGQLc6AErNND77SV3VvQ5jkWsm4GWgAEmxCnV0R33k6lSrz79Y1OgMUEZB1gQlPNuJZ9263WZvS8YBkPN6A4F7g<br />    parentId: roPkQAlGE9iO1zXNpQ2lCqJA4zl<br />    postId: Q8qNxw3JlqfLN4l1j7AvS72kB1R29Yu504QL5Rg2HEP66zJLpRcQrk
-
-mInfo: ["wzXAk1Pr3ztEX65yR5VQU8G9Xw", "zJL83D64EEh6XJDw9G8ZCoR88E"] 
+  - id: GrAkx91<br />    name: BmDBK3YM86INlB86Lkm4CRZYgrJ<br />    description: null<br />    height: 720<br />    width: 540<br />    type: image/jpeg<br />    link: https://i.imgur.com/GrAkx91.jpg<br />    prevLoc: rxEBLQ4AqgTmZwwyM18AuoN23WnoNAInV48m68MBCjxBWq81Mzt6PK706j65uvOLNyQqAlT769yJK4k8SDjgJZ0Xz6fLG9LVBVXPS1glLy9OY4hLNGlGvr5WFWnOonM6y1uPmWWK5GkgiN3kYK5nZwSkwn26A6y1FOjwyJ09KZfR1mxMYRrztVGm9xqmM0cmkVYMMD7DF6AxmqNOYDT6WyY30rqATK5mkvWky7c9XX3OPngNT24LJA8z81Hz67qYZJ3<br />    parentId: roPkQAlGE9iO1zXNpQ2lCqJA4zl<br />    postId: Q8qNxw3JlqfLN4l1j7AvS72kB1R29Yu504QL5Rg2HEP66zJLpRcQrk<br />    mInfo: Z8fY1SO0ucSVX3e
+  - id: TzwiwBZ<br />    name: NBVkZ36rE0fpMXmxY5jnt2Zojoz<br />    description: null<br />    height: 720<br />    width: 540<br />    type: image/jpeg<br />    link: https://i.imgur.com/TzwiwBZ.jpg<br />    prevLoc: ZBwv2lQ7GZIjgPP1vD5MuOP6m45OPWsGLxqNVq64cR9vZK8VYmiDAgNwDBDZTQxZKpWJGMU4WrzJjQD1cVgK7qBw1GsxyJmM5OGOfXgq9mjnzJTYpyOyok97CLZXRMMPKgu2g5p9j6R0fW1EXG1nxnSl1nBVqL9kcM3QpMOKvkh855q1zGQLc6AErNND77SV3VvQ5jkWsm4GWgAEmxCnV0R33k6lSrz79Y1OgMUEZB1gQlPNuJZ9263WZvS8YBkPN6A4F7g<br />    parentId: roPkQAlGE9iO1zXNpQ2lCqJA4zl<br />    postId: Q8qNxw3JlqfLN4l1j7AvS72kB1R29Yu504QL5Rg2HEP66zJLpRcQrk<br />    mInfo: 2rL29HxgKCXKKSL
 
 message:生產漁場：丸重養鯉場 Marujyu Koi Farm
 生產年份：2016.6
@@ -30,10 +28,10 @@ message:生產漁場：丸重養鯉場 Marujyu Koi Farm
 生產漁場：丸重養鯉場 Marujyu Koi Farm<br />生產年份：2016.6<br />品種類別：昭和三色 Showa<br />尺寸公母：35cm / 不明<br />鑒賞等級：AAA級<br />魚隻編號：IKI170531MJ001<br />展售地點：屏東華錦<br />銷售方式：已售出
 
 
-<a href="https://i.imgur.com/vL0K3oJ.jpg"><img src="https://i.imgur.com/vL0K3oJ.jpg" height=300 width=225 /></a> 
+<a href="https://i.imgur.com/GrAkx91.jpg"><img src="https://i.imgur.com/GrAkx91.jpg" height=300 width=225 /></a> 
 
  
-<a href="https://i.imgur.com/pdfxukE.jpg"><img src="https://i.imgur.com/pdfxukE.jpg" height=300 width=225 /></a> 
+<a href="https://i.imgur.com/TzwiwBZ.jpg"><img src="https://i.imgur.com/TzwiwBZ.jpg" height=300 width=225 /></a> 
  
 
 
