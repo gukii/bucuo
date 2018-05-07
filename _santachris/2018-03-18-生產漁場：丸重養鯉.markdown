@@ -10,8 +10,10 @@ date:   2018-03-18T05:09:11+0000
 categories: Sakai,Koishow,News 
 
 media:
+  - id: 56lWmjP<br />    name: BmDBK3YM86INlB86Lkm4CRZYgrJ<br />    description: null<br />    height: 720<br />    width: 540<br />    type: image/jpeg<br />    link: https://i.imgur.com/56lWmjP.jpg<br />    prevLoc: undefined
+  - id: 37CSYGP<br />    name: NBVkZ36rE0fpMXmxY5jnt2Zojoz<br />    description: null<br />    height: 720<br />    width: 540<br />    type: image/jpeg<br />    link: https://i.imgur.com/37CSYGP.jpg<br />    prevLoc: undefined
 
-mInfo: [] 
+mInfo: ["9MAByLXlQ8IQo9EyV7Y8TPMKQG", "7qx5450qP8UG9468z6myURQrV2"] 
 
 message:生產漁場：丸重養鯉場 Marujyu Koi Farm
 生產年份：2016.6
@@ -28,6 +30,10 @@ message:生產漁場：丸重養鯉場 Marujyu Koi Farm
 生產漁場：丸重養鯉場 Marujyu Koi Farm<br />生產年份：2016.6<br />品種類別：昭和三色 Showa<br />尺寸公母：35cm / 不明<br />鑒賞等級：AAA級<br />魚隻編號：IKI170531MJ001<br />展售地點：屏東華錦<br />銷售方式：已售出
 
 
+<a href="https://i.imgur.com/56lWmjP.jpg"><img src="https://i.imgur.com/56lWmjP.jpg" height=300 width=225 /></a> 
+
+ 
+<a href="https://i.imgur.com/37CSYGP.jpg"><img src="https://i.imgur.com/37CSYGP.jpg" height=300 width=225 /></a> 
  
 
 
