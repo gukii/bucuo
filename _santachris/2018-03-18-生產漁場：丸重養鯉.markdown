@@ -10,17 +10,6 @@ date: 2018-03-18T05:09:11+0000
 categories: Sakai,Koishow,News 
 
 media:
-  - id: GrAkx91
-    name: BmDBK3YM86INlB86Lkm4CRZYgrJ
-    description: null
-    height: 720
-    width: 540
-    type: image/jpeg
-    link: https://i.imgur.com/GrAkx91.jpg
-    prevLoc: rxEBLQ4AqgTmZwwyM18AuoN23WnoNAInV48m68MBCjxBWq81Mzt6PK706j65uvOLNyQqAlT769yJK4k8SDjgJZ0Xz6fLG9LVBVXPS1glLy9OY4hLNGlGvr5WFWnOonM6y1uPmWWK5GkgiN3kYK5nZwSkwn26A6y1FOjwyJ09KZfR1mxMYRrztVGm9xqmM0cmkVYMMD7DF6AxmqNOYDT6WyY30rqATK5mkvWky7c9XX3OPngNT24LJA8z81Hz67qYZJ3
-    parentId: roPkQAlGE9iO1zXNpQ2lCqJA4zl
-    postId: Q8qNxw3JlqfLN4l1j7AvS72kB1R29Yu504QL5Rg2HEP66zJLpRcQrk
-    mInfo: Z8fY1SO0ucSVX3e
   - id: TzwiwBZ
     name: NBVkZ36rE0fpMXmxY5jnt2Zojoz
     description: null
@@ -66,9 +55,6 @@ message:生產漁場：丸重養鯉場 Marujyu Koi Farm
 銷售方式：已售出
 
 
-<a href="https://i.imgur.com/GrAkx91.jpg"><img src="https://i.imgur.com/GrAkx91.jpg" height=300 width=225 /></a> 
-
- 
 <a href="https://i.imgur.com/TzwiwBZ.jpg"><img src="https://i.imgur.com/TzwiwBZ.jpg" height=300 width=225 /></a> 
 
  
