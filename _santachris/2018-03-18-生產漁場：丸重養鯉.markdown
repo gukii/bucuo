@@ -9,8 +9,7 @@ date: 2018-03-18T05:09:11+0000
 
 categories: Sakai,Koishow,News 
 
-media:
-  - id: GrAkx91
+media:  - id: GrAkx91
     name: BmDBK3YM86INlB86Lkm4CRZYgrJ
     description: null
     height: 720
@@ -32,6 +31,7 @@ media:
     parentId: roPkQAlGE9iO1zXNpQ2lCqJA4zl
     postId: Q8qNxw3JlqfLN4l1j7AvS72kB1R29Yu504QL5Rg2HEP66zJLpRcQrk
     mInfo: 2rL29HxgKCXKKSL
+
 
 message:生產漁場：丸重養鯉場 Marujyu Koi Farm
 生產年份：2016.6
