@@ -9,7 +9,8 @@ date: 2018-03-18T05:09:11+0000
 
 categories: Sakai,Koishow,News 
 
-media:  - id: GrAkx91
+media:
+  - id: GrAkx91
     name: BmDBK3YM86INlB86Lkm4CRZYgrJ
     description: null
     height: 720
@@ -31,7 +32,17 @@ media:  - id: GrAkx91
     parentId: roPkQAlGE9iO1zXNpQ2lCqJA4zl
     postId: Q8qNxw3JlqfLN4l1j7AvS72kB1R29Yu504QL5Rg2HEP66zJLpRcQrk
     mInfo: 2rL29HxgKCXKKSL
-
+  - id: pZm8ewr
+    name: AlBDJ3YLQ1S516MqDk1lHljvP9G
+    description: null
+    height: 508
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/pZm8ewr.jpg
+    prevLoc: rxEBLQ4AqgTmZwwyM18AuoN23WnoNAInV48m68MBCjxBWq81Mzt6PK706j65uvOLNyQqAlT769yJK4k8SDjgJZpwGnsoAzpANDylc1glLy9OWOiLW9R1zOlpsW4728yYk9Upq3ZG3RnnHLplxw91r9hkqjxWYOMDsOlwBORjZgIR11jOr67PHknOwMMovofV7ZD2xLl4ToXkN8gkpVsDJwB366M3h1pnZv7KYAt9PV0Brk82SgjjoN7O5LHnrxy1VmoNsry
+    parentId: roPkQAlGE9iO1zXNpQ2lCqJA4zl
+    postId: Q8qNxw3JlqfLN4l1j7AvS72kB1R29Yu504QL5Rg2HEP66zJLpRcQrk
+    mInfo: jlNN3RBlV8evGDQ
 
 message:生產漁場：丸重養鯉場 Marujyu Koi Farm
 生產年份：2016.6
@@ -59,6 +70,9 @@ message:生產漁場：丸重養鯉場 Marujyu Koi Farm
 
  
 <a href="https://i.imgur.com/TzwiwBZ.jpg"><img src="https://i.imgur.com/TzwiwBZ.jpg" height=300 width=225 /></a> 
+
+ 
+<a href="https://i.imgur.com/pZm8ewr.jpg"><img src="https://i.imgur.com/pZm8ewr.jpg" height=211 width=300 /></a> 
  
 
 
