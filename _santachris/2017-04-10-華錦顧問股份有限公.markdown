@@ -10,6 +10,17 @@ date: 2017-04-10T11:17:45+0000
 categories: Sakai,Koishow,News 
 
 media:
+  - id: C9CQowR
+    name: BY78M5KoA7hNlJRX5v6WiW9rjr
+    description: null
+    height: 479
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/C9CQowR.jpg
+    prevLoc: 6qmG3rJOxYiWmVVRk1rosAL3vKoAL7tzAP4G74n6C3LXjw0rOGuRNQ7vyyGEIO9yM67Lq7UqBl9lDZx8h8MAzgZqJYUPWg7WDJg9tvLBjVvk5JcmOMOxOvGku79YMmJDvDCQWllgLq9nFDnDlANDklHVmV5x68lWiy35RyzxW9C5QQJE2DXrSV10MLL2GRSyQ01kEDy6HMkjPXPzx2hBJYn1jn8kuXBM4vgAA9CAxyjXOm4pU7Ooyr3gGxf9N960D5jzTm1
+    parentId: BY78M5KoA7hNlJRX5v6WiW9rjr
+    postId: 3x0jq5oRg0ivRY9gzZADsR6D07B6YzHLg6B2LDwkuADqElwQVOcg37
+    mInfo: MjByy69EGe46HXm
 
 story:華錦顧問股份有限公司 updated their cover photo.
 
@@ -19,5 +30,6 @@ story:華錦顧問股份有限公司 updated their cover photo.
 華錦顧問股份有限公司 updated their cover photo.
 
 
+<a href="https://i.imgur.com/C9CQowR.jpg"><img src="https://i.imgur.com/C9CQowR.jpg" height=199 width=300 /></a> 
  
 
