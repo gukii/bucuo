@@ -3,15 +3,46 @@
 
 layout: post 
 
-title:  "阪井拍賣會 Sak" 
+title: "阪井拍賣會 Sak" 
 
-date:   2016-12-11T14:06:04+0000 
+date: 2016-12-11T14:06:04+0000 
 
 categories: Sakai,Koishow,News 
 
-media: ["hqFk0Xb", "bv16a1v", "ZWQKxwC"] 
-
-mInfo: ["8NPKW44qpgCDy57oxpwKSompgq", "ZEMZRK7LpYCl1M16j97jsx6vZv", "BGX4BRy1jvCNnn8nG0roU16A0m"] 
+media:
+  - id: EIE2rK6
+    name: QGoZxgxD2OtRWkz2OZ8QID76wZL
+    description: null
+    height: 720
+    width: 504
+    type: image/jpeg
+    link: https://i.imgur.com/EIE2rK6.jpg
+    prevLoc: 4okV1p0MvWC85YYZPmBJSrMK5nlrMwuJQLxDGxgyF1VqyLJ3pGu06v780R0Efy1YmGZp3ETxAgzYovV9cl5vRwERGBiv9XX8XqJBSvNY5ApzXvcKWr6LxqjZcg5DJ3WByMHLX6g0GJgZUp4Kwn1z3Gc3OpJgMmrxcpz5BpOyoNTXvvyNMJnOs7QY9553pvs61ypAD5N9hxwJlADwk8SBlj9PGR6QfQXppGRMNWFwKBqQJMONHjzyWRxOz0HL1Q7W7zYmsND
+    parentId: BmVlM9Mk2nFn4VNmPQZruRl3MBl
+    postId: 3x0jq5oRg0ivRY9gzZADsR6D07B6Y9FLZPDEJ60pcA2BO1gBqAt78A
+    mInfo: 2ZzQ1PWNMNP3yFA
+  - id: OivL5nX
+    name: AlRjLKL02muRWN2ZnwmZTlz3nEx
+    description: null
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/OivL5nX.jpg
+    prevLoc: OnELN1B3XJsOx55DY0pAhz5BYQ4z57s4VjyzBy9xumZ9q5NzQYirP8BnrXrmiD6KlBLZG0c6n7K5AJEOTP2EnnMZ68fmq4EE9z5Qi7K3qmZgjgUorxnpPDjnfD4j5BNvDDFkzywmyznqFrPl6ooxYNFor2gE5xEBF2EWq2D5R8slGGJL6wQyIo2JAEEGzvi8QY9YJkZ3i2Ew77NNzvtgyXVkl1qPtDGGQy93p7FAmROzAZynfB0zmvOPo8f3nPq2G2nGTqj
+    parentId: BmVlM9Mk2nFn4VNmPQZruRl3MBl
+    postId: 3x0jq5oRg0ivRY9gzZADsR6D07B6Y9FLZPDEJ60pcA2BO1gBqAt78A
+    mInfo: IvD68xciDF17qgv
+  - id: cPduvbm
+    name: yyqQ424KDmU4Mr8EAMM9H3BL6XE
+    description: null
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/cPduvbm.jpg
+    prevLoc: LkY0KXy31AC39NN0qmRPuvgJAQRvgpT0xB9MD9oVtlQM4YrEROijwl4kjojViJy7wG1x3MF05RDg9kNvS31xEEW004uvr8kBAJYWUGXPAL485xFl0Y3mxnLKI71PovkpjXC3RB37AgnMS2Q3y27g0LfxGKvopLX8f7BqX725JNiYZZ5GmA7niXBAWNNvp1TZkxOmoR69c5J34G3wPMImwBErQ5mDiNBQ5XJD4KSALExWYzVqS4ZGG4zlnECR96xQpxQGtpQ
+    parentId: BmVlM9Mk2nFn4VNmPQZruRl3MBl
+    postId: 3x0jq5oRg0ivRY9gzZADsR6D07B6Y9FLZPDEJ60pcA2BO1gBqAt78A
+    mInfo: 3RW2jZv9DFWYpl5
 
 message:阪井拍賣會 Sakai Auction
 2016.12.15
@@ -21,20 +52,19 @@ http://sff-koi.com/carp/
 
 --- 
 
+
 阪井拍賣會 Sakai Auction
 2016.12.15
 
 http://sff-koi.com/carp/
 
 
-<a href="https://i.imgur.com/hqFk0Xb.jpg"><img src="https://i.imgur.com/hqFk0Xb.jpg" height=300 width=225 /></a> 
+<a href="https://i.imgur.com/EIE2rK6.jpg"><img src="https://i.imgur.com/EIE2rK6.jpg" height=300 width=210 /></a> 
 
  
-<a href="https://i.imgur.com/bv16a1v.jpg"><img src="https://i.imgur.com/bv16a1v.jpg" height=300 width=225 /></a> 
+<a href="https://i.imgur.com/OivL5nX.jpg"><img src="https://i.imgur.com/OivL5nX.jpg" height=300 width=225 /></a> 
 
  
-<a href="https://i.imgur.com/ZWQKxwC.jpg"><img src="https://i.imgur.com/ZWQKxwC.jpg" height=300 width=210 /></a> 
+<a href="https://i.imgur.com/cPduvbm.jpg"><img src="https://i.imgur.com/cPduvbm.jpg" height=300 width=225 /></a> 
  
-
-
 
