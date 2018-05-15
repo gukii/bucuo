@@ -1,13 +1,12 @@
+---
 
---- 
+layout: post
 
-layout: post 
+title: "金輝黑龍 Kin "
 
-title: "金輝黑龍 Kin " 
+date: 2018-04-12T05:17:45+0000
 
-date: 2018-04-12T05:17:45+0000 
-
-categories: Sakai,Koishow,News 
+categories: Sakai,Koishow,News
 
 media:
   - id: S4sWkFj
@@ -26,13 +25,16 @@ message:金輝黑龍 Kin Kikokuryu
 展售地點：欣昌錦鯉養殖場
 
 
---- 
+---
 
 
 金輝黑龍 Kin Kikokuryu
 展售地點：欣昌錦鯉養殖場
 
 
-<a href="https://i.imgur.com/S4sWkFj.jpg"><img src="https://i.imgur.com/S4sWkFj.jpg" height=300 width=180 /></a> 
- 
 
+[![alt text][https://i.imgur.com/S4sWkFj.jpg]][https://i.imgur.com/S4sWkFj.jpg]
+
+[![alt text][https://i.imgur.com/S4sWkFjs.jpg]][https://i.imgur.com/S4sWkFj.jpg]
+
+<a href="https://i.imgur.com/S4sWkFj.jpg"><img src="https://i.imgur.com/S4sWkFj.jpg" height=300 width=180 /></a>
