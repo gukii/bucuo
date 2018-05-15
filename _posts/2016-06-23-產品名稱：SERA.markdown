@@ -1,0 +1,60 @@
+---
+layout: post
+title: "產品名稱：SERA" 
+date: 2016-06-23T03:59:38+0000 
+categories: Sakai,Koishow,News 
+media:
+  - id: M1GR2am
+    name: AY7QL5J5yGs516WLvlJKcQq1gx
+    description: null
+    height: 367
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/M1GR2am.jpg
+    prevLoc: KjYzJWx37Ah1W88QKB2qugG8kDRgG0hmJK1wB15VFYMmPJvBLkfk1wWKkZkOIBG14wRQ09IvVJKgMyXRFJlAQg8r3ASKWOo784gjtErZr8k2pNIlvWZg3GG5uRooME9OpAi4YNKQ7D6PhYAlK77rxvH7ODzAVYZQhRqV3xEEL2fO0r2pN66MhXyvWJXA61IL79DZP1O9UOr1l0m1oMTLy95DKoEOFxYR11n783imQK3WGqgohxgML8WMZ0FZ6RkNm4NR
+    parentId: EV7Zg5N49GhjA551RLr6tZoZAn
+    postId: N6nErqZDgnCpM5PqmolkHvWRnLQXRySBWG58kwN2cr1D6yxw44snR
+    mInfo: YNYkj5lv9YIsbPi
+  - id: HsnvkXQ
+    name: xrNV0DZDQEFjQM6DOzvEfRN86z
+    description: null
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/HsnvkXQ.jpg
+    prevLoc: QpNjP3E9KATRPBBnV3k6TZA2vXzZANhxXJym9yNAhjw1Erq9LRt9PwVz33MAhzOrWLG8BLU790X0pz84crKoPpmJ5zh6mLxzLD91HWJgjMlNx4Cqj3qQkJmZhnPDqn7qWGTr4Blmk6P4fYwml8oRwXiDG3032yAwi6pYjgnnzZfE19RnYKKZcDwOWRDKqJF6Y9rgxM4zIWM60LM7X3UEoNYkM2vrSWRl4ELoBXsPl1OKW01GCKjPp79PBli6pGANpG35
+    parentId: EV7Zg5N49GhjA551RLr6tZoZAn
+    postId: N6nErqZDgnCpM5PqmolkHvWRnLQXRySBWG58kwN2cr1D6yxw44snR
+    mInfo: c0bLS7d4y0Gf9ZC
+  - id: vWQKu8m
+    name: 5zElv5q5jph1WvVN40pNTx3Qp0
+    description: null
+    height: 720
+    width: 570
+    type: image/jpeg
+    link: https://i.imgur.com/vWQKu8m.jpg
+    prevLoc: Xz7qZjO8XYT9KBBlAqXnTY9gx1jY9OHwNg0kL0B1uMQ5NvRP74HAr3VLAWAvILn2mlOQzyIRo7A4P193U3MEQY5pRRT8OVgKqZ35fAqBq7nXKJuY0p2VG77NcAzNk0RRAMigpE5YrAMrcY90l7zoYxijPPPnQgyxUYVJm8ggRxfNMrx6J00wSgv7pGg7PmF1zyvg511pHYGWE5PrrmFmG1ZgWj5XiyNlrnn8rPF3ppLmgjzwUxpVqPQV1AF5E59ZvrxA
+    parentId: EV7Zg5N49GhjA551RLr6tZoZAn
+    postId: N6nErqZDgnCpM5PqmolkHvWRnLQXRySBWG58kwN2cr1D6yxw44snR
+    mInfo: U18BsxjlemRAuKD
+message: 產品名稱：SERA 水質檢測滴劑組-錦鯉專用
+廠商產地：SERA 德國
+產品規格：PH, GH, KH, NH4/NH3, NO2. NO3, PO4, Fe, Cu.
+銷售定價：NTD3,500- (含運費，稅額)
+
+---
+
+產品名稱：SERA 水質檢測滴劑組-錦鯉專用
+廠商產地：SERA 德國
+產品規格：PH, GH, KH, NH4/NH3, NO2. NO3, PO4, Fe, Cu.
+銷售定價：NTD3,500- (含運費，稅額)
+
+
+<a href="https://i.imgur.com/M1GR2am.jpg"><img src="https://i.imgur.com/M1GR2am.jpg" height="152" width="300" /></a> 
+
+ 
+<a href="https://i.imgur.com/HsnvkXQ.jpg"><img src="https://i.imgur.com/HsnvkXQ.jpg" height="300" width="300" /></a> 
+
+ 
+<a href="https://i.imgur.com/vWQKu8m.jpg"><img src="https://i.imgur.com/vWQKu8m.jpg" height="300" width="237" /></a> 
+ 
