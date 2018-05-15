@@ -1,4 +1,3 @@
-
 ---
 title: Hello
 layout: default
