@@ -1,0 +1,28 @@
+---
+layout: page
+permalink: /picposts/
+---
+
+{% for post in site.posts %}
+  <article>
+
+    <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
+
+    <a href="{{ post.url }}">
+      {% for myImg in post.media limit:3 %}
+
+        {% if post.media.size == 1 %}
+          <img src="https://i.imgur.com/{{myImg['id']}}m.jpg" />
+        {% elsif post.media.size == 2 %}
+          <img src="https://i.imgur.com/{{myImg['id']}}m.jpg" />
+        {% elsif post.media.size > 2 %}
+          <img src="https://i.imgur.com/{{myImg['id']}}t.jpg" />
+        {% endif %}
+
+
+      {% endfor %}
+    </a>
+    {{ post.content | strip_html | truncatewords: 6 }}
+
+  </article>
+{% endfor %}

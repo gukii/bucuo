@@ -32,6 +32,7 @@ github_username:  gukii
 
 theme: minima
 
+include: ['_pages']
 
 # Use the following plug-ins
 gems:
