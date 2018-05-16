@@ -1,0 +1,31 @@
+---
+layout: post
+title: "恭賀！ 袁建棟先生" 
+date: 2017-02-14T03:53:30+0000 
+categories: Sakai,Koishow,News 
+media:
+  - id: D1dzS8A
+    name: EpYrgDXkRAFqDlpBQ6ABh53A5G8
+    description: 恭賀！ 袁建棟先生、陳寧先生，愛鯉獲獎！
+Congratulation To Mr. Yuan, Jian Dong and Mr. Chen Ning.
+    height: 538
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/D1dzS8A.jpg
+    prevLoc: xEV8RZ4KzohXvmmp891Ji6WmxKr6W1h1pWnLEnJZsBlV7O5mYxiGA217GoGnIgN5OBE3Dpi23mkMy4LpuBJ7ZJ84QJUxPw1Dy51Wt28mKg70k2uw8g8rQoLluO6krQJmrKi7p7x8ZYOoTJ5X6EGkJxuDxJMr01p5CQBpKQGVnXiP55VkoOrjuWZ0NwwMJMUK202JlZENs8K3o9YV4WtrAPWkz2XKSyoOzzyrjKtvKMPDorWvSKR4rMOpr2iov5NJ20jytW9
+    parentId: EpYrgDXkRAFqDlpBQ6ABh53A5G8
+    postId: 3x0jq5oRg0ivRY9gzZADsR6D07B6Y9FLO9LJgolxuxGAQ4GYqMsg3r
+    mInfo: Wqn1RUBbceo6maW
+
+[//]: # message
+恭賀！ 袁建棟先生、陳寧先生，愛鯉獲獎！
+Congratulation To Mr. Yuan, Jian Dong and Mr. Chen Ning.
+
+---
+
+恭賀！ 袁建棟先生、陳寧先生，愛鯉獲獎！
+Congratulation To Mr. Yuan, Jian Dong and Mr. Chen Ning.
+
+
+<a href="https://i.imgur.com/D1dzS8A.jpg"><img src="https://i.imgur.com/D1dzS8A.jpg" height="224" width="300" /></a> 
+ 
