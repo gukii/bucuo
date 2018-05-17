@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "阪井競賣會 Sak" 
-date: 2018-02-20T05:28:02+0000 
-categories: Sakai,Koishow,News 
+title: "阪井競賣會 Sak"
+date: 2018-02-20T05:28:02+0000
+categories: [Sakai,Auction,News] 
 media:
   - id: h1BdJcv
     name: W056gX8MXZs4M2vK7xKYT5Aj7ow
@@ -51,11 +51,10 @@ media:
 競拍魚隻照片陸續更新中，有興趣的魚友歡迎私訊委託競拍。
 
 
-<a href="https://i.imgur.com/h1BdJcv.jpg"><img src="https://i.imgur.com/h1BdJcv.jpg" height="159" width="300" /></a> 
+<a href="https://i.imgur.com/h1BdJcv.jpg"><img src="https://i.imgur.com/h1BdJcv.jpg" height="159" width="300" /></a>
 
- 
-<a href="https://i.imgur.com/HW3Qkaw.jpg"><img src="https://i.imgur.com/HW3Qkaw.jpg" height="300" width="225" /></a> 
 
- 
-<a href="https://i.imgur.com/aor5l8R.jpg"><img src="https://i.imgur.com/aor5l8R.jpg" height="225" width="300" /></a> 
- 
+<a href="https://i.imgur.com/HW3Qkaw.jpg"><img src="https://i.imgur.com/HW3Qkaw.jpg" height="300" width="225" /></a>
+
+
+<a href="https://i.imgur.com/aor5l8R.jpg"><img src="https://i.imgur.com/aor5l8R.jpg" height="225" width="300" /></a>

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "生產魚場：台灣欣昌" 
-date: 2016-08-01T13:48:51+0000 
-categories: Sakai,Koishow,News 
+title: "生產魚場：台灣欣昌"
+date: 2016-08-01T13:48:51+0000
+categories: [SingChang,Koi,News]
 media:
   - id: Oa1LAuC
     name: 9EPExkAyN9SjklM4RZBVHPplW8
@@ -31,11 +31,10 @@ story: "華錦顧問股份有限公司 is at 崙背鄉欣昌錦鯉魚養殖場."
 鑑賞等級：AAA
 魚隻編號：160802001
 展售地點：雲林崙背欣昌
- 
- 
+
+
 [//]: #story:
 華錦顧問股份有限公司 is at 崙背鄉欣昌錦鯉魚養殖場.
 
 
-<a href="https://i.imgur.com/Oa1LAuC.jpg"><img src="https://i.imgur.com/Oa1LAuC.jpg" height="300" width="216" /></a> 
- 
+<a href="https://i.imgur.com/Oa1LAuC.jpg"><img src="https://i.imgur.com/Oa1LAuC.jpg" height="300" width="216" /></a>
