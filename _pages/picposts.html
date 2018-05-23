@@ -89,12 +89,12 @@ permalink: /picposts/
         /*flexDirection: 'column';*/
         borderColor: '#ddd';
         /*position: 'relative';*/
-        padding-bottom: 90px;
+        padding-bottom: 60px;
     }
 
     .outerContainerStyle {
         display: "flex";
-        flexDirection: "column";
+        flex-direction: "column";
     }
 
     .dateContainer {
@@ -107,7 +107,24 @@ permalink: /picposts/
       font-size: small;
     }
 
+
+
   @media only screen and (max-width: 600px) {
+
+    .postContainerStyle {
+        /*flex-shrink: 1;
+        flex-grow: 1;*/
+        display: block;
+    }
+
+    .textContentStyle {
+
+        align-items: center;
+        align-content: stretch;
+        margin-left: 0px;
+
+        font-size: medium;
+    }
 
 
   }
@@ -119,9 +136,9 @@ permalink: /picposts/
 {% for post in site.posts %}
   <article>
 
-          <div class="dateContainer">
-            <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
-          </div>
+    <div class="dateContainer">
+      <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
+    </div>
 
     <div class="postContainerStyle" />
 
