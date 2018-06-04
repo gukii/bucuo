@@ -1,0 +1,41 @@
+---
+layout: post
+title: "生產魚場：日本川上" 
+date: 2016-10-11T10:58:05+0000 
+categories: [Sakai,Koishow,News] 
+media:
+  - id: X5AxrLX
+    name: 6A4lkpzno9fJG8GYmpP8Tx1xMQ
+    description: "生產魚場：日本川上 Kawakami Koi Farm
+生產年份：2015.6
+品種類別：五色 Goshiki
+尺寸公母：25-30cm / 不明
+鑑賞等級：賽級  Show
+魚隻編號：Kawakami-20161010-008
+展售地點：屏東華錦
+銷售方式：現場交易或貨到付款
+銷售定價：已售出"
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/X5AxrLX.jpg
+    prevLoc: PoMgO2D3K6C6XvvBgoK4CMrpQOKMr5TpwBv2lvK5ImPnkYzJ6Zi2Jr7j2p28ulpOR069MqIMNRWJq5j9trYop1Q0ZoHzYwWrw9ByFwGqxRxAWLUzkVJRl4kRH96k4JKGlAUnDRqEYAWDcl6MKrGY3AF93YGynoWnur8A1VNNmDHk1L8EZ77wskjowMknXQcYp1NWMV4jsPQ88oop26h6l0lXMPpmsVDj645lv1FOZG95YJxgcOXWVgkW13SEwK5rJx8D
+    parentId: 6A4lkpzno9fJG8GYmpP8Tx1xMQ
+    postId: vp7YMAXqy7fZy0LnzvNwslVApq7vwDS0PJy06Jx8u6gXQJ1mD8f35
+    mInfo: 7P96aPJEdBJShZM
+
+---
+
+生產魚場：日本川上 Kawakami Koi Farm
+生產年份：2015.6
+品種類別：五色 Goshiki
+尺寸公母：25-30cm / 不明
+鑑賞等級：賽級  Show
+魚隻編號：Kawakami-20161010-008
+展售地點：屏東華錦
+銷售方式：現場交易或貨到付款
+銷售定價：已售出
+
+
+<a href="https://i.imgur.com/X5AxrLX.jpg"><img src="https://i.imgur.com/X5AxrLX.jpg" height="300" width="225" /></a> 
+ 
