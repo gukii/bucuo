@@ -2,7 +2,7 @@
 layout: post
 title: "生產魚場：日本阪井" 
 date: 2016-07-30T00:40:58+0000 
-categories: [0,1,2,3,5,6,7,15,16,20,30,37] 
+categories: [Sakai,IKI] 
 media:
   - id: 1UdGUe6
     name: 8D0DgVLWAzhg6KDmPMNDFognBX
