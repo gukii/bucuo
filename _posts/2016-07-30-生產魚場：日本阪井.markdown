@@ -22,13 +22,13 @@ media:
     postId: W9zwEDgOrzs8ywXLm09rFXlnDvqMOYi31RmJD5Z3u9vg3QwJV8T05
     factor: 1.50,
     mInfo: hD8JeveqKCKlhR1
-message: "生產魚場：日本阪井 Sakai
-生產年份：2015.6
-品種類別：大正 Sanke
-性別公母：未明
-鑑賞等級：AAA
-魚隻編號：160530370
-銷售定價：已售出"story: "華錦顧問股份有限公司 is at 華錦顧問股份有限公司 IKI Taiwan."
+message: "生產魚場;日本阪井 Sakai
+生產年份;2015.6
+品種類別;大正 Sanke
+性別公母;未明
+鑑賞等級;AAA
+魚隻編號;160530370
+銷售定價;已售出"story: "華錦顧問股份有限公司 is at 華錦顧問股份有限公司 IKI Taiwan."
 ---
 
 生產魚場：日本阪井 Sakai
