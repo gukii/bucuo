@@ -1,0 +1,75 @@
+---
+layout: default
+---
+
+<style>
+	
+	.postImage {
+		width: 100%;
+	}
+
+
+	ul {
+	   list-style:none;
+	   padding-left: 0;
+	   margin-left: 0;
+	}
+
+	li {
+		padding-bottom: 1em;
+	}
+
+	.fieldType {
+		opacity: 0.5;
+		/*margin-bottom: 0.2em;*/
+	}
+
+
+</style>
+
+<div class="blogpost">
+    <div class="fieldType">Post date:</div> 
+		{{ page.date }}<br />
+    <br />
+
+    {% if page.story %}
+    	<div class="fieldType">Story:</div> 
+    	{{ page.story }} <br />
+    	<br />
+    {% endif %}
+
+    {% if page.message %}
+    	<div class="fieldType">Message: </div>
+    	{{ page.message }} <br />
+    	<br />
+    {% endif %}
+  
+
+
+    {% if page.media %}
+
+      <ul>
+      {% for item in page.media %}
+        <li>
+        	<a href="{{ item.link }}">
+	        	<img class="postImage" src="https://i.imgur.com/{{item['id']}}h.jpg" />
+	        </a> 
+
+	        {% if item.description and item.description != 'null' %}
+	        	<br />
+	        	{{ item.description }}
+	        {% endif %}
+
+        </li>
+      {% endfor %}
+  	  </ul>
+
+    {% endif %}
+
+
+{% comment %}
+    Conent:<br />
+    {{ content }}
+{% endcomment %}
+
+</div>
