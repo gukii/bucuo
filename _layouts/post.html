@@ -24,11 +24,16 @@ layout: default
 		/*margin-bottom: 0.2em;*/
 	}
 
+	.postContent {
+		font-size: 1.3em;
+		margin-bottom: 1.5em;
+	}
+
 
 </style>
 
 <div class="blogpost">
-    <div class="fieldType">Post date:</div> 
+    <span class="fieldType">Post date:</span> 
 		{{ page.date }}<br />
     <br />
 
@@ -43,10 +48,25 @@ layout: default
     	{{ page.message }} <br />
     	<br />
     {% endif %}
+
+
+
   
 
 
+
     {% if page.media %}
+
+      {% if content.size > 0 %}
+		{% assign contentTxt = content | split: '<a href=' %}
+
+
+		<div class="postContent">
+			{{ contentTxt[0] }}
+		</div>
+
+	  {% endif %}
+
 
       <ul>
       {% for item in page.media %}
