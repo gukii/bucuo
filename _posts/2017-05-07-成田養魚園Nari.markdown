@@ -4,42 +4,18 @@ title: "成田養魚園Nari"
 date: 2017-05-07T11:38:16+0000 
 categories: ["華錦","大日","Koi "] 
 media:
-  - id: G93dGjl
-    name: wwX9kW5wyrUnoo4yQLjMfOX99Wy
+  - id: 4qpl1D7
+    name: xxYqlX5xz1UjZZgDRNVrckj8m3M
     description: ""   
     height: 720
-    width: 504
+    width: 498
     type: image/jpeg
-    link: https://i.imgur.com/G93dGjl.jpg
-    prevLoc: 2mg2YnBKqGhm3KKLrRpkuJMEpwRJMkhK4pqx3qOncknMv4gQoKcKBPEGK9KQcpnJjZ8W6XhvM1NWnBP9FkKVzJxx6RF9L9Q4Rw4zf2DqrW9Ol6cjPLWXR9mVcpL0oZl1xPf5oYE4DM7xhW3WXp4wKWt7003QmW2JT54wp5nBLjUKkkpBPy9Vi3jZ5nnkgYSWmVy0x20nhPVlQQ7q4ycn3EjWEjmqtx3yJVg2xPij91P2vKyyh9Ok6qJO1mtzmGKr9LWWhnN
+    link: https://i.imgur.com/4qpl1D7.jpg
+    prevLoc: ZBwv2lQ7GZIjgPP1vD5MuOP6m45OPWsGLxqNVq64cR9vZK8VYmiDAgNwDBDZTQxZKpWJGMU4WrzJjQD1cVAzlpkqJVUXQG7vv7K7um5wR6VxkxuYowyVRK07CLZXRWOEgki4G126v4xptWLzzN4yQqhlB7LLAYKRTM3QpMOKvkh855q1zGQLc6AErNND79HzN02ojLgRfmM62E4ONETok3EVnLqgHW8QjDj7o4UExqy5N0KVsJZ9263WZvS8YBZwxqmGFyB
     parentId: lgJQpGLgk7hlLL3xzrnESnLyy6X
     postId: N6nErqZDgnCpM5PqmolkHvWRnLQWz7SBWrpGpKwAtrxzGLOO3jFvk7
-    factor: 1.43
-    mInfo: TCQj7PhIdvpLU6L
-  - id: aWvJTe2
-    name: qnOR2N5npZHv99xXwN5PtxOZ47Z
-    description: ""   
-    height: 720
-    width: 504
-    type: image/jpeg
-    link: https://i.imgur.com/aWvJTe2.jpg
-    prevLoc: NmEXMZA3K7h63VVYLE0NC60W9MK60ohZxjgD2gnPczw1rPn0KmiBrQyNBnB4CoRNpqgx5wC3ARx6K9qMflAOE6xRZKtZPKrzoKMOTkzg51R7ZEuJ10XmonxysGYOxwM77rTxE44r0AZZSvq3VkzLJvcDr76KjlApIQZwXQVDvOioKK0NxRWOtOzM9KKYnAHlBm4z9G53uq4lRD9o8jsGDpRY4YLkFX7yylMnXYTz40BEQJlBUkjDXVogWKcZ63Q1m1YPUwk
-    parentId: lgJQpGLgk7hlLL3xzrnESnLyy6X
-    postId: N6nErqZDgnCpM5PqmolkHvWRnLQWz7SBWrpGpKwAtrxzGLOO3jFvk7
-    factor: 1.43
-    mInfo: 7IzLfu5twzycWWK
-  - id: dnpkm4L
-    name: RJZYL9nJK1iXNNpog7YAF3YYEMj
-    description: ""   
-    height: 720
-    width: 499
-    type: image/jpeg
-    link: https://i.imgur.com/dnpkm4L.jpg
-    prevLoc: KjYzJWx37Ah1W88QKB2qugG8kDRgG0hmJK1wB15VFYMmPJvBLkfk1wWKkZkOIBG14wRQ09IvVJKgMyXRFJlVvgPPyGCKYw2BEQ4nHE8wMmyg9gfgVM110KoriymlyOAL81C48P7DN8BztYJ6AR89Wxf7O97kW1EqcRO0rRL1K3FOyy7Nkz4XtXl5K33YRwfjYmMJq8OocOJoWj53v6CBxZPRoK2qSxJ1DnprygUP24r6MW40FkryD2gqm9sA7MpGjq8gF7R
-    parentId: lgJQpGLgk7hlLL3xzrnESnLyy6X
-    postId: N6nErqZDgnCpM5PqmolkHvWRnLQWz7SBWrpGpKwAtrxzGLOO3jFvk7
-    factor: 1.44
-    mInfo: b2CezxlCaXwUaIj
+    factor: 1.45
+    mInfo: IayrT11QxaDBbF9
 story: "華錦顧問股份有限公司 is with Hiroshi Mano."
 message: "成田養魚園
 Narita Koi Farm
@@ -71,11 +47,5 @@ Narita Koi Farm
 華錦顧問股份有限公司 is with Hiroshi Mano.
 
 
-<a href="https://i.imgur.com/G93dGjl.jpg"><img src="https://i.imgur.com/G93dGjl.jpg" height="300" width="210" /></a> 
-
- 
-<a href="https://i.imgur.com/aWvJTe2.jpg"><img src="https://i.imgur.com/aWvJTe2.jpg" height="300" width="210" /></a> 
-
- 
-<a href="https://i.imgur.com/dnpkm4L.jpg"><img src="https://i.imgur.com/dnpkm4L.jpg" height="300" width="207" /></a> 
+<a href="https://i.imgur.com/4qpl1D7.jpg"><img src="https://i.imgur.com/4qpl1D7.jpg" height="300" width="207" /></a> 
  
