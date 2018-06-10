@@ -1,0 +1,50 @@
+---
+layout: post
+title: "生產魚場：日本川上" 
+date: 2016-10-09T09:26:03+0000 
+categories: ["華錦","Koi "] 
+media:
+  - id: 0LWZ39N
+    name: RVDmW0No6VFXN8MWYWRXuqLODN
+    description: "生產魚場;日本川上 Kawakami Koi Farm
+生產年份;2015.6
+品種類別;紅輝黑龍 Beni Kikokuryu
+尺寸公母;25-30cm / 不明
+鑑賞等級;AAAA級 
+魚隻編號;Kawakami-20161009-002
+展售地點;屏東華錦
+銷售方式;現場交易或貨到付款
+銷售定價;已售出"   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/0LWZ39N.jpg
+    prevLoc: q0V6KP4zpAI2NLLgBz8OuKr4YGkKrAHVOW6YK6wMHzy7XQ18AWinwryAnYn6h5LO024PMKhyj9MZ6JWAtG6xBmG96AivWAxZwj4msVRKMQkl6NfO8rE575gQTQlGK5ZBXLFZoY4v9RDkirgg4P44wgu54xNE2qKgIKxBAy00XQFVBYQAvDD0F50j8q54n3HJVG0Nk8KPfrDPjZyr07FnpPkBxwGXsVkg5Dp5QmuJoznoVxZnS4klEq9ljnI1JqR1yqEM
+    parentId: RVDmW0No6VFXN8MWYWRXuqLODN
+    postId: 4yDkr7pmjDux7A92Kr04CPKWm4AJ30S56v7WqQAqcykAAlQJ8QiRx
+    factor: 1.33
+    mInfo: jWcL6Emh9Iy2OFs
+message: "生產魚場;日本川上 Kawakami Koi Farm
+生產年份;2015.6
+品種類別;紅輝黑龍 Beni Kikokuryu
+尺寸公母;25-30cm / 不明
+鑑賞等級;AAAA級 
+魚隻編號;Kawakami-20161009-002
+展售地點;屏東華錦
+銷售方式;現場交易或貨到付款
+銷售定價;已售出"
+---
+
+生產魚場：日本川上 Kawakami Koi Farm
+生產年份：2015.6
+品種類別：紅輝黑龍 Beni Kikokuryu
+尺寸公母：25-30cm / 不明
+鑑賞等級：AAAA級 
+魚隻編號：Kawakami-20161009-002
+展售地點：屏東華錦
+銷售方式：現場交易或貨到付款
+銷售定價：已售出
+
+
+<a href="https://i.imgur.com/0LWZ39N.jpg"><img src="https://i.imgur.com/0LWZ39N.jpg" height="300" width="225" /></a> 
+ 
