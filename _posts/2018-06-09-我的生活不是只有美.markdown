@@ -1,0 +1,72 @@
+---
+layout: post
+title: "我的生活不是只有美" 
+date: 2018-06-09T15:33:37+0000 
+categories: ["錦鯉"] 
+media:
+  - id: b2fWBwc
+    name: ODWM9qwXx9HO766LE80RsGYPX1j
+    description: ""   
+    height: 501
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/b2fWBwc.jpg
+    prevLoc: ZBwv2lQ7GZIjgPP1vD5MuOP6m45OPWsGLxqNVq64cR9vZK8VYmiDAgNwDBDZTQxZKpWJGMU4WrzJjQD1cKjwjzLoglcXKBPjNvPEumzBW6wPW6sY6Zp2kooQTqLXjO2JNnU2g5p37J1KiWLWZXjoBBFlQxmq39kziM3QpMOKvkh855q1zGQLc6AErNNDBgcz846gwREEFwJZ6Oyq6wSoPRoz5kR8iWPB5jNlQniEgEBp1g7jtJZ9263WZvS8Y48pxkREUyo
+    parentId: gEAZX63DoXfJgjq8xN04H9JNGWR
+    postId: 8Np1KzABqPfk2k98K7BoHAQGQ3KmNEFY42DjVQKrSrROORkRwLiWD37B
+    factor: 1.44
+    portrait: 0
+    mInfo: U5ideGKisWRKHCn
+  - id: WanZ7JP
+    name: YmjWX0KYLXi9nQo65vJ1hkQMYXV
+    description: ""   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/WanZ7JP.jpg
+    prevLoc: WywpYgN3KWS4qzz13P5jH7plr437pGSVAjrxkrn8HN2V91DAg3tlLKJrlMK0hq0kz8gPjjSyzgYk8mmGFwKwQX3LP7tR8nDvJzQWCkx1JRGM5nHGVrZZxl00uQ06kyqkNqfoNBA5JwMYFMrOWllkYYSKvZZLQZ35ikLGwRzQQ1SEpDQZ0PwqCgBK4mMDm9tMp3O2Wn2nim8oO7jRVpt1MZN4MnywFQXDPmzkMGiNYOjEyorgF4AvoYOxyzfq7xYO10j2F6RPzo
+    parentId: gEAZX63DoXfJgjq8xN04H9JNGWR
+    postId: 8Np1KzABqPfk2k98K7BoHAQGQ3KmNEFY42DjVQKrSrROORkRwLiWD37B
+    factor: 1.78
+    portrait: 0
+    mInfo: lYHkMbVz3nSJfbK
+  - id: fm4FPf0
+    name: vvWlJD3x0JClYG6Y2NQofO2KEzr
+    description: ""   
+    height: 720
+    width: 501
+    type: image/jpeg
+    link: https://i.imgur.com/fm4FPf0.jpg
+    prevLoc: QpNjP3E9KATRPBBnV3k6TZA2vXzZANhxXJym9yNAhjw1Erq9LRt9PwVz9o97szyEO7X9YKF7VRowQEZPS8R2RlpnkBS6P6QNrWPMfWYRJg1lqrTzOq0B5JVVHnZRNDYlGXFpEwyvo6q3hYKNq6V5OMCp62Yv78KwF6AmD6zG1jFEVV6YyOlgCDzkXNNYZBsyoq8ELELWsM7WDrBwy7iw3m9ppqljFBmkox8D6OhVZ0pvRnJkfyWr8151JvcxMAKG0zwKf5D
+    parentId: gEAZX63DoXfJgjq8xN04H9JNGWR
+    postId: 8Np1KzABqPfk2k98K7BoHAQGQ3KmNEFY42DjVQKrSrROORkRwLiWD37B
+    factor: 1.44
+    portrait: 1
+    mInfo: IW2vS4z4wNKJOZA
+message: "我的生活不是只有美食啦(≧∇≦)  
+  
+感謝辛苦的夥伴們，常常夕陽到日出⋯  
+感謝相關產業專業的合作！  
+各行各業都有辛苦不為人知的一面，辛苦工作，認真生活！加油！  
+  
+#錦鯉出口"
+---
+
+我的生活不是只有美食啦(≧∇≦)  
+  
+感謝辛苦的夥伴們，常常夕陽到日出⋯  
+感謝相關產業專業的合作！  
+各行各業都有辛苦不為人知的一面，辛苦工作，認真生活！加油！  
+  
+#錦鯉出口
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/b2fWBwc.jpg"><img src="https://i.imgur.com/b2fWBwc.jpg" height="208" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/WanZ7JP.jpg"><img src="https://i.imgur.com/WanZ7JP.jpg" height="168" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/fm4FPf0.jpg"><img src="https://i.imgur.com/fm4FPf0.jpg" height="300" width="208" /></a> 
+ 
