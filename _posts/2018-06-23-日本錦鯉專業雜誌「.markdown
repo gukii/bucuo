@@ -1,0 +1,102 @@
+---
+layout: post
+title: "日本錦鯉專業雜誌「" 
+date: 2018-06-23T10:10:33+0000 
+categories: ["IKI","華錦","Dainichi","大日","Koi ","錦鯉"] 
+media:
+  - id: pmtkach
+    name: lgJxzNqoO3tl9Nzxg2B6CnmGxVM
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/pmtkach.jpg
+    prevLoc: yG67V1gLApH4o66GD0rNHXAqnJoXA8TGj86wm6rJc67lw9rk5MHQLPXBQNQ3uz1lOMR5wpF5QGPXjO2qS2QgP4lXkzCEGDLWW6KKt3yPVro2DKS8yo4EggPASPvELQBlGpU70yJlWlxkfKQK4BDyyjSpZMrYPLlztW9O8W01KgfvAAwgJxrmip3jEKK5N4I4g7yKV614HrXym7RQpJhK3wK5N54AHLBvl4o2kECRDGzPknkBUPEK7oky2LfGy17Qj17ytEG
+    parentId: KyP10vwjOpFkJ8K5xwvNS1vQL0D
+    postId: RJZOjKn5g2HOMONPzAy2HMx6xJvGlXHgjg08wm7OT8KL621zMOtW6kQ5
+    factor: 1.33
+    portrait: 1
+    mInfo: nVtseoB8iu3IzKf
+  - id: w6udCA8
+    name: W05LZXMynGT8pmyZw3ZyF5NvQvN
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/w6udCA8.jpg
+    prevLoc: WywpYgN3KWS4qzz13P5jH7plr437pGSVAjrxkrn8HN2V91DAg3tlLKJrl0l1tqX1BXkPjVfRwGkyXoQVF4jpD128ADHn97V4m0NjSkzJEXjwvgcpZ7RkyXy4SQpZmm6jl8ioJj0A3XwDCM966BrvvPiKY4XwpQrkIkMWDkZJj7HEJJomNQLvCZvnV99BjAFm6RZPG2z1i5DqGxL9l8sxnmKpyWGVu7k5L9k87YTGwoV556oAc4ARODXlGRijQ4jmPDjrUxG
+    parentId: KyP10vwjOpFkJ8K5xwvNS1vQL0D
+    postId: RJZOjKn5g2HOMONPzAy2HMx6xJvGlXHgjg08wm7OT8KL621zMOtW6kQ5
+    factor: 1.33
+    portrait: 0
+    mInfo: 1jzjR4BfGW9h9os
+  - id: fGHiW1m
+    name: 6NnXg4Pq6EIJ3YGoD7nKtPL4gg4
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/fGHiW1m.jpg
+    prevLoc: KjYzJWx37Ah1W88QKB2qugG8kDRgG0hmJK1wB15VFYMmPJvBLkfk1wWKkZkOIBG14wRQ09IvVJKgMyXRFoAG1kVzxPtKBmDNqxmVSEqjxD6NpKilz9nn1DE2SL0Q19y07oHzGzwOKAvosY0PRJxnJVH7PmQG4BNxFRO0rRL1K3FOyy7Nkz4XtXl5K33YBYfmGRL8ELZ6u0kxlpNE2AIR5oN5VG8yTx2rwJv72Ah703KVM8OXSkryD2gqm9sA75AqqDrQFk0
+    parentId: KyP10vwjOpFkJ8K5xwvNS1vQL0D
+    postId: RJZOjKn5g2HOMONPzAy2HMx6xJvGlXHgjg08wm7OT8KL621zMOtW6kQ5
+    factor: 1.33
+    portrait: 1
+    mInfo: 4sYU3ZtVLhvvDqi
+  - id: zmAGtyj
+    name: 54mQ6XOp8DF1nLLgAJ3Vi1Rn7Po
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/zmAGtyj.jpg
+    prevLoc: 8voWjwLQzXukqOOm3z6jcpwx4Q7pwrTG4APkgP3xcJA0r2z68wS8wYyv878xI8w2zwKjGQTZgG0VPN8yfz1n74PMONCwWK2VnEN1CxQBymOVogUPgvqDBxBWuK14o4mN2PuDA8qKVBk4hoBnGoy0PyhQ4yMDX2KPsgzJAg028qfWjjANYgO0tJW1Evvq8Ouqj9Dzrxp1C9kG0DRP1KfZ6DG3XOm5SpglY9vkg1H7XDgAm0PvUR5MEqVEPyilw3k2KY4Btx4
+    parentId: KyP10vwjOpFkJ8K5xwvNS1vQL0D
+    postId: RJZOjKn5g2HOMONPzAy2HMx6xJvGlXHgjg08wm7OT8KL621zMOtW6kQ5
+    factor: 1.33
+    portrait: 0
+    mInfo: T3B2k1K9MzzAn9S
+message: "日本錦鯉專業雜誌「月刊錦鯉」  
+6月號報導  
+第6回國際錦鯉幼魚品評會-速報  
+大會総合優勝二席 -銀鱗昭和三色  
+36部國魚賞-昭和三色  
+  
+恭喜🎉🎉🎉 Congratulations 🎉   
+獲獎魚主;忠育水產養殖工作室 Jonny Koi   
+生產業者;大日養鯉場 Dainichi Koi Farm  
+取扱代理;成田養魚園 Narita Koi Farm   
+經銷代理;台灣華錦 IKI TAIWAN  
+  
+恭喜「忠育水產養殖工作室」成為台灣首位在國際幼鯉品評會榮獲兩項大獎的參賽者！  
+恭喜🎉🎉🎉"
+---
+
+日本錦鯉專業雜誌「月刊錦鯉」  
+6月號報導  
+第6回國際錦鯉幼魚品評會-速報  
+大會総合優勝二席 -銀鱗昭和三色  
+36部國魚賞-昭和三色  
+  
+恭喜🎉🎉🎉 Congratulations 🎉   
+獲獎魚主：忠育水產養殖工作室 Jonny Koi   
+生產業者：大日養鯉場 Dainichi Koi Farm  
+取扱代理：成田養魚園 Narita Koi Farm   
+經銷代理：台灣華錦 IKI TAIWAN  
+  
+恭喜「忠育水產養殖工作室」成為台灣首位在國際幼鯉品評會榮獲兩項大獎的參賽者！  
+恭喜🎉🎉🎉
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/pmtkach.jpg"><img src="https://i.imgur.com/pmtkach.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/w6udCA8.jpg"><img src="https://i.imgur.com/w6udCA8.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/fGHiW1m.jpg"><img src="https://i.imgur.com/fGHiW1m.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/zmAGtyj.jpg"><img src="https://i.imgur.com/zmAGtyj.jpg" height="225" width="300" /></a> 
+ 
