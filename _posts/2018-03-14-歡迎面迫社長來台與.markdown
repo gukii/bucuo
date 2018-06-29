@@ -1,0 +1,88 @@
+---
+layout: post
+title: "歡迎面迫社長來台與" 
+date: 2018-03-14T10:51:33+0000 
+categories: ["Omosako","面迫","Hobby","愛好家"] 
+media:
+  - id: xEY87xx
+    name: ODWM6XXKJGfkpWpoNJwVsGyBklL
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/xEY87xx.jpg
+    prevLoc: GOYzBPq3XwU84WWrn01JSq0OX59q0xfRyLZPmZ5pcwOq06RQ1xuEGNDrE0EQTXrpRqy1QJFE398Zpq0vSVg4NByjRGiRr1WLP69jSqyDwGqkB8Fop40kvLRPtQGmyvn45Bf3nvNMAMB4TN4lV3YWgPu2EXr7GwWxFO0jxOJ36XIj11A7QXqEhAQx1RRrJJf37yGNW62AC9ZN7y8JqKuxoLxRA7G9I8WQvO7xnNI9GR0BWnROIV2Y6KGKW4UMAlzlJgRNuzG
+    parentId: 43lQGvvOW2uxmnr52zOQs1rWz1l
+    postId: 6NnXKxyz6LfWpWXlBnZ5UXKVKZl8Y9fkA8ZOxkL9tzGX9Y8BR4Cr4mlw
+    factor: 1.33
+    portrait: 1
+    mInfo: orGYtuOWLhvXPh0
+  - id: kp9c1Rr
+    name: 54mQKwwPAMH1ZBZxLDDRS1QpZKA
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/kp9c1Rr.jpg
+    prevLoc: 9wpGkxM0A3tOqRRJnMkmhA1nqyvA19t54wDlND8PFjn6xJwEW0tqmYnAqPqMuAGo2Eq18ZS41W0N5ZGwcorw2yO6D1hj1QEoMkkXF85PGR8rQptrN1p46oEGIJRygxjY6Xt86N64NnXJHRz438NLNksv4AV1En7mTNlMLNZgYmF7GGzZ0YvQH9Pp4DD2jBFLlRY5n29yHjYyMN4ROrSYzvg9WwMGTlME0JPlZzTjlwZQmwZ3SBNjjB9Ylvt2LXz9XWOXuNR
+    parentId: 43lQGvvOW2uxmnr52zOQs1rWz1l
+    postId: 6NnXKxyz6LfWpWXlBnZ5UXKVKZl8Y9fkA8ZOxkL9tzGX9Y8BR4Cr4mlw
+    factor: 1.33
+    portrait: 1
+    mInfo: QHVFSF8HTCPnlpF
+  - id: cf0YUC0
+    name: GrLvWXX0wAH90l5pLJ5phGqQB3j
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/cf0YUC0.jpg
+    prevLoc: mp28DL4v07TMl11VXAj5s1Dkwj81D6C42orB8rNZu8lwXmgOzWHLDxVqLJLEcOmrLmj9wJsx5wlnLG64uJV6Gm9GZJirk6W4jgKET7AmZQOADgijPY0p29N0FB7Xxg9kjwtR2YON4rWxFq1plDPL15cLRvpG7QP0F9NDm9Yj7lCOkk34QlLptZw0q33DkAf1xm2r7EJnC7qKvrP850hXzEGJYjD1Hj7zPgg312sXYVG75QnWSg2yKqwXMycqrANrZ0jjuyZ
+    parentId: 43lQGvvOW2uxmnr52zOQs1rWz1l
+    postId: 6NnXKxyz6LfWpWXlBnZ5UXKVKZl8Y9fkA8ZOxkL9tzGX9Y8BR4Cr4mlw
+    factor: 1.33
+    portrait: 0
+    mInfo: uIxrHAnzdfHNqnZ
+  - id: Nbot8Fy
+    name: BmDN9XXq1vUNMm59zo0jHREkW1y
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/Nbot8Fy.jpg
+    prevLoc: QpNjP3E9KATRPBBnV3k6TZA2vXzZANhxXJym9yNAhjw1Erq9LRt9PwVz9o97szyvnyr4X0c7VRoKOJ2rirj84W3E86s6mLPpQVzZSWxKGAOxwMTqjJZRx8zZTn2wnOm0K9ip6JvDRPpBiVx0nLBDPktDGXPgLlgNU6AmD6zG1jFEVV6YyOlgCDzkXNNYBPhyAw3YqKK1CW2yyP4Q41hEoLODOYJRCWB2X44G0ECnwv6LR50RUKPYN9qRpYHxMyD80RqOfvq
+    parentId: 43lQGvvOW2uxmnr52zOQs1rWz1l
+    postId: 6NnXKxyz6LfWpWXlBnZ5UXKVKZl8Y9fkA8ZOxkL9tzGX9Y8BR4Cr4mlw
+    factor: 1.33
+    portrait: 0
+    mInfo: OQIFfEED6rhoUvw
+message: "歡迎面迫社長來台與業者、愛好家交流飼養心得^_^  
+環境美、氣氛佳、魚兒悠遊自在，坐在池塘邊一壺東方美人+草莓蛋糕🍰  
+  
+開心😃  
+  
+Welcome to TAIWAN Omosako San!!  
+It’s nice to meeting with TAIWAN dealer and hobby’s 😄😄😄"
+---
+
+歡迎面迫社長來台與業者、愛好家交流飼養心得^_^  
+環境美、氣氛佳、魚兒悠遊自在，坐在池塘邊一壺東方美人+草莓蛋糕🍰  
+  
+開心😃  
+  
+Welcome to TAIWAN Omosako San!!  
+It’s nice to meeting with TAIWAN dealer and hobby’s 😄😄😄
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/xEY87xx.jpg"><img src="https://i.imgur.com/xEY87xx.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/kp9c1Rr.jpg"><img src="https://i.imgur.com/kp9c1Rr.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/cf0YUC0.jpg"><img src="https://i.imgur.com/cf0YUC0.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/Nbot8Fy.jpg"><img src="https://i.imgur.com/Nbot8Fy.jpg" height="225" width="300" /></a> 
+ 
