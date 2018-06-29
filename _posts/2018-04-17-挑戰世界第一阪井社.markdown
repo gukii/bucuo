@@ -1,0 +1,31 @@
+---
+layout: post
+title: "挑戰世界第一阪井社" 
+date: 2018-04-17T11:06:05+0000 
+categories: [] 
+media:
+  - id: vC49tgz
+    name: YmjWqg0mr0CXwWZB1LAVikJ1ZvA
+    description: "挑戰世界第一阪井社長的下場⋯⋯(≧∇≦)
+Never challenge an athlete at his home.."   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/vC49tgz.jpg
+    prevLoc: Xz7qZjO8XYT9KBBlAqXnTY9gx1jY9OHwNg0kL0B1uMQ5NvRP74HAr3VLAWAvILnJxnWVOjuRo7A0xzEkFjEx46g12lt8Ox3jm7ZliARywPo3NKUVNJ17Z8BJSg47lANDLziRP6q9BD86iY90lgvWmAcjPDpBNglRhYW2zYRqEmFNPPDJXlz2FgYMWzz3KRs1ORWVz7qlCJj7NZEX1OcGPYpY5YvMTpO9yN5lnRT3EKYXvXDPhJNNQ7BZE6UzLKY4o8ONF5r
+    parentId: YmjWqg0mr0CXwWZB1LAVikJ1ZvA
+    postId: roP8Vq5M0yHmkmx3G54gfPW9Wq68ZLCQV9B1qPqPfW3zBgZy2jUA4R4y
+    factor: 1.33
+    portrait: 0
+    mInfo: bp98ZG2SLJv9qrB
+message: "挑戰世界第一阪井社長的下場⋯⋯(≧∇≦)  
+Never challenge an athlete at his home.."
+---
+
+挑戰世界第一阪井社長的下場⋯⋯(≧∇≦)  
+Never challenge an athlete at his home..
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/vC49tgz.jpg"><img src="https://i.imgur.com/vC49tgz.jpg" height="225" width="300" /></a> 
+ 
