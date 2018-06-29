@@ -1,0 +1,110 @@
+---
+layout: post
+title: "大日豐田店拍賣會 " 
+date: 2018-04-09T02:55:43+0000 
+categories: ["Auction","Dainichi","大日"] 
+media:
+  - id: xd7rLHm
+    name: pmN8L5xVNnSw8QYE4Y4wCoAQvpE
+    description: ""   
+    height: 513
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/xd7rLHm.jpg
+    prevLoc: 8voWjwLQzXukqOOm3z6jcpwx4Q7pwrTG4APkgP3xcJA0r2z68wS8wYyv878xI8w9k6GpV1uZgG0KDzO4hz10x7JAwMCwqlyRx0ykHxXZ7zp5wrCPRQxWokOATKomwXBQzkuDXXw7ZO9PHMR2Bj4l4kiKMW9pQ6NjugvRqlmm0KFWnrpKN55PuJY79NJ7mqiqNPRyky1ocp7ZkB7EYRhgjpvJ4L4lT82ZXn5KJjF7o2lB9JvKTOB630L65jSlWoVYgyXp
+    parentId: olMVX4wJMmtwgMJ345GASRogo1y
+    postId: Vj4An2r0mgUZWZMjRDzGi1wvwKN3Xrcl5DV9gzm8CMY7wQr8M4SnyE2R
+    factor: 1.40
+    portrait: 0
+    mInfo: hS8zeMerxBBntiY
+  - id: vw2Sjsq
+    name: 3XkQVDMJk3t4yBzww3GJtZr281w
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/vw2Sjsq.jpg
+    prevLoc: YAQr1kP3YVc9lkkKYNL3ToZWQmNoZ5IPrwoZJoK0cvnzol3MRmHgP3OZgrgLTPGA5G1j0BIWMK87JpOgtBvz7rBlG5hKYBp2jkn4ULDzwoJnvmH90xn39AGDU2AOKvx84XUNp7qrl7OZf9mxRmARpBUY47l0LXMQc4pXY4VLv9s7RR1qvw4NH74PDrrwyohj9XnJWzWqfQLv3nnNOzfKP48v5pL9iAMgkwzAnAtWyxg79NPEcnr88nVLQpf4kR4og8Amu1O
+    parentId: olMVX4wJMmtwgMJ345GASRogo1y
+    postId: Vj4An2r0mgUZWZMjRDzGi1wvwKN3Xrcl5DV9gzm8CMY7wQr8M4SnyE2R
+    factor: 1.33
+    portrait: 0
+    mInfo: qLzvZcYqzw9fkwE
+  - id: 5ozTqiV
+    name: 1NgW3AK7gMtZP1KKZ1nBC01R1GL
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/5ozTqiV.jpg
+    prevLoc: MlENLYz3K7IJ3xxpPRq5uL1XNlvL1rTWjMkKZkD5hgKQXy7jnAcM5gmzM7MDcg2V42oNx8u7PEjyZK9Di5KVnEnERytzqPPEwLwpiM1jWz6yALc2ykK55KR1cjY9GQPrBmuREGDYMPrVUJVNNv6xV8SzrRklJlQNFKQPYKkgmlFEDDBQzmoLCBk6RAAW44imVZ4L90w2CYGmpDNw7ns92LnkPO7kFyqE1kqkZrSBm69KMXQgiyY3PpWwYXsPp0PJXw68TRB
+    parentId: olMVX4wJMmtwgMJ345GASRogo1y
+    postId: Vj4An2r0mgUZWZMjRDzGi1wvwKN3Xrcl5DV9gzm8CMY7wQr8M4SnyE2R
+    factor: 1.33
+    portrait: 0
+    mInfo: 5lEIOyyifRytCMj
+  - id: wf71clM
+    name: Vj4AnMLZ4WtZA0rJXkpoCpV7Mlx
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/wf71clM.jpg
+    prevLoc: nqY7EM4wmGiWDll4wK7Gs8EjKQD8ExsM3EvmQvXgFBv10RGkYOiZY2wKZRZguonpPQWA3yClWJjwO26vt49jBvDOvlF6Vrr0Rn43FGvnMJ0xzPcERpWZw7lAuKMP6zymK4s6Y1QB8mmyujMDEwWRKYcM3kRBQMlxhoxA7oBYKguLXXD43m18t91zlQQOKWSg8N5oKKYJsVmWL5yPQQt3Q4YO1lZgsXRRKx1K5vSLzAPMAjKMTZzL0Xn05mtMxLj939Xofqj
+    parentId: olMVX4wJMmtwgMJ345GASRogo1y
+    postId: Vj4An2r0mgUZWZMjRDzGi1wvwKN3Xrcl5DV9gzm8CMY7wQr8M4SnyE2R
+    factor: 1.33
+    portrait: 1
+    mInfo: 4UBUSMJC8YjRFn3
+  - id: LcB4Mwk
+    name: AlBNKk0OBrtRwYEN640rSl59nvm
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/LcB4Mwk.jpg
+    prevLoc: 0k2EWlzGoACyBJJnvMG2I63VpEG63mhr8kJ9PJM2S6Xyzw0n7pHzZBX7z4z5cmLEXgyRNKUqxL2y4EgXSALrmYJjvEUoAvOLx3oLUENvmQoRNlHr3yMlrOW6H49k8R9959H18xy0xYn1u8vLgMYXlWIGok3p9rVYFAZQoAODWpfKEE8Q9ND0iL143yyZ7WHELELM28rJc8ZX5GwqBoC8y6ND3mvnH72AmZLWmMiRPLvPZM9VUEwl927V9xtgJpgq0wj1U9N
+    parentId: olMVX4wJMmtwgMJ345GASRogo1y
+    postId: Vj4An2r0mgUZWZMjRDzGi1wvwKN3Xrcl5DV9gzm8CMY7wQr8M4SnyE2R
+    factor: 1.33
+    portrait: 1
+    mInfo: rciX9x4TlxuM4XO
+  - id: 3uLwV1U
+    name: pmN8L5xVNnSwVDxwQpyOSoAQvp6
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/3uLwV1U.jpg
+    prevLoc: 5plV2qGNwATl9ggy8xZ0fK8LjrXK8gH31MOBqOnmFomzOxQ9KLhj9Y1JjxjEiR74z7KGnZImLEJDQxj4SYX4B36LEXiVznpzXwk8hWKpjX25KQHqAxKnnKDQIyL6Mj86LWsQvv3oEMvDsBAmV4ggy0HJB3J5zwVQfkN2KkE1GVHMRR13qv9BtpVJ300R5gCZMNWzAg4Yc7oPngV30Zu9mBKkBJNlsmYAQJ21X3hPNvqz3GrWF2Nzx8gwl5UGw8v9DvG3hDG
+    parentId: olMVX4wJMmtwgMJ345GASRogo1y
+    postId: Vj4An2r0mgUZWZMjRDzGi1wvwKN3Xrcl5DV9gzm8CMY7wQr8M4SnyE2R
+    factor: 1.33
+    portrait: 0
+    mInfo: b52HhFlg7AvE85R
+message: "大日豐田店拍賣會  
+Dainichi Toyota Auction"
+---
+
+大日豐田店拍賣會  
+Dainichi Toyota Auction
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/xd7rLHm.jpg"><img src="https://i.imgur.com/xd7rLHm.jpg" height="213" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/vw2Sjsq.jpg"><img src="https://i.imgur.com/vw2Sjsq.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/5ozTqiV.jpg"><img src="https://i.imgur.com/5ozTqiV.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/wf71clM.jpg"><img src="https://i.imgur.com/wf71clM.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/LcB4Mwk.jpg"><img src="https://i.imgur.com/LcB4Mwk.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/3uLwV1U.jpg"><img src="https://i.imgur.com/3uLwV1U.jpg" height="225" width="300" /></a> 
+ 
