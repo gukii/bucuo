@@ -1,0 +1,74 @@
+---
+layout: post
+title: "魚隻編號：460 " 
+date: 2018-04-23T09:21:13+0000 
+categories: ["大日"] 
+media:
+  - id: Qqhkvxd
+    name: ZnkYrAMg7BhjpWqJEjYwS0YDOW2
+    description: ""   
+    height: 700
+    width: 490
+    type: image/jpeg
+    link: https://i.imgur.com/Qqhkvxd.jpg
+    prevLoc: q0V6KP4zpAI2NLLgBz8OuKr4YGkKrAHVOW6YK6wMHzy7XQ18AWinwryAnYn6h5LO0nz3PJt4roJ1QWzniG65ZrEvmyhMQBo8pPNphL38ElWx9ytOEpjzlW1OsjY15j2PApiyqRn1D3wvcwGDPY5D5wT5pv1WgW2MC38OJ05E8ZuDWPODKP2viWYKnoqzKkhZ387MBA7nIR2xLORgxzu471G0gjryTVNLB6YBQ9Hy09v88xrQszJ6mlN
+    parentId: 1NgW30ZMJlsZYDkJ1AGzI0D89QL
+    postId: 2NjxDqr1RzfmBm7o9N0MfZwywV8zDLS24WGxL4AlcxKBYBoA1qf1E6G7
+    factor: 1.43
+    portrait: 1
+    mInfo: wpq6Za8MbtVcDFD
+  - id: fzmRwwn
+    name: XlgLpyKP8zc9Yyqp076nIl5NXE6
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/fzmRwwn.jpg
+    prevLoc: Xz7qZjO8XYT9KBBlAqXnTY9gx1jY9OHwNg0kL0B1uMQ5NvRP74HAr3VLAWAvILn2mlOQzyIRo7A4P193UjEMwgEGB7s8AGzLWKz4IvojX4kGlyHYo2pYzm0GtgJ3Ex4EoLURNwwq4ZXxiY905MvnGvtjWMXkDxg7cYW2zYRqEmFNPPDJXlz2FgYMWzz3KxCmq0Lxz65KUYGOywEv22UGXvNM655gfpmp04LB83i3y8xr2D5zCxVY3QN7qYCzLKVG7ywECoN
+    parentId: 1NgW30ZMJlsZYDkJ1AGzI0D89QL
+    postId: 2NjxDqr1RzfmBm7o9N0MfZwywV8zDLS24WGxL4AlcxKBYBoA1qf1E6G7
+    factor: 1.33
+    portrait: 1
+    mInfo: kAm2vh7KllJgUU8
+  - id: bxQODUF
+    name: 2NjxDyZXKmsmwJRZN3v6SKWNGAM
+    description: ""   
+    height: 504
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/bxQODUF.jpg
+    prevLoc: pvRBJO5yo9uwoQQgkvnzTO26Vn4O2MsGlw0x20O9c1ZXoVD6pzuK7Ej8K0KDczko0NGwjBFKRy83MAlLS8DwxR3p0ocD4J6LKnPoFw562KGN3pHXOyOpxYWViExwlLEZljsxyoyO3jlZsnQkJ73n4jur5JEwyBgWhmkrEmOp4zI7NNO50Q4BH9gEZllK0wfYV5vN2VZ6SQkr4557lBfVxYV5Z3Bgs1QBjokXG2tXBpqX3W4QFnxBYk4zWVS9BALPQpP8s9p
+    parentId: 1NgW30ZMJlsZYDkJ1AGzI0D89QL
+    postId: 2NjxDqr1RzfmBm7o9N0MfZwywV8zDLS24WGxL4AlcxKBYBoA1qf1E6G7
+    factor: 1.43
+    portrait: 0
+    mInfo: IDXhY2aRC9Zz01J
+message: "魚隻編號;460  
+生產漁場;大日養鯉場  
+生產年月;2017年6月(目前未滿一歲)  
+品種類別;昭和三色  
+種魚血統;Monalisa 蒙娜麗莎  
+尺寸公母;41公分 公母未明  
+  
+蒙娜麗莎系統的體型令人期待！"
+---
+
+魚隻編號：460  
+生產漁場：大日養鯉場  
+生產年月：2017年6月(目前未滿一歲)  
+品種類別：昭和三色  
+種魚血統：Monalisa 蒙娜麗莎  
+尺寸公母：41公分 公母未明  
+  
+蒙娜麗莎系統的體型令人期待！
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/Qqhkvxd.jpg"><img src="https://i.imgur.com/Qqhkvxd.jpg" height="300" width="210" /></a> 
+  
+
+<a href="https://i.imgur.com/fzmRwwn.jpg"><img src="https://i.imgur.com/fzmRwwn.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/bxQODUF.jpg"><img src="https://i.imgur.com/bxQODUF.jpg" height="210" width="300" /></a> 
+ 
