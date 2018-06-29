@@ -1,0 +1,28 @@
+---
+layout: post
+title: "長岡 (≧∇≦) " 
+date: 2018-03-06T07:48:38+0000 
+categories: [] 
+media:
+  - id: WOzSHvr
+    name: 70oL5D5zQQFYLnpoxYnASpXl2r5
+    description: "長岡 (≧∇≦) 總算沒積雪了*\(^o^)/*"   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/WOzSHvr.jpg
+    prevLoc: OnELN1B3XJsOx55DY0pAhz5BYQ4z57s4VjyzBy9xumZ9q5NzQYirP8BnrXrmiD6A46QnLyF6n7KDMw3lhP0P6gOpLJcv31vXRXwWc7YANYp386colRnwpEvDFDjNVwmVogtkGJxXogZGt9Lxr0kk0ZIo1zrpv1mPh2B680OODASlnrAzLRREUo73rYoLM9tlKvzny656T0YYKB7j2gSKlMqJXEQNto6knOyPlYHAWylpAPzGTNWmo7Amj5s3WJxpm5LQ
+    parentId: 70oL5D5zQQFYLnpoxYnASpXl2r5
+    postId: Vj4An2r0mgUZWZMjRDzGi1wvwKN3XrclmKgGW9j4UMYzvBlkGYHnomWx
+    factor: 1.33
+    portrait: 0
+    mInfo: jAyC0lWAclbRTDk
+message: "長岡 (≧∇≦) 總算沒積雪了*\(^o^)/*"
+---
+
+長岡 (≧∇≦) 總算沒積雪了*\(^o^)/*
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/WOzSHvr.jpg"><img src="https://i.imgur.com/WOzSHvr.jpg" height="225" width="300" /></a> 
+ 
