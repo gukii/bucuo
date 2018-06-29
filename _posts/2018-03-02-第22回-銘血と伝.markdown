@@ -1,0 +1,86 @@
+---
+layout: post
+title: "第22回 銘血と伝" 
+date: 2018-03-02T01:23:50+0000 
+categories: ["Auction","Niigata","新潟","錦鯉"] 
+media:
+  - id: EPgFFMM
+    name: wwXmBn4679UNm5G6wojGuO87NAX
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/EPgFFMM.jpg
+    prevLoc: nqY7EM4wmGiWDll4wK7Gs8EjKQD8ExsM3EvmQvXgFBv10RGkYOiZY2wKZRZguonpPQWA3yClWJjwO26vtApAkpk9Kpu6jQAPrjVYCyX9mYozJ3uEWZ7QO6mKCKvMKzq1DDI6NXWvjXNNF1xmwlENY9IKnLwExjxAIoxA7oBYKguLXXD43m18t91zlQQOKjTgwEAvyqm5tV2VmPJ8zAiWG6JvQ8qwHzWJXLKwNysLjlk949KjuJr1K5vE46UMxLrKAV7ySqN
+    parentId: yyZrEpgW2lS3ynpEEDlyt3A4Ao1
+    postId: vvWlLx59gKClYlv03DrQcqGKGOg1pwT0BRqW5Dn9soXOkPyk90h58jRQ
+    factor: 1.33
+    portrait: 1
+    mInfo: LcwqxAftltqSOhJ
+  - id: hyTr9le
+    name: PE0Zv6DqWmH6RBBxmRvOu2gkv8N
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/hyTr9le.jpg
+    prevLoc: 9wpGkxM0A3tOqRRJnMkmhA1nqyvA19t54wDlND8PFjn6xJwEW0tqmYnAqPqMuAG6mGQMqyI41W0rLMvzForoOjXW9ku6vN0vDyQ3uEJYNvyK0EuWEMV3nnEoIGjQvEYxJJS84pn9W08zI0w88Y4Z0xfQ865L1ZP6sNlMLNZgYmF7GGzZ0YvQH9Pp4DD2jgHYqGgKRQJ8TjxO75V1ypf63gpkpRqwclErJRywxqCjA9XqLMZvSVomBk5Jg7i2LXNOO8lvfMr
+    parentId: yyZrEpgW2lS3ynpEEDlyt3A4Ao1
+    postId: vvWlLx59gKClYlv03DrQcqGKGOg1pwT0BRqW5Dn9soXOkPyk90h58jRQ
+    factor: 1.33
+    portrait: 0
+    mInfo: ipSQexAshCIkopH
+  - id: WCdbIl9
+    name: yyZrEpgW2lS4wGrj3JL5C3jVKYZ
+    description: ""   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/WCdbIl9.jpg
+    prevLoc: jmv5zG4pgAhOmllzE3njhmnqgl0mnvhwnxVKAVNouLjxn1ZOVDiqWxnpqMxATLWrv4AzxxtRx1nzPjj6cW1WxXlDgrh1ZVzN17WEiQxpmq7YBNsx53RER46Ysvzo8BVDw8t9jkyK2XwQi82L94mzP1uY4x3ggN0BCOo1l27zz0TQOj9K8mnoUxZnmyROy5I0v3xy99kltV17D6X69QIOLXyOvzBgiLm8mBWPZgcA2gDWpyJNsQ6gYJxrVBH8JBxLGWWAT6L6Dm
+    parentId: yyZrEpgW2lS3ynpEEDlyt3A4Ao1
+    postId: vvWlLx59gKClYlv03DrQcqGKGOg1pwT0BRqW5Dn9soXOkPyk90h58jRQ
+    factor: 1.78
+    portrait: 0
+    mInfo: jBvewpj7dV6d5zd
+  - id: x43CiCF
+    name: jKEqlA4W6QFOXzzP2YxXU6Nr37r
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/x43CiCF.jpg
+    prevLoc: 9wpGkxM0A3tOqRRJnMkmhA1nqyvA19t54wDlND8PFjn6xJwEW0tqmYnAqPqMuAG6mGQMqyI41W0rLMvzForoOrOQL3IjPlkg8zV7cEJYNvyK0Wfr54GQyAEytJGwQ7gNx7Tnx5po0PPpu0DBxEZ9DRCv4QDyP4kYCNlMLNZgYmF7GGzZ0YvQH9Pp4DD2j0iLlKEjKWQRfL5B7zKyzYfY6PyGrJN5CAJlQP5y5ZcjYR6ZnWxnFJo0zq2NoYS2LZ2NGrAGcMo
+    parentId: yyZrEpgW2lS3ynpEEDlyt3A4Ao1
+    postId: vvWlLx59gKClYlv03DrQcqGKGOg1pwT0BRqW5Dn9soXOkPyk90h58jRQ
+    factor: 1.33
+    portrait: 0
+    mInfo: Jw8q6k7JGoBWqsI
+message: "第22回 銘血と伝統の祭典   
+新潟県錦鯉オークション  
+  
+新潟縣錦鯉業者拍賣會，來自新潟45家錦鯉業者出品的美魚，即將開拍！  
+  
+Niigata Breeder Auction!"
+---
+
+第22回 銘血と伝統の祭典   
+新潟県錦鯉オークション  
+  
+新潟縣錦鯉業者拍賣會，來自新潟45家錦鯉業者出品的美魚，即將開拍！  
+  
+Niigata Breeder Auction!
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/EPgFFMM.jpg"><img src="https://i.imgur.com/EPgFFMM.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/hyTr9le.jpg"><img src="https://i.imgur.com/hyTr9le.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/WCdbIl9.jpg"><img src="https://i.imgur.com/WCdbIl9.jpg" height="168" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/x43CiCF.jpg"><img src="https://i.imgur.com/x43CiCF.jpg" height="225" width="300" /></a> 
+ 
