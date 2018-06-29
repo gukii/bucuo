@@ -1,0 +1,112 @@
+---
+layout: post
+title: "感謝追悼文：   " 
+date: 2018-02-10T06:11:44+0000 
+categories: ["評鑑","愛好家","Koi ","錦鯉"] 
+media:
+  - id: MIVzT00
+    name: 9NqQKnjwX5ijkGWqAg9RurJEY4A
+    description: ""   
+    height: 327
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/MIVzT00.jpg
+    prevLoc: GOYzBPq3XwU84WWrn01JSq0OX59q0xfRyLZPmZ5pcwOq06RQ1xuEGNDrE0EQTXrpRqy1QJFE398Zpq0vSVgVl8v4W1SRn7EBNLowiqJVNno0yXhopE3K2gXWh8nzOxQYp0TZpmBwmyomFNRkgGngLVh2KzZrrvg6tO0jxOJ36XIj11A7QXqEhAQx1RRrJqU3OnL9Rw5nS9yP56P53BuAJWlPLqZlT5OkrBxlZZi9GG2gZRgVUr8W76yzPOfMAjMnKMP7cz3
+    parentId: W057G21yBDH80ZLZKwO4H5N0P9x
+    postId: AlBNKXo9njHRwRjJzvGkH4xoxVJ3rBi84YqgXyn3IRQzpO0K4juW7WY1
+    factor: 2.20
+    portrait: 0
+    mInfo: WkNlE9PtreEUj84
+  - id: irlwUUq
+    name: XlgoJ3PzVEtZmjy9pl9JhNVr1k8
+    description: ""   
+    height: 570
+    width: 427
+    type: image/jpeg
+    link: https://i.imgur.com/irlwUUq.jpg
+    prevLoc: 5plV2qGNwATl9ggy8xZ0fK8LjrXK8gH31MOBqOnmFomzOxQ9KLhj9Y1JjxjEiR7N3V7wNqiDo3oBOkEzi9E21VgBOqsV2NRxBDxXFvA9XNKoO5Tq7wOJ8J1wIy1xyPZ8gqHQM0qBD6kWfxgMpLz33ESr5OJo61gNCM1O5B6yBRHvkylnxMx1SZPGABnjwQsZy0XqByVEh7oZMWOn20uz8JxmPqgwImBMKwGJZJs78Eq2ZgZxhGJRRV
+    parentId: W057G21yBDH80ZLZKwO4H5N0P9x
+    postId: AlBNKXo9njHRwRjJzvGkH4xoxVJ3rBi84YqgXyn3IRQzpO0K4juW7WY1
+    factor: 1.33
+    portrait: 1
+    mInfo: 1YOnPajAmNplZKC
+  - id: nGTQ0jt
+    name: 1Ngry5Ml78iXRngogLnYI0GOWZ7
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/nGTQ0jt.jpg
+    prevLoc: nqY7EM4wmGiWDll4wK7Gs8EjKQD8ExsM3EvmQvXgFBv10RGkYOiZY2wKZRZguonrRnLDWJclWJjBNQopfApA7nkX52S3Zl3yWy77TGN9yzlV0xsE7O0LLXBMHJ0g4gEXM8f6N8OW7Z67uj3BPppNxEuKzGP8XLzRcoxA7oBYKguLXXD43m18t91zlQQOxxhQRkQ0y1gLCVBm2z48l3f3Qp0rklGqHg0ogwygvphLXAr1Jo1EFZmmo3y0rnCMxXMl4OPQhqO
+    parentId: W057G21yBDH80ZLZKwO4H5N0P9x
+    postId: AlBNKXo9njHRwRjJzvGkH4xoxVJ3rBi84YqgXyn3IRQzpO0K4juW7WY1
+    factor: 1.33
+    portrait: 0
+    mInfo: rfg3EkYKQ4xR0PW
+  - id: 3Iizs4H
+    name: LzQ8qNGkBot2LVDPqjWriV82yOm
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/3Iizs4H.jpg
+    prevLoc: LkY0KXy31AC39NN0qmRPuvgJAQRvgpT0xB9MD9oVtlQM4YrEROijwl4kjojViJy69yoD18F05RDmyMVOc393VDqnzluvAR6DZrgEsGWwmzgxzoslV8zGvMAAfM0o1nx5VNTNoRm1Nx5mIqBo52klJkfx0NEwkz6Oh7BqX725JNiYZZ5GmA7niXBAWNNvRpsZNYy7B2GNf59Py2YgW2Frq6mlMjEkHJjPDzjN0BuDj3gEEPjvt09X3pvr3NSR97Rmrjq1Tp7
+    parentId: W057G21yBDH80ZLZKwO4H5N0P9x
+    postId: AlBNKXo9njHRwRjJzvGkH4xoxVJ3rBi84YqgXyn3IRQzpO0K4juW7WY1
+    factor: 1.33
+    portrait: 0
+    mInfo: YoqspZLJ3MHYhxs
+message: "感謝追悼文;  
+  
+我在初入錦鯉養殖行業之期，全日本愛鱗會 在台灣的分部-楊梅支部  彭錫欽支部長，他有機會到雲林漁場來的時候，都會教導我如何鑑賞錦鯉，讓我從中學習到很多知識。  
+  
+當我從事日本錦鯉代理商的工作時，需要學習更精細嚴謹的評鑑眼力， 彭支部長如果在日本比賽會場遇到我，他都會很熱情的指導我日本的審查方式、協會與支部間的研習課程是如何安排與規劃。  
+  
+當我開始拓展海外事業時，也需要協助當地業者舉辦研習活動，讓當地愛好家能夠有正規的學習機會，當我邀請 彭支部長前往海外指導錦鯉鑑賞、研習活動等等，他都不曾拒絕也都幫我邀請跟他一樣有ZNA公認審查員資格的國際評委共同前往指導教學。  
+  
+這樣無私、樂觀、熱情的長輩，是我衷心感謝與欽佩的楷模。  
+  
+彭醫師一輩子為了推廣錦鯉愛好文化，在擔任楊梅支部長期間，協助無數同好赴日本研習、取得審查員資格，「台灣錦鯉發展協會」石 理事長、「中華愛鯉協會」洪 理事長，也都接受過他多次的幫助，彼此也因為喜愛錦鯉而成為好朋友，這樣的開闊胸懷，不只為自己的楊梅支部會員而服務，這是大家都敬佩並感念的。  
+  
+今天在告別式會場，看到來自世界各地錦鯉愛好家致意的花籃，也看到國內各錦鯉協會理事長、幹部會員等等都親自到席送彭醫師最後一程，相信大家都是肯定他對行業的奉獻及對友人無私的付出。  
+  
+今天他倉促離開我們，但臨行之前仍然心心念念如何為楊梅支部的會員、為將來支部會務的運作而盡他身為支部長的責任與義務。  
+  
+期待接任人選，不論人脈是否豐富、行業內專業資歷深淺、日鱗ZNA審查員的頭銜高低、個人財力與能力如何，都能跟他一樣，能夠不以自己的喜好、利益為優先，能夠繼承他的遺願，將楊梅支部繼續運作，為會員服務，定期帶有志學習錦鯉鑑賞飼養的會員，積極參與國內外的活動，大家把楊梅支部優良的傳統、熱情積極的態度延續下去，讓彭醫師可以了無牽掛的離開我們，前往極樂世界。  
+  
+My Koi friend Mr. Pong San passed away, I will miss him a lot."
+---
+
+感謝追悼文：  
+  
+我在初入錦鯉養殖行業之期，全日本愛鱗會 在台灣的分部-楊梅支部  彭錫欽支部長，他有機會到雲林漁場來的時候，都會教導我如何鑑賞錦鯉，讓我從中學習到很多知識。  
+  
+當我從事日本錦鯉代理商的工作時，需要學習更精細嚴謹的評鑑眼力， 彭支部長如果在日本比賽會場遇到我，他都會很熱情的指導我日本的審查方式、協會與支部間的研習課程是如何安排與規劃。  
+  
+當我開始拓展海外事業時，也需要協助當地業者舉辦研習活動，讓當地愛好家能夠有正規的學習機會，當我邀請 彭支部長前往海外指導錦鯉鑑賞、研習活動等等，他都不曾拒絕也都幫我邀請跟他一樣有ZNA公認審查員資格的國際評委共同前往指導教學。  
+  
+這樣無私、樂觀、熱情的長輩，是我衷心感謝與欽佩的楷模。  
+  
+彭醫師一輩子為了推廣錦鯉愛好文化，在擔任楊梅支部長期間，協助無數同好赴日本研習、取得審查員資格，「台灣錦鯉發展協會」石 理事長、「中華愛鯉協會」洪 理事長，也都接受過他多次的幫助，彼此也因為喜愛錦鯉而成為好朋友，這樣的開闊胸懷，不只為自己的楊梅支部會員而服務，這是大家都敬佩並感念的。  
+  
+今天在告別式會場，看到來自世界各地錦鯉愛好家致意的花籃，也看到國內各錦鯉協會理事長、幹部會員等等都親自到席送彭醫師最後一程，相信大家都是肯定他對行業的奉獻及對友人無私的付出。  
+  
+今天他倉促離開我們，但臨行之前仍然心心念念如何為楊梅支部的會員、為將來支部會務的運作而盡他身為支部長的責任與義務。  
+  
+期待接任人選，不論人脈是否豐富、行業內專業資歷深淺、日鱗ZNA審查員的頭銜高低、個人財力與能力如何，都能跟他一樣，能夠不以自己的喜好、利益為優先，能夠繼承他的遺願，將楊梅支部繼續運作，為會員服務，定期帶有志學習錦鯉鑑賞飼養的會員，積極參與國內外的活動，大家把楊梅支部優良的傳統、熱情積極的態度延續下去，讓彭醫師可以了無牽掛的離開我們，前往極樂世界。  
+  
+My Koi friend Mr. Pong San passed away, I will miss him a lot.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/MIVzT00.jpg"><img src="https://i.imgur.com/MIVzT00.jpg" height="136" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/irlwUUq.jpg"><img src="https://i.imgur.com/irlwUUq.jpg" height="300" width="224" /></a> 
+  
+
+<a href="https://i.imgur.com/nGTQ0jt.jpg"><img src="https://i.imgur.com/nGTQ0jt.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/3Iizs4H.jpg"><img src="https://i.imgur.com/3Iizs4H.jpg" height="225" width="300" /></a> 
+ 
