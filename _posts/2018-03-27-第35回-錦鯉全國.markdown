@@ -1,47 +1,47 @@
 ---
 layout: post
 title: "第35回 錦鯉全國" 
-date: 2018-03-27T06:26:15+0000 
-categories: ["KoiShow","IKI","華錦","Marujyu","丸重","Koi ","錦鯉"] 
+date: 2018-03-27T03:13:59+0000 
+categories: ["KoiShow","Sakai","IKI","華錦","Koi ","錦鯉"] 
 media:
-  - id: j6F1yoI
-    name: olMVXW8Qo1UmQAoAnBlLhlyKjDO
+  - id: Oqxo5G8
+    name: olMVXW8QPGUmrOVw5m97fRoXP4n
     description: ""   
     height: 720
-    width: 480
+    width: 504
     type: image/jpeg
-    link: https://i.imgur.com/j6F1yoI.jpg
-    prevLoc: zJBQW2jM4qTrq88XDxMRTzwrJ93zwPsZKMAz7ANlcVLvw31oxkHWo06gW9WZFR7n97zNN3c68m7zlWg6Hp3o0lW9M8uwO85Pv1wkF3QJyM7DrgfNLWGG6EvQt4lDBQxjG1FZoWJJEKLRTyBRQQwA0Ri3rqqGOrLrhXGRkXo0Eyu3RRmE1MP9UlVwLzzZQysmqyj8NNB0C0qn19wQ2QFqDQM1v1q5UY6mxjDogwIQ9E89LGzVi56PvDWJ82fPomPLZMGZfBZ
-    parentId: yyZo2W7rBjH3pGxgZ4NBH3nR9Kl
-    postId: 3XkQVrvKlBf4y4ZYE5Wnc7GlGJ9K0OiLMAXEGyvyCAD35jYy4QS060ok
-    factor: 1.50
+    link: https://i.imgur.com/Oqxo5G8.jpg
+    prevLoc: DLY6yMn3ZwIxAjj7pn5Bszk0vGPzkYsmw1ZRGZOYFrLK42NEWRHEGNZmEnE3TNg3J5ykD0Tm7xngEo5jiWkoAl0gn2cLG630NG4NHByk7ZBE06UXQoRLDrJWIV2gjvwxPMSypgV0OP8pTZ5Rl5X5yPHQqmlOnYoGck4nYk7mZBHnKKZov3VEhnGKLrrmMYHVBZNXVlqXfY9Xgz4P5zsMYEZZEjLQC6GRgkOP1Acnxoz7D0p0tZgwV1RMz6fP7BjJln21cGv
+    parentId: NBVLWoX9RMip04YjNOoPTGk1pzW
+    postId: lgJxEkLMOjsMVMLqvB6QiWMOM6DzojhkKXjl5203Uv8QQr0r1WUgR4k3
+    factor: 1.43
     portrait: 1
-    mInfo: iQhWftCwQZWcKJX
-  - id: k5p8SVK
-    name: BmDN9GOLAqINyxZGkDQKUo2k9k0
+    mInfo: deWi15PiEfdrYf0
+  - id: 3ugeVg9
+    name: zz1vYgQKoWSzM5Yqn3VnSLwz63l
     description: ""   
     height: 720
-    width: 540
+    width: 538
     type: image/jpeg
-    link: https://i.imgur.com/k5p8SVK.jpg
-    prevLoc: nqY7EM4wmGiWDll4wK7Gs8EjKQD8ExsM3EvmQvXgFBv10RGkYOiZY2wKZRZguonpPQWA3yClWJjwO26vtAp48nKv8ls62293mQvXfGZ6RrykVLSEWZXXmg2NUKJgOjRW80T6YwM56zr4I1Bqy1zEyGsKE11Woq1XsoxA7oBYKguLXXD43m18t91zlQQOxrIGz88ZrG7vhl9OZXNOVwI3v0nmVGxACXByOwVxY2HLPnR0qq7OtJWGk0wE7QtMxRoxZrpoHqV
-    parentId: yyZo2W7rBjH3pGxgZ4NBH3nR9Kl
-    postId: 3XkQVrvKlBf4y4ZYE5Wnc7GlGJ9K0OiLMAXEGyvyCAD35jYy4QS060ok
-    factor: 1.33
+    link: https://i.imgur.com/3ugeVg9.jpg
+    prevLoc: gjx8wB4mD7hByPPv6mAlfD74JgRD70hNDYpwkp54Cm6AOM2rjvipZ40qpVpWhRyQMV5AKPuOLNJz1K3GiPZWDKVMD1h9mRWg3LJ3F7kXK07LMESY2Bj35nm7CKnjgEnPZ3hvRkMWVj2BhoLx636rxqCNAA430V0PFqgp8qm57xtX116r7VpBsBYqJyywE0TW0rJV9MwjtOZox4QY2EiLADqrY8zgcQ74Bq7jPPiDnKygo8p3sgkJyvQxBYUQwOpEo6Art9M
+    parentId: NBVLWoX9RMip04YjNOoPTGk1pzW
+    postId: lgJxEkLMOjsMVMLqvB6QiWMOM6DzojhkKXjl5203Uv8QQr0r1WUgR4k3
+    factor: 1.34
     portrait: 1
-    mInfo: LDptwQSYsSwkF9Q
+    mInfo: 07J641BZOvLd4QH
 message: "第35回 錦鯉全國若鯉品評會  
-第63部 衣類 準優勝  
+第43部 紅白類 優勝次席  
 恭喜 🎉🎉🎉  
-獲獎魚主;袁 建棟  
-生產漁場;丸重養鯉場  
+獲獎魚主;孫 启義  
+生產漁場;阪井養魚場  
 經銷代理;台灣華錦、蘇州蘇信  
   
 The 35th All Japan Young Koi Show  
-63 bu Goromo 3rd in Size and Variety   
+43 bu Kohaku 2nd in Variety and Size  
 Congratulations 🎉🎉🎉  
-Owner; Yuan, Jian Dong  
-Breeder; Marujyu Koi Farm  
+Owner; Sun, Qi Yi  
+Breeder; Sakai Fish Farm  
 Agent; IKI TAIWAN、Suxin Koi Farm  
   
 #第35回錦鯉全國若鯉品評會  
@@ -49,17 +49,17 @@ Agent; IKI TAIWAN、Suxin Koi Farm
 ---
 
 第35回 錦鯉全國若鯉品評會  
-第63部 衣類 準優勝  
+第43部 紅白類 優勝次席  
 恭喜 🎉🎉🎉  
-獲獎魚主：袁 建棟  
-生產漁場：丸重養鯉場  
+獲獎魚主：孫 启義  
+生產漁場：阪井養魚場  
 經銷代理：台灣華錦、蘇州蘇信  
   
 The 35th All Japan Young Koi Show  
-63 bu Goromo 3rd in Size and Variety   
+43 bu Kohaku 2nd in Variety and Size  
 Congratulations 🎉🎉🎉  
-Owner: Yuan, Jian Dong  
-Breeder: Marujyu Koi Farm  
+Owner: Sun, Qi Yi  
+Breeder: Sakai Fish Farm  
 Agent: IKI TAIWAN、Suxin Koi Farm  
   
 #第35回錦鯉全國若鯉品評會  
@@ -67,8 +67,8 @@ Agent: IKI TAIWAN、Suxin Koi Farm
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/j6F1yoI.jpg"><img src="https://i.imgur.com/j6F1yoI.jpg" height="300" width="200" /></a> 
+<a href="https://i.imgur.com/Oqxo5G8.jpg"><img src="https://i.imgur.com/Oqxo5G8.jpg" height="300" width="210" /></a> 
   
 
-<a href="https://i.imgur.com/k5p8SVK.jpg"><img src="https://i.imgur.com/k5p8SVK.jpg" height="300" width="225" /></a> 
+<a href="https://i.imgur.com/3ugeVg9.jpg"><img src="https://i.imgur.com/3ugeVg9.jpg" height="300" width="224" /></a> 
  
