@@ -1,0 +1,31 @@
+---
+layout: post
+title: "大日拍賣會 Dai" 
+date: 2018-04-23T01:12:34+0000 
+categories: ["Auction","Dainichi","大日"] 
+media:
+  - id: Z6bZip1
+    name: 6NnXKD1MymiJDGD9xw6zsPk5mD4
+    description: "大日拍賣會 Dainichi Auction!
+開拍囉～ *\(^o^)/*"   
+    height: 720
+    width: 576
+    type: image/jpeg
+    link: https://i.imgur.com/Z6bZip1.jpg
+    prevLoc: 1lYEXmAJpVIZGnnrgkMph91EWgv91xugB2XkpXP0srwjYE0R3BHM46pAMNMRcE0LxR73BwcYwn2m0ABqfrqJvWz9jks4Jy5QJWD6Fp0JN5qOQyH5GDjQV4JAu9vlAn3gLpF2AA1mDEVwcj5pPjAZEphqg3MDGy0NsrpBVrnoR6Ix44LGME3qFYoX0ggEyEhvMmvRwxlXH8zKB2Al6zhXpVQQ1RE1Sl6WoqLPOlip33VR4XWyf4vjYkwmv9UNW9jLzpnlTm3
+    parentId: 6NnXKD1MymiJDGD9xw6zsPk5mD4
+    postId: qnO7Lp5MjwS2E296opJqc3GyG0oVOMtAOJlYr0ovTv2rr6MVzJcK60Ry
+    factor: 1.25
+    portrait: 1
+    mInfo: cu3mqPLmA8UyuAW
+message: "大日拍賣會 Dainichi Auction!  
+開拍囉～ *\(^o^)/*"
+---
+
+大日拍賣會 Dainichi Auction!  
+開拍囉～ *\(^o^)/*
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/Z6bZip1.jpg"><img src="https://i.imgur.com/Z6bZip1.jpg" height="300" width="240" /></a> 
+ 
