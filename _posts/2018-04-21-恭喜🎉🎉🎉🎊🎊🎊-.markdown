@@ -1,0 +1,112 @@
+---
+layout: post
+title: "恭喜🎉🎉🎉🎊🎊🎊 " 
+date: 2018-04-21T12:59:51+0000 
+categories: ["KoiShow","IKI","華錦","Koi ","錦鯉"] 
+media:
+  - id: H4Stq1Z
+    name: 3XkQVWJqMkSvGQJPOQLJHZ0g6DP
+    description: ""   
+    height: 720
+    width: 504
+    type: image/jpeg
+    link: https://i.imgur.com/H4Stq1Z.jpg
+    prevLoc: lovXBK4rk8CMEOOWGA2osRYQLM8RYPhBKjWGMWE6upW3vjAnOVSDoLjpD0DvTLWO9q4RvZI7oxWXlGBMSm85zQYEwXcRNBvzkAjEivxY7L3BE6Cv5jllgq7Kf5GOKyBk8gcp9WG9NOE9h1EqW9ApnEhzPll63X4OhOXPoOyzJ2IvBBwQA9jOi5xnz33X11ilq8QW5zl5srAjNwJ5w0uyJpz8O98NhOPKg3lYBBi5AoRGL4jqfEGn0gMz12ugZYjyDP94I6L
+    parentId: PE07W4JwBPFn5A24nPJnf2NLQLP
+    postId: roP8Vq5M0yHmkmx3G54gfPW9Wq68ZLCQV9BJMX0Kh0z4kNLxqktAQO6N
+    factor: 1.43
+    portrait: 1
+    mInfo: ltRlcRp5wX49d4K
+  - id: 3AUHkIX
+    name: AlBNK4OL0BS5mq8y1vOOslrvopv
+    description: ""   
+    height: 468
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/3AUHkIX.jpg
+    prevLoc: 9wpGkxM0A3tOqRRJnMkmhA1nqyvA19t54wDlND8PFjn6xJwEW0tqmYnAqPqMuAGo2Eq18ZS41W0N5ZGwcwQNmMKGy1Hj4kRMWOxXc81Z4Y7lQXfW2l334Q4DTGjQv2wO9kS833P0q7kOs0gNJ5Rj2Atv4qv3N4gLcNEGm9RRZnS7kgP6ZwwpT9gYk59YwLFLrP6VPPm4UlJGyLMxwpf63o0QDWJgiAJl7YkY1AFjkNKqJ92WIroEKQDEz6I2oxvw5EV0
+    parentId: PE07W4JwBPFn5A24nPJnf2NLQLP
+    postId: roP8Vq5M0yHmkmx3G54gfPW9Wq68ZLCQV9BJMX0Kh0z4kNLxqktAQO6N
+    factor: 1.54
+    portrait: 0
+    mInfo: BnX4jlgI2JU5LBb
+  - id: YkkGJDa
+    name: MARwW4BqyRCYomJGZKPYu5Nw0MW
+    description: ""   
+    height: 720
+    width: 516
+    type: image/jpeg
+    link: https://i.imgur.com/YkkGJDa.jpg
+    prevLoc: 9wpGkxM0A3tOqRRJnMkmhA1nqyvA19t54wDlND8PFjn6xJwEW0tqmYnAqPqMuAGo2Eq18ZS41W0N5ZGwcwQNm3W0GMujqwzPRB7YT81Z4Y7lJvsrXOJQMlG1TGjQv2RALOi83Op39YAZt0DmVQ6JrZFvoNp00REziNlMLNZgYmF7GGzZ0YvQH9Pp4DD2jBFL576KZ5r4FjYpE4lPOzhY7gY6w91NslR7qEVJQ4fj6Ex1rkKYTBV9RX3YgLf2LZp7ZQ05uMG
+    parentId: PE07W4JwBPFn5A24nPJnf2NLQLP
+    postId: roP8Vq5M0yHmkmx3G54gfPW9Wq68ZLCQV9BJMX0Kh0z4kNLxqktAQO6N
+    factor: 1.40
+    portrait: 1
+    mInfo: GyojCnGUUieszpF
+  - id: oM1jirJ
+    name: 9Nq1YJMoEqCjDj93POM0frjLP1l
+    description: ""   
+    height: 720
+    width: 493
+    type: image/jpeg
+    link: https://i.imgur.com/oM1jirJ.jpg
+    prevLoc: gjx8wB4mD7hByPPv6mAlfD74JgRD70hNDYpwkp54Cm6AOM2rjvipZ40qpVpWhRyQMV5AKPuOLNJz1K3GiWqnQXWJM3c9v1yl2p8qilM7nwNvwlUVQK5JgpAysKxWv8Z297tvYvZ7gLPNTo737WMBOGCN6WKzrWmPhqgp8qm57xtX116r7VpBsBYqJyywPEhyNgMx2J2MtPR1BQxoZJT2E0klWw7rhQ7yKRg8POIDNqO7QgzjTxnyBNEzgZHQwOpEyq5Js9M
+    parentId: PE07W4JwBPFn5A24nPJnf2NLQLP
+    postId: roP8Vq5M0yHmkmx3G54gfPW9Wq68ZLCQV9BJMX0Kh0z4kNLxqktAQO6N
+    factor: 1.46
+    portrait: 1
+    mInfo: 6QKiAzT18ScaAi3
+message: "恭喜🎉🎉🎉🎊🎊🎊  
+第六回 國際錦鯉幼魚品評會  
+金獎 Gold Prize  
+30部 紅白  
+獲獎魚主;張 宸嘉  
+生產漁場;野上養鯉場  
+出品代理;成田養魚園  
+經銷代理;華錦顧問股份有限公司，忠育水產養殖工作室。  
+  
+Congratulations 🎊🎉🍾   
+The 6th International Junior Koi Show  
+Gold Prize 30bu Kohaku  
+Owner; Paul Chang - TAIWAN  
+Breeder; Nogami Koi Farm  
+Handled; Narita Koi Farm  
+Agency; Huajin consulting Co., Ltd. (IKI Taiwan) , Jonny Koi.  
+  
+#第六回國際錦鯉幼魚品評會  
+#The6thInternationalJuniorKoiShow"
+---
+
+恭喜🎉🎉🎉🎊🎊🎊  
+第六回 國際錦鯉幼魚品評會  
+金獎 Gold Prize  
+30部 紅白  
+獲獎魚主：張 宸嘉  
+生產漁場：野上養鯉場  
+出品代理：成田養魚園  
+經銷代理：華錦顧問股份有限公司，忠育水產養殖工作室。  
+  
+Congratulations 🎊🎉🍾   
+The 6th International Junior Koi Show  
+Gold Prize 30bu Kohaku  
+Owner: Paul Chang - TAIWAN  
+Breeder: Nogami Koi Farm  
+Handled: Narita Koi Farm  
+Agency: Huajin consulting Co., Ltd. (IKI Taiwan) , Jonny Koi.  
+  
+#第六回國際錦鯉幼魚品評會  
+#The6thInternationalJuniorKoiShow
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/H4Stq1Z.jpg"><img src="https://i.imgur.com/H4Stq1Z.jpg" height="300" width="210" /></a> 
+  
+
+<a href="https://i.imgur.com/3AUHkIX.jpg"><img src="https://i.imgur.com/3AUHkIX.jpg" height="195" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/YkkGJDa.jpg"><img src="https://i.imgur.com/YkkGJDa.jpg" height="300" width="215" /></a> 
+  
+
+<a href="https://i.imgur.com/oM1jirJ.jpg"><img src="https://i.imgur.com/oM1jirJ.jpg" height="300" width="205" /></a> 
+ 
