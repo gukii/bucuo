@@ -1,0 +1,106 @@
+---
+layout: post
+title: "前一陣子有魚友問我" 
+date: 2018-04-03T00:29:06+0000 
+categories: ["錦鯉"] 
+media:
+  - id: jjIBonw
+    name: 5z0DBJRGJyC1ZX7jDByMUxP27P
+    description: "錦鯉缸養"   
+    height: 404
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/jjIBonw.jpg
+    prevLoc: JgYz0Vw3KEunwppkO1q8hMO9njxMOrTK7OL93Lkjcp4LQYAxkrSwxrVlw3wXIwyBzK1LJQF1E9J3Nm56tvrpKLPVxVfNy39YP8vwt204gJXlYqfz399O8ANXCDV7vBoXA3SmgrA6vWLofY2x6mQYwrhJ136m19QKhpNPyA55g0fXqQ58099vSY2nV4Yw87uDJ7gBE9EXTXzRE2ZZkXfyzwDZP5lKF2Wv1m9jL3u0vQNB3jRNfO1pDrRp9VSr7JDPM74V
+    parentId: rl73jym4y0TmYR9VA6ZZIjDom8
+    postId: 43lQGvwY8Ei8D8rAvpRXS4nYngz7m3i5Q0Gr0EKWSyqz54AmREU27Lyg
+    factor: 1.78
+    portrait: 0
+    mInfo: 8L8cHOakwXlaNlg
+  - id: 38fDLqd
+    name: LVBqjMvyM9i2RzEqr97xujJo8l
+    description: "戶外土塘錦鯉飼養"   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/38fDLqd.jpg
+    prevLoc: vBYRPX4GxmIl8OOJ127Wf45VWGm45xsry9RjlRVnS3EropJAjMuXLjD6XnXvIzB4WXRMj1FXkDLYQ9Gqf7w7LXQ1VnSXrOY001JVUDjz8Vgknxi03KEO4wGphWrXOLALpGCADBNz4GGxf5L1WW6DD5uYo2j26VvZcznEYQPPqOf0Q8gAEOO3FAQl8jAkGDtnm419zOWzhpVB0L1570tNRWg65lVrsjr9pN85gxf0OrrY1Q3MfK1jDWBjg9i8VPprwl0V
+    parentId: rl73jym4y0TmYR9VA6ZZIjDom8
+    postId: 43lQGvwY8Ei8D8rAvpRXS4nYngz7m3i5Q0Gr0EKWSyqz54AmREU27Lyg
+    factor: 1.78
+    portrait: 0
+    mInfo: cr09qkX1lwe22Vr
+  - id: x4si39c
+    name: KVEpgKLxKrikr3km9LnDtp7AKQ
+    description: "全日本錦鯉振興會舉辦-全日本総合錦鯉品評會"   
+    height: 720
+    width: 523
+    type: image/jpeg
+    link: https://i.imgur.com/x4si39c.jpg
+    prevLoc: MlENLYz3K7IJ3xxpPRq5uL1XNlvL1rTWjMkKZkD5hgKQXy7jnAcM5gmzM7MDcg2LY7xQvqi7PEjJGoqYS835POAJ6LUPQl7PjnM7hAKDkqjx7wh20xxoOJ5oiywENLgzxVtRWNL3g9MQcJVovm85yYiR1LL6z3ZphKxzlo99k5FEP5k1Q22wcBxKOwBKwVimwBmJMG6QuYX1MENw8Au6k7rWM8M0sX7jjl7AOMsM0q9B85A7hvY68Nj6PmFPMZm5zpAg
+    parentId: rl73jym4y0TmYR9VA6ZZIjDom8
+    postId: 43lQGvwY8Ei8D8rAvpRXS4nYngz7m3i5Q0Gr0EKWSyqz54AmREU27Lyg
+    factor: 1.38
+    portrait: 1
+    mInfo: p4vwLfOUhh5tKbA
+  - id: oEt59EY
+    name: xrj3pO24OkHjQq9BE0zoURBwpN
+    description: "全日本錦鯉振興會舉辦-國際錦鯉幼鯉品評會"   
+    height: 720
+    width: 504
+    type: image/jpeg
+    link: https://i.imgur.com/oEt59EY.jpg
+    prevLoc: ZBwv2lQ7GZIjgPP1vD5MuOP6m45OPWsGLxqNVq64cR9vZK8VYmiDAgNwDBDZTQxZKpWJGMU4WrzJjQD1cVgKYXmlOySxyWg37YKgtX9RZBjnkwtYprrP3GWvsj16WygQ9gh4rO6jYpwXFW1EX1zjA2C5BARm2A25CxEZmg2g8WC8wKz3XNwrtvBywZBVMlSVO7gAZKkXirpvWLpvKZsojgYoNGWDiXNv4MwAlohpgVJw45gwtEBjv22RZwUO01yJZ
+    parentId: rl73jym4y0TmYR9VA6ZZIjDom8
+    postId: 43lQGvwY8Ei8D8rAvpRXS4nYngz7m3i5Q0Gr0EKWSyqz54AmREU27Lyg
+    factor: 1.43
+    portrait: 1
+    mInfo: uDFoxX8W7iu3L1B
+  - id: CyjQ6aH
+    name: 9EXKJRDMRrcjYoO6rMG0SPnpl1
+    description: "全日本錦鯉振興會舉辦-錦鯉全國若鯉品評會"   
+    height: 720
+    width: 508
+    type: image/jpeg
+    link: https://i.imgur.com/CyjQ6aH.jpg
+    prevLoc: 5plV2qGNwATl9ggy8xZ0fK8LjrXK8gH31MOBqOnmFomzOxQ9KLhj9Y1JjxjEiR7N31nwMXumLEJk7qBPi9EAKzVk47hV5KKozYx4FvADrxpPo8Hm12grQEprhMPWQL1Xq8iQpwPkyKpxCpM85lnnjMSJBxzE60EwfkZ6VBJJEjtMlQ4z3PPjTpKNmMp90kuZrxrW7vDRi7oZMNr4p4cY7xLMY2EmfLGQYLK5m7HPXKo6Bgqkf6Xxl7AxLDcGwGQjxk8R
+    parentId: rl73jym4y0TmYR9VA6ZZIjDom8
+    postId: 43lQGvwY8Ei8D8rAvpRXS4nYngz7m3i5Q0Gr0EKWSyqz54AmREU27Lyg
+    factor: 1.42
+    portrait: 1
+    mInfo: out3AgzRIvYuhzw
+message: "前一陣子有魚友問我，日本進口魚跟國產錦鯉該如何區分？  
+也是，總不能叫魚兒起來回話，看他說中文還是日文吧！  
+  
+喜歡可愛漂亮的錦鯉，是支持國產的好還是買日本進口的？因為聽說日本產的比較厲害！  
+  
+利用零散的時間寫了一篇文章跟大家分享，如有不周全錯漏的，還請多多指正^_^  
+  
+https;//www.facebook.com/twkoiqueen/posts/771126043090686"
+---
+
+前一陣子有魚友問我，日本進口魚跟國產錦鯉該如何區分？  
+也是，總不能叫魚兒起來回話，看他說中文還是日文吧！  
+  
+喜歡可愛漂亮的錦鯉，是支持國產的好還是買日本進口的？因為聽說日本產的比較厲害！  
+  
+利用零散的時間寫了一篇文章跟大家分享，如有不周全錯漏的，還請多多指正^_^  
+  
+https://www.facebook.com/twkoiqueen/posts/771126043090686
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/jjIBonw.jpg"><img src="https://i.imgur.com/jjIBonw.jpg" height="168" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/38fDLqd.jpg"><img src="https://i.imgur.com/38fDLqd.jpg" height="168" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/x4si39c.jpg"><img src="https://i.imgur.com/x4si39c.jpg" height="300" width="217" /></a> 
+  
+
+<a href="https://i.imgur.com/oEt59EY.jpg"><img src="https://i.imgur.com/oEt59EY.jpg" height="300" width="210" /></a> 
+  
+
+<a href="https://i.imgur.com/CyjQ6aH.jpg"><img src="https://i.imgur.com/CyjQ6aH.jpg" height="300" width="211" /></a> 
+ 
