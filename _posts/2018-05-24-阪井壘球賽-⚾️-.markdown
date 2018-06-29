@@ -1,0 +1,68 @@
+---
+layout: post
+title: "阪井壘球賽 ⚾️ " 
+date: 2018-05-24T07:11:50+0000 
+categories: ["Sakai"] 
+media:
+  - id: krOvptj
+    name: XlgLVMr67LF9YygoAJN1Tl5NX3n
+    description: ""   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/krOvptj.jpg
+    prevLoc: mp28DL4v07TMl11VXAj5s1Dkwj81D6C42orB8rNZu8lwXmgOzWHLDxVqLzxJFO7jKnB9wwUnyXDlNqqwtJoJKx8oPKUr9pOynyjou7EVpVZLMLujg1ZY3gmmto2oWPoGmNuRg66gG1y1fqnQWp4rj8cAQLnlyzqAC9AORqXnnZcOoxl8D9PKHpDLB1zo13hRgwWDnnGgUqoNxnAXpLfXAgXxAQZDC1pZGN83N1srmkk50X86IgW8nj02JwULy6NP2Jp7inZQBP
+    parentId: 9Nq1X2D8p1hOBklXWBo2urlLAGD
+    postId: xxYnLz57GOfX7XZq32PYs9KoKp0GjAsBpYGYv1K1T7Lj3AgOy5i51jOO
+    factor: 1.78
+    portrait: 0
+    mInfo: JQHH0X3wMVfmoXY
+  - id: iw3s6rP
+    name: 3XkQJ9yljQu4l6lNZ3GJuJ4k22Q
+    description: ""   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/iw3s6rP.jpg
+    prevLoc: JgYz0Vw3KEunwppkO1q8hMO9njxMOrTK7OL93Lkjcp4LQYAxkrSwxrVlwEr3IwzEMvP611hvKrjJQVV9Hvwv50OWg8uNY1KVk0PnHrPV4VzK9Kfz14QZ0DOzuLyrGDM20YFmgn7A2BOPsYXMDyXNrMIJzXA5ynVNfpEG8LAqqjCXq7KERnyzUmlP4Or5OzT5owgyvYjPuX9gmlLqNOir3NVPJR8ouAEy4RAL7Auj9096EQ2MsJj7wPr1p3tQk3qjvn2OtopA2Z
+    parentId: 9Nq1X2D8p1hOBklXWBo2urlLAGD
+    postId: xxYnLz57GOfX7XZq32PYs9KoKp0GjAsBpYGYv1K1T7Lj3AgOy5i51jOO
+    factor: 1.78
+    portrait: 0
+    mInfo: D96uqDmTzwSH0Rn
+  - id: KBLryc9
+    name: jKEZJn02vZiOqMwVEAEZF6DLmBY
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/KBLryc9.jpg
+    prevLoc: Vx5oX8M32JTZy00VB5xlhPkoxwBPkYFR5qK4rK83c5xVBj6n8vI6Yjxq656Du2nXZNjB4WTy3RLnGEXmt5DyvGMwk6Sow32N37D2hr0q26l6nMsXzRYON7pZFJnoAqlZrJsVrE2VXnxmu5kLA9noRNTRyloMmGZBt0kOM0mAY4sv88W9NVMliEBmKyy1pxignBnMGEVGIBDn8vglZDFAr4n5Ly9msXZvvRjKw2SJyOOxxExJCp179O6BAJHK8mY894lGu4O
+    parentId: 9Nq1X2D8p1hOBklXWBo2urlLAGD
+    postId: xxYnLz57GOfX7XZq32PYs9KoKp0GjAsBpYGYv1K1T7Lj3AgOy5i51jOO
+    factor: 1.33
+    portrait: 1
+    mInfo: i52y5Ss7lyRtKfS
+message: "阪井壘球賽 ⚾️ ☀️🍦  
+Sakai Softball game!!!  
+  
+阪井養魚場每年一次的壘球賽，全體員工都參加，今年有台灣代表插花，幸好有打到球⋯⋯⋯哈哈哈哈哈！  
+等等是BBQ 烤肉趴⋯⋯⋯補充熱量～(≧∇≦)"
+---
+
+阪井壘球賽 ⚾️ ☀️🍦  
+Sakai Softball game!!!  
+  
+阪井養魚場每年一次的壘球賽，全體員工都參加，今年有台灣代表插花，幸好有打到球⋯⋯⋯哈哈哈哈哈！  
+等等是BBQ 烤肉趴⋯⋯⋯補充熱量～(≧∇≦)
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/krOvptj.jpg"><img src="https://i.imgur.com/krOvptj.jpg" height="168" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/iw3s6rP.jpg"><img src="https://i.imgur.com/iw3s6rP.jpg" height="168" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/KBLryc9.jpg"><img src="https://i.imgur.com/KBLryc9.jpg" height="300" width="225" /></a> 
+ 
