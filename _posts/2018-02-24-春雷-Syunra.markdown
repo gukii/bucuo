@@ -1,0 +1,60 @@
+---
+layout: post
+title: "春雷 Syunra" 
+date: 2018-02-24T13:24:02+0000 
+categories: ["KoiFarm","新潟","Marujyu","丸重","錦鯉"] 
+media:
+  - id: 1Z8mrqL
+    name: mjKQoYM5wAFq9yyA4JrDtJoG0Ar
+    description: "http;//www.wired.co.uk/article/wine-accessories-gadgets-uk"   
+    height: 539
+    width: 405
+    type: image/jpeg
+    link: https://i.imgur.com/1Z8mrqL.jpg
+    prevLoc: 1lYEXmAJpVIZGnnrgkMph91EWgv91xugB2XkpXP0srwjYE0R3BHM46pAMNMRcE0Lx8036lHDkKq20Yxqf1Jp5P83yKS4koom5qWBIBjqprp2kPs5z5oglV8qum075LvRPLC2AAZr1EOoUG91XD616GCjLWg969QlTwz2KNgQzkcV8BoxDRQyc3DzkAMZjyHDW1JLVxzoF8L0n4YElwHXPZL0QgE1sjz3mzJWDWUvKmRXXj1Osjl4gr3
+    parentId: ZnkVJzm145tjNVDEWrB2U07DBwR
+    postId: jKEZ6gMO27IOBOg1v7ZWH9lDlk2AoMsYQZ4Nvlp8tzDxPAEvPES4Gqwl
+    factor: 1.33
+    portrait: 1
+    mInfo: RBzaaJOUn5mUBek
+  - id: Hfdgofk
+    name: YmjvGylL4lcXLnNQEN0quvBOWE2
+    description: ""   
+    height: 720
+    width: 504
+    type: image/jpeg
+    link: https://i.imgur.com/Hfdgofk.jpg
+    prevLoc: PoMgO2D3K6C6XvvBgoK4CMrpQOKMr5TpwBv2lvK5ImPnkYzJ6Zi2Jr7j2p28ulpOR069MqIMNRWJq5j9trprLD4ZwvFExQLOrZXvswJ7gQE9vwszgEL9yDRYIGM9LEPKogcnDvVPJKG4CMXGR8BEZVSBDm5W7VnGsryL2rmO51IkYYoZ0yVAtk7BO55mL8ipoWAE94wlTPp03qE0WjUJ0rZyAkGPhVD3LPn1PxhOPJnqlJJXtnXPqzrj96tE47PM3N9MIDw
+    parentId: ZnkVJzm145tjNVDEWrB2U07DBwR
+    postId: jKEZ6gMO27IOBOg1v7ZWH9lDlk2AoMsYQZ4Nvlp8tzDxPAEvPES4Gqwl
+    factor: 1.43
+    portrait: 1
+    mInfo: dRTfCqfhzPZ7yNL
+message: "春雷 Syunrai ！！  
+只有兩隻喔～～  
+相較於一般藍衣、葡萄衣，春雷是有灰白的底色搭配葡萄衣的模樣。  
+  
+小魚現在不是很明顯的灰白底色，慢慢長大會越來越明顯^_^ 灰白底色配酒紅色，很特別！  
+  
+#第22回銘血と伝統の祭典  
+#新潟県錦鯉拍賣會  
+#丸重養鯉場MarujyuKoiFarm"
+---
+
+春雷 Syunrai ！！  
+只有兩隻喔～～  
+相較於一般藍衣、葡萄衣，春雷是有灰白的底色搭配葡萄衣的模樣。  
+  
+小魚現在不是很明顯的灰白底色，慢慢長大會越來越明顯^_^ 灰白底色配酒紅色，很特別！  
+  
+#第22回銘血と伝統の祭典  
+#新潟県錦鯉拍賣會  
+#丸重養鯉場MarujyuKoiFarm
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/1Z8mrqL.jpg"><img src="https://i.imgur.com/1Z8mrqL.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/Hfdgofk.jpg"><img src="https://i.imgur.com/Hfdgofk.jpg" height="300" width="210" /></a> 
+ 
