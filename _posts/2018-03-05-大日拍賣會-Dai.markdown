@@ -1,84 +1,82 @@
 ---
 layout: post
 title: "大日拍賣會 Dai" 
-date: 2018-03-05T01:54:56+0000 
+date: 2018-03-05T01:38:14+0000 
 categories: ["Auction","Dainichi","大日"] 
 media:
-  - id: KVvEUiE
-    name: EpJ95KjEAncj6oGymPy7C87mEXp
+  - id: 6a3B4Ho
+    name: GrL5jwlJD3S9LyD1Q8MgUGwoqx8
     description: ""   
-    height: 405
+    height: 540
     width: 720
     type: image/jpeg
-    link: https://i.imgur.com/KVvEUiE.jpg
-    prevLoc: QpNjP3E9KATRPBBnV3k6TZA2vXzZANhxXJym9yNAhjw1Erq9LRt9PwVz9GwoIzOrV6D4XXiKxn3olLLRhrkr1EOg4BU614oWW5D1FWJEN2nAPDuzG07Kg3R8HZVrJRKMZpcrkjj1NZm3TVxYPGwyALcDAr8oDBwkC6Jy47gxxqUE1wONJLD7C9YVRorAoNixmjQEvqr9SpB386o8pNiEq8LBME99tDQr5WANO9TP4RqzOO8jcykJwj4VPYs6ZQvVRpJzTzOLDy
-    parentId: 1Ngr8VyO2KFXkggnZnmkI01J6gg
-    postId: EpJ8WXv6lrCqvqBoNQkESRvEv5kg7ySkgVwWrK1xtlJ1yqAjJQcg3yBG
-    factor: 1.78
+    link: https://i.imgur.com/6a3B4Ho.jpg
+    prevLoc: gjx8wB4mD7hByPPv6mAlfD74JgRD70hNDYpwkp54Cm6AOM2rjvipZ40qpVpWhRy73yz25rIOLNJ7YqR2SPZPyx6kYZc968q31N3vH728zwpRkWtY2WGw8EoqtKRAY8RpJVFvA5jR8QNPF6lGrlRR1MCNGE9q38Q2hqgp8qm57xtX116r7VpBsBYqJyywPpsWv9gzZNlxs68kAq7nmNTQn9wkvvjzFNoXknM46rfDWZ2yzkzXfm5Q93qoWQhQwBxERlZQiAB
+    parentId: NBV9q7vgN3CpMv678pkKcGpwEBy
+    postId: ZnkYrGym4qSjkjznp3XJUw4Y41RAgMIEnq2QkpEmTZQ77Dx7oJhER4Ap
+    factor: 1.33
     portrait: 0
-    mInfo: 2wW6U5VXRUeYJCu
-  - id: KbrwDdl
-    name: 54m95ADk6OF1xzGgQ58yt1qD62M
-    description: "體型-質地-模樣"   
-    height: 700
-    width: 525
+    mInfo: VaWEoGR7iq6atnw
+  - id: Tbn2MiB
+    name: NBV9q7vgN3CpMnO082loUGpwwmZ
+    description: ""   
+    height: 720
+    width: 540
     type: image/jpeg
-    link: https://i.imgur.com/KbrwDdl.jpg
-    prevLoc: 1lYEXmAJpVIZGnnrgkMph91EWgv91xugB2XkpXP0srwjYE0R3BHM46pAMNMRcE0Lx8036WSDkKzN0DWqT1Jp5voYKET4mLKM1Dg3IBLVWGYBzGF5zMO1VgvkH9N0rX7kxrhn5oo8BN32UG91XD616GCjLWg969QlTwz2KNgQzkcV8BXEnQmBFZE5qwLNENIvAV989gz2f8j52B06RMt4qw4GqZ0Lfl63Y9vO0RCvKmRXXj18s049voE
-    parentId: 1Ngr8VyO2KFXkggnZnmkI01J6gg
-    postId: EpJ8WXv6lrCqvqBoNQkESRvEv5kg7ySkgVwWrK1xtlJ1yqAjJQcg3yBG
+    link: https://i.imgur.com/Tbn2MiB.jpg
+    prevLoc: MlENLYz3K7IJ3xxpPRq5uL1XNlvL1rTWjMkKZkD5hgKQXy7jnAcM5gmzM7MDcg2LY7xQvqi7PEjJGoqYS838N3NK2WHPp5kZExqMFMrzO2vqgQU2yvvw1DQksOW2AGWKzGIRWNWzMBmGCJQzor8O7QFzQ1n8nOl2FKQPYKkgmlFEDDBQzmoLCBk6RAAW04f5q4q0WnvGHYv7l3z3p9HRBL61V2RlC0noPvx1jgCM4lZRn7M4ty06gOlAYGuPp0P7nn0jCRq
+    parentId: NBV9q7vgN3CpMv678pkKcGpwEBy
+    postId: ZnkYrGym4qSjkjznp3XJUw4Y41RAgMIEnq2QkpEmTZQ77Dx7oJhER4Ap
     factor: 1.33
     portrait: 1
-    mInfo: TFq9BAKG1AyfA3V
-  - id: GL5KA4x
-    name: roPRwg3rJzIO1zvo32nPhMEXjWE
-    description: "模樣-體型-質地"   
-    height: 700
-    width: 525
+    mInfo: P7t0wIGqOpyn2u1
+  - id: 1ZJkUai
+    name: RJZox8zmR3HXgKM5NVPjH34229m
+    description: ""   
+    height: 540
+    width: 720
     type: image/jpeg
-    link: https://i.imgur.com/GL5KA4x.jpg
-    prevLoc: q0V6KP4zpAI2NLLgBz8OuKr4YGkKrAHVOW6YK6wMHzy7XQ18AWinwryAnYn6h5LO0nLPo3h4KErjjOAktG6PLnjk2lSvojQnwqAmuVAPyKj3YJSOAANLBlgkf14DJAk2KlSZGqrow788CwGDPY5D5wT5pv1WgW2MC38OJ05E8ZuDWP1LEzDYh5Bwo0gPqqHnK3LNJjLAFrk15G9gqpfnpKJM52GAfg5o4o6VMvIy09v88pgLiLRnR3m
-    parentId: 1Ngr8VyO2KFXkggnZnmkI01J6gg
-    postId: EpJ8WXv6lrCqvqBoNQkESRvEv5kg7ySkgVwWrK1xtlJ1yqAjJQcg3yBG
+    link: https://i.imgur.com/1ZJkUai.jpg
+    prevLoc: YAQr1kP3YVc9lkkKYNL3ToZWQmNoZ5IPrwoZJoK0cvnzol3MRmHgP3OZgrgLTPGA5G1j0BIWMK87JpOgt898zXRoKoIK72M4X5k0tLKoE754y4U9JnnN5PYyF2Aj5Wk61ncNy66ELz5PTkQYqnGR3gUxwj7MMvjGt4pXY4VLv9s7RR1qvw4NH74PDrrwy0sEwPQ53n89iQNlZOBnWwUKWoVvoz2puAmpWvvrmNFJ3nDlZqJzCPvn9A7zR1i4kol7QA7gt4W
+    parentId: NBV9q7vgN3CpMv678pkKcGpwEBy
+    postId: ZnkYrGym4qSjkjznp3XJUw4Y41RAgMIEnq2QkpEmTZQ77Dx7oJhER4Ap
     factor: 1.33
-    portrait: 1
-    mInfo: tRJsmdEOZfYHuoy
-  - id: BEUtDBo
-    name: 6NnR5YElgPFJ1vEREYRmhPLPXWW
-    description: "質地-模樣-體型"   
-    height: 700
-    width: 525
+    portrait: 0
+    mInfo: vYpN3FUv6iNMrBX
+  - id: OTBlRM2
+    name: EpJ95KjEA3Uj6AvAKMVqh8En6Wz
+    description: ""   
+    height: 540
+    width: 720
     type: image/jpeg
-    link: https://i.imgur.com/BEUtDBo.jpg
-    prevLoc: YAQr1kP3YVc9lkkKYNL3ToZWQmNoZ5IPrwoZJoK0cvnzol3MRmHgP3OZgrgLTPGLR3G7kjs7131VgNlJf8DX6WVxpJIor4BPBVPnhpwLQWZP20TQkZ60WQJYtYjYM6okgZhNBlGE1XNMtK5wOWqwqKTYAKw0z01OUQ76GKgz7oU5yrDNZK9YTv9XLw7pVJtXLAngY9QgCQyQLkMqzYCj3YrkD8vNFA5KgE18P5iJ9EqZZGqyIly1lDV
-    parentId: 1Ngr8VyO2KFXkggnZnmkI01J6gg
-    postId: EpJ8WXv6lrCqvqBoNQkESRvEv5kg7ySkgVwWrK1xtlJ1yqAjJQcg3yBG
+    link: https://i.imgur.com/OTBlRM2.jpg
+    prevLoc: DLY6yMn3ZwIxAjj7pn5Bszk0vGPzkYsmw1ZRGZOYFrLK42NEWRHEGNZmEnE3TNgmLgq7yOFm7xnNY3RZSWkWxwmABXuLOWZm4WwouBq3GmNPy6HXQ9l76Vp4TV4wWvAqWliyQ9QopJMmsDkLz2B0nYHYVMM7mZZock4nYk7mZBHnKKZov3VEhnGKLrrmMYHVB7rDZWO1sj0m5ZWJwPuWr84oWMZVt82VVDXyBOiEwL6wJG2vuW8Yx7KqDBUP7l9qVORVTjN
+    parentId: NBV9q7vgN3CpMv678pkKcGpwEBy
+    postId: ZnkYrGym4qSjkjznp3XJUw4Y41RAgMIEnq2QkpEmTZQ77Dx7oJhER4Ap
     factor: 1.33
-    portrait: 1
-    mInfo: HcUkYQxvCbfmrJJ
-message: "大日拍賣會 Dainichi Auction  
-三美！體型、質地、模樣，各有千秋！  
+    portrait: 0
+    mInfo: THBVxRWZqfLKbL5
+message: "大日拍賣會 Dainichi Auction!!  
   
-#大日拍賣會  
+#大日養鯉場  
 #DainichiAuction"
 ---
 
-大日拍賣會 Dainichi Auction  
-三美！體型、質地、模樣，各有千秋！  
+大日拍賣會 Dainichi Auction!!  
   
-#大日拍賣會  
+#大日養鯉場  
 #DainichiAuction
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/KVvEUiE.jpg"><img src="https://i.imgur.com/KVvEUiE.jpg" height="168" width="300" /></a> 
+<a href="https://i.imgur.com/6a3B4Ho.jpg"><img src="https://i.imgur.com/6a3B4Ho.jpg" height="225" width="300" /></a> 
   
 
-<a href="https://i.imgur.com/KbrwDdl.jpg"><img src="https://i.imgur.com/KbrwDdl.jpg" height="300" width="224" /></a> 
+<a href="https://i.imgur.com/Tbn2MiB.jpg"><img src="https://i.imgur.com/Tbn2MiB.jpg" height="300" width="225" /></a> 
   
 
-<a href="https://i.imgur.com/GL5KA4x.jpg"><img src="https://i.imgur.com/GL5KA4x.jpg" height="300" width="224" /></a> 
+<a href="https://i.imgur.com/1ZJkUai.jpg"><img src="https://i.imgur.com/1ZJkUai.jpg" height="225" width="300" /></a> 
   
 
-<a href="https://i.imgur.com/BEUtDBo.jpg"><img src="https://i.imgur.com/BEUtDBo.jpg" height="300" width="224" /></a> 
+<a href="https://i.imgur.com/OTBlRM2.jpg"><img src="https://i.imgur.com/OTBlRM2.jpg" height="225" width="300" /></a> 
  
