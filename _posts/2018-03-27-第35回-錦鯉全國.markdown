@@ -1,44 +1,57 @@
 ---
 layout: post
 title: "第35回 錦鯉全國" 
-date: 2018-03-27T03:13:59+0000 
+date: 2018-03-26T23:06:53+0000 
 categories: ["KoiShow","Sakai","IKI","華錦","Koi ","錦鯉"] 
 media:
-  - id: Oqxo5G8
-    name: olMVXW8QPGUmrOVw5m97fRoXP4n
+  - id: lspMEbF
+    name: Vj4AnzlnyrI8Pjk63W0JSpPzYVk
     description: ""   
     height: 720
     width: 504
     type: image/jpeg
-    link: https://i.imgur.com/Oqxo5G8.jpg
-    prevLoc: DLY6yMn3ZwIxAjj7pn5Bszk0vGPzkYsmw1ZRGZOYFrLK42NEWRHEGNZmEnE3TNg3J5ykD0Tm7xngEo5jiWkoAl0gn2cLG630NG4NHByk7ZBE06UXQoRLDrJWIV2gjvwxPMSypgV0OP8pTZ5Rl5X5yPHQqmlOnYoGck4nYk7mZBHnKKZov3VEhnGKLrrmMYHVBZNXVlqXfY9Xgz4P5zsMYEZZEjLQC6GRgkOP1Acnxoz7D0p0tZgwV1RMz6fP7BjJln21cGv
-    parentId: NBVLWoX9RMip04YjNOoPTGk1pzW
-    postId: lgJxEkLMOjsMVMLqvB6QiWMOM6DzojhkKXjl5203Uv8QQr0r1WUgR4k3
+    link: https://i.imgur.com/lspMEbF.jpg
+    prevLoc: MlENLYz3K7IJ3xxpPRq5uL1XNlvL1rTWjMkKZkD5hgKQXy7jnAcM5gmzM7MDcg2LY7xQvqi7PEjJGoqYS835POnkPKCPpB9p6kjKsAWA1gXOZpU20NqzGVQkTjY9Gmrm7oFDjg6kBYvJiM7J594KEJuzr8woGD8gTKQPYKkgmlFEDDBQzmoLCBk6RAAW4WU54nPy04k6uRO8R02Vjjf9rp6XqYpzUy6py9RPD1tMVBK5Nl34Cy06gOlAYGuPp0P3g9pPSRE
+    parentId: olMVXW7X9KumoEOklEKBIRXZ0yO
+    postId: kLG8XjKO59SwKwg3pMoxH7MvMAG5B0iNJzJmQGzwTLVNDGmKAKCpOGDO
     factor: 1.43
     portrait: 1
-    mInfo: deWi15PiEfdrYf0
-  - id: 3ugeVg9
-    name: zz1vYgQKoWSzM5Yqn3VnSLwz63l
+    mInfo: e7lZusSagcSo0Dg
+  - id: pNwfdFF
+    name: 54mQKo3KExI1WYxQlRmxs1OyY7V
     description: ""   
     height: 720
-    width: 538
+    width: 540
     type: image/jpeg
-    link: https://i.imgur.com/3ugeVg9.jpg
-    prevLoc: gjx8wB4mD7hByPPv6mAlfD74JgRD70hNDYpwkp54Cm6AOM2rjvipZ40qpVpWhRyQMV5AKPuOLNJz1K3GiPZWDKVMD1h9mRWg3LJ3F7kXK07LMESY2Bj35nm7CKnjgEnPZ3hvRkMWVj2BhoLx636rxqCNAA430V0PFqgp8qm57xtX116r7VpBsBYqJyywE0TW0rJV9MwjtOZox4QY2EiLADqrY8zgcQ74Bq7jPPiDnKygo8p3sgkJyvQxBYUQwOpEo6Art9M
-    parentId: NBVLWoX9RMip04YjNOoPTGk1pzW
-    postId: lgJxEkLMOjsMVMLqvB6QiWMOM6DzojhkKXjl5203Uv8QQr0r1WUgR4k3
-    factor: 1.34
+    link: https://i.imgur.com/pNwfdFF.jpg
+    prevLoc: rxEBLQ4AqgTmZwwyM18AuoN23WnoNAInV48m68MBCjxBWq81Mzt6PK706j65uvOLNyQqAlT769yJK4k8SDjgE7vGoXIoyOWJrYZ8u1g1zvBMG6fOx90pxv7GtWpPYngnY4fpqN6Qx1EjiL4EQlyVPqU8rZnzpvA7iOlwBORjZgIR11jOr67PHknOwMMov5uVrzDlp0lzCoQ57B36pDi8JyyV3pBpi14jroPPJWTqlRlEDE59Ikpn34741LinrVvV0Mpkir5
+    parentId: olMVXW7X9KumoEOklEKBIRXZ0yO
+    postId: kLG8XjKO59SwKwg3pMoxH7MvMAG5B0iNJzJmQGzwTLVNDGmKAKCpOGDO
+    factor: 1.33
     portrait: 1
-    mInfo: 07J641BZOvLd4QH
+    mInfo: ZIz9T0ISWX6bbJh
+  - id: NBu5Wo2
+    name: GrLvWNgW7xc9LZ0q8g7GCGE69mr
+    description: ""   
+    height: 720
+    width: 384
+    type: image/jpeg
+    link: https://i.imgur.com/NBu5Wo2.jpg
+    prevLoc: ZBwv2lQ7GZIjgPP1vD5MuOP6m45OPWsGLxqNVq64cR9vZK8VYmiDAgNwDBDZTQxZKpWJGMU4WrzJjQD1cVgKY2mAQLfxD9xyJy8oIXgXPrWG4jCYNEqAppJoTq0k87Bv43U2kNAKEDoJIDOlJq6mpvsl1Vm8VpnASM3QpMOKvkh855q1zGQLc6AErNNDBBFVQvkPEj39smyw95yX2jcnO1A08Rg4fXrnVVkOD3ipxQy9xz1MIJrBk41OZVC8Y4X8JA96TyA
+    parentId: olMVXW7X9KumoEOklEKBIRXZ0yO
+    postId: kLG8XjKO59SwKwg3pMoxH7MvMAG5B0iNJzJmQGzwTLVNDGmKAKCpOGDO
+    factor: 1.88
+    portrait: 1
+    mInfo: MrTod6KPGuk1v13
 message: "第35回 錦鯉全國若鯉品評會  
-第43部 紅白類 優勝次席  
+第48部 紅白類 優勝  
 恭喜 🎉🎉🎉  
 獲獎魚主;孫 启義  
 生產漁場;阪井養魚場  
 經銷代理;台灣華錦、蘇州蘇信  
   
 The 35th All Japan Young Koi Show  
-43 bu Kohaku 2nd in Variety and Size  
+48 bu Kohaku 1st in Variety and Size  
 Congratulations 🎉🎉🎉  
 Owner; Sun, Qi Yi  
 Breeder; Sakai Fish Farm  
@@ -49,14 +62,14 @@ Agent; IKI TAIWAN、Suxin Koi Farm
 ---
 
 第35回 錦鯉全國若鯉品評會  
-第43部 紅白類 優勝次席  
+第48部 紅白類 優勝  
 恭喜 🎉🎉🎉  
 獲獎魚主：孫 启義  
 生產漁場：阪井養魚場  
 經銷代理：台灣華錦、蘇州蘇信  
   
 The 35th All Japan Young Koi Show  
-43 bu Kohaku 2nd in Variety and Size  
+48 bu Kohaku 1st in Variety and Size  
 Congratulations 🎉🎉🎉  
 Owner: Sun, Qi Yi  
 Breeder: Sakai Fish Farm  
@@ -67,8 +80,11 @@ Agent: IKI TAIWAN、Suxin Koi Farm
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/Oqxo5G8.jpg"><img src="https://i.imgur.com/Oqxo5G8.jpg" height="300" width="210" /></a> 
+<a href="https://i.imgur.com/lspMEbF.jpg"><img src="https://i.imgur.com/lspMEbF.jpg" height="300" width="210" /></a> 
   
 
-<a href="https://i.imgur.com/3ugeVg9.jpg"><img src="https://i.imgur.com/3ugeVg9.jpg" height="300" width="224" /></a> 
+<a href="https://i.imgur.com/pNwfdFF.jpg"><img src="https://i.imgur.com/pNwfdFF.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/NBu5Wo2.jpg"><img src="https://i.imgur.com/NBu5Wo2.jpg" height="300" width="160" /></a> 
  
