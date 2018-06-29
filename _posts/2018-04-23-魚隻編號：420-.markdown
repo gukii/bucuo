@@ -1,0 +1,74 @@
+---
+layout: post
+title: "魚隻編號：420 " 
+date: 2018-04-23T09:16:34+0000 
+categories: ["大日"] 
+media:
+  - id: eNEdnaP
+    name: W05LoxJ1J6H80xKEO1vvf5oWo12
+    description: ""   
+    height: 700
+    width: 490
+    type: image/jpeg
+    link: https://i.imgur.com/eNEdnaP.jpg
+    prevLoc: jmv5zG4pgAhOmllzE3njhmnqgl0mnvhwnxVKAVNouLjxn1ZOVDiqWxnpqAqkuLPNWKRlYAUR69KJ6Mk8HWNXpMy6yrF1myNnX2J5TQxPNw7GAKSMz6yLpx09uvzY3jq4oLc9jzzoWzppIOyoAKZoZOhqlO4y9y8DfmoMLp1Xo9CyBxK2PoDyI0nApB1yM9Hrk3Vgxn00S147Jq1Ax8UO2Z2KQrVAf7OJ5oP67AcA5qzXX2nGujvRjx3
+    parentId: wwXV7oLxLpInpA9q60jLTO7VRJ5
+    postId: XlgLpXwk6mH989m7zxkwin141lEAPrS2NyXkQ8KvsN0Mkroy0RH2Yz3w
+    factor: 1.43
+    portrait: 1
+    mInfo: Rm4SStAJRyqAzM7
+  - id: G8W1u2Y
+    name: ZnkYrAMgM6iYzx6XK4kRU0QvQXR
+    description: ""   
+    height: 513
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/G8W1u2Y.jpg
+    prevLoc: JgYz0Vw3KEunwppkO1q8hMO9njxMOrTK7OL93Lkjcp4LQYAxkrSwxrVlw3wXIwyBzK1LJQF1E9J3Nm56tp1gPJNZwofxGLq4LY7nC204BN73j6fzGDGx8kE5cLqBm9vDGWSvyJzXkNY4fYRNX3KAX2FJBEEz2R1Yip74ZpgM9yTX22104KMBsYpqQzzl0JsrqoR6ypNYuJ122W56K7Srz881lRNASlpLQOD6MJUQ9G9GD9QXclWGGlxMB3fr7GqNvo8lUkv
+    parentId: wwXV7oLxLpInpA9q60jLTO7VRJ5
+    postId: XlgLpXwk6mH989m7zxkwin141lEAPrS2NyXkQ8KvsN0Mkroy0RH2Yz3w
+    factor: 1.40
+    portrait: 0
+    mInfo: kNt9Jr6l5sHVpsT
+  - id: vgaxqR5
+    name: 9Nq1YJZj0wsOBkwYRmG2FrlLAGR
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/vgaxqR5.jpg
+    prevLoc: PoMgO2D3K6C6XvvBgoK4CMrpQOKMr5TpwBv2lvK5ImPnkYzJ6Zi2Jr7j2p28ulpOR069MqIMNRWJq5j9tDoYyB6JEghE0E0pVnW5CklO5vY8DxF4nBzmERNGFg43mYQrAxi94jjp2Dw0TMpKPMxKjySBzAKzwj0VTryL2rmO51IkYYoZ0yVAtk7BO55mW8fYjrVp7R1jsB0Qgr6QnrsJXVWwLoXNCyRL1vy6ROsO7pNM23BKTnXPqzrj96tE4rOmZW2xIln
+    parentId: wwXV7oLxLpInpA9q60jLTO7VRJ5
+    postId: XlgLpXwk6mH989m7zxkwin141lEAPrS2NyXkQ8KvsN0Mkroy0RH2Yz3w
+    factor: 1.33
+    portrait: 1
+    mInfo: 5XhoQlaoHyq9Z9r
+message: "魚隻編號;420  
+生產漁場;大日養鯉場  
+生產年月;2017年6月(目前未滿一歲)  
+品種類別;昭和三色  
+種魚血統;Super Monster 超級怪獸  
+尺寸公母;40公分 公母未明  
+  
+超級怪獸的系統，質地最迷人了！"
+---
+
+魚隻編號：420  
+生產漁場：大日養鯉場  
+生產年月：2017年6月(目前未滿一歲)  
+品種類別：昭和三色  
+種魚血統：Super Monster 超級怪獸  
+尺寸公母：40公分 公母未明  
+  
+超級怪獸的系統，質地最迷人了！
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/eNEdnaP.jpg"><img src="https://i.imgur.com/eNEdnaP.jpg" height="300" width="210" /></a> 
+  
+
+<a href="https://i.imgur.com/G8W1u2Y.jpg"><img src="https://i.imgur.com/G8W1u2Y.jpg" height="213" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/vgaxqR5.jpg"><img src="https://i.imgur.com/vgaxqR5.jpg" height="300" width="225" /></a> 
+ 
