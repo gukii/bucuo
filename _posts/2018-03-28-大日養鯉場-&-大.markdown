@@ -1,0 +1,114 @@
+---
+layout: post
+title: "大日養鯉場 & 大" 
+date: 2018-03-28T15:29:58+0000 
+categories: ["Auction","Dainichi","大日","新潟","錦鯉"] 
+media:
+  - id: 33tviJ6
+    name: 70o1VqYEpOFR8q1Y8GyOfpXXrOD
+    description: ""   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/33tviJ6.jpg
+    prevLoc: xEV8RZ4KzohXvmmp891Ji6WmxKr6W1h1pWnLEnJZsBlV7O5mYxiGA217GoGnIgN5OBzG46u23mkMy4LpuBYL8NXvBVCZRjrMg7Y4c2o1yEGy8vckVYY0n9Jkuvy9qXALMwI7KEr7jWqgTJjjZNXlZzUL3NvLy5O2cQZ2Xo88GwhPEJ41kXXmUWX4RBW6RKhPJLEB0qRAI7AXBlr6xWioqpDm4n1mC7LrXBy44YuZxLO87RANIovVjEYV1ktovoz52Z1J
+    parentId: XlgLpBqyrnu9817ygjKXfNRRxYQ
+    postId: JxOyWKA7ZGfn6nxLD7gNhoj4jQmN6kIB7ZON6YWzFqlq6YKXKOSJ28Ok
+    factor: 1.00
+    portrait: 0
+    mInfo: f3mcX6l0LPNAwrX
+  - id: o3Vn37Y
+    name: YmjWqDrzy0I9n82ZnqJkukpGjZB
+    description: ""   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/o3Vn37Y.jpg
+    prevLoc: rxEBLQ4AqgTmZwwyM18AuoN23WnoNAInV48m68MBCjxBWq81Mzt6PK706j65uvOLNynM19c769yJK4k8SDjgE7pJZnhLxAG1WPVjIyKmx5lxvgtLNzzvKEjDCV0lkylAX9fPRY5PxEV7ILXwAoWvm0I8ryr7JgQLuOlwBORjZgIR11jOr67PHknOwMMoDKc3kykmOPyDho88zJ3JKrtDP41gJyzwFKmvQDrw54I988lnJpAXsJNnwV1Ng4tnrVPJqykEcl3
+    parentId: XlgLpBqyrnu9817ygjKXfNRRxYQ
+    postId: JxOyWKA7ZGfn6nxLD7gNhoj4jQmN6kIB7ZON6YWzFqlq6YKXKOSJ28Ok
+    factor: 1.00
+    portrait: 0
+    mInfo: qsAmX6wE7DGnnXL
+  - id: FVTwwvG
+    name: NBVLWoXlYpT6ORmGXlOkFGvv9Mj
+    description: ""   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/FVTwwvG.jpg
+    prevLoc: wDE2QY4JynINx0056AGLU78gXMW78jS3xM4kG4D7F659koQgVNHvz4Kov0vGf14ExLX2vVCAm0OkqMg2SlRQYrBnNLURJA3gGQYqU4Ax6DO6qPt6EWWrmX3qIxVKBjzMoPIzRY2W9NmpUgVllRxnX0I7Dw1Qpy9zcnyg1nOA5DFXyy9vAG5rs5JngOOqPqfGz1v4AOLYU05PxEpVKRT3jLEDwqBBTx1gW4Rrg6hrgANXYkJ5HVqEWORnANtpl54X2KwBunD
+    parentId: XlgLpBqyrnu9817ygjKXfNRRxYQ
+    postId: JxOyWKA7ZGfn6nxLD7gNhoj4jQmN6kIB7ZON6YWzFqlq6YKXKOSJ28Ok
+    factor: 1.00
+    portrait: 0
+    mInfo: JxYn7Vp9MlGaKdL
+  - id: AFoVUJz
+    name: LzQ7Wm0jvnc3GA5747QXtV00AnD
+    description: ""   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/AFoVUJz.jpg
+    prevLoc: JgYz0Vw3KEunwppkO1q8hMO9njxMOrTK7OL93Lkjcp4LQYAxkrSwxrVlw3wXIwyBzKok6NT1E9J3Nm56tvrpKBRg92SxGW01NVAKurpjM4EM1zHzD33mBKQJFxkD7l0kXEiv8gK9A1wpIYXMDpyB0JiVG1w5XmKzsp74ZpgM9yTX22104KMBsYpqQzzl0JsrAM7yv32zFJVlpWgKqMiyzwpp84M7f2RzKV37EnhYW7KyqWkkUlyx4LEMYjHr7lr079qYCko
+    parentId: XlgLpBqyrnu9817ygjKXfNRRxYQ
+    postId: JxOyWKA7ZGfn6nxLD7gNhoj4jQmN6kIB7ZON6YWzFqlq6YKXKOSJ28Ok
+    factor: 1.00
+    portrait: 0
+    mInfo: oWLqfuaSuoCo49D
+  - id: ayjlqSb
+    name: JxOyWkz4Nlsn6XEzG78yUJ22njL
+    description: ""   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/ayjlqSb.jpg
+    prevLoc: OnELN1B3XJsOx55DY0pAhz5BYQ4z57s4VjyzBy9xumZ9q5NzQYirP8BnrXrmiD6KlBjEnOI6n7K5AJEOTP0nzmpNW9Hmq4EE9ql2h7LQWnJWN5HoAllw8B5vtDXzARojWAckGvQ90R4Bhr7ZlAEvODCJzYQO40Jyi2EWq2D5R8slGGJL6wQyIo2JAEEG48hNz2rEY69Zi2kpOrQB4qTK3R1pEjo2Io9pOPmqYpSAyD95pz88TB0zmvOPo8f3nZYZ22gmiqz
+    parentId: XlgLpBqyrnu9817ygjKXfNRRxYQ
+    postId: JxOyWKA7ZGfn6nxLD7gNhoj4jQmN6kIB7ZON6YWzFqlq6YKXKOSJ28Ok
+    factor: 1.00
+    portrait: 0
+    mInfo: a45wTo0x2Dg0uQO
+message: "大日養鯉場 & 大日豐田店  
+4月9日聯合拍賣會 🎊🎊🎊  
+都美！都喜歡😘  
+喜歡栽培當歲魚的魚友可以試試看，特殊標註的小魚可以參加4月21-22 在新潟舉辦的「第六回 國際錦鯉幼魚品評會」喔！  
+  
+參考網址如下;  
+http;//ocs.sub.jp/na/list.php?AuctionNo=102&category=&variety=&size_min=&size_max=&age=&sort=EntryNo&page=1  
+  
+有興趣的魚友再私訊我，委託代拍囉^_^  
+  
+#大日養鯉場  
+#DainichiAuction"
+---
+
+大日養鯉場 & 大日豐田店  
+4月9日聯合拍賣會 🎊🎊🎊  
+都美！都喜歡😘  
+喜歡栽培當歲魚的魚友可以試試看，特殊標註的小魚可以參加4月21-22 在新潟舉辦的「第六回 國際錦鯉幼魚品評會」喔！  
+  
+參考網址如下：  
+http://ocs.sub.jp/na/list.php?AuctionNo=102&category=&variety=&size_min=&size_max=&age=&sort=EntryNo&page=1  
+  
+有興趣的魚友再私訊我，委託代拍囉^_^  
+  
+#大日養鯉場  
+#DainichiAuction
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/33tviJ6.jpg"><img src="https://i.imgur.com/33tviJ6.jpg" height="300" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/o3Vn37Y.jpg"><img src="https://i.imgur.com/o3Vn37Y.jpg" height="300" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/FVTwwvG.jpg"><img src="https://i.imgur.com/FVTwwvG.jpg" height="300" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/AFoVUJz.jpg"><img src="https://i.imgur.com/AFoVUJz.jpg" height="300" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/ayjlqSb.jpg"><img src="https://i.imgur.com/ayjlqSb.jpg" height="300" width="300" /></a> 
+ 
