@@ -1,0 +1,94 @@
+---
+layout: post
+title: "第六回 國際錦鯉幼" 
+date: 2018-04-21T15:52:39+0000 
+categories: ["大日","錦鯉"] 
+media:
+  - id: 5m0Q35A
+    name: 3XkQVWJgQ0tvRLvXlGz3TZ5WyAD
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/5m0Q35A.jpg
+    prevLoc: 6qmG3rJOxYiWmVVRk1rosAL3vKoAL7tzAP4G74n6C3LXjw0rOGuRNQ7vRDR4tOx89RWorNhqAGMPVR6ESl0NKXA82Oi13jYq9x4oIv8oVGVNkpURLjpRQrArs7mgEvQl35SQ344g3AprIDPRkPMJWpSP5gL97mzwuyx50N1DmWF5QyR0x526TzpY9QAMY8foZQGK7W7WHj18yqArOJt1YJKoVAj9iXgnXOqOmliW6zDllxxBhOVp1jol0kIop5Y30KV
+    parentId: kLG8XEMk8lcvL8BRg78RcoZjlMz
+    postId: PE07WKl51Xu6j6QAk7JphxOnO3RD4mfjwA5yrRqEU8JlGBrgG6Fl3L3P
+    factor: 1.33
+    portrait: 1
+    mInfo: CQf5aUU0rGE62SH
+  - id: d4wqv6g
+    name: pmN8LMVp86uZxXwmk9Q7frzo93J
+    description: ""   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/d4wqv6g.jpg
+    prevLoc: zJBQW2jM4qTrq88XDxMRTzwrJ93zwPsZKMAz7ANlcVLvw31oxkHWo06gWN09FR5z3Zp022t4wG07k22mCpypA5ngwKhDzqVRNml5s3ZgA9pRkJHJE3oGmGL0trXG7B6jkXUBxwJVmBDoCEq3BJPN2nf3AB2Q6vDXCXYAOQB11Pf3jzMQ4xGDf8Zm3vX7vzhmx1mpP48OCpKx72jQjlHn5EgWY91mSY3KlBPJlPsQMYL3DrJLs5NxG343jxUQXYqpk4lAuR0pn4
+    parentId: kLG8XEMk8lcvL8BRg78RcoZjlMz
+    postId: PE07WKl51Xu6j6QAk7JphxOnO3RD4mfjwA5yrRqEU8JlGBrgG6Fl3L3P
+    factor: 1.78
+    portrait: 0
+    mInfo: T8dWSffppFK04qc
+  - id: p0XtPVH
+    name: W05Lo4BrLzC8yGDNym49UQZ5ypL
+    description: ""   
+    height: 517
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/p0XtPVH.jpg
+    prevLoc: 8voWjwLQzXukqOOm3z6jcpwx4Q7pwrTG4APkgP3xcJA0r2z68wS8wYyv878xI8w9k6GpV1uZgG0KDzO4hz1jE4O3mgSwqBmkj70jIxQw0z0KkqTwD8Ww4kE7HGAg7xNQL6cYWGAK8XDquoBOLyQn4msQo3m35o1xsgzJAg028qfWjjANYgO0tJW1Evvq8khqNmO8jg2Rc5pANp9VKzHZB64mLQN8hpRW7pPrx8igp4BKx1p3iroX6EJk3QSlw5ANY39LfxD
+    parentId: kLG8XEMk8lcvL8BRg78RcoZjlMz
+    postId: PE07WKl51Xu6j6QAk7JphxOnO3RD4mfjwA5yrRqEU8JlGBrgG6Fl3L3P
+    factor: 1.39
+    portrait: 0
+    mInfo: 4XrEOjF5zUJcHGb
+  - id: 8zNkR05
+    name: Vj4An6ZqAyH8P9PYopVQTpvLP94
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/8zNkR05.jpg
+    prevLoc: EMZ1zNo3XKTqx11wyg3WT6Q2Kvl6QWh1DPVyGVq7s2rKlRGxP5HZpRjNZYZ3u7Xgv6D5ALfxgZ8rYLE2c317GoVJ9jUzgnRWX1Y5sLwgjzj6wEFqjvOZKYJlCz04oYjOVgIlz3mWlJ6YiYq0gzRZNAiKZr6k6AmrhYjXWYy89KFoPPXzAQjvtnXRxkk5A5SXY01j7VRgc1rMD9ERYLuKJG1OrEQEcq5VVExVp6CNDwJJYpWziNrr4DKE9LC2zG6ojvO7ILG
+    parentId: kLG8XEMk8lcvL8BRg78RcoZjlMz
+    postId: PE07WKl51Xu6j6QAk7JphxOnO3RD4mfjwA5yrRqEU8JlGBrgG6Fl3L3P
+    factor: 1.33
+    portrait: 1
+    mInfo: XFmDs55kREVYbl8
+message: "第六回 國際錦鯉幼魚品評會  
+慶祝晚宴  
+  
+恭喜🎉🎉🎊🎊  
+全體総合優勝二席 - 全體亞軍  
+忠育水產養殖工作室 謝帥上台致詞  
+雖然很緊張，但還是圓滿結束(≧∇≦)  
+  
+感謝;  
+全日本錦鯉振興會、辛苦的評審委員、現場的工作人員，大日養鯉場，成田養魚園。"
+---
+
+第六回 國際錦鯉幼魚品評會  
+慶祝晚宴  
+  
+恭喜🎉🎉🎊🎊  
+全體総合優勝二席 - 全體亞軍  
+忠育水產養殖工作室 謝帥上台致詞  
+雖然很緊張，但還是圓滿結束(≧∇≦)  
+  
+感謝：  
+全日本錦鯉振興會、辛苦的評審委員、現場的工作人員，大日養鯉場，成田養魚園。
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/5m0Q35A.jpg"><img src="https://i.imgur.com/5m0Q35A.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/d4wqv6g.jpg"><img src="https://i.imgur.com/d4wqv6g.jpg" height="168" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/p0XtPVH.jpg"><img src="https://i.imgur.com/p0XtPVH.jpg" height="215" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/8zNkR05.jpg"><img src="https://i.imgur.com/8zNkR05.jpg" height="300" width="225" /></a> 
+ 
