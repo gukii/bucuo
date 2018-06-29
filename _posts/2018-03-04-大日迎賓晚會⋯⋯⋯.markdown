@@ -1,0 +1,82 @@
+---
+layout: post
+title: "大日迎賓晚會⋯⋯⋯" 
+date: 2018-03-04T11:59:50+0000 
+categories: ["Dainichi","大日"] 
+media:
+  - id: u6zZDcr
+    name: NBV9q7Jl2Pt68kJ4P9QEtGqEP81
+    description: ""   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/u6zZDcr.jpg
+    prevLoc: BJ8OwK03X1TnKPPxqM7VhZ1gPwxZ15hGLp3Ny3E1cRAvlN63MoiOA6J7O96DFz7LqnoyRRi1Mqxwgrr9FZwZk8rgj9C817mOXwjLsA80yqNBNPHM1r3ZA3qoH60J6M1wAoiPXP5Z3jnliAPYOZrpE9iXrQLWYRWRIj5vgpkYYQiD7pkqZArKfx0X763j6vIWNq4kYXx5hgO9Y6z7pOUZW2l0jW1khA1J1vkDYBCq40v43x2rfL7p01PwP5Hjmrpg02JvSzB0MW
+    parentId: KyPZnADg2Ms1NzZ4pQRzs16O5vY
+    postId: 2NjxDqr1RzfmBm7o9N0MfZwywV8zDLS2mq8kJKJPhvJ65AAxEzh1E6Vz
+    factor: 1.78
+    portrait: 0
+    mInfo: sdLXsjpRxTNwTI6
+  - id: zoJbC7x
+    name: GrL5jw012Gf8RNgWXYqWSGAZmkk
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/zoJbC7x.jpg
+    prevLoc: pvRBJO5yo9uwoQQgkvnzTO26Vn4O2MsGlw0x20O9c1ZXoVD6pzuK7Ej8K0KDczkpvkDgGAcKRy8BZEO1ikOk6O6D44umAjMwl1kEt46P6l658XuXyvEjjAppixLQoKywOoFR0g6MYnrXcn8p1KnmP7hoXv7WOxpvFmkrEmOp4zI7NNO50Q4BH9gEZllKVwTMNGAwzWz9Iz1Mvj19JoUBnYlqxLR1iNjZZYVGQgUkB8l30ROnhnJLB1DzRkt9BD0O51LzS9G
+    parentId: KyPZnADg2Ms1NzZ4pQRzs16O5vY
+    postId: 2NjxDqr1RzfmBm7o9N0MfZwywV8zDLS2mq8kJKJPhvJ65AAxEzh1E6Vz
+    factor: 1.33
+    portrait: 0
+    mInfo: bnZEUZQs82gd0jq
+  - id: 3grqAoE
+    name: kLGZm61Ylztwj2lRqrRvuoq63JN
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/3grqAoE.jpg
+    prevLoc: WywpYgN3KWS4qzz13P5jH7plr437pGSVAjrxkrn8HN2V91DAg3tlLKJrl0l1tqX1BXkPjVfRwGkyXoQVFwGwVN9OwKtR8NWJpEJKUkY2YgYGP7spZqgRR8VVfQWyYyn81YCo8v2www3WUM9wyR4ZoEH651BY1jNQikMWDkZJj7HEJJomNQLvCZvnV99B8GuMPYVVZDDQT5EpBWVnXlHj7xAovQ8Xh7OLJx7g0JsE1OzYVWrxf4lYgjrlyzUjQ43q4z2QHxr
+    parentId: KyPZnADg2Ms1NzZ4pQRzs16O5vY
+    postId: 2NjxDqr1RzfmBm7o9N0MfZwywV8zDLS2mq8kJKJPhvJ65AAxEzh1E6Vz
+    factor: 1.33
+    portrait: 0
+    mInfo: Fano97H4150tYy8
+  - id: C12HBRx
+    name: 1Ngr8VL0n5UZoJg1WjM1s0653YW
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/C12HBRx.jpg
+    prevLoc: 5plV2qGNwATl9ggy8xZ0fK8LjrXK8gH31MOBqOnmFomzOxQ9KLhj9Y1JjxjEiR74z7KGnZImLEJDQxj4S9N9Q4OnJyUVXZQMjDG5IWZ2ZpZAm6cq7rz44VllTyJ1yOkRmKCqGPKV4QK4fp4ZzqBwBDSJ97BKGEREikN2KkE1GVHMRR13qv9BtpVJ300RWRCVp8E4ommwF7RLvnJqDyfzj1vqlDBVTLxJGvkZV4fDv2ry3q69fRX9WrO2EKiGwX1m6nGBcDV
+    parentId: KyPZnADg2Ms1NzZ4pQRzs16O5vY
+    postId: 2NjxDqr1RzfmBm7o9N0MfZwywV8zDLS2mq8kJKJPhvJ65AAxEzh1E6Vz
+    factor: 1.33
+    portrait: 0
+    mInfo: inBboSZNYlzaQMV
+message: "大日迎賓晚會⋯⋯⋯⋯⋯  
+誒害⋯⋯⋯⋯⋯(≧∇≦)  
+Dainichi Dinner Party!!  
+It’s 15% Japan Sake......"
+---
+
+大日迎賓晚會⋯⋯⋯⋯⋯  
+誒害⋯⋯⋯⋯⋯(≧∇≦)  
+Dainichi Dinner Party!!  
+It’s 15% Japan Sake......
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/u6zZDcr.jpg"><img src="https://i.imgur.com/u6zZDcr.jpg" height="168" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/zoJbC7x.jpg"><img src="https://i.imgur.com/zoJbC7x.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/3grqAoE.jpg"><img src="https://i.imgur.com/3grqAoE.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/C12HBRx.jpg"><img src="https://i.imgur.com/C12HBRx.jpg" height="225" width="300" /></a> 
+ 
