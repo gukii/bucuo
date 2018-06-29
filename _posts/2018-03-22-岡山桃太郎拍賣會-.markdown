@@ -1,0 +1,90 @@
+---
+layout: post
+title: "岡山桃太郎拍賣會 " 
+date: 2018-03-22T05:57:29+0000 
+categories: ["KoiFarm","Auction"] 
+media:
+  - id: v6CBW00
+    name: MARwW2yJKxSJwJD300jrt5LJMVW
+    description: ""   
+    height: 720
+    width: 479
+    type: image/jpeg
+    link: https://i.imgur.com/v6CBW00.jpg
+    prevLoc: 3njEZoDLrYs4K77j3GpmHMv6jG3MvkTjMX6PZ6YWhnoOAgWGYBSXEKYxXjXRIkXVOmMq2rSMXAk8RzG4t3BgEPR1WyTLJL4NDLJKfwB91olRZWTxV0Y3oY1Ks7WPvAGpEZh9EomNAmy0FRo2LX0jXYhkmGNMZB4QhBR3v9DD7Xt1q9mO0EEgI0329O0w9pC6v38LYqV4tk7vOmpqWKFDx1Bl6r8Rs7YyKn0W7AsYkLDNYkOEHkpLYD6LVncnPzlqzjpJ
+    parentId: PE07W9BzKAs6j6gmxx5YT2M1A4R
+    postId: RJZOjKn5g2HOMONPzAy2HMx6xJvGlXHgPmvkLR5JuE2ZA6Lwm2sW69rN
+    factor: 1.50
+    portrait: 1
+    mInfo: HD7KBjMIHXzsOZR
+  - id: UIXl4Fh
+    name: MARwW2yJKxSJwJD4NmVNT54j4qQ
+    description: ""   
+    height: 720
+    width: 479
+    type: image/jpeg
+    link: https://i.imgur.com/UIXl4Fh.jpg
+    prevLoc: 7rnYgvKPyDIRNEErMQAmTJRGrgwJRDhlErDX3Dzvcw4n18lzL5uX4j2xXlXnIREAGqyY1VuZO4KXAvJph4rxn3O8vOhr09ExkQpOUBgAopkZn8Iqp9xDJLL6cly5lXmK1zcAJJpN2483cvMZkQj0X1ULP9XKRKqJfLKmyL65QosVQQqwj7mzURlZQPP4vvhwX8ZvGwxxfPxGNlxl79TA5YPGAoJ6cqm9215Qm8Fr3VPROjYVTzRQG5MKEgUjZkGD5r5Zupr
+    parentId: PE07W9BzKAs6j6gmxx5YT2M1A4R
+    postId: RJZOjKn5g2HOMONPzAy2HMx6xJvGlXHgPmvkLR5JuE2ZA6Lwm2sW69rN
+    factor: 1.50
+    portrait: 1
+    mInfo: g6TQ30pWWraohlW
+  - id: UMkwnf9
+    name: lgJxEmq2kNiMVMmJZwPxUn454VE
+    description: ""   
+    height: 720
+    width: 479
+    type: image/jpeg
+    link: https://i.imgur.com/UMkwnf9.jpg
+    prevLoc: wDE2QY4JynINx0056AGLU78gXMW78jS3xM4kG4D7F659koQgVNHvz4Kov0vGf14ExLwZRMiAm0OkqMg2SlRQpP4vD3URJnp5VjMZI4qMKA5YBgi6OVYjY4mATjqwgOQxKMhzJNNENgOAtgmrV7WKNof7qlpBjJB3Fnyg1nOA5DFXyy9vAG5rs5JngOOqBkfrnB1Al4B4i054GZYwgOuEMJZyrlRMfxNXog70B7U93kj0RQjMc23ZVVoL3DCploBNkZlGCnP
+    parentId: PE07W9BzKAs6j6gmxx5YT2M1A4R
+    postId: RJZOjKn5g2HOMONPzAy2HMx6xJvGlXHgPmvkLR5JuE2ZA6Lwm2sW69rN
+    factor: 1.50
+    portrait: 1
+    mInfo: aPKsVyA2dgOCKEU
+  - id: bmsEfUX
+    name: QGYng2D6KBhR2RgQ8293TDZM18M
+    description: ""   
+    height: 720
+    width: 479
+    type: image/jpeg
+    link: https://i.imgur.com/bmsEfUX.jpg
+    prevLoc: 7rnYgvKPyDIRNEErMQAmTJRGrgwJRDhlErDX3Dzvcw4n18lzL5uX4j2xXlXnIREAGqyY1VuZO4KXAvJph4rxDEgp0ET1Q6B5kPMEHBgAopkZnySqp9xDJLL6cl5ZjKMVxACAj89Pr2oGUvWkW0zNk3IXZ2yRLzQgSLKmyL65QosVQQqwj7mzURlZQPP4v4Uw2glNpPBpSYqN06Do7jFLWvlAz9jqTA3B44q8ElipMGEkz2GYczKnP8QKDqSjZkGBN4jrhpr
+    parentId: PE07W9BzKAs6j6gmxx5YT2M1A4R
+    postId: RJZOjKn5g2HOMONPzAy2HMx6xJvGlXHgPmvkLR5JuE2ZA6Lwm2sW69rN
+    factor: 1.50
+    portrait: 1
+    mInfo: AtRmpCtZjufEw1w
+message: "岡山桃太郎拍賣會  
+大當歲喔！真美！  
+http;//www.momotaro-koi.eu  
+  
+有興趣的魚友請私訊拍代😊  
+  
+#MomotaroKoiFarm  
+#MomotaroAuction"
+---
+
+岡山桃太郎拍賣會  
+大當歲喔！真美！  
+http://www.momotaro-koi.eu  
+  
+有興趣的魚友請私訊拍代😊  
+  
+#MomotaroKoiFarm  
+#MomotaroAuction
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/v6CBW00.jpg"><img src="https://i.imgur.com/v6CBW00.jpg" height="300" width="199" /></a> 
+  
+
+<a href="https://i.imgur.com/UIXl4Fh.jpg"><img src="https://i.imgur.com/UIXl4Fh.jpg" height="300" width="199" /></a> 
+  
+
+<a href="https://i.imgur.com/UMkwnf9.jpg"><img src="https://i.imgur.com/UMkwnf9.jpg" height="300" width="199" /></a> 
+  
+
+<a href="https://i.imgur.com/bmsEfUX.jpg"><img src="https://i.imgur.com/bmsEfUX.jpg" height="300" width="199" /></a> 
+ 
