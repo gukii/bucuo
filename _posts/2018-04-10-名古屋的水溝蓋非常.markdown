@@ -4,6 +4,25 @@ title: "名古屋的水溝蓋非常"
 date: 2018-04-10T14:43:39+0000 
 categories: [] 
 media:
+  - id: EvN4FBv
+    name: ODWM6BNWyYfk2RKWKlKqIGKEyNy
+    description: "名古屋的水溝蓋非常有趣(≧∇≦)
+乍看之下我覺得是猴子，但助理說是蟑螂⋯⋯⋯
+哈哈哈哈哈哈哈哈哈😂
+
+你覺得是？
+
+monkey? ?cockroach?? Or???"   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/EvN4FBv.jpg
+    prevLoc: lovXBK4rk8CMEOOWGA2osRYQLM8RYPhBKjWGMWE6upW3vjAnOVSDoLjpD0DvTLWO9q4RvZI7oxWXlGBMSm8oN6jln3CXA0O2Mo6ASv32Ln37poHoK43B2Gq3u5NDVg8wRVHA7zgGBK6RU1QBBzPB4qiz4lwg4GVyHOXPoOyzJ2IvBBwQA9jOi5xnz33X1lflx5r5GBrLcxpzYZNPG9S7gKgLwN8RiP37nQvwy0u5LO9Gz8BWCVQN0787jRUgZAgrwXyXF6L
+    parentId: ODWM6BNWyYfk2RKWKlKqIGKEyNy
+    postId: gEAZMDKQ51uBoB857L4MuGgngpxmOyfZDlL1OMp5UO2Pnky8WWsDrroZ
+    factor: 1.33
+    portrait: 1
+    mInfo: y7mTzfwZmJThHc7
 message: "名古屋的水溝蓋非常有趣(≧∇≦)  
 乍看之下我覺得是猴子，但助理說是蟑螂⋯⋯⋯  
 哈哈哈哈哈哈哈哈哈😂  
@@ -22,4 +41,6 @@ monkey? ?cockroach?? Or???"
 monkey? ?cockroach?? Or???
 
 
+[//]: #media:  
+<a href="https://i.imgur.com/EvN4FBv.jpg"><img src="https://i.imgur.com/EvN4FBv.jpg" height="300" width="225" /></a> 
  
