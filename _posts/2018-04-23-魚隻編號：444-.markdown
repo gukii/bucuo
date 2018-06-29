@@ -1,0 +1,74 @@
+---
+layout: post
+title: "魚隻編號：444 " 
+date: 2018-04-23T09:46:03+0000 
+categories: ["大日"] 
+media:
+  - id: 7uiPjdj
+    name: zz1vYrOAMjUzM5Y1owykSLvyBlY
+    description: ""   
+    height: 700
+    width: 490
+    type: image/jpeg
+    link: https://i.imgur.com/7uiPjdj.jpg
+    prevLoc: wDE2QY4JynINx0056AGLU78gXMW78jS3xM4kG4D7F659koQgVNHvz4Kov0vGf14Ex5rNZMiAYqq6G9PYCl3KXNBzmEHRB0Y0L7n9i47LZYknmGtqzrlL9WoVfj4jKZJmNgi4OkJDXj23sYnEGxBEBYswXPqjzjLWSYPxJ3KlPoFl143jVGWPSAokWwznKmUGYorW89XPi0nqlKq7VXTB5vOXDnQGS0v87gJE00f93JlMMKQ8F3KJnZj
+    parentId: kLG8XYvgq4UvqLKLrRx4FoORggg
+    postId: KyP197B5OKI1X1LxGjZVtlD5DKrE92UNJOnwEJm8SPm0pAzPrXU3WpW3
+    factor: 1.43
+    portrait: 1
+    mInfo: ZzY0XMtAgwdOKjz
+  - id: FL4BwXL
+    name: zz1vYrOAMjUzM5XMYMp5HLwz632
+    description: ""   
+    height: 513
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/FL4BwXL.jpg
+    prevLoc: 2mg2YnBKqGhm3KKLrRpkuJMEpwRJMkhK4pqx3qOncknMv4gQoKcKBPEGK9KQcpnJjZ8W6XhvM1NWnBP9FWEKrnWRNXS9L4qqLzw2iL35KPJp3jsjPBP8K2pjipL0oGBQ9rT5j9xZVj1NCW37jvo1Q5F7yJPzn82jh54wp5nBLjUKkkpBPy9Vi3jZ5nnkgziWDjNZYy0DU7NLrqrMREFJ5zLKO53Zt5vLmomR1jckOYKlVkxwH1YYVOwPZMczml8QRYrAUn0
+    parentId: kLG8XYvgq4UvqLKLrRx4FoORggg
+    postId: KyP197B5OKI1X1LxGjZVtlD5DKrE92UNJOnwEJm8SPm0pAzPrXU3WpW3
+    factor: 1.40
+    portrait: 0
+    mInfo: 4OigkYgy3j0v6wg
+  - id: Sh2DC8P
+    name: KyP19gqG3xtk2XB7BBGXc1ZO4Dw
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/Sh2DC8P.jpg
+    prevLoc: 9wpGkxM0A3tOqRRJnMkmhA1nqyvA19t54wDlND8PFjn6xJwEW0tqmYnAqPqMuAGo2Eq18ZS41W0N5ZGwcwQNmMwq1KSjzxDLO047FE3k6mxDkyFr5B0r3YZDIJRygGy7w6TnVj2MR7GDT02p8pAyLBFQRlK9ROzYsNlMLNZgYmF7GGzZ0YvQH9Pp4DD2jjhploL4j8mycvkQ93BWQWCKXDKJ9pRGsoVg0NgWwLczR1Z3LMLVIrE5xDWNK5f2LQv2GGZ9cNR
+    parentId: kLG8XYvgq4UvqLKLrRx4FoORggg
+    postId: KyP197B5OKI1X1LxGjZVtlD5DKrE92UNJOnwEJm8SPm0pAzPrXU3WpW3
+    factor: 1.33
+    portrait: 1
+    mInfo: LW0Yy5HWFRgnxwa
+message: "魚隻編號;444  
+生產漁場;大日養鯉場  
+生產年月;2017年6月(目前未滿一歲)  
+品種類別;昭和三色  
+種魚血統;GX1  
+尺寸公母;35公分 公母未明  
+  
+期待墨上來後的表現囉！"
+---
+
+魚隻編號：444  
+生產漁場：大日養鯉場  
+生產年月：2017年6月(目前未滿一歲)  
+品種類別：昭和三色  
+種魚血統：GX1  
+尺寸公母：35公分 公母未明  
+  
+期待墨上來後的表現囉！
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/7uiPjdj.jpg"><img src="https://i.imgur.com/7uiPjdj.jpg" height="300" width="210" /></a> 
+  
+
+<a href="https://i.imgur.com/FL4BwXL.jpg"><img src="https://i.imgur.com/FL4BwXL.jpg" height="213" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/Sh2DC8P.jpg"><img src="https://i.imgur.com/Sh2DC8P.jpg" height="300" width="225" /></a> 
+ 
