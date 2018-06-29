@@ -1,0 +1,31 @@
+---
+layout: post
+title: "認真划啊！  然後" 
+date: 2018-06-18T06:12:57+0000 
+categories: [] 
+media:
+  - id: N6pFbZd
+    name: 3XkQVDzn39I4lvXKy8yLHJ4lLMj
+    description: "WaterRower’s wooden models are handcrafted from a selection of the world’s finest sustainable hardwoods.
+Looking to grab a WaterRower for your home? Check out our full line-up on the website; www.WaterRower.com"   
+    height: 711
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/N6pFbZd.jpg
+    prevLoc: knwBAJ4qj6swBYYDlrOnTW8xyMmW8LCPJ6V5nVWBcxkBy95OY4fPEj4APWP8cgNG3r1Bkvi4EMyYKW9xc1VpXrlOL3TOKwqnr0NWivpX524gZ8c6NWB54A1QF1Nx120lvQFWxp1G23r4Slq95RZxy3cNO5xXZN9BixQqgx9wjosmVV3G9xy5S32Jowwxn5uVK98npMKgcnz5B8vQkMix3YwPLwvGtlMjVALXjPc4ZVKA0Lvwc3ODzpGzo0sNZpxKQjV1T5w
+    parentId: 3XkQVDzn39I4lvXKy8yLHJ4lLMj
+    postId: lgJxEkLMOjsMVMLqvB6QiWMOM6DzojhkZkArgKBqh0V24oQ27ZSg1zjK
+    factor: 1.01
+    portrait: 0
+    mInfo: nRWdkmV4cVwVkTt
+message: "認真划啊！  
+然後就可以多吃兩顆粽子了！(≧∇≦)"
+---
+
+認真划啊！  
+然後就可以多吃兩顆粽子了！(≧∇≦)
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/N6pFbZd.jpg"><img src="https://i.imgur.com/N6pFbZd.jpg" height="296" width="300" /></a> 
+ 
