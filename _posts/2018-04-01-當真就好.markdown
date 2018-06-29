@@ -1,0 +1,28 @@
+---
+layout: post
+title: "當真就好" 
+date: 2018-04-01T15:02:53+0000 
+categories: [] 
+media:
+  - id: 8j09xXf
+    name: 70o1VqMZwQsYAB8k6545TpXzlVj
+    description: "當真就好"   
+    height: 449
+    width: 600
+    type: image/jpeg
+    link: https://i.imgur.com/8j09xXf.jpg
+    prevLoc: AGQWvJk3X8HROrrx0nN9TjMPwxDjMWskMJ1G91Pzu1E0ROX78WurAYVgrBrMiLXW9NXAXNSYk2X33XAjCy35zMNp2wH826voNRgRf6wZDk81xBCXJB6K9g6vtWXrB2qJGWi2zK1WMjQNtkO5PLj5jkCArqmvEv0DSnK53NVzKgf3yqO3X8G3Tvkvjgp8OJTxw6q28Lx9UBjVyDQ2o2irM8nLmv7LiO4Do4rVy6iBry9LLg9DUVNP9ZG
+    parentId: 70o1VqMZwQsYAB8k6545TpXzlVj
+    postId: 43lQGvwY8Ei8D8rAvpRXS4nYngz7m3i5Q6LJL6KOSyk0oQNZ82f2kzo8
+    factor: 1.34
+    portrait: 0
+    mInfo: UHgZnlRsHjkj14x
+message: "當真就好"
+---
+
+當真就好
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/8j09xXf.jpg"><img src="https://i.imgur.com/8j09xXf.jpg" height="224" width="300" /></a> 
+ 
