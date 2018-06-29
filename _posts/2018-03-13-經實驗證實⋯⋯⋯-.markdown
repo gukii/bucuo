@@ -1,0 +1,108 @@
+---
+layout: post
+title: "經實驗證實⋯⋯⋯ " 
+date: 2018-03-13T02:35:22+0000 
+categories: ["IKI","Koi "] 
+media:
+  - id: y3jzyOy
+    name: lgJxEk6pEMSl7OLgE5PzunLYV0P
+    description: ""   
+    height: 720
+    width: 547
+    type: image/jpeg
+    link: https://i.imgur.com/y3jzyOy.jpg
+    prevLoc: Vx5oX8M32JTZy00VB5xlhPkoxwBPkYFR5qK4rK83c5xVBj6n8vI6Yjxq656Du2nXZNjB4WTy3RLnGEXmtWA5qjxN5guoMNZxEypvTqG0Y3jpMyiXZYMYl644Sn8o4mYO9VuVwXXRG0LkIBn5K0l1v8SRVR0B4B1wH0kOM0mAY4sv88W9NVMliEBmKyy1r8Fgj6XgnllEfNqJw0yWMksAoNM1GJ60fXzx0ElAXgHZz5xE9zBDirX604oDN6fK8xKPnE6lC4g
+    parentId: 9Nq1YAX2YLSj1RpxQwN5trq10R8
+    postId: ODWM6Xk57ViO7O3ry6EWH8QOQVJL0WCPV1kJLk1PFnYLqN8GlYHA6kYR
+    factor: 1.32
+    portrait: 1
+    mInfo: FevY17MDdSzoWAq
+  - id: Rd6GdZe
+    name: xxYnLzjlL7ijOmZZqm8zSkVnXN1
+    description: ""   
+    height: 720
+    width: 534
+    type: image/jpeg
+    link: https://i.imgur.com/Rd6GdZe.jpg
+    prevLoc: LkY0KXy31AC39NN0qmRPuvgJAQRvgpT0xB9MD9oVtlQM4YrEROijwl4kjojViJy7wG1x3MF05RDg9kNvS39ERgXlwqSwONLOREqVuGBQJ5gNKgSlGpZpvgBBC76E8qNXGgS36jQ74vG1uq0p0klMMXcMEQ1KJ66rh7BqX725JNiYZZ5GmA7niXBAWNNvRvfZygwXBjlPcnNkzEmDWxIxzVlWRo0ZiJr7AEKqQouDOK2R3Rxqs09X3pvr3NSR9XYJVRlkCpV
+    parentId: 9Nq1YAX2YLSj1RpxQwN5trq10R8
+    postId: ODWM6Xk57ViO7O3ry6EWH8QOQVJL0WCPV1kJLk1PFnYLqN8GlYHA6kYR
+    factor: 1.35
+    portrait: 1
+    mInfo: 6tsL1jBbYqXJl3R
+  - id: WkCmuo6
+    name: pmN8LoVzLXtZDQ5jvV9jSoV27jo
+    description: ""   
+    height: 631
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/WkCmuo6.jpg
+    prevLoc: QpNjP3E9KATRPBBnV3k6TZA2vXzZANhxXJym9yNAhjw1Erq9LRt9PwVz9o97szyEO7X9YKF7VRowQEZPSrj84WvqwNcX4xGyAvjmuW8DxEy6vxFqjvKZw2GZTnw4Ll81x4CpxQWRpvzYHYqqNX9mMJsp85KX82ylH6Gm2P4xp1tEVPoGQEy0cx4qvAN47rhxMzvQELwnCpN5ojvKAOSgZY5NoO0jID860NO9rWun17jYQvPAI61vKNnlkjfgWBRyBvq
+    parentId: 9Nq1YAX2YLSj1RpxQwN5trq10R8
+    postId: ODWM6Xk57ViO7O3ry6EWH8QOQVJL0WCPV1kJLk1PFnYLqN8GlYHA6kYR
+    factor: 1.14
+    portrait: 0
+    mInfo: kdYbVGW70J2obBj
+  - id: OOgMKYX
+    name: 43lQGvK9GYsxoYrpAAMlcgpY0nV
+    description: ""   
+    height: 720
+    width: 671
+    type: image/jpeg
+    link: https://i.imgur.com/OOgMKYX.jpg
+    prevLoc: knwBAJ4qj6swBYYDlrOnTW8xyMmW8LCPJ6V5nVWBcxkBy95OY4fPEj4APWP8cgNG3r1Bkvi4EMyYKW9xc1Vpy3MnJ3Fw8wzGng8wuvqxD1WBGyfgk609vOZpt5k8nrOx15FWvNVJn6kqszmKA5LqPAtNEJwXm17AsxQqgx9wjosmVV3G9xy5S32JowwxVnup3m2m5wEjUy0QXXBR6ATzmN4woz19uwN6BQZDxoh4Ygkm1pkNf68XloRgEBtNZp5jB0MvS57
+    parentId: 9Nq1YAX2YLSj1RpxQwN5trq10R8
+    postId: ODWM6Xk57ViO7O3ry6EWH8QOQVJL0WCPV1kJLk1PFnYLqN8GlYHA6kYR
+    factor: 1.07
+    portrait: 1
+    mInfo: epxMInRK1foZbqx
+message: "經實驗證實⋯⋯⋯  
+我的臉書好友基本上都是真心喜歡美魚的～  
+您看看;  
+冠軍;點點鹿子是最高票393個讚  
+亞軍;豔麗風五色也有317個讚  
+季軍;6個美女明星295個讚  
+殿軍;看來臉友還是男的居多(≧∇≦)  
+  
+下次該放什麼美魚照片跟大家分享呢？(≧∇≦)  
+  
+The most 👍 on my FB   
+1st; Kanoko   
+2nd; Goshiki  
+3rd; Movie stars  
+4th; ...........( but I love BC!! )  
+  
+Yes, most man love koi more than beauty women.....hahahahha....."
+---
+
+經實驗證實⋯⋯⋯  
+我的臉書好友基本上都是真心喜歡美魚的～  
+您看看：  
+冠軍：點點鹿子是最高票393個讚  
+亞軍：豔麗風五色也有317個讚  
+季軍：6個美女明星295個讚  
+殿軍：看來臉友還是男的居多(≧∇≦)  
+  
+下次該放什麼美魚照片跟大家分享呢？(≧∇≦)  
+  
+The most 👍 on my FB   
+1st: Kanoko   
+2nd: Goshiki  
+3rd: Movie stars  
+4th: ...........( but I love BC!! )  
+  
+Yes, most man love koi more than beauty women.....hahahahha.....
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/y3jzyOy.jpg"><img src="https://i.imgur.com/y3jzyOy.jpg" height="300" width="227" /></a> 
+  
+
+<a href="https://i.imgur.com/Rd6GdZe.jpg"><img src="https://i.imgur.com/Rd6GdZe.jpg" height="300" width="222" /></a> 
+  
+
+<a href="https://i.imgur.com/WkCmuo6.jpg"><img src="https://i.imgur.com/WkCmuo6.jpg" height="262" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/OOgMKYX.jpg"><img src="https://i.imgur.com/OOgMKYX.jpg" height="300" width="279" /></a> 
+ 
