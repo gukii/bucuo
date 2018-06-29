@@ -1,0 +1,37 @@
+---
+layout: post
+title: "人生是來體驗的，不" 
+date: 2018-03-19T17:52:41+0000 
+categories: [] 
+media:
+  - id: JVXZsv0
+    name: NBVLW24ovzhp0ggr53V0fGnNOGG
+    description: "人生是來體驗的，不是來傻笑的。
+誰都不容易，痛在那裡只有自己知道⋯
+
+辛苦了！加油！"   
+    height: 404
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/JVXZsv0.jpg
+    prevLoc: KjYzJWx37Ah1W88QKB2qugG8kDRgG0hmJK1wB15VFYMmPJvBLkfk1wWKkZkOIBG14wRQ09IvVJKgMyXRFJxon7q23zFKkRg2lxPWH46ojRoX35CgVM1pON3VuylEQ3WqR2Sz935BNLm2un3KPOP2Vzu7ZjkmGOGYIRO0rRL1K3FOyy7Nkz4XtXl5K33YBBtLYo2x1WlRU0jpGzo61rsRvyV5g9ElCxRYVzy0ykh7ZDzJGzv8cPlooPv6VKtA7NvPDZQqHkm
+    parentId: NBVLW24ovzhp0ggr53V0fGnNOGG
+    postId: qnO7Lp5MjwS2E296opJqc3GyG0oVOMtAOoQ3PEZ7HXZqYo84ogUKE72D
+    factor: 1.78
+    portrait: 0
+    mInfo: yWBMM9mM5FYd1FI
+message: "人生是來體驗的，不是來傻笑的。  
+誰都不容易，痛在那裡只有自己知道⋯  
+  
+辛苦了！加油！"
+---
+
+人生是來體驗的，不是來傻笑的。  
+誰都不容易，痛在那裡只有自己知道⋯  
+  
+辛苦了！加油！
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/JVXZsv0.jpg"><img src="https://i.imgur.com/JVXZsv0.jpg" height="168" width="300" /></a> 
+ 
