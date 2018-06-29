@@ -1,48 +1,30 @@
 ---
 layout: post
 title: "阪井競賣會 Sak" 
-date: 2018-02-20T05:30:18+0000 
+date: 2018-02-20T04:03:03+0000 
 categories: ["Auction","競賣會","Sakai","錦鯉"] 
 media:
-  - id: Fg76AOA
-    name: ZnkVJzWKApTYGxqMrN5KS0ZPEQW
-    description: ""   
-    height: 383
+  - id: iZSlrrn
+    name: DoG95Q0OgKFZOvrKPYwOsDx3lmZ
+    description: "阪井競賣會 Sakai Auction
+活動地點;日本廣島阪井養魚場
+活動日期;2018年2月28日
+活動內容;競價拍賣會
+入場資格;全日本錦鯉振興會會員
+競賣產品;當歲，2-3歲。
+活動網址;http;//sff-koi.com/carp/
+
+競拍魚隻照片陸續更新中，有興趣的魚友歡迎私訊委託競拍。"   
+    height: 720
     width: 720
     type: image/jpeg
-    link: https://i.imgur.com/Fg76AOA.jpg
-    prevLoc: PoMgO2D3K6C6XvvBgoK4CMrpQOKMr5TpwBv2lvK5ImPnkYzJ6Zi2Jr7j2p28ulpOR069MqIMNRWJq5j9trprLk8wNnIzkY9w69XYFkEN9z2G1pszvrGv30RYfg4AxAj9mYhnD7j9WAjOslZVGGB0jrhBzpNw6MEVhryL2rmO51IkYYoZ0yVAtk7BO55mLyh6QjmvNJY0hB0Q74mJDWHJ2B7rOXkJFVgx7zqPP7cONjmpZZw0cq8NNqlLQvhE4rOm7Z92FDP
-    parentId: QGY0w6OxoviLx91Or9wBcDp3X6w
-    postId: QGYngKm51ZCR2R74y5J0H1X4XE5JBGc5G8J63PLZcEPvAyp7AySYDBzx
-    factor: 1.88
+    link: https://i.imgur.com/iZSlrrn.jpg
+    prevLoc: AGQWvJk3X8HROrrx0nN9TjMPwxDjMWskMJ1G91Pzu1E0ROX78WurAYVgrBrMiLXW9EZl3xIDZk6g5PW7SyXyR2D7w2C8QQQ1XNrliXPDZNOq4nhKGDZvX6MWHqvyApoX66f2l8G088lkHxOALqW7RquAyPpAj9lEc1xB01jEOPINPP6kv97wFvYKDBBr1QiN70zW2zLzCKEgLRDZ2PCEGrZJ26kLHB9g5r6v3MI65oqyq2Opfmq60wJ2XZc5O32R2ZvNCvD
+    parentId: DoG95Q0OgKFZOvrKPYwOsDx3lmZ
+    postId: yyZo2A5J8QI484YmRlAxc5J9JmgVWxckzM8PRBGPcw0vZpDE9ZS8O7wO
+    factor: 1.00
     portrait: 0
-    mInfo: 8I63AZPpnrzLS5U
-  - id: QLQlmI8
-    name: AlBP5MmLRAs5YVKB5gy6clMoPNz
-    description: ""   
-    height: 720
-    width: 540
-    type: image/jpeg
-    link: https://i.imgur.com/QLQlmI8.jpg
-    prevLoc: vBYRPX4GxmIl8OOJ127Wf45VWGm45xsry9RjlRVnS3EropJAjMuXLjD6XnXvIzB4WXRMj1FXkDLYQ9Gqf7w7L3jqrRhkJxKNxlW4hDvqOW7XVmuqN3oY7gPBu0pyW4rZ9yCLzvPY8y8VU5GzEDLjWJH47qMOBjpVIzvV8zqw9YT0VVWEM4xpuAL2NDD7JGCnvnp54r8WUp1M5oYAPouNxN8BVDznuj4G8VRn5qIlgV5X3mp1cKjznBGEDzH8V39P175Gi6O
-    parentId: QGY0w6OxoviLx91Or9wBcDp3X6w
-    postId: QGYngKm51ZCR2R74y5J0H1X4XE5JBGc5G8J63PLZcEPvAyp7AySYDBzx
-    factor: 1.33
-    portrait: 1
-    mInfo: 5NhDNxTc96Rotro
-  - id: Wg27xNF
-    name: wwXmBKkNoZunpPEkD8XJIOD5MyP
-    description: ""   
-    height: 720
-    width: 540
-    type: image/jpeg
-    link: https://i.imgur.com/Wg27xNF.jpg
-    prevLoc: QpNjP3E9KATRPBBnV3k6TZA2vXzZANhxXJym9yNAhjw1Erq9LRt9PwVz9o97szyEO7X9YKF7VRowQEZPSrjr3V6KEEh6P9EM73MmT3BLzvKZRohzGEYvAn01Unw4PBGgJkcp1n4VD0OxiYXpZY5v1OupoVOwwOzyH6AmD6zG1jFEVV6YyOlgCDzkXNNYBPhxgJKDXkgXhWzAVqJ2wYIEq82N7BZkCWNNrvpjBwtVZkvm4WQ1HKRrDgJRX1SxMAlk7515tvq
-    parentId: QGY0w6OxoviLx91Or9wBcDp3X6w
-    postId: QGYngKm51ZCR2R74y5J0H1X4XE5JBGc5G8J63PLZcEPvAyp7AySYDBzx
-    factor: 1.33
-    portrait: 1
-    mInfo: faYAKzpgu6JVQG9
+    mInfo: vf3ToPosq4INCsB
 message: "阪井競賣會 Sakai Auction  
 活動地點;日本廣島阪井養魚場  
 活動日期;2018年2月28日  
@@ -66,11 +48,5 @@ message: "阪井競賣會 Sakai Auction
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/Fg76AOA.jpg"><img src="https://i.imgur.com/Fg76AOA.jpg" height="159" width="300" /></a> 
-  
-
-<a href="https://i.imgur.com/QLQlmI8.jpg"><img src="https://i.imgur.com/QLQlmI8.jpg" height="300" width="225" /></a> 
-  
-
-<a href="https://i.imgur.com/Wg27xNF.jpg"><img src="https://i.imgur.com/Wg27xNF.jpg" height="300" width="225" /></a> 
+<a href="https://i.imgur.com/iZSlrrn.jpg"><img src="https://i.imgur.com/iZSlrrn.jpg" height="300" width="300" /></a> 
  
