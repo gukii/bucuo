@@ -1,0 +1,90 @@
+---
+layout: post
+title: "恭喜成田社長 恭喜" 
+date: 2018-04-09T22:32:59+0000 
+categories: ["Auction","Dainichi","大日","錦鯉"] 
+media:
+  - id: 0HcgVu6
+    name: EpJ8WozqERfjPnJwY1ZKC8q602X
+    description: ""   
+    height: 700
+    width: 490
+    type: image/jpeg
+    link: https://i.imgur.com/0HcgVu6.jpg
+    prevLoc: 0k2EWlzGoACyBJJnvMG2I63VpEG63mhr8kJ9PJM2S6Xyzw0n7pHzZBX7z4z5cmLEX6GJzWSl1QGRnRpXFW1JQNXVYLFo7816B599TE9nLY1BB2irAZwXv7LXu4vqBqKYlETlZND05pvLH1Y4DNJ4J1tG4WN8A8XpSn2z0x4g2Nf4wBzrjDoDH0255K2890IDLPnmzO6MUR5VvJRQyrSo1D9kg6knFyRG7B977AcqYQMVV4RKfKnP3k4
+    parentId: PE07WDOjk1T6kL184O4Xf206DWn
+    postId: 8Np1KzABqPfk2k98K7BoHAQGQ3KmNEFY4oN0yEYgtj6GJk6rWOiWygyl
+    factor: 1.43
+    portrait: 1
+    mInfo: FyDIpWJvDEcjwIa
+  - id: wRSRETa
+    name: GrLvWqBRJZI8QzNYzOPvFGEv0pB
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/wRSRETa.jpg
+    prevLoc: vBYRPX4GxmIl8OOJ127Wf45VWGm45xsry9RjlRVnS3EropJAjMuXLjD6XnXvIzB4WXRMj1FXkDLYQ9GqfVEYJqVLMGsXrBEw8kDWIQ5ZjADX6wuq4jEAW9EXu0g4xQ8QrWUADXVLRDjnhwOP30487wsYvQBKvYYAuznEYQPPqOf0Q8gAEOO3FAQl8jAlRJswN3n042v4FplrOg60rKFD9k1ABYDotj4VvYDp00HlGA5mAo2XcK1jDWBjg9i8O5W6GvPQ
+    parentId: PE07WDOjk1T6kL184O4Xf206DWn
+    postId: 8Np1KzABqPfk2k98K7BoHAQGQ3KmNEFY4oN0yEYgtj6GJk6rWOiWygyl
+    factor: 1.33
+    portrait: 1
+    mInfo: DwN8BelOzvb9AaW
+  - id: s7MN3tj
+    name: KyP19xJ8NrhkJ9vW8JxWs1vom2o
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/s7MN3tj.jpg
+    prevLoc: DLY6yMn3ZwIxAjj7pn5Bszk0vGPzkYsmw1ZRGZOYFrLK42NEWRHEGNZmEnE3TNgmLgqzLztmzVJYoJp9co6mjomo20HLOJjw7J3QIP95Zvk5G1tXNRwXnWV1F0pjDyqOlASyr2lGkWp3uZq7qmxXDwcQvv4w6oG8hjo3AqQP8XsrMDk63VqYspGDJ9Np10Frv3WlZzZvUYoWjZrkrZcMA4xq2q18fpl6VV5q72covzPzqzXZhmpV76L5QoS2B7nN9R51FL48p02j1
+    parentId: PE07WDOjk1T6kL184O4Xf206DWn
+    postId: 8Np1KzABqPfk2k98K7BoHAQGQ3KmNEFY4oN0yEYgtj6GJk6rWOiWygyl
+    factor: 1.33
+    portrait: 0
+    mInfo: heC3YeombU8sYsi
+  - id: w7cQOro
+    name: kLG8X4A2kRUvN4yvxOVOfoYvW13
+    description: ""   
+    height: 720
+    width: 504
+    type: image/jpeg
+    link: https://i.imgur.com/w7cQOro.jpg
+    prevLoc: pvRBJO5yo9uwoQQgkvnzTO26Vn4O2MsGlw0x20O9c1ZXoVD6pzuK7Ej8K0KDczko0NGwjBFKRy83MAlLS8D2oXg1DwHD5D5YNvkBH4D35Vy5wVtXmxBNy2nrHxRX430z2PCR7zOwlqNLCkNDMmrKR1Ur5JVVJYr3TmkrEmOp4zI7NNO50Q4BH9gEZllKVVcylEQK385PtBKgAn7DWKtVDq0ZGmYLS1kLWYn164clPPwDkGOJsq2KX6PolWH9BD0D60W6F9n
+    parentId: PE07WDOjk1T6kL184O4Xf206DWn
+    postId: 8Np1KzABqPfk2k98K7BoHAQGQ3KmNEFY4oN0yEYgtj6GJk6rWOiWygyl
+    factor: 1.43
+    portrait: 1
+    mInfo: MGFFwH3ZzAa09rk
+message: "恭喜成田社長 恭喜🎉🎉🎉  
+大日豐田店拍賣會   
+大當歲標王 400萬日幣！  
+4月21-22日 國際錦鯉幼魚品評會，大獎在望啊*\(^o^)/*  
+  
+Congratulations Ryuki Narita 🎉   
+Dainichi Toyota Auction  
+Jumbo Tosai Showa JPY 4,000,000- !!!"
+---
+
+恭喜成田社長 恭喜🎉🎉🎉  
+大日豐田店拍賣會   
+大當歲標王 400萬日幣！  
+4月21-22日 國際錦鯉幼魚品評會，大獎在望啊*\(^o^)/*  
+  
+Congratulations Ryuki Narita 🎉   
+Dainichi Toyota Auction  
+Jumbo Tosai Showa JPY 4,000,000- !!!
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/0HcgVu6.jpg"><img src="https://i.imgur.com/0HcgVu6.jpg" height="300" width="210" /></a> 
+  
+
+<a href="https://i.imgur.com/wRSRETa.jpg"><img src="https://i.imgur.com/wRSRETa.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/s7MN3tj.jpg"><img src="https://i.imgur.com/s7MN3tj.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/w7cQOro.jpg"><img src="https://i.imgur.com/w7cQOro.jpg" height="300" width="210" /></a> 
+ 
