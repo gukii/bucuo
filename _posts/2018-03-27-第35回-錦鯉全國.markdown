@@ -1,60 +1,49 @@
 ---
 layout: post
 title: "第35回 錦鯉全國" 
-date: 2018-03-26T23:06:53+0000 
+date: 2018-03-26T22:56:34+0000 
 categories: ["KoiShow","Sakai","IKI","華錦","Koi ","錦鯉"] 
 media:
-  - id: lspMEbF
-    name: Vj4AnzlnyrI8Pjk63W0JSpPzYVk
+  - id: 1v4NmST
+    name: MARwWnoWmgIJ1BPkG18Yf5yA3Z1
     description: ""   
     height: 720
     width: 504
     type: image/jpeg
-    link: https://i.imgur.com/lspMEbF.jpg
-    prevLoc: MlENLYz3K7IJ3xxpPRq5uL1XNlvL1rTWjMkKZkD5hgKQXy7jnAcM5gmzM7MDcg2LY7xQvqi7PEjJGoqYS835POnkPKCPpB9p6kjKsAWA1gXOZpU20NqzGVQkTjY9Gmrm7oFDjg6kBYvJiM7J594KEJuzr8woGD8gTKQPYKkgmlFEDDBQzmoLCBk6RAAW4WU54nPy04k6uRO8R02Vjjf9rp6XqYpzUy6py9RPD1tMVBK5Nl34Cy06gOlAYGuPp0P3g9pPSRE
-    parentId: olMVXW7X9KumoEOklEKBIRXZ0yO
-    postId: kLG8XjKO59SwKwg3pMoxH7MvMAG5B0iNJzJmQGzwTLVNDGmKAKCpOGDO
+    link: https://i.imgur.com/1v4NmST.jpg
+    prevLoc: q0V6KP4zpAI2NLLgBz8OuKr4YGkKrAHVOW6YK6wMHzy7XQ18AWinwryAnYn6h5LO024PMKhyj9MZ6JWAtGBKM3E7jrUvoG7AEXPzuLkL5R5QMyUOq7BALrQnS14MEQlkBlsypgmvEA1rSrg1RKz289fy14ovZ683uKMnrKXGzAFVkkNvjn4zU56KXQQzNZhnjJVXLpEzCjVgB18wZ0T4ro4kqRXxIg575nk4QnCz786jMl5MC4l0r931E0iXYVxrgLPDFGV
+    parentId: QGYngrvgqmcRpvVvlm5NfDVgRlZ
+    postId: 2NjxDqr1RzfmBm7o9N0MfZwywV8zDLS24M4JDQM7SvMyZGkWqAu10lDv
     factor: 1.43
     portrait: 1
-    mInfo: e7lZusSagcSo0Dg
-  - id: pNwfdFF
-    name: 54mQKo3KExI1WYxQlRmxs1OyY7V
+    mInfo: Rept4xfn5e82gKH
+  - id: 8rUVaC7
+    name: zz1vYg9YN5crZWDEyB6lhLQpWRo
     description: ""   
     height: 720
-    width: 540
+    width: 405
     type: image/jpeg
-    link: https://i.imgur.com/pNwfdFF.jpg
-    prevLoc: rxEBLQ4AqgTmZwwyM18AuoN23WnoNAInV48m68MBCjxBWq81Mzt6PK706j65uvOLNyQqAlT769yJK4k8SDjgE7vGoXIoyOWJrYZ8u1g1zvBMG6fOx90pxv7GtWpPYngnY4fpqN6Qx1EjiL4EQlyVPqU8rZnzpvA7iOlwBORjZgIR11jOr67PHknOwMMov5uVrzDlp0lzCoQ57B36pDi8JyyV3pBpi14jroPPJWTqlRlEDE59Ikpn34741LinrVvV0Mpkir5
-    parentId: olMVXW7X9KumoEOklEKBIRXZ0yO
-    postId: kLG8XjKO59SwKwg3pMoxH7MvMAG5B0iNJzJmQGzwTLVNDGmKAKCpOGDO
-    factor: 1.33
+    link: https://i.imgur.com/8rUVaC7.jpg
+    prevLoc: nqY7EM4wmGiWDll4wK7Gs8EjKQD8ExsM3EvmQvXgFBv10RGkYOiZY2wKZRZguonpPQWA3yClWJjwO26vtAp48Y52wzt6222YOMYrSyMyvZvqR4cEWZ9731zqHK13jWxpAGI6YwP8QgmgIjZ5pyNJWvHKNN09jMDwuoxA7oBYKguLXXD43m18t91zlQQOxWcQR9l9pP1rslpLg9KVQAUyZk0mnmPlCX5kkrrv2QCq2lX0r3NnSZmmo3y0rnCMxX9Ky1Doiq4
+    parentId: QGYngrvgqmcRpvVvlm5NfDVgRlZ
+    postId: 2NjxDqr1RzfmBm7o9N0MfZwywV8zDLS24M4JDQM7SvMyZGkWqAu10lDv
+    factor: 1.78
     portrait: 1
-    mInfo: ZIz9T0ISWX6bbJh
-  - id: NBu5Wo2
-    name: GrLvWNgW7xc9LZ0q8g7GCGE69mr
-    description: ""   
-    height: 720
-    width: 384
-    type: image/jpeg
-    link: https://i.imgur.com/NBu5Wo2.jpg
-    prevLoc: ZBwv2lQ7GZIjgPP1vD5MuOP6m45OPWsGLxqNVq64cR9vZK8VYmiDAgNwDBDZTQxZKpWJGMU4WrzJjQD1cVgKY2mAQLfxD9xyJy8oIXgXPrWG4jCYNEqAppJoTq0k87Bv43U2kNAKEDoJIDOlJq6mpvsl1Vm8VpnASM3QpMOKvkh855q1zGQLc6AErNNDBBFVQvkPEj39smyw95yX2jcnO1A08Rg4fXrnVVkOD3ipxQy9xz1MIJrBk41OZVC8Y4X8JA96TyA
-    parentId: olMVXW7X9KumoEOklEKBIRXZ0yO
-    postId: kLG8XjKO59SwKwg3pMoxH7MvMAG5B0iNJzJmQGzwTLVNDGmKAKCpOGDO
-    factor: 1.88
-    portrait: 1
-    mInfo: MrTod6KPGuk1v13
+    mInfo: iX7JNMXnCg4Gbm1
 message: "第35回 錦鯉全國若鯉品評會  
-第48部 紅白類 優勝  
+第18部 大正類 準優勝  
 恭喜 🎉🎉🎉  
-獲獎魚主;孫 启義  
+獲獎魚主;陳 健  
 生產漁場;阪井養魚場  
+取扱代理;成田養魚園  
 經銷代理;台灣華錦、蘇州蘇信  
   
 The 35th All Japan Young Koi Show  
-48 bu Kohaku 1st in Variety and Size  
+18 bu Sanke 3rd in Variety and Size  
 Congratulations 🎉🎉🎉  
-Owner; Sun, Qi Yi  
+Owner; Chen, Jian  
 Breeder; Sakai Fish Farm  
+Handle; Narita Koi Farm  
 Agent; IKI TAIWAN、Suxin Koi Farm  
   
 #第35回錦鯉全國若鯉品評會  
@@ -62,17 +51,19 @@ Agent; IKI TAIWAN、Suxin Koi Farm
 ---
 
 第35回 錦鯉全國若鯉品評會  
-第48部 紅白類 優勝  
+第18部 大正類 準優勝  
 恭喜 🎉🎉🎉  
-獲獎魚主：孫 启義  
+獲獎魚主：陳 健  
 生產漁場：阪井養魚場  
+取扱代理：成田養魚園  
 經銷代理：台灣華錦、蘇州蘇信  
   
 The 35th All Japan Young Koi Show  
-48 bu Kohaku 1st in Variety and Size  
+18 bu Sanke 3rd in Variety and Size  
 Congratulations 🎉🎉🎉  
-Owner: Sun, Qi Yi  
+Owner: Chen, Jian  
 Breeder: Sakai Fish Farm  
+Handle: Narita Koi Farm  
 Agent: IKI TAIWAN、Suxin Koi Farm  
   
 #第35回錦鯉全國若鯉品評會  
@@ -80,11 +71,8 @@ Agent: IKI TAIWAN、Suxin Koi Farm
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/lspMEbF.jpg"><img src="https://i.imgur.com/lspMEbF.jpg" height="300" width="210" /></a> 
+<a href="https://i.imgur.com/1v4NmST.jpg"><img src="https://i.imgur.com/1v4NmST.jpg" height="300" width="210" /></a> 
   
 
-<a href="https://i.imgur.com/pNwfdFF.jpg"><img src="https://i.imgur.com/pNwfdFF.jpg" height="300" width="225" /></a> 
-  
-
-<a href="https://i.imgur.com/NBu5Wo2.jpg"><img src="https://i.imgur.com/NBu5Wo2.jpg" height="300" width="160" /></a> 
+<a href="https://i.imgur.com/8rUVaC7.jpg"><img src="https://i.imgur.com/8rUVaC7.jpg" height="300" width="168" /></a> 
  
