@@ -1,0 +1,58 @@
+---
+layout: post
+title: "大日養鯉場 Dai" 
+date: 2018-02-25T07:41:35+0000 
+categories: ["KoiFarm","Auction","Dainichi","大日","Koi "] 
+media:
+  - id: EURcbgc
+    name: 70oL5pOwr4uRK4yDKK7GFpjznzg
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/EURcbgc.jpg
+    prevLoc: yG67V1gLApH4o66GD0rNHXAqnJoXA8TGj86wm6rJc67lw9rk5MHQLPXBQNQ3uz1lOMR5wpF5QGPXjO2qSYpYD25R6nfE74n7v5DAu32kDmymwOUMv6z1n9OqUXlk3VAVvWs7zoNrMK79uqPLV87EmDH7NNmDK2jBTW9O8W01KgfvAAwgJxrmip3jEKK5xNI4xWXNMDLEsryM1w50pVTKXN9wgpgXC08glg0XOyumBmwWrv0rumAkJG9ovDtGy178Z6B5uE9
+    parentId: EpJ950G2M4hq2V2BOVjQU8Q1AXO
+    postId: mjKON06MwlUMgMvLrmkOiKj2jqVAo4Sl7Ox29BJntXgo45WO1zTZGlg8
+    factor: 1.33
+    portrait: 1
+    mInfo: d5u90kAZd8DP156
+  - id: AeETkmE
+    name: BmDL5PQ2J4TnrpAYKmDGhR9zqnG
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/AeETkmE.jpg
+    prevLoc: 0k2EWlzGoACyBJJnvMG2I63VpEG63mhr8kJ9PJM2S6Xyzw0n7pHzZBX7z4z5cmLEXgyRNKUqxL2y4EgXSW5WXrlRYLCkRoorznVQhE5POxgx1GirA9n99RKOf4G0yjKvBQC1kK2KQ8ZVt8vLW6Wpr1CGDQXB1DRkhAZQoAODWpfKEE8Q9ND0iL143yyZ7GhYjV1oPAQzi7MrgjznR8T8rPlwrOkmS7k5KrV4GjfRyQE3E2LESE7ZxkNVDnigJPX4r4jyT1A
+    parentId: EpJ950G2M4hq2V2BOVjQU8Q1AXO
+    postId: mjKON06MwlUMgMvLrmkOiKj2jqVAo4Sl7Ox29BJntXgo45WO1zTZGlg8
+    factor: 1.33
+    portrait: 1
+    mInfo: NEpw3wtMU3bN0Cz
+message: "大日養鯉場 Dainichi Koi Farm  
+3月5日 競價拍賣會   
+  
+你喜歡哪隻？  
+左？右？  
+  
+#大日養鯉場DainichiKoiFarm  
+#大日拍賣會DainichiAuction"
+---
+
+大日養鯉場 Dainichi Koi Farm  
+3月5日 競價拍賣會   
+  
+你喜歡哪隻？  
+左？右？  
+  
+#大日養鯉場DainichiKoiFarm  
+#大日拍賣會DainichiAuction
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/EURcbgc.jpg"><img src="https://i.imgur.com/EURcbgc.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/AeETkmE.jpg"><img src="https://i.imgur.com/AeETkmE.jpg" height="300" width="225" /></a> 
+ 
