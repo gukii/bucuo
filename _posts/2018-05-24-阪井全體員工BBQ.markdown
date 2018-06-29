@@ -1,0 +1,80 @@
+---
+layout: post
+title: "阪井全體員工BBQ" 
+date: 2018-05-24T09:41:14+0000 
+categories: [] 
+media:
+  - id: JOahSXz
+    name: YmjWXMy6Q0CXLnqJ49k1HkDVR4p
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/JOahSXz.jpg
+    prevLoc: YAQr1kP3YVc9lkkKYNL3ToZWQmNoZ5IPrwoZJoK0cvnzol3MRmHgP3OZgrgLTPGA5G1j0BIWMK87JpOgtBvpjlNNj7Torx2OXkgncpwLrokqQvt9lBOkBAOEh2X3YB4zPQtNxqJ7z8vWF9m9LmBkOWfxGnrrPRogT4pXY4VLv9s7RR1qvw4NH74PDrrwywfE8GqEQGBLiRALZzB4lMTB6OKR77ypTQW9np8z8wtWNB34WV8gIPvn9A7zR1i4kR4JWwklF4o
+    parentId: 075Y390g2Oizr6zZJPGLuK4W2mr
+    postId: LzQ7W1D5gMH3G3LMZJl6iMQWQ9Ywl1HmxXWXvZEPc4wrxGoyJwiG5jRR
+    factor: 1.33
+    portrait: 0
+    mInfo: oA7ujnklRHjgzYW
+  - id: I9aHbDO
+    name: pmN8VzkgR7CZxlYYMlVKco2wg7G
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/I9aHbDO.jpg
+    prevLoc: rxEBLQ4AqgTmZwwyM18AuoN23WnoNAInV48m68MBCjxBWq81Mzt6PK706j65uvO0oOz1QEs769yMDgzoig48rvXWgMcLVzArjABKF1gylxKpMDIOKYmO7XkEHV0lkNO170Hpq31qLEO5iLqyz6BYELukXKzXwJjQIOlwBORjZgIR11jOr67PHknOwMMoDDhmgGgAXDQvTy6lkKvJqqf6GKm0XmJJfK9D20DE3OF986m0Lyy2fkApDO8BW6FnrVvVNVDjcrw
+    parentId: 075Y390g2Oizr6zZJPGLuK4W2mr
+    postId: LzQ7W1D5gMH3G3LMZJl6iMQWQ9Ywl1HmxXWXvZEPc4wrxGoyJwiG5jRR
+    factor: 1.33
+    portrait: 0
+    mInfo: oy0QMu5KXTcQRLA
+  - id: rWFW0BI
+    name: nkLxJzgZY8fV7PKYVDE6cyBkzg5
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/rWFW0BI.jpg
+    prevLoc: zJBQW2jM4qTrq88XDxMRTzwrJ93zwPsZKMAz7ANlcVLvw31oxkHWo06gW9WZFR7n97z02wI68m74M59jhorPkWY5LPFwjGymYQKRc7j3Plk2G3sNMpPA7JBGhr47DkYpY9FZWV7lJEKwCE4Y81Qnl9T3YG6NV761FXGRkXo0Eyu3RRmE1MP9UlVwLzzZQ5fyoPJroA5ltr2pZ9NVnnSzPwLXQornfqyDp9kKgWSm33lAGJpwFP7NNPnxyMtPomP5Mjz9IB3
+    parentId: 075Y390g2Oizr6zZJPGLuK4W2mr
+    postId: LzQ7W1D5gMH3G3LMZJl6iMQWQ9Ywl1HmxXWXvZEPc4wrxGoyJwiG5jRR
+    factor: 1.33
+    portrait: 0
+    mInfo: xwJb21UtEOMadZK
+  - id: oBD0Qjd
+    name: gEAZXkn5x6FJAojZDZ3LS9Wlx50
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/oBD0Qjd.jpg
+    prevLoc: jmv5zG4pgAhOmllzE3njhmnqgl0mnvhwnxVKAVNouLjxn1ZOVDiqWxnpqAqkuLPGqPrzxDu9A6zROyL7tErA7zoWrxT189Mq5L3KcgqQlwyLvwtMwA2JLxD7T9lEMgD5NZc95rw66n1NT8Gq4k0zApuY2GvDD58EsOBy8OrDjPIQPPR149pLS0oPD55Z9kIrX2px6WRpswM2N6D5ZgCqopqy7NXMc4O3ZP6yJKFokANgMWDVIQkq5gyOoqhqy2WqOjqriPW
+    parentId: 075Y390g2Oizr6zZJPGLuK4W2mr
+    postId: LzQ7W1D5gMH3G3LMZJl6iMQWQ9Ywl1HmxXWXvZEPc4wrxGoyJwiG5jRR
+    factor: 1.33
+    portrait: 0
+    mInfo: qx6rDgEbjSpidXm
+message: "阪井全體員工BBQ 趴踢～～  
+阪井社長帶領全體32個員工！！！  
+超強的團隊啊！"
+---
+
+阪井全體員工BBQ 趴踢～～  
+阪井社長帶領全體32個員工！！！  
+超強的團隊啊！
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/JOahSXz.jpg"><img src="https://i.imgur.com/JOahSXz.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/I9aHbDO.jpg"><img src="https://i.imgur.com/I9aHbDO.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/rWFW0BI.jpg"><img src="https://i.imgur.com/rWFW0BI.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/oBD0Qjd.jpg"><img src="https://i.imgur.com/oBD0Qjd.jpg" height="225" width="300" /></a> 
+ 
