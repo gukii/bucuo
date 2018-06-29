@@ -1,0 +1,110 @@
+---
+layout: post
+title: "恭喜🎉🎉🎉🎊🎊🎊 " 
+date: 2018-04-22T05:23:00+0000 
+categories: ["KoiShow","IKI","華錦","Dainichi","大日","Koi ","錦鯉"] 
+media:
+  - id: yw9bO6J
+    name: xxYnLp4AMDij1W75rEklHkXnzRE
+    description: ""   
+    height: 700
+    width: 490
+    type: image/jpeg
+    link: https://i.imgur.com/yw9bO6J.jpg
+    prevLoc: AGQWvJk3X8HROrrx0nN9TjMPwxDjMWskMJ1G91Pzu1E0ROX78WurAYVgrBrMiLXW9NQ6ApUYjRjBnpjvCy35z9ZmplF826vLqo4mf6KpwjLD3wcXrLWk9G3oIqZnNDw4yzS3NvDkmDpATkO5PLj5jkCArqmvEv0DSnK53NVzKgf3yqMOOkv1iVo9mlRQ6ou7KWkO6KOYhm57z8lyW8TrkJ0p4Qn7i8P0znJ6jkiBry9LLg5BiVN5Vz4
+    parentId: 54mQKBGkZ5C1xJMqEL7Mf1OxljG
+    postId: qnO7Lp5MjwS2E296opJqc3GyG0oVOMtAOJln7Yo8iXNAWO01n9fKJMyk
+    factor: 1.43
+    portrait: 1
+    mInfo: 9s0hlMDQOqg8z5D
+  - id: fFVuZiy
+    name: JxOyW4wMpmioqj6vL7VouJW0Rvq
+    description: ""   
+    height: 504
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/fFVuZiy.jpg
+    prevLoc: q0V6KP4zpAI2NLLgBz8OuKr4YGkKrAHVOW6YK6wMHzy7XQ18AWinwryAnYn6h5LO024PMKhyj9MZ6JWAtKx6n0OPxGfvgw3g19RJCL3VJK1P52cOE5l36QXDu16mxQDr3gfyqRnVLRpBurQKVPVx6EHyxp20NoBgFKMnrKXGzAFVkkNvjn4zU56KXQQzk0IJzPQ2mp15CRvjJX4QYLs4N7lg4L0ghnyKzJqDyqHD0111YKVnsRWOmQXYoZSXY54M6v6rhGV
+    parentId: 54mQKBGkZ5C1xJMqEL7Mf1OxljG
+    postId: qnO7Lp5MjwS2E296opJqc3GyG0oVOMtAOJln7Yo8iXNAWO01n9fKJMyk
+    factor: 1.43
+    portrait: 0
+    mInfo: gwBz9Tz3iXUVW4s
+  - id: lAeEnpO
+    name: 3XkQVzDg85tvprrxWVGJIZ5mBQN
+    description: ""   
+    height: 720
+    width: 501
+    type: image/jpeg
+    link: https://i.imgur.com/lAeEnpO.jpg
+    prevLoc: nqY7EM4wmGiWDll4wK7Gs8EjKQD8ExsM3EvmQvXgFBv10RGkYOiZY2wKZRZguonpPQWA3yClWJjwO26vt492K3qQvlI6jQAPrj0gCyXG56mrvoUEKA5lmzQJFK29AX2mJRSnm6OKQjN7ijZQwGBqwRtMXl3lOvWAsoxA7oBYKguLXXD43m18t91zlQQOKOIgPMNp6XkMilW3227xrqIyKlZo9pkDTXBWQW55EziLVz8YQJDQIgz64NO3VvIMxRo6Gmq9Fqn
+    parentId: 54mQKBGkZ5C1xJMqEL7Mf1OxljG
+    postId: qnO7Lp5MjwS2E296opJqc3GyG0oVOMtAOJln7Yo8iXNAWO01n9fKJMyk
+    factor: 1.44
+    portrait: 1
+    mInfo: PoOK5AtEwQA1VzQ
+  - id: wlNaN53
+    name: kLG8XY4kvmivOJJWr46BToYpPE0
+    description: ""   
+    height: 720
+    width: 493
+    type: image/jpeg
+    link: https://i.imgur.com/wlNaN53.jpg
+    prevLoc: RqMkQ4G3K8iOWnnwYRvrh8ojExD8o5sqPzYx6YopTgwvEK207Wc83zgO8V86IjyKoWPLkDTRyGXlvm9ZUJV8YX2JK0iP51jjnLnAClRnYXOQmqHXJyNRKXkvI35rNjq6NmIn2gwPk0z1SRAQ9Zz1XrUp2wwnEEgRuDolmDExA2FqKK6oRBkjfR3Qw99gB7ixBGBKmywAtBw5w76LGyiB3mlnXXPlS5N8B0EVLqHR6GQJwWYXSg5wGJEqNwc5wAQrk50kuKz
+    parentId: 54mQKBGkZ5C1xJMqEL7Mf1OxljG
+    postId: qnO7Lp5MjwS2E296opJqc3GyG0oVOMtAOJln7Yo8iXNAWO01n9fKJMyk
+    factor: 1.46
+    portrait: 1
+    mInfo: osk0LnBmYvjLwlU
+message: "恭喜🎉🎉🎉🎊🎊🎊  
+第六回 國際錦鯉幼魚品評會  
+銅獎 27部 紅白  
+獲獎魚主;大豐製藥股份有限公司  
+生產漁場;大日養鯉場-豐田店  
+出品代理;成田養魚園  
+經銷代理;華錦顧問股份有限公司  
+  
+Congratulations 🎊🎉🍾   
+The 6th International Junior Koi Show  
+Bronze Prize 27bu Kohaku  
+Owner; Tafong Pharmaceutical Co., LTD - TAIWAN  
+Breeder; Dainichi Koi Farm - Toyota  
+Handled; Narita Koi Farm  
+Agency; Huajin consulting Co., Ltd. (IKI Taiwan)  
+  
+#第六回國際錦鯉幼魚品評會  
+#The6thInternationalJuniorKoiShow"
+---
+
+恭喜🎉🎉🎉🎊🎊🎊  
+第六回 國際錦鯉幼魚品評會  
+銅獎 27部 紅白  
+獲獎魚主：大豐製藥股份有限公司  
+生產漁場：大日養鯉場-豐田店  
+出品代理：成田養魚園  
+經銷代理：華錦顧問股份有限公司  
+  
+Congratulations 🎊🎉🍾   
+The 6th International Junior Koi Show  
+Bronze Prize 27bu Kohaku  
+Owner: Tafong Pharmaceutical Co., LTD - TAIWAN  
+Breeder: Dainichi Koi Farm - Toyota  
+Handled: Narita Koi Farm  
+Agency: Huajin consulting Co., Ltd. (IKI Taiwan)  
+  
+#第六回國際錦鯉幼魚品評會  
+#The6thInternationalJuniorKoiShow
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/yw9bO6J.jpg"><img src="https://i.imgur.com/yw9bO6J.jpg" height="300" width="210" /></a> 
+  
+
+<a href="https://i.imgur.com/fFVuZiy.jpg"><img src="https://i.imgur.com/fFVuZiy.jpg" height="210" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/lAeEnpO.jpg"><img src="https://i.imgur.com/lAeEnpO.jpg" height="300" width="208" /></a> 
+  
+
+<a href="https://i.imgur.com/wlNaN53.jpg"><img src="https://i.imgur.com/wlNaN53.jpg" height="300" width="205" /></a> 
+ 
