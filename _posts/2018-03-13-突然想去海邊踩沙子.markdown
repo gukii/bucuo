@@ -1,0 +1,34 @@
+---
+layout: post
+title: "突然想去海邊踩沙子" 
+date: 2018-03-13T09:43:50+0000 
+categories: [] 
+media:
+  - id: MB2sry3
+    name: 2NjxDqJ9MZTQgQDW6Bn5UKJBZpy
+    description: "突然想去海邊踩沙子啊⋯⋯⋯⋯(≧∇≦)
+紅豆紫米湯喝完了，不錯！
+幾多？金幣一枚～"   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/MB2sry3.jpg
+    prevLoc: AGQWvJk3X8HROrrx0nN9TjMPwxDjMWskMJ1G91Pzu1E0ROX78WurAYVgrBrMiLXOkXz34BuDZk6YznqETyXLkV9mB7h8YZVxRQlpC6Q20PlDzgSK5X3WjXpzfqZQpBM1J3H2lAMwmG5xtxrznXxopxsABLX1pgo7s1xB01jEOPINPP6kv97wFvYKDBBr7yFxWlOADwqvtKQjwLqBzxCg5BRKvXKJtB7Kn6jVYkSwKN4WRkDZfGl89OoQN7U5OBqBkymqHvl
+    parentId: 2NjxDqJ9MZTQgQDW6Bn5UKJBZpy
+    postId: vvWlLx59gKClYlv03DrQcqGKGOg1pwT0y12Wo0gDcorM5ZLYyzt5KAP0
+    factor: 1.33
+    portrait: 0
+    mInfo: 0yyYpFIrTqhuwAY
+message: "突然想去海邊踩沙子啊⋯⋯⋯⋯(≧∇≦)  
+紅豆紫米湯喝完了，不錯！  
+幾多？金幣一枚～"
+---
+
+突然想去海邊踩沙子啊⋯⋯⋯⋯(≧∇≦)  
+紅豆紫米湯喝完了，不錯！  
+幾多？金幣一枚～
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/MB2sry3.jpg"><img src="https://i.imgur.com/MB2sry3.jpg" height="225" width="300" /></a> 
+ 
