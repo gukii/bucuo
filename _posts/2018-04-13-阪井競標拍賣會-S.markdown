@@ -1,0 +1,78 @@
+---
+layout: post
+title: "阪井競標拍賣會 S" 
+date: 2018-04-13T15:04:47+0000 
+categories: ["Auction","Sakai"] 
+media:
+  - id: zsi8OV5
+    name: GrLvW4Y28Zh9wqRvOyBJsGqKY8O
+    description: ""   
+    height: 720
+    width: 432
+    type: image/jpeg
+    link: https://i.imgur.com/zsi8OV5.jpg
+    prevLoc: OnELN1B3XJsOx55DY0pAhz5BYQ4z57s4VjyzBy9xumZ9q5NzQYirP8BnrXrmiD6KlBLZG0c6n7K5AJEOTn86wJ7GwxSvXRqlyzAnHBAR7wB7YJToroEgXoZ3TDjNVvRM9vhkzNlPl0z3I9yo7OXxQXiowMpV7n0xT2EWq2D5R8slGGJL6wQyIo2JAEEGzviNZDXpLqpBF2L8Yp23wQsJP240R3QQfoRx1JxwBPUwRjmQo3g2hQ25NNRv2Vc3nZYovQMpTyL
+    parentId: KyP194Y2QZUk2VQ44NmlcKBq8Ek
+    postId: zz1vY45xmVHrkrKNA0O5fG9R951EkVfmK4BLm8wntw6OOpk9z0HMpRB8
+    factor: 1.67
+    portrait: 1
+    mInfo: zHL4Kv8uAnmGqtS
+  - id: USVf3F5
+    name: nkLx6KYoOZiVnxErvgO0hV3xBjy
+    description: ""   
+    height: 720
+    width: 432
+    type: image/jpeg
+    link: https://i.imgur.com/USVf3F5.jpg
+    prevLoc: 7rnYgvKPyDIRNEErMQAmTJRGrgwJRDhlErDX3Dzvcw4n18lzL5uX4j2xXlXnIREAGqyY1VuZO4KXAvJphx9vLEnpWAIryl9mVPvDIDwLBWDB5BFqnA1OMLq3il5Z6XygQWSAB5ZzlWgpHvrl2kvj0EFX84WVmz2EILKmyL65QosVQQqwj7mzURlZQPP4wvsqQRyrKkqVtYm1znEK39IAPvN2VYjDc9mxlVvmOPcDJvkE8WgEC1g9RwrKgAcjZPEZjkAVsAl
+    parentId: KyP194Y2QZUk2VQ44NmlcKBq8Ek
+    postId: zz1vY45xmVHrkrKNA0O5fG9R951EkVfmK4BLm8wntw6OOpk9z0HMpRB8
+    factor: 1.67
+    portrait: 1
+    mInfo: 1ReC3zbKl3MwFVs
+  - id: OqcRYlU
+    name: wwXV7WEArjSnoPjGlwGNHOBk4Eo
+    description: ""   
+    height: 720
+    width: 432
+    type: image/jpeg
+    link: https://i.imgur.com/OqcRYlU.jpg
+    prevLoc: vBYRPX4GxmIl8OOJ127Wf45VWGm45xsry9RjlRVnS3EropJAjMuXLjD6XnXvIzB4WXRMj1FXkDLYQ9GqfVEYJr128OFX96m014EKSDjLQODQwAtqNX5Z5Vx2tp2gO08ODwiLXrrqWl4os5YJLrNBOyH4Q47KQ0VmfzvV8zqw9YT0VVWEM4xpuAL2NDD7JGCzOYlQA9nEHpwAmRR1VKu5JZ39xpBqFjymBvNxPLIlG4loMBZNSNQ0RkMqpvt8Vz8r9g2lC6o
+    parentId: KyP194Y2QZUk2VQ44NmlcKBq8Ek
+    postId: zz1vY45xmVHrkrKNA0O5fG9R951EkVfmK4BLm8wntw6OOpk9z0HMpRB8
+    factor: 1.67
+    portrait: 1
+    mInfo: RWTMHyV37om2rt0
+message: "阪井競標拍賣會 Sakai Auction  
+競標日期;4月17日  
+競標地點;阪井養魚場  
+官方網址;http;//sff-koi.com/carp/  
+  
+喜歡大當歲的魚友可以參考看看喔！  
+委託競標請私訊我，謝謝^_^  
+  
+純欣賞的朋友，你喜歡哪隻呢？  
+可複選喔*\(^o^)/*"
+---
+
+阪井競標拍賣會 Sakai Auction  
+競標日期：4月17日  
+競標地點：阪井養魚場  
+官方網址：http://sff-koi.com/carp/  
+  
+喜歡大當歲的魚友可以參考看看喔！  
+委託競標請私訊我，謝謝^_^  
+  
+純欣賞的朋友，你喜歡哪隻呢？  
+可複選喔*\(^o^)/*
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/zsi8OV5.jpg"><img src="https://i.imgur.com/zsi8OV5.jpg" height="300" width="180" /></a> 
+  
+
+<a href="https://i.imgur.com/USVf3F5.jpg"><img src="https://i.imgur.com/USVf3F5.jpg" height="300" width="180" /></a> 
+  
+
+<a href="https://i.imgur.com/OqcRYlU.jpg"><img src="https://i.imgur.com/OqcRYlU.jpg" height="300" width="180" /></a> 
+ 
