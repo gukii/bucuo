@@ -1,0 +1,31 @@
+---
+layout: post
+title: "昭和的美(≧∇≦)" 
+date: 2018-04-13T08:46:58+0000 
+categories: ["Dainichi"] 
+media:
+  - id: HNSNGEo
+    name: RJZOj9MrxquXRpNOlXgxH3nZW6X
+    description: "昭和的美(≧∇≦)
+Dainichi Showa ❤️"   
+    height: 553
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/HNSNGEo.jpg
+    prevLoc: rxEBLQ4AqgTmZwwyM18AuoN23WnoNAInV48m68MBCjxBWq81Mzt6PK706j65uvOLNyQqAlT769yJK4k8Sg4LvqyX35Uoyj2ALzNKc1L5PnMvWmuO6AYEAgzphVwnqG7nvWupQxKpEmlQINO55rg5RQT8P5L33pzDfOlwBORjZgIR11jOr67PHknOwMMoD6SVpxKKqJzjt57AMyQzqvh6W95jr3yAf9Z0yxnm5jc9DOwq8j2mFkpn34741Linr7LXQqoQIrV
+    parentId: RJZOj9MrxquXRpNOlXgxH3nZW6X
+    postId: AlBNKXo9njHRwRjJzvGkH4xoxVJ3rBi8Mw6Aoyrps2W0NEjz3zHWql7P
+    factor: 1.30
+    portrait: 0
+    mInfo: A3edvZCz8t7DR8T
+message: "昭和的美(≧∇≦)  
+Dainichi Showa ❤️"
+---
+
+昭和的美(≧∇≦)  
+Dainichi Showa ❤️
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/HNSNGEo.jpg"><img src="https://i.imgur.com/HNSNGEo.jpg" height="230" width="300" /></a> 
+ 
