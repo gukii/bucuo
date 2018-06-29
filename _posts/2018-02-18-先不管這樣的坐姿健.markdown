@@ -1,0 +1,31 @@
+---
+layout: post
+title: "先不管這樣的坐姿健" 
+date: 2018-02-18T01:45:36+0000 
+categories: [] 
+media:
+  - id: L2qiJG3
+    name: 6NnR5836QXcJr5AQKqPnHPLJZWk
+    description: "先不管這樣的坐姿健不健康端不端莊⋯⋯
+睡到自然醒、早餐水煮蛋+黃瓜、看書聽音樂、還有宗主、歐巴、卷福相陪，開心吶～～"   
+    height: 720
+    width: 405
+    type: image/jpeg
+    link: https://i.imgur.com/L2qiJG3.jpg
+    prevLoc: KjYzJWx37Ah1W88QKB2qugG8kDRgG0hmJK1wB15VFYMmPJvBLkfk1wWKkZkOIBG14wRQ09IvVJKgMyXRFJxJEv5GEphKkZ9Xv9zDiErDADLZyNflzjEWWVYouyk9xQPy8Ou45ww5GjPDuYJD1JA2Ngi7ODNw8lJ4uRO0rRL1K3FOyy7Nkz4XtXl5K33YR6TjDwQ97wMDcOrNnE8WZQcLyokgyq6mc9yqvjng23I703KWKGBnukVjJQ4Q9EiA7NG12PXQhkX
+    parentId: 6NnR5836QXcJr5AQKqPnHPLJZWk
+    postId: MARwWKg5jOhJwJjVAQvNtMlZlx9zEOHr1Ln3lzAqTX34WLyyrKUYXXQE
+    factor: 1.78
+    portrait: 1
+    mInfo: fKMKTmoluAjcj3K
+message: "先不管這樣的坐姿健不健康端不端莊⋯⋯  
+睡到自然醒、早餐水煮蛋+黃瓜、看書聽音樂、還有宗主、歐巴、卷福相陪，開心吶～～"
+---
+
+先不管這樣的坐姿健不健康端不端莊⋯⋯  
+睡到自然醒、早餐水煮蛋+黃瓜、看書聽音樂、還有宗主、歐巴、卷福相陪，開心吶～～
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/L2qiJG3.jpg"><img src="https://i.imgur.com/L2qiJG3.jpg" height="300" width="168" /></a> 
+ 
