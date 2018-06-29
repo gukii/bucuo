@@ -1,77 +1,94 @@
 ---
 layout: post
 title: "恭喜🎉🎉🎉🎊🎊🎊 " 
-date: 2018-04-21T12:59:51+0000 
-categories: ["KoiShow","IKI","華錦","Koi ","錦鯉"] 
+date: 2018-04-21T08:23:46+0000 
+categories: ["KoiShow","Champion","IKI","華錦","Dainichi","大日","Koi ","錦鯉"] 
 media:
-  - id: H4Stq1Z
-    name: 3XkQVWJqMkSvGQJPOQLJHZ0g6DP
+  - id: 59faHGu
+    name: MARwWkzPVMSJ1Y5N0y2gC51xVWW
     description: ""   
-    height: 720
-    width: 504
-    type: image/jpeg
-    link: https://i.imgur.com/H4Stq1Z.jpg
-    prevLoc: lovXBK4rk8CMEOOWGA2osRYQLM8RYPhBKjWGMWE6upW3vjAnOVSDoLjpD0DvTLWO9q4RvZI7oxWXlGBMSm85zQYEwXcRNBvzkAjEivxY7L3BE6Cv5jllgq7Kf5GOKyBk8gcp9WG9NOE9h1EqW9ApnEhzPll63X4OhOXPoOyzJ2IvBBwQA9jOi5xnz33X11ilq8QW5zl5srAjNwJ5w0uyJpz8O98NhOPKg3lYBBi5AoRGL4jqfEGn0gMz12ugZYjyDP94I6L
-    parentId: PE07W4JwBPFn5A24nPJnf2NLQLP
-    postId: roP8Vq5M0yHmkmx3G54gfPW9Wq68ZLCQV9BJMX0Kh0z4kNLxqktAQO6N
-    factor: 1.43
-    portrait: 1
-    mInfo: ltRlcRp5wX49d4K
-  - id: 3AUHkIX
-    name: AlBNK4OL0BS5mq8y1vOOslrvopv
-    description: ""   
-    height: 468
+    height: 451
     width: 720
     type: image/jpeg
-    link: https://i.imgur.com/3AUHkIX.jpg
-    prevLoc: 9wpGkxM0A3tOqRRJnMkmhA1nqyvA19t54wDlND8PFjn6xJwEW0tqmYnAqPqMuAGo2Eq18ZS41W0N5ZGwcwQNmMKGy1Hj4kRMWOxXc81Z4Y7lQXfW2l334Q4DTGjQv2wO9kS833P0q7kOs0gNJ5Rj2Atv4qv3N4gLcNEGm9RRZnS7kgP6ZwwpT9gYk59YwLFLrP6VPPm4UlJGyLMxwpf63o0QDWJgiAJl7YkY1AFjkNKqJ92WIroEKQDEz6I2oxvw5EV0
-    parentId: PE07W4JwBPFn5A24nPJnf2NLQLP
-    postId: roP8Vq5M0yHmkmx3G54gfPW9Wq68ZLCQV9BJMX0Kh0z4kNLxqktAQO6N
-    factor: 1.54
+    link: https://i.imgur.com/59faHGu.jpg
+    prevLoc: jmv5zG4pgAhOmllzE3njhmnqgl0mnvhwnxVKAVNouLjxn1ZOVDiqWxnpqAqkuLPNWVxYy5I9A6zJvWrQtErND4vx3YI1890Qv8RySgoQ10oRPOcMPmpQBv8yIvRGy3M0Q5T97XM9NN22Fw7QkB79DLhqmZKZ1ZwLsOBy8OrDjPIQPPR149pLS0oPD55Zkqu0YYDYyxB9fwm76MYG1phOmVGyl6rGuL8J2WPvJ3Sokz5X78R4FE9GlqxJLpiqy7xv9mr4HP1
+    parentId: vvWlLVJM0NTZB8oBAJGRIO2LOnJ
+    postId: kLG8XjKO59SwKwg3pMoxH7MvMAG5B0iNJ4BrW7nwsywwKOzyn2iprZnO
+    factor: 1.60
     portrait: 0
-    mInfo: BnX4jlgI2JU5LBb
-  - id: YkkGJDa
-    name: MARwW4BqyRCYomJGZKPYu5Nw0MW
+    mInfo: jTakF2LxupBFNzz
+  - id: 0MQGkux
+    name: 2NjxDyBPw3FmXQVp2qQvuKjzWE9
     description: ""   
-    height: 720
-    width: 516
+    height: 323
+    width: 720
     type: image/jpeg
-    link: https://i.imgur.com/YkkGJDa.jpg
-    prevLoc: 9wpGkxM0A3tOqRRJnMkmhA1nqyvA19t54wDlND8PFjn6xJwEW0tqmYnAqPqMuAGo2Eq18ZS41W0N5ZGwcwQNm3W0GMujqwzPRB7YT81Z4Y7lJvsrXOJQMlG1TGjQv2RALOi83Op39YAZt0DmVQ6JrZFvoNp00REziNlMLNZgYmF7GGzZ0YvQH9Pp4DD2jBFL576KZ5r4FjYpE4lPOzhY7gY6w91NslR7qEVJQ4fj6Ex1rkKYTBV9RX3YgLf2LZp7ZQ05uMG
-    parentId: PE07W4JwBPFn5A24nPJnf2NLQLP
-    postId: roP8Vq5M0yHmkmx3G54gfPW9Wq68ZLCQV9BJMX0Kh0z4kNLxqktAQO6N
-    factor: 1.40
+    link: https://i.imgur.com/0MQGkux.jpg
+    prevLoc: PoMgO2D3K6C6XvvBgoK4CMrpQOKMr5TpwBv2lvK5ImPnkYzJ6Zi2Jr7j2p28ulpOR069MqIMNRWJq5j9tDoYyBr83NfzYRrDp4RqskEwWRE723S4nMrYQJ3PUGxzA39NYyFnzQ48JAoGulmMOLjx1YFBXRkz9E37SryL2rmO51IkYYoZ0yVAtk7BO55mWWh6lJkjqN4RfP7VkjPKAGF6PlnK5AY2hVy2L78ROBfOmE5VPMVqFj2QWLlJVvUE4rOwV7yVslL
+    parentId: vvWlLVJM0NTZB8oBAJGRIO2LOnJ
+    postId: kLG8XjKO59SwKwg3pMoxH7MvMAG5B0iNJ4BrW7nwsywwKOzyn2iprZnO
+    factor: 2.23
+    portrait: 0
+    mInfo: hJ4cCi3uSzbmYR3
+  - id: 8tYiDeI
+    name: 70o1V4JxZjsYPN9A161psnvMn3k
+    description: "恭喜🎉🎉🎉🎊🎊🎊
+第六回 國際錦鯉幼魚品評會
+大會総合優勝二席
+長岡市長獎
+36部 A銀鱗昭和
+獲獎魚主;忠育水產養殖工作室
+生產漁場;大日養鯉場
+出品代理;成田養魚園
+經銷代理;華錦顧問股份有限公司
+
+Congratulations 🎊🎉🍾 
+The 6th International Junior Koi Show
+Grand Champion B
+Owner; Jonny Koi - TAIWAN
+Breeder; Dainichi Koi Farm
+Handled; Narita Koi Farm
+Agency; Huajin consulting Co., Ltd. (IKI Taiwan)"   
+    height: 700
+    width: 490
+    type: image/jpeg
+    link: https://i.imgur.com/8tYiDeI.jpg
+    prevLoc: NmEXMZA3K7h63VVYLE0NC60W9MK60ohZxjgD2gnPczw1rPn0KmiBrQyNBnB4CoRNp8X61ys8gqmw1LplflAOEjx82LTZNvz0Q2MoikxZOGqmYxcJvLx4EDjyHyXljYPG25t8jrl3xLzosRkY2MZYZRSDRNBLyL7YF3Mq5WREMNu47Gj8K4Rvu29GwZyWP2F2Yg7Rr3x9Cp7n3NE1LRcO46R41NqJuXBzK9nvG9Cl6gO77vQKF4x7NmP
+    parentId: vvWlLVJM0NTZB8oBAJGRIO2LOnJ
+    postId: kLG8XjKO59SwKwg3pMoxH7MvMAG5B0iNJ4BrW7nwsywwKOzyn2iprZnO
+    factor: 1.43
     portrait: 1
-    mInfo: GyojCnGUUieszpF
-  - id: oM1jirJ
-    name: 9Nq1YJMoEqCjDj93POM0frjLP1l
+    mInfo: PBKP7FN2tVQfsIE
+  - id: XhwzCt8
+    name: yyZo2qgBv0C4w37o1JX9C3AXGVK
     description: ""   
     height: 720
     width: 493
     type: image/jpeg
-    link: https://i.imgur.com/oM1jirJ.jpg
-    prevLoc: gjx8wB4mD7hByPPv6mAlfD74JgRD70hNDYpwkp54Cm6AOM2rjvipZ40qpVpWhRyQMV5AKPuOLNJz1K3GiWqnQXWJM3c9v1yl2p8qilM7nwNvwlUVQK5JgpAysKxWv8Z297tvYvZ7gLPNTo737WMBOGCN6WKzrWmPhqgp8qm57xtX116r7VpBsBYqJyywPEhyNgMx2J2MtPR1BQxoZJT2E0klWw7rhQ7yKRg8POIDNqO7QgzjTxnyBNEzgZHQwOpEyq5Js9M
-    parentId: PE07W4JwBPFn5A24nPJnf2NLQLP
-    postId: roP8Vq5M0yHmkmx3G54gfPW9Wq68ZLCQV9BJMX0Kh0z4kNLxqktAQO6N
+    link: https://i.imgur.com/XhwzCt8.jpg
+    prevLoc: 0k2EWlzGoACyBJJnvMG2I63VpEG63mhr8kJ9PJM2S6Xyzw0n7pHzZBX7z4z5cmLEXgyRNKUqxL2y4EgXSAL1plmLokckv1EvY3OBtGqEp2q4XJirRj2gj0y7HVy10vNZz0C18AMxrqEoCQG7Dk0Drlt1gpppOQzysAZQoAODWpfKEE8Q9ND0iL143yyZEWSDZGWE5p7Ef7o3OxmqOrivVz2EBx9ws7jRMpL2GwtqY81nKlvQuEZ15xlVr7sgJpDAl42PU9z
+    parentId: vvWlLVJM0NTZB8oBAJGRIO2LOnJ
+    postId: kLG8XjKO59SwKwg3pMoxH7MvMAG5B0iNJ4BrW7nwsywwKOzyn2iprZnO
     factor: 1.46
     portrait: 1
-    mInfo: 6QKiAzT18ScaAi3
+    mInfo: e1CgDjJto949AKM
 message: "恭喜🎉🎉🎉🎊🎊🎊  
 第六回 國際錦鯉幼魚品評會  
-金獎 Gold Prize  
-30部 紅白  
-獲獎魚主;張 宸嘉  
-生產漁場;野上養鯉場  
+大會総合優勝二席  
+長岡市長獎  
+36部 A銀鱗昭和  
+獲獎魚主;忠育水產養殖工作室  
+生產漁場;大日養鯉場  
 出品代理;成田養魚園  
-經銷代理;華錦顧問股份有限公司，忠育水產養殖工作室。  
+經銷代理;華錦顧問股份有限公司  
   
 Congratulations 🎊🎉🍾   
 The 6th International Junior Koi Show  
-Gold Prize 30bu Kohaku  
-Owner; Paul Chang - TAIWAN  
-Breeder; Nogami Koi Farm  
+Grand Champion B  
+Owner; Jonny Koi - TAIWAN  
+Breeder; Dainichi Koi Farm  
 Handled; Narita Koi Farm  
-Agency; Huajin consulting Co., Ltd. (IKI Taiwan) , Jonny Koi.  
+Agency; Huajin consulting Co., Ltd. (IKI Taiwan)  
   
 #第六回國際錦鯉幼魚品評會  
 #The6thInternationalJuniorKoiShow"
@@ -79,34 +96,35 @@ Agency; Huajin consulting Co., Ltd. (IKI Taiwan) , Jonny Koi.
 
 恭喜🎉🎉🎉🎊🎊🎊  
 第六回 國際錦鯉幼魚品評會  
-金獎 Gold Prize  
-30部 紅白  
-獲獎魚主：張 宸嘉  
-生產漁場：野上養鯉場  
+大會総合優勝二席  
+長岡市長獎  
+36部 A銀鱗昭和  
+獲獎魚主：忠育水產養殖工作室  
+生產漁場：大日養鯉場  
 出品代理：成田養魚園  
-經銷代理：華錦顧問股份有限公司，忠育水產養殖工作室。  
+經銷代理：華錦顧問股份有限公司  
   
 Congratulations 🎊🎉🍾   
 The 6th International Junior Koi Show  
-Gold Prize 30bu Kohaku  
-Owner: Paul Chang - TAIWAN  
-Breeder: Nogami Koi Farm  
+Grand Champion B  
+Owner: Jonny Koi - TAIWAN  
+Breeder: Dainichi Koi Farm  
 Handled: Narita Koi Farm  
-Agency: Huajin consulting Co., Ltd. (IKI Taiwan) , Jonny Koi.  
+Agency: Huajin consulting Co., Ltd. (IKI Taiwan)  
   
 #第六回國際錦鯉幼魚品評會  
 #The6thInternationalJuniorKoiShow
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/H4Stq1Z.jpg"><img src="https://i.imgur.com/H4Stq1Z.jpg" height="300" width="210" /></a> 
+<a href="https://i.imgur.com/59faHGu.jpg"><img src="https://i.imgur.com/59faHGu.jpg" height="187" width="300" /></a> 
   
 
-<a href="https://i.imgur.com/3AUHkIX.jpg"><img src="https://i.imgur.com/3AUHkIX.jpg" height="195" width="300" /></a> 
+<a href="https://i.imgur.com/0MQGkux.jpg"><img src="https://i.imgur.com/0MQGkux.jpg" height="134" width="300" /></a> 
   
 
-<a href="https://i.imgur.com/YkkGJDa.jpg"><img src="https://i.imgur.com/YkkGJDa.jpg" height="300" width="215" /></a> 
+<a href="https://i.imgur.com/8tYiDeI.jpg"><img src="https://i.imgur.com/8tYiDeI.jpg" height="300" width="210" /></a> 
   
 
-<a href="https://i.imgur.com/oM1jirJ.jpg"><img src="https://i.imgur.com/oM1jirJ.jpg" height="300" width="205" /></a> 
+<a href="https://i.imgur.com/XhwzCt8.jpg"><img src="https://i.imgur.com/XhwzCt8.jpg" height="300" width="205" /></a> 
  
