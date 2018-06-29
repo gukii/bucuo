@@ -1,37 +1,37 @@
 ---
 layout: post
 title: "第35回 錦鯉全國" 
-date: 2018-03-26T22:56:34+0000 
+date: 2018-03-26T22:55:07+0000 
 categories: ["KoiShow","Sakai","IKI","華錦","Koi ","錦鯉"] 
 media:
-  - id: 1v4NmST
-    name: MARwWnoWmgIJ1BPkG18Yf5yA3Z1
+  - id: jFXpQWU
+    name: vvWlL6DL7wiZRnL0Q3l9ckXyj0r
     description: ""   
     height: 720
     width: 504
     type: image/jpeg
-    link: https://i.imgur.com/1v4NmST.jpg
-    prevLoc: q0V6KP4zpAI2NLLgBz8OuKr4YGkKrAHVOW6YK6wMHzy7XQ18AWinwryAnYn6h5LO024PMKhyj9MZ6JWAtGBKM3E7jrUvoG7AEXPzuLkL5R5QMyUOq7BALrQnS14MEQlkBlsypgmvEA1rSrg1RKz289fy14ovZ683uKMnrKXGzAFVkkNvjn4zU56KXQQzNZhnjJVXLpEzCjVgB18wZ0T4ro4kqRXxIg575nk4QnCz786jMl5MC4l0r931E0iXYVxrgLPDFGV
-    parentId: QGYngrvgqmcRpvVvlm5NfDVgRlZ
-    postId: 2NjxDqr1RzfmBm7o9N0MfZwywV8zDLS24M4JDQM7SvMyZGkWqAu10lDv
+    link: https://i.imgur.com/jFXpQWU.jpg
+    prevLoc: BJ8OwK03X1TnKPPxqM7VhZ1gPwxZ15hGLp3Ny3E1cRAvlN63MoiOA6J7ODOjIzM17YR5BOFYn9wNALBGfZM51vRo19tn7n7JXvgVfYNYqVNBD4tM9yQg9ov3i6G06rE3MWULDmOyDApDFAQoOBoYzGuy4Bvkp0w8Fj0XNkPPAzfD7mJL0nnXCzPZV7zZQZIpEWvnwxy7h9N93mMNG1c3lyvXrqm9f54AVrPKQ0fqzL8XljnqswjvgZWvYJs3AQ56Mqrm
+    parentId: LzQ7WmnWlGU27DwyvPE4TVxWvjA
+    postId: XlgLpXwk6mH989m7zxkwin141lEAPrS2NPNnR3k7fNE728qDO1u2vwJp
     factor: 1.43
     portrait: 1
-    mInfo: Rept4xfn5e82gKH
-  - id: 8rUVaC7
-    name: zz1vYg9YN5crZWDEyB6lhLQpWRo
+    mInfo: 4iv58dXCfSFcx54
+  - id: ACNk4bM
+    name: 54mQKo3KEMH12PpnQxyOi1QYK9M
     description: ""   
     height: 720
     width: 405
     type: image/jpeg
-    link: https://i.imgur.com/8rUVaC7.jpg
-    prevLoc: nqY7EM4wmGiWDll4wK7Gs8EjKQD8ExsM3EvmQvXgFBv10RGkYOiZY2wKZRZguonpPQWA3yClWJjwO26vtAp48Y52wzt6222YOMYrSyMyvZvqR4cEWZ9731zqHK13jWxpAGI6YwP8QgmgIjZ5pyNJWvHKNN09jMDwuoxA7oBYKguLXXD43m18t91zlQQOxWcQR9l9pP1rslpLg9KVQAUyZk0mnmPlCX5kkrrv2QCq2lX0r3NnSZmmo3y0rnCMxX9Ky1Doiq4
-    parentId: QGYngrvgqmcRpvVvlm5NfDVgRlZ
-    postId: 2NjxDqr1RzfmBm7o9N0MfZwywV8zDLS24M4JDQM7SvMyZGkWqAu10lDv
+    link: https://i.imgur.com/ACNk4bM.jpg
+    prevLoc: mp28DL4v07TMl11VXAj5s1Dkwj81D6C42orB8rNZu8lwXmgOzWHLDxVqLJLEcOm27Dw54Mhx5wlOM1z9cJV6XW5OWvcrLP39VRkqcygy9ogLZnTjRkNvpklYuo5vRLyXxvcRz0KwJLGlsqn6JljwzBuAQnoMXyqXs9NDm9Yj7lCOkk34QlLptZw0q33DkVS1lRR5ZkWAi75z2XL9xjUGyy7PO0R8Hw9P1DXrLpfwG6qNBGEGigXVL59XvACqr7lKqDWVCyJ
+    parentId: LzQ7WmnWlGU27DwyvPE4TVxWvjA
+    postId: XlgLpXwk6mH989m7zxkwin141lEAPrS2NPNnR3k7fNE728qDO1u2vwJp
     factor: 1.78
     portrait: 1
-    mInfo: iX7JNMXnCg4Gbm1
+    mInfo: DwuplHEbQx0Y6go
 message: "第35回 錦鯉全國若鯉品評會  
-第18部 大正類 準優勝  
+第18部 大正類 優勝次席  
 恭喜 🎉🎉🎉  
 獲獎魚主;陳 健  
 生產漁場;阪井養魚場  
@@ -39,7 +39,7 @@ message: "第35回 錦鯉全國若鯉品評會
 經銷代理;台灣華錦、蘇州蘇信  
   
 The 35th All Japan Young Koi Show  
-18 bu Sanke 3rd in Variety and Size  
+18 bu Sanke 2nd in Variety and Size  
 Congratulations 🎉🎉🎉  
 Owner; Chen, Jian  
 Breeder; Sakai Fish Farm  
@@ -51,7 +51,7 @@ Agent; IKI TAIWAN、Suxin Koi Farm
 ---
 
 第35回 錦鯉全國若鯉品評會  
-第18部 大正類 準優勝  
+第18部 大正類 優勝次席  
 恭喜 🎉🎉🎉  
 獲獎魚主：陳 健  
 生產漁場：阪井養魚場  
@@ -59,7 +59,7 @@ Agent; IKI TAIWAN、Suxin Koi Farm
 經銷代理：台灣華錦、蘇州蘇信  
   
 The 35th All Japan Young Koi Show  
-18 bu Sanke 3rd in Variety and Size  
+18 bu Sanke 2nd in Variety and Size  
 Congratulations 🎉🎉🎉  
 Owner: Chen, Jian  
 Breeder: Sakai Fish Farm  
@@ -71,8 +71,8 @@ Agent: IKI TAIWAN、Suxin Koi Farm
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/1v4NmST.jpg"><img src="https://i.imgur.com/1v4NmST.jpg" height="300" width="210" /></a> 
+<a href="https://i.imgur.com/jFXpQWU.jpg"><img src="https://i.imgur.com/jFXpQWU.jpg" height="300" width="210" /></a> 
   
 
-<a href="https://i.imgur.com/8rUVaC7.jpg"><img src="https://i.imgur.com/8rUVaC7.jpg" height="300" width="168" /></a> 
+<a href="https://i.imgur.com/ACNk4bM.jpg"><img src="https://i.imgur.com/ACNk4bM.jpg" height="300" width="168" /></a> 
  
