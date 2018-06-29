@@ -1,0 +1,28 @@
+---
+layout: post
+title: "高畑 勳 1935" 
+date: 2018-04-06T16:31:00+0000 
+categories: [] 
+media:
+  - id: fLYQSuy
+    name: LzQ7Wy43GyC3G7k9KGOZIV8JEg9
+    description: "高畑 勳 1935年10月29日－2018年4月5日"   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/fLYQSuy.jpg
+    prevLoc: 4okV1p0MvWC85YYZPmBJSrMK5nlrMwuJQLxDGxgyF1VqyLJ3pGu06v780R0Efy1YmGZp3ETxAgzYovV9cRXywnwnPkip6EyYX145TvWoxEEB4zSKJwmwm5ljigOEzD9BgqT5z9g0rJVZhpyy49DjqrC3vW6PNYg0TpKmNPDDOYfXjlm6N11gS7GxX47PgyfDnvKvW8AjIxXy1ZjwxJCXQLKOnm6ZhQGPNvKqPAF8lvJ2gRJDHozw6mMwW8tLK9k5qEnK
+    parentId: LzQ7Wy43GyC3G7k9KGOZIV8JEg9
+    postId: 1NgW3pqBjxfZPZ8w97LViMgDgJkzjmHvBW1x5XMWsYOE0j5l35FqDmJZ
+    factor: 1.78
+    portrait: 0
+    mInfo: s5kdRK8jpRnKda4
+message: "高畑 勳 1935年10月29日－2018年4月5日"
+---
+
+高畑 勳 1935年10月29日－2018年4月5日
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/fLYQSuy.jpg"><img src="https://i.imgur.com/fLYQSuy.jpg" height="168" width="300" /></a> 
+ 
