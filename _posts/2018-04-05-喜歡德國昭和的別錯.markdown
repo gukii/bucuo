@@ -1,0 +1,62 @@
+---
+layout: post
+title: "喜歡德國昭和的別錯" 
+date: 2018-04-05T06:31:34+0000 
+categories: ["Event"] 
+media:
+  - id: Y4Jh6vI
+    name: 2NjxDB5OJBfQpw0Qgrg5CKjzWR5
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/Y4Jh6vI.jpg
+    prevLoc: vBYRPX4GxmIl8OOJ127Wf45VWGm45xsry9RjlRVnS3EropJAjMuXLjD6X3jnIzWKDr5JRjcXq63OrKxkU7P7plNG4xFk81mLWV7jfQXYLzYR6wsq9lPj0jxKt09jQMO1J5FAwAlK9kQpSwxWYEG5xXH46vQM3EzwFzgXW2QMMZC0Qw4r7N1Rtn7rjVZqVDunE1QVmZMBf9AJl41XGGCBRzvM1pgrHPwKOQ6zG5f0mrYOpqKQcNmW1J3gvGiE7ARLXmGKFK8lgM
+    parentId: RJZOjGxwBGSXgBqEREjAt3o8XkW
+    postId: pmN8LoKXgrswVw5EBjpYHXn8nr3KNxfVlRWNRP3rto5w8xxkwxUAPK6O
+    factor: 1.33
+    portrait: 0
+    mInfo: 6LZR3VHN9djFqts
+  - id: xeRFC90
+    name: ODWM6Brq9BtkpWLDD5K5sGMDAK3
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/xeRFC90.jpg
+    prevLoc: q0V6KP4zpAI2NLLgBz8OuKr4YGkKrAHVOW6YK6wMHzy7XQ18AWinwryAnzrYF50yQDJV4MuyApqP4oOjIGmGV5R431uvWoz6woy5CV9r2lrvWzCzGm85zD98H1Vr8rQ5o7hZ1K04KPXrIrgp7YQE3zfyR20MExyqfK85DvyYYmuVBrnOlxRECxzBqYwyYQIZ5gBpZAL0f4qBOAXKADF501lqQgrWFowqq98pzzuyR9RWY7JXs4l4xnR7RAH1oMpz944ZHmXGmY
+    parentId: RJZOjGxwBGSXgBqEREjAt3o8XkW
+    postId: pmN8LoKXgrswVw5EBjpYHXn8nr3KNxfVlRWNRP3rto5w8xxkwxUAPK6O
+    factor: 1.33
+    portrait: 0
+    mInfo: V94Hc1ZLOq4fPUY
+  - id: NFAkOrU
+    name: JxOyWwmlXwUoqGrnOZx5HJwNW21
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/NFAkOrU.jpg
+    prevLoc: 9wpGkxM0A3tOqRRJnMkmhA1nqyvA19t54wDlND8PFjn6xJwEW0tqmYnAqQYPTA2QvxDMq8h4wBXRrAE1IonoAP4EWgc6QE32PJ5ys8oyv9yGR5FrK166g8zyuJgQZ2zz7Gf8PvvkBWvPs0wVExq7Djivmg0ZwNDkc564PKpYzzCwxpWw48ARTvMrE2DVyXiYqPVmozoQsvWq4VjjKJsYkKEPB2k1hRn3BG0J41HjLJzW3MNEfJm1kwzklLC7LE1OQDQPhRP9
+    parentId: RJZOjGxwBGSXgBqEREjAt3o8XkW
+    postId: pmN8LoKXgrswVw5EBjpYHXn8nr3KNxfVlRWNRP3rto5w8xxkwxUAPK6O
+    factor: 1.33
+    portrait: 0
+    mInfo: soVuFUlOMZVtHbe
+message: "喜歡德國昭和的別錯過囉^_^  
+Narita Shop Event on 8th April."
+---
+
+喜歡德國昭和的別錯過囉^_^  
+Narita Shop Event on 8th April.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/Y4Jh6vI.jpg"><img src="https://i.imgur.com/Y4Jh6vI.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/xeRFC90.jpg"><img src="https://i.imgur.com/xeRFC90.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/NFAkOrU.jpg"><img src="https://i.imgur.com/NFAkOrU.jpg" height="225" width="300" /></a> 
+ 
