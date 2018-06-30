@@ -56,7 +56,7 @@ media:
     factor: 1.34
     portrait: 0
     mInfo: kkqWFMfT8snW0FV
-message: "會場另一大亮點*\(^o^)/*  
+message: "會場另一大亮點  
 Sakai S Legend  
   
 #阪井養魚場  
