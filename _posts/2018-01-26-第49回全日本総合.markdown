@@ -1,0 +1,72 @@
+---
+layout: post
+title: "第49回全日本総合" 
+date: 2018-01-26T03:23:02+0000 
+categories: ["錦鯉品評會","錦鯉"] 
+media:
+  - id: X2seTxr
+    name: gEAL3lllEYUB2xjNg8MMF9QzNnB
+    description: ""   
+    height: 720
+    width: 471
+    type: image/jpeg
+    link: https://i.imgur.com/X2seTxr.jpg
+    prevLoc: PoMgO2D3K6C6XvvBgoK4CMrpQOKMr5TpwBv2lvK5ImPnkYzJ6Zi2Jr7j2p28ulpOR069MqIMNRWJq5j9trprq8DOGwcExPQYmyK5twJQBnnxB9F4npVqQ1A6ig4AxjjLOKinVJv7pn2rSlmwGVQ5VJhBXlw1D4QOhryL2rmO51IkYYoZ0yVAtk7BO55mLyhYjlrJj7YECEMAMQRmGKtJGgzN7QgYfL3Ry7D5O4HO6xqmpom1fO8oK9w8qGSE4r3BLPJ8UlN
+    parentId: 54m9DOOO4nIlGQzOmDGNc1jymrm
+    postId: NBVLWKj5xQC6O6o5G2w4hLMOM2l1nyfBWNNqynORiGD7NLV2qvcLykXx
+    factor: 1.53
+    portrait: 1
+    mInfo: mhN49Hr98IdnbRu
+  - id: HDS0X46
+    name: 2Njv0LLLN4umwJRDAxO1iVglV2g
+    description: ""   
+    height: 720
+    width: 404
+    type: image/jpeg
+    link: https://i.imgur.com/HDS0X46.jpg
+    prevLoc: zJBQW2jM4qTrq88XDxMRTzwrJ93zwPsZKMAz7ANlcVLvw31oxkHWo06gW9WZFR7L582x1qu68m7KOYxnTp3N1n9v3Riw1rgvJnq5S3vDnyyKy6FN07pQzgwWir47D0jNYmfBxBl1WyW3TEwzD0ORYxf3YXyN7plEcXqLyB22oxt3jkqKEBBnIlo4y3lBp9imYMzk66w2s0vDvZMK5VHl4jp35nKguqGkpkG6B9Iv5XYZ7OJZTGlqgKYqOZIPyNk729Vx
+    parentId: 54m9DOOO4nIlGQzOmDGNc1jymrm
+    postId: NBVLWKj5xQC6O6o5G2w4hLMOM2l1nyfBWNNqynORiGD7NLV2qvcLykXx
+    factor: 1.78
+    portrait: 1
+    mInfo: FX0uRFdD3VyVLjJ
+  - id: SFnvrvM
+    name: zz1K3LLLzPhr2pxAyGr9uLvO4RG
+    description: ""   
+    height: 720
+    width: 523
+    type: image/jpeg
+    link: https://i.imgur.com/SFnvrvM.jpg
+    prevLoc: BJ8OwK03X1TnKPPxqM7VhZ1gPwxZ15hGLp3Ny3E1cRAvlN63MoiOA6J7ODOjIzM17YR5BOFYn9wNALBGfZM2J6WJJJS81W413J6ztA18PrrLr3SMWJqKz24yi6G0BqvqK4TL0WVEOLqLsYkOkqnLJVUywy2345xwFjZVWjAOBNuDxxO06kwEhzYqNvv0o0UDnvMyVmQ3fAgV2Xxr8xTZXPD1yQ8pTW48MD3ZDrUmQVjPDoXzINl0D52XDMS3vX3L0VOPix5
+    parentId: 54m9DOOO4nIlGQzOmDGNc1jymrm
+    postId: NBVLWKj5xQC6O6o5G2w4hLMOM2l1nyfBWNNqynORiGD7NLV2qvcLykXx
+    factor: 1.38
+    portrait: 1
+    mInfo: 50IHy0T72TJKuUm
+message: "第49回全日本総合錦鯉品評會  
+開展日期;2月3-4日  
+展會地點;東京流通中心  
+開放時間;3日09;00-17;00，4日09;00-14;00  
+入場門票;現場購買  
+  
+希望屆時天氣晴朗☀️不要下大雪啦(≧∇≦)"
+---
+
+第49回全日本総合錦鯉品評會  
+開展日期：2月3-4日  
+展會地點：東京流通中心  
+開放時間：3日09:00-17:00，4日09:00-14:00  
+入場門票：現場購買  
+  
+希望屆時天氣晴朗☀️不要下大雪啦(≧∇≦)
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/X2seTxr.jpg"><img src="https://i.imgur.com/X2seTxr.jpg" height="300" width="196" /></a> 
+  
+
+<a href="https://i.imgur.com/HDS0X46.jpg"><img src="https://i.imgur.com/HDS0X46.jpg" height="300" width="168" /></a> 
+  
+
+<a href="https://i.imgur.com/SFnvrvM.jpg"><img src="https://i.imgur.com/SFnvrvM.jpg" height="300" width="217" /></a> 
+ 
