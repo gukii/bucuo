@@ -1,36 +1,64 @@
 ---
 layout: post
 title: "第49回 全日本総" 
-date: 2018-02-03T13:36:57+0000 
-categories: ["錦鯉品評會","Champion","錦鯉"] 
+date: 2018-02-03T09:15:01+0000 
+categories: ["錦鯉品評會","錦鯉"] 
 media:
-  - id: f8ohBU5
-    name: MARQr0ND9ghY7X6o7pgYF5LJD3B
+  - id: Gyk5dji
+    name: 8Np6JmOBgDIgz33x7Z8WfP85oKZ
     description: ""   
-    height: 405
-    width: 720
+    height: 720
+    width: 540
     type: image/jpeg
-    link: https://i.imgur.com/f8ohBU5.jpg
-    prevLoc: 3njEZoDLrYs4K77j3GpmHMv6jG3MvkTjMX6PZ6YWhnoOAgWGYBSXEKYxXLKjIkOljpL7MMIlZ02kwWWAu3G31XzxPqT9R6oqKQ7Xfw26kgVYR8ix7jZzQM86hEmQDDp252S0py6PBk1LiBrwJx4no7skVXvqWW4LHBxq259mmLS1qPpMLVNZtDVEO6AN6ns34zlj8m0KC2BN7JomzZU92wpojkmVc4nlk2YKwVuY2mQq9JVASkGrrWBKjlTp2zj7gYgYSyJPw3
-    parentId: MARQr0ND9ghY7X6o7pgYF5LJD3B
-    postId: QGYngKm51ZCR2R74y5J0H1X4XE5JBGc5Gj2PwO46TEB9pm4wX4sYLpmn
-    factor: 1.78
-    portrait: 0
-    mInfo: Ys5Mc1rNkJSUUEK
+    link: https://i.imgur.com/Gyk5dji.jpg
+    prevLoc: NmEXMZA3K7h63VVYLE0NC60W9MK60ohZxjgD2gnPczw1rPn0KmiBrQyNBnB4CoRNpqgx5wC3ARx6K9qMflZlozrDY9IZ07z87GQBFwowryDw8LiJynG0xwowIGlD5NoQZXc8QzzyONM3cvPZQln60MHEALGE8M4rFQZwXQVDvOioKK0NxRWOtOzM9KKYAjhYXlowLZ1wtRE43wL3vwFOMQo6qrLmT97MYGW188uz0MLBGYwVHkg6BPDgn5cZ6XJ6Q2DDiwn
+    parentId: QGY0yVv5X8FLYLzpxkxphDA42pp
+    postId: mjKON06MwlUMgMvLrmkOiKj2jqVAo4Sl75V8w36yfKmvGyn6JBhZoM5r
+    factor: 1.33
+    portrait: 1
+    mInfo: 7gPKGEhdHLSdCx4
+  - id: UCrERkE
+    name: KyPZpMm5GVskBKK63y98I1ZwB8D
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/UCrERkE.jpg
+    prevLoc: vBYRPX4GxmIl8OOJ127Wf45VWGm45xsry9RjlRVnS3EropJAjMuXLjD6XnXvIzB4WXRMj1FXkDLYQ9Gqf7w75EkV8wfXmkAkJ5kMiDlDO2KDVJT03l5zYVPKS0GA0717pohLXD7L8LJ4TwOgzrg9qDuYvqQWowWMhzvV8zqw9YT0VVWEM4xpuAL2NDD7JghnlwvpZJmJu93ApBznAJH5wv4LV5PWSj4mnXy9D9H0Xo5KQjrlf0GGBEZ4vYU8V1RV877mHm7
+    parentId: QGY0yVv5X8FLYLzpxkxphDA42pp
+    postId: mjKON06MwlUMgMvLrmkOiKj2jqVAo4Sl75V8w36yfKmvGyn6JBhZoM5r
+    factor: 1.33
+    portrait: 1
+    mInfo: vhGYNzNwo14Yxcm
+  - id: crMvO4p
+    name: BmDLWzQRvYsNvvmqM7KKCRG0vlm
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/crMvO4p.jpg
+    prevLoc: YAQr1kP3YVc9lkkKYNL3ToZWQmNoZ5IPrwoZJoK0cvnzol3MRmHgP3OZgrgLTPGLRq07M4uWMK85mzVQf898wpz3pVuoE0RwYmk1IpwpYO9z9zCQ4RrZp1Jkt2AOKOzpmgsz7MxVk8YWFk57A4zRYjUYgYABw1X8h4pXY4VLv9s7RR1qvw4NH74PDrrw0yuA8lPAw0OGSQnp0lPjEZtKQB14mpG7tA0y8E78rNUJ9NE82xZGsPQo24k4Xjt4kR4ERknRS4Y
+    parentId: QGY0yVv5X8FLYLzpxkxphDA42pp
+    postId: mjKON06MwlUMgMvLrmkOiKj2jqVAo4Sl75V8w36yfKmvGyn6JBhZoM5r
+    factor: 1.33
+    portrait: 1
+    mInfo: 7NhvVJsw4L3jiPD
 message: "第49回 全日本総合錦鯉品評會  
-若鯉部 総合優勝  
-  
-The 49th AJKS   
-Young Champion"
+上位賞 名錄  
+総合優勝，國魚賞，彰顯，櫻、椿、牡丹、雅大賞。"
 ---
 
 第49回 全日本総合錦鯉品評會  
-若鯉部 総合優勝  
-  
-The 49th AJKS   
-Young Champion
+上位賞 名錄  
+総合優勝，國魚賞，彰顯，櫻、椿、牡丹、雅大賞。
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/f8ohBU5.jpg"><img src="https://i.imgur.com/f8ohBU5.jpg" height="168" width="300" /></a> 
+<a href="https://i.imgur.com/Gyk5dji.jpg"><img src="https://i.imgur.com/Gyk5dji.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/UCrERkE.jpg"><img src="https://i.imgur.com/UCrERkE.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/crMvO4p.jpg"><img src="https://i.imgur.com/crMvO4p.jpg" height="300" width="225" /></a> 
  
