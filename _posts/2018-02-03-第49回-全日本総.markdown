@@ -1,36 +1,36 @@
 ---
 layout: post
 title: "第49回 全日本総" 
-date: 2018-02-03T13:48:41+0000 
+date: 2018-02-03T13:36:57+0000 
 categories: ["錦鯉品評會","Champion","錦鯉"] 
 media:
-  - id: C3PgoUl
-    name: 9NqQKnG62yuOBklMQZgMTrDzoVj
+  - id: f8ohBU5
+    name: MARQr0ND9ghY7X6o7pgYF5LJD3B
     description: ""   
     height: 405
     width: 720
     type: image/jpeg
-    link: https://i.imgur.com/C3PgoUl.jpg
-    prevLoc: BJ8OwK03X1TnKPPxqM7VhZ1gPwxZ15hGLp3Ny3E1cRAvlN63MoiOA6J7O96DFz7LqnoyRRi1Mqxwgrr9FZwZk8rgj9C82Nw10ml6tA8GpXzP40TM1wo54j8Qc6MRyBxQrWtLAoBYOANnFYqxX1Gm5zUyL5B7xNKYij5vgpkYYQiD7pkqZArKfx0X763j6vIW0vPjW52vHqvyGV3zGXH3lP39EZ15TAPDkMMYAqimvow2ED2EfwQxP3X4q5Sjmrpg02JJIz9jor
-    parentId: 9NqQKnG62yuOBklMQZgMTrDzoVj
-    postId: 2NjxDqr1RzfmBm7o9N0MfZwywV8zDLS2mvlrWjB5Fvg7g1m48Lu1lm43
+    link: https://i.imgur.com/f8ohBU5.jpg
+    prevLoc: 3njEZoDLrYs4K77j3GpmHMv6jG3MvkTjMX6PZ6YWhnoOAgWGYBSXEKYxXLKjIkOljpL7MMIlZ02kwWWAu3G31XzxPqT9R6oqKQ7Xfw26kgVYR8ix7jZzQM86hEmQDDp252S0py6PBk1LiBrwJx4no7skVXvqWW4LHBxq259mmLS1qPpMLVNZtDVEO6AN6ns34zlj8m0KC2BN7JomzZU92wpojkmVc4nlk2YKwVuY2mQq9JVASkGrrWBKjlTp2zj7gYgYSyJPw3
+    parentId: MARQr0ND9ghY7X6o7pgYF5LJD3B
+    postId: QGYngKm51ZCR2R74y5J0H1X4XE5JBGc5Gj2PwO46TEB9pm4wX4sYLpmn
     factor: 1.78
     portrait: 0
-    mInfo: HGgpB04OWpmveJS
+    mInfo: Ys5Mc1rNkJSUUEK
 message: "第49回 全日本総合錦鯉品評會  
-巨鯉公魚部 総合優勝  
+若鯉部 総合優勝  
   
 The 49th AJKS   
-Superior ( Male) Champion"
+Young Champion"
 ---
 
 第49回 全日本総合錦鯉品評會  
-巨鯉公魚部 総合優勝  
+若鯉部 総合優勝  
   
 The 49th AJKS   
-Superior ( Male) Champion
+Young Champion
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/C3PgoUl.jpg"><img src="https://i.imgur.com/C3PgoUl.jpg" height="168" width="300" /></a> 
+<a href="https://i.imgur.com/f8ohBU5.jpg"><img src="https://i.imgur.com/f8ohBU5.jpg" height="168" width="300" /></a> 
  
