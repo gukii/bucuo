@@ -1,0 +1,31 @@
+---
+layout: post
+title: "在最短的時間找到我" 
+date: 2018-01-27T15:07:27+0000 
+categories: [] 
+media:
+  - id: Tog5aze
+    name: RJZozEQm1XCXvzj8E6Zys3nYRMP
+    description: "在最短的時間找到我想要的產品，物有所值！
+謝謝你給的小禮物^_^"   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/Tog5aze.jpg
+    prevLoc: MlENLYz3K7IJ3xxpPRq5uL1XNlvL1rTWjMkKZkD5hgKQXy7jnAcM5gmzM7MDcg2V42oNx8u7PEjyZK9Di838Yxpj9zcPQY8gzK56CMGKg144ojf2lmgpqWxETO3VONwVw4TRQwnWyn9VHJ0q1vlLzATRq00pwZ2LuKQPYKkgmlFEDDBQzmoLCBk6RAAW0DH56W2MGo72tYNAJ9Gv4ptw0mg05MPDu0Kz5DEN2zIBm6mr3NYYUy4pr9YA1ZCPp0PvqJKOfRL
+    parentId: RJZozEQm1XCXvzj8E6Zys3nYRMP
+    postId: 43lQGvwY8Ei8D8rAvpRXS4nYngz7m3i5vVVK3OwYiyNNo2lMnPc2EY8j
+    factor: 1.33
+    portrait: 0
+    mInfo: 3KHKxSuosD4kAfq
+message: "在最短的時間找到我想要的產品，物有所值！  
+謝謝你給的小禮物^_^"
+---
+
+在最短的時間找到我想要的產品，物有所值！  
+謝謝你給的小禮物^_^
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/Tog5aze.jpg"><img src="https://i.imgur.com/Tog5aze.jpg" height="225" width="300" /></a> 
+ 
