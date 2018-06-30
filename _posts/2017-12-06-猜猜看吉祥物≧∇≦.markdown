@@ -6,7 +6,7 @@ categories: []
 media:
   - id: WZSjfDr
     name: pmNQ3LKm0PuZv8n6LrrKfomgD5K
-    description: "猜猜看吉祥物(≧∇≦)"   
+    description: "猜猜看吉祥物≧∇≦"   
     height: 513
     width: 720
     type: image/jpeg
@@ -17,7 +17,7 @@ media:
     factor: 1.40
     portrait: 0
     mInfo: sChIcDg74G88aAv
-message: "猜猜看吉祥物(≧∇≦)"
+message: "猜猜看吉祥物≧∇≦"
 ---
 
 猜猜看吉祥物(≧∇≦)
