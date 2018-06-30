@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "會場另一大亮點(" 
+title: "會場另一大亮點" 
 date: 2018-02-01T03:54:39+0000 
 categories: ["Sakai"] 
 media:
