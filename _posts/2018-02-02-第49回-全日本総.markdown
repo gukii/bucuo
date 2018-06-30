@@ -1,0 +1,64 @@
+---
+layout: post
+title: "第49回 全日本総" 
+date: 2018-02-02T02:19:02+0000 
+categories: ["錦鯉品評會","Champion","Sakai","錦鯉"] 
+media:
+  - id: AXesxO6
+    name: GrL5lGQEMqi8D9g52zBJUGA6ywg
+    description: "第49回 全日本総合錦鯉品評會
+全體総合優勝 90部紅白
+獲獎鯉主;潘 志成 - 中國
+生產漁場;阪井養魚場
+經銷代理;小田原觀賞魚
+
+The 49th AJKS Grand Champion
+Owner; Pan, Zhichen - China
+Breeder; Sakai Fish Farm
+Handler; Odakan
+
+Photo courtesy of Domi Johan
+#第49回全日本総合錦鯉品評會"   
+    height: 720
+    width: 478
+    type: image/jpeg
+    link: https://i.imgur.com/AXesxO6.jpg
+    prevLoc: orv8GN4xnAIwYllA9BrXTXoMEx4XowT9KwvWqvPnc05YNk3x9MS8JX0m8Z8BIzwkGY3qmnFry1M9Rp0QsAoABwYQ1MFKz7A1O5gEulv5yz3lOGuznM6x4EQBTk1R9520mXSyZmmNJV00SKgoWA8jO0iK1xZglpBYT7qME7lB2JiEKKNk2GMZC6MEX33j5Rh5xYA2r5zksjQnO1E08VsDGj9q9OkmtgD8vxLkV0FqyYMZ2y41UlALgpXP9xH40gG4BmWgsj1
+    parentId: GrL5lGQEMqi8D9g52zBJUGA6ywg
+    postId: kLG8XjKO59SwKwg3pMoxH7MvMAG5B0iNkEKLMlL4fyN1K01jQySp87gX
+    factor: 1.51
+    portrait: 1
+    mInfo: uOYB5Bqi8S3hV0S
+message: "第49回 全日本総合錦鯉品評會  
+全體総合優勝 90部紅白  
+獲獎鯉主;潘 志成 - 中國  
+生產漁場;阪井養魚場  
+經銷代理;小田原觀賞魚  
+  
+The 49th AJKS Grand Champion  
+Owner; Pan, Zhichen - China  
+Breeder; Sakai Fish Farm  
+Handler; Odakan  
+  
+Photo courtesy of Domi Johan  
+#第49回全日本総合錦鯉品評會"
+---
+
+第49回 全日本総合錦鯉品評會  
+全體総合優勝 90部紅白  
+獲獎鯉主：潘 志成 - 中國  
+生產漁場：阪井養魚場  
+經銷代理：小田原觀賞魚  
+  
+The 49th AJKS Grand Champion  
+Owner: Pan, Zhichen - China  
+Breeder: Sakai Fish Farm  
+Handler: Odakan  
+  
+Photo courtesy of Domi Johan  
+#第49回全日本総合錦鯉品評會
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/AXesxO6.jpg"><img src="https://i.imgur.com/AXesxO6.jpg" height="300" width="199" /></a> 
+ 
