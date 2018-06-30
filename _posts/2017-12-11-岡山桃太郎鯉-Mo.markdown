@@ -1,0 +1,77 @@
+---
+layout: post
+title: "岡山桃太郎鯉 Mo" 
+date: 2017-12-11T01:56:20+0000 
+categories: ["Auction","Koi "] 
+media:
+  - id: L4P60Uj
+    name: LzQ8qWwGvkc3GJJ1yxoycV00Ayv
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/L4P60Uj.jpg
+    prevLoc: Xz7qZjO8XYT9KBBlAqXnTY9gx1jY9OHwNg0kL0B1uMQ5NvRP74HAr3VLAWAvILn2mlOQzyIRo7A4P193U3O1r8nPJYf8B8MNLQmniAqLwP1R5PCY46kzyljksgo1AX3yvniRkVl8P0MZCYWljEVWYPtjV724m5XRHYW2zYRqEmFNPPDJXlz2FgYMWzz3xxc1NwGvvoz3CXG8JLjBojUlX9LgyNrmhpnVJmAL66ur1EWZBx2zfjWlo9EGo0SzLK9Pmn5jco2
+    parentId: qnOY3Lmol0uv7lN18lK2Uxrx3GQ
+    postId: ZnkYrGym4qSjkjznp3XJUw4Y41RAgMIEn4vZq0lQIZwwlm5n1PsEZ239
+    factor: 1.33
+    portrait: 1
+    mInfo: RxcuVuVVuWKcpXt
+  - id: sGdyaHa
+    name: gEAL3MNynjhBoLDPJDP2u9J22pn
+    description: ""   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/sGdyaHa.jpg
+    prevLoc: Xz7qZjO8XYT9KBBlAqXnTY9gx1jY9OHwNg0kL0B1uMQ5NvRP74HAr3VLA53WFLmWXvGVOOt0rJQA2ZZ7h3k317761jh8W1oooV31CAqmL6kYyXsYJKkV3mqPhgl8x34AXAIR6jL5AZD3IYQKD3D0qnFjnRNv5E8qfY34Lo8kkPuNM8lQqkO9CE3BG42P4zI1KpGwRMp8SJM1ZYoZlqcl0kJonyloIDEMQXGLX9urGnM3KgvJfJV4yrlGBKU5gw7XQmYZiqrREA
+    parentId: qnOY3Lmol0uv7lN18lK2Uxrx3GQ
+    postId: ZnkYrGym4qSjkjznp3XJUw4Y41RAgMIEn4vZq0lQIZwwlm5n1PsEZ239
+    factor: 1.78
+    portrait: 0
+    mInfo: KMX64WCW1uhbtqc
+  - id: pS3dy9l
+    name: W057GoX1Qys4MV6kym4ki5rKKQE
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/pS3dy9l.jpg
+    prevLoc: PoMgO2D3K6C6XvvBgoK4CMrpQOKMr5TpwBv2lvK5ImPnkYzJ6Zi2Jr7j2p28ulpNWpY16xFMNRWr0ylpCrp32rJ52JHzkrvKYlgvcwQ2XLyjnOs41DYBpkPPTGM9L5xjyBHnVDDJxK6VCl6xwJVn7Js979rPRNqZsryL2rmO51IkYYoZ0yVAtk7BO55mWLi6oynPy0NAuPGrpYZjQGsJXvZywA55UVyNGVMK69uDMwLV1Q28Uj2QWLlJVvUE48kq9N2GUlK
+    parentId: qnOY3Lmol0uv7lN18lK2Uxrx3GQ
+    postId: ZnkYrGym4qSjkjznp3XJUw4Y41RAgMIEn4vZq0lQIZwwlm5n1PsEZ239
+    factor: 1.33
+    portrait: 0
+    mInfo: myB35I36TtvxDFw
+  - id: GbsYfSD
+    name: AlBPVKgrMGTRw8ZOKW73sl00w6m
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/GbsYfSD.jpg
+    prevLoc: yG67V1gLApH4o66GD0rNHXAqnJoXA8TGj86wm6rJc67lw9rk5MHQLPXBQNQ3uz1Gk1nqRjc5QGPMnWJBSYp1wRyQ4zSEAr6J3P16T31VnJy2DwiMgyB9Vr1BhPLDVw068Mi7MxERLpNpiqwB1qoVBMs7mO5Y2XmzFW9O8W01KgfvAAwgJxrmip3jEKK5N6t6rqOznWKvurVykxPoJwsXB4B5q4MOs4goY0lOjAImkKEgM0g1umx1o8QoYgsGyDG7zo6ohEm
+    parentId: qnOY3Lmol0uv7lN18lK2Uxrx3GQ
+    postId: ZnkYrGym4qSjkjznp3XJUw4Y41RAgMIEn4vZq0lQIZwwlm5n1PsEZ239
+    factor: 1.33
+    portrait: 0
+    mInfo: i1Wf55RJN6Ebz9x
+message: "岡山桃太郎鯉 Momotaro Koi Farm  開拍！Auction!!"
+---
+
+岡山桃太郎鯉 Momotaro Koi Farm  
+開拍！Auction!!
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/L4P60Uj.jpg"><img src="https://i.imgur.com/L4P60Uj.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/sGdyaHa.jpg"><img src="https://i.imgur.com/sGdyaHa.jpg" height="168" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/pS3dy9l.jpg"><img src="https://i.imgur.com/pS3dy9l.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/GbsYfSD.jpg"><img src="https://i.imgur.com/GbsYfSD.jpg" height="225" width="300" /></a> 
+ 
