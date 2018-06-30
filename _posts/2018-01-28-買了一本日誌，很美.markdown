@@ -1,0 +1,134 @@
+---
+layout: post
+title: "買了一本日誌，很美" 
+date: 2018-01-28T06:14:40+0000 
+categories: [] 
+media:
+  - id: SuHMPLA
+    name: 70oLGQEymYtYwGYBlqkpspRxQYG
+    description: ""   
+    height: 720
+    width: 480
+    type: image/jpeg
+    link: https://i.imgur.com/SuHMPLA.jpg
+    prevLoc: EMZ1zNo3XKTqx11wyg3WT6Q2Kvl6QWh1DPVyGVq7s2rKlRGxP5HZpRjNZYZ3u7XnrXEGGJhxgZ8j9OkxcVWnB8WKJrsvLMZO2pYOuL55l3z152fq9oGVB7YkHz04zj9kJDHl288xg7zKckwE4AgN5xcKqrKnGBG9cYjXWYy89KFoPPXzAQjvtnXRxkk5A0T4P6M9mnMyI2oyQvMZn3H1nprkxoLoiG0lRVD6N0fND6X1yPpztNlmz86EG9i2zB3z064PsNz
+    parentId: 8Np6JRGznKhk0DQ38O56HPYnDyO
+    postId: NBVLWKj5xQC6O6o5G2w4hLMOM2l1nyfBWNNRyoQ4FrJQNr4kEZiLykwx
+    factor: 1.50
+    portrait: 1
+    mInfo: Mb5bGiGj4MOADob
+  - id: lGwffM4
+    name: pmNQ3x4opBhZ7446YWXzfoAE0gX
+    description: ""   
+    height: 408
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/lGwffM4.jpg
+    prevLoc: MlENLYz3K7IJ3xxpPRq5uL1XNlvL1rTWjMkKZkD5hgKQXy7jnAcM5gmzM7MDcg2LY7xQvqi7PEjJGoqYS838YEyZz8UPQVRvqzKLIM11OZzW1GCgkv7OlkJ5fO3Vxq3q9VFRQXDxkG5YiJVovKoNDXHzQ1n3LV7LuKQPYKkgmlFEDDBQzmoLCBk6RAAW4NcmvX7gg1XQhYGLg7KG4Xu9rx5y6AxMU0K4D3nwPmTw28zV4289fy7E6XqA8OiPprGD7O72SRl
+    parentId: 8Np6JRGznKhk0DQ38O56HPYnDyO
+    postId: NBVLWKj5xQC6O6o5G2w4hLMOM2l1nyfBWNNRyoQ4FrJQNr4kEZiLykwx
+    factor: 1.76
+    portrait: 0
+    mInfo: cNlQjC7neYA6tKK
+  - id: g9qC2Ns
+    name: xxYv3JpzA8CjzEEwEDj3HkWL3EX
+    description: ""   
+    height: 720
+    width: 687
+    type: image/jpeg
+    link: https://i.imgur.com/g9qC2Ns.jpg
+    prevLoc: knwBAJ4qj6swBYYDlrOnTW8xyMmW8LCPJ6V5nVWBcxkBy95OY4fPEj4APWP8cgNG3r1Bkvi4EMyYKW9xc1V1EMYQ9PHw4vqx6kOZSvmm09Zxm6S63VkPJzN7h18yGqYl3BuWmPAXxq8JtzGQ9BL18JFo0oG9pjN4hxQqgx9wjosmVV3G9xy5S32JowwxnxtVwoZpkA5xHykpv7mMA4uzEzZ8GOoLIwN0O63mZws928O9KZnOi6x7rD8grlHNZ3NkLEjDtoN
+    parentId: 8Np6JRGznKhk0DQ38O56HPYnDyO
+    postId: NBVLWKj5xQC6O6o5G2w4hLMOM2l1nyfBWNNRyoQ4FrJQNr4kEZiLykwx
+    factor: 1.05
+    portrait: 1
+    mInfo: JLLHXQXHjQBVc7Y
+  - id: ssILD0X
+    name: KyPZpwg7Nzck6y4V4pY2S1O3y2w
+    description: ""   
+    height: 421
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/ssILD0X.jpg
+    prevLoc: BJ8OwK03X1TnKPPxqM7VhZ1gPwxZ15hGLp3Ny3E1cRAvlN63MoiOA6J7ODOjIzM17YR5BOFYn9wNALBGfZMWloMALXfn7ONYB2R1SAllKgJNWrfrRljnDLA0to9Q4BxEQ0UPpG0lxwJ7TYqMMKzw2kHywGPrVgB9FjZVWjAOBNuDxxO06kwEhzYqNvv0mmcDYZNwP3kAH9O3olMDB1hZXYpkPXV3CAl9LMymnyUqVwPg6BAQhwvOzWm8gOH3vV22ND9otx5
+    parentId: 8Np6JRGznKhk0DQ38O56HPYnDyO
+    postId: NBVLWKj5xQC6O6o5G2w4hLMOM2l1nyfBWNNRyoQ4FrJQNr4kEZiLykwx
+    factor: 1.71
+    portrait: 0
+    mInfo: ulYnE3lnAaPArPl
+message: "買了一本日誌，很美。  
+剛好看到一篇評論紅樓夢內容的文章，跟大家分享～  
+  
+紅樓夢里香菱進大觀園做的第一件事是什麼，竟然是學作詩。  
+  
+她拜的第一個老師是黛玉。香菱說她喜歡的詩句是陸放翁的“重簾不捲留香久，古硯微凹聚墨多。”黛玉當即批評了她，說“一入了這個格局，就再學出不來的。”這是個什麼格局，沒有詳說。且看黛玉給她擬的教學計劃;先讀王維，再讀杜甫，次讀李白，然後再把陶淵明、阮籍、鮑照等魏晉詩讀一讀。  
+  
+於是，香菱在王維那裡找到了她更喜歡的句子;  
+大漠孤煙直，長河落日圓。 -《使至塞上》  
+日落江湖白，潮來天地青。 -《送邢桂州》  
+  
+簡單的白描的後面，有一個巨大的生命氣象在，而不是“重簾”一格的小情趣。香菱能說出來的只是王維用詞的神妙，說“直”、“圓”、“白”、“青”四個字貌似無理，“煙如何直，日自然是圓的”，“念在嘴裡倒像有千斤重的一個橄欖。”好一個千斤重，香菱能感應到這千斤的力量，生命裡的潛能已經被開啟。  
+  
+世界各國的文化傳統都很重視詩歌，中國更將詩歌上升到詩教的高度。一首詩能夠千百年流傳下來，一定是能量極高的人寫的，這種能量有多高？  
+  
+如果你喝醉了酒，想念一句詩來抒發感慨，很可能就是李白的“君不見黃河之水天上來，奔流到海不復回。君不見高堂明鏡悲白髮，朝如青絲暮成雪。 ”脫口而出的若不是這句，必不能騁懷過癮。  
+  
+到了中秋節，商家也好，電視上也好，都會來上一句“海上生明月，天涯共此時。”因為再也沒有一句比這更合適的了。你的情懷須得藉由他人的語言方能抒發，千百年來也再找不出另一句話，這就是詩的力量。  
+  
+這樣的詩句，須得有足夠能量和格局的生命方能吐出。現在的人寫不出這樣的詩句，不是沒有寫作技巧，是沒有這樣大格局的人了。後人雖不能言，心卻能感，讀讀前人的詩，借來一口氣，也能飽滿自己的生命。  
+  
+有時候我們陷入一些痛苦煩惱不能自拔，或困於一些習氣不能改變，不是我們不想改，是我們生命能量太低，改不了。溫溫恭人，自律自強，是需要有大能量才能做到的；恬淡無為，泰然無求是需要有更大能量才能做到的。古人的樂教詩教，誦經打坐，琴棋書畫，醫易武術都是能提升能量的。學傳統文化是要做功夫的，只陷入見地和情緒裡，終究是一場空。  
+  
+今天誰要說自己是個詩人，估計座中會有人笑出聲來。詩之一道雖已沒落，可今天也有今天的詩教，流行歌的歌詞本質上也是詩，可惜盡是些瑣碎虛弱的詞句，跟著哼一哼唱一唱，也只能徒增煩惱。話說回來，這些雨啊淚啊的歌詞也是和今人的生命能量相匹配的，你拿個杜甫給他，也讀不進去。  
+  
+香菱一開始學的都是唐人的詩，唐人氣魄大，詩裡有吞吐宇宙的氣象。起手是王維，其詩工中求逸，既有性靈，又有規矩，最適合初學；杜甫工到極處，氣象也大到極處，有風雷江海龍蛇湧動之象；李白無拘無束，想落天外，仙家之氣。黛玉是個好老師，她用這個次第一步步開啟了香菱，最後才是學魏晉諸家。魏晉詩真樸自然，淡泊無為。  
+  
+黛玉說了，“若意趣真了，連詞句不用修飾，自是好的，這叫不以詞害意。”博大之後歸於平淡方是平淡，不然只是平庸。   
+  
+- 劉希彥"
+---
+
+買了一本日誌，很美。  
+剛好看到一篇評論紅樓夢內容的文章，跟大家分享～  
+  
+紅樓夢里香菱進大觀園做的第一件事是什麼，竟然是學作詩。  
+  
+她拜的第一個老師是黛玉。香菱說她喜歡的詩句是陸放翁的“重簾不捲留香久，古硯微凹聚墨多。”黛玉當即批評了她，說“一入了這個格局，就再學出不來的。”這是個什麼格局，沒有詳說。且看黛玉給她擬的教學計劃：先讀王維，再讀杜甫，次讀李白，然後再把陶淵明、阮籍、鮑照等魏晉詩讀一讀。  
+  
+於是，香菱在王維那裡找到了她更喜歡的句子：  
+大漠孤煙直，長河落日圓。 -《使至塞上》  
+日落江湖白，潮來天地青。 -《送邢桂州》  
+  
+簡單的白描的後面，有一個巨大的生命氣象在，而不是“重簾”一格的小情趣。香菱能說出來的只是王維用詞的神妙，說“直”、“圓”、“白”、“青”四個字貌似無理，“煙如何直，日自然是圓的”，“念在嘴裡倒像有千斤重的一個橄欖。”好一個千斤重，香菱能感應到這千斤的力量，生命裡的潛能已經被開啟。  
+  
+世界各國的文化傳統都很重視詩歌，中國更將詩歌上升到詩教的高度。一首詩能夠千百年流傳下來，一定是能量極高的人寫的，這種能量有多高？  
+  
+如果你喝醉了酒，想念一句詩來抒發感慨，很可能就是李白的“君不見黃河之水天上來，奔流到海不復回。君不見高堂明鏡悲白髮，朝如青絲暮成雪。 ”脫口而出的若不是這句，必不能騁懷過癮。  
+  
+到了中秋節，商家也好，電視上也好，都會來上一句“海上生明月，天涯共此時。”因為再也沒有一句比這更合適的了。你的情懷須得藉由他人的語言方能抒發，千百年來也再找不出另一句話，這就是詩的力量。  
+  
+這樣的詩句，須得有足夠能量和格局的生命方能吐出。現在的人寫不出這樣的詩句，不是沒有寫作技巧，是沒有這樣大格局的人了。後人雖不能言，心卻能感，讀讀前人的詩，借來一口氣，也能飽滿自己的生命。  
+  
+有時候我們陷入一些痛苦煩惱不能自拔，或困於一些習氣不能改變，不是我們不想改，是我們生命能量太低，改不了。溫溫恭人，自律自強，是需要有大能量才能做到的；恬淡無為，泰然無求是需要有更大能量才能做到的。古人的樂教詩教，誦經打坐，琴棋書畫，醫易武術都是能提升能量的。學傳統文化是要做功夫的，只陷入見地和情緒裡，終究是一場空。  
+  
+今天誰要說自己是個詩人，估計座中會有人笑出聲來。詩之一道雖已沒落，可今天也有今天的詩教，流行歌的歌詞本質上也是詩，可惜盡是些瑣碎虛弱的詞句，跟著哼一哼唱一唱，也只能徒增煩惱。話說回來，這些雨啊淚啊的歌詞也是和今人的生命能量相匹配的，你拿個杜甫給他，也讀不進去。  
+  
+香菱一開始學的都是唐人的詩，唐人氣魄大，詩裡有吞吐宇宙的氣象。起手是王維，其詩工中求逸，既有性靈，又有規矩，最適合初學；杜甫工到極處，氣象也大到極處，有風雷江海龍蛇湧動之象；李白無拘無束，想落天外，仙家之氣。黛玉是個好老師，她用這個次第一步步開啟了香菱，最後才是學魏晉諸家。魏晉詩真樸自然，淡泊無為。  
+  
+黛玉說了，“若意趣真了，連詞句不用修飾，自是好的，這叫不以詞害意。”博大之後歸於平淡方是平淡，不然只是平庸。   
+  
+- 劉希彥
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/SuHMPLA.jpg"><img src="https://i.imgur.com/SuHMPLA.jpg" height="300" width="200" /></a> 
+  
+
+<a href="https://i.imgur.com/lGwffM4.jpg"><img src="https://i.imgur.com/lGwffM4.jpg" height="170" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/g9qC2Ns.jpg"><img src="https://i.imgur.com/g9qC2Ns.jpg" height="300" width="286" /></a> 
+  
+
+<a href="https://i.imgur.com/ssILD0X.jpg"><img src="https://i.imgur.com/ssILD0X.jpg" height="175" width="300" /></a> 
+ 
