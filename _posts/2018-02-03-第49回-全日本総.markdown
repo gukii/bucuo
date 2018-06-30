@@ -1,0 +1,36 @@
+---
+layout: post
+title: "第49回 全日本総" 
+date: 2018-02-03T13:48:41+0000 
+categories: ["錦鯉品評會","Champion","錦鯉"] 
+media:
+  - id: C3PgoUl
+    name: 9NqQKnG62yuOBklMQZgMTrDzoVj
+    description: ""   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/C3PgoUl.jpg
+    prevLoc: BJ8OwK03X1TnKPPxqM7VhZ1gPwxZ15hGLp3Ny3E1cRAvlN63MoiOA6J7O96DFz7LqnoyRRi1Mqxwgrr9FZwZk8rgj9C82Nw10ml6tA8GpXzP40TM1wo54j8Qc6MRyBxQrWtLAoBYOANnFYqxX1Gm5zUyL5B7xNKYij5vgpkYYQiD7pkqZArKfx0X763j6vIW0vPjW52vHqvyGV3zGXH3lP39EZ15TAPDkMMYAqimvow2ED2EfwQxP3X4q5Sjmrpg02JJIz9jor
+    parentId: 9NqQKnG62yuOBklMQZgMTrDzoVj
+    postId: 2NjxDqr1RzfmBm7o9N0MfZwywV8zDLS2mvlrWjB5Fvg7g1m48Lu1lm43
+    factor: 1.78
+    portrait: 0
+    mInfo: HGgpB04OWpmveJS
+message: "第49回 全日本総合錦鯉品評會  
+巨鯉公魚部 総合優勝  
+  
+The 49th AJKS   
+Superior ( Male) Champion"
+---
+
+第49回 全日本総合錦鯉品評會  
+巨鯉公魚部 総合優勝  
+  
+The 49th AJKS   
+Superior ( Male) Champion
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/C3PgoUl.jpg"><img src="https://i.imgur.com/C3PgoUl.jpg" height="168" width="300" /></a> 
+ 
