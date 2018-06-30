@@ -43,10 +43,7 @@ media:
     factor: 1.33
     portrait: 1
     mInfo: lX0isL7W6EvmEcM
-message: "成田定價銷售會，手氣不錯喔*\(^o^)/*  
-野上養鯉場 當歲紅白29公分。  
-  
-Narita Shop Event !! Lucky!!"
+message: "成田定價銷售會，手氣不錯喔o  野上養鯉場 當歲紅白29公分。    Narita Shop Event !! Lucky!!"
 ---
 
 成田定價銷售會，手氣不錯喔*\(^o^)/*  
