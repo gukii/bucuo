@@ -1,0 +1,74 @@
+---
+layout: post
+title: "第17屆中國錦鯉大" 
+date: 2017-12-17T08:30:37+0000 
+categories: ["KoiShow","Sakai","Koi ","錦鯉"] 
+media:
+  - id: BlwiclL
+    name: 70oLGzl8x3HRkxQVwOw1HpW2P2y
+    description: ""   
+    height: 404
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/BlwiclL.jpg
+    prevLoc: yG67V1gLApH4o66GD0rNHXAqnJoXA8TGj86wm6rJc67lw9rk5MHQLPXBQNQ3uz1lOMR5wpF5QGPXjO2qSYp1wAxlKlhEnzND5qRDH3BJrEzKLZcMg9yg4BgMIXON6B1GqwU7kQxoWZPVTKQ3l14Lx6upLYAllrxZHW9O8W01KgfvAAwgJxrmip3jEKK5NlFW9gQRgR1zfn7BzNRZ9EIXx85ZxvjLc08mjOlGE6TRDogxg0zotmjVVmkoKLhGy17ZznVJuP8
+    parentId: Vj4PEr1pDOfZAxOmjm5AupzExDB
+    postId: 6NnXKxyz6LfWpWXlBnZ5UXKVKZl8Y9fkEzE7oKwjUjXGp70JG6UrjR5N
+    factor: 1.78
+    portrait: 0
+    mInfo: GvloCz0RRLOxFLa
+  - id: kdsA5lb
+    name: roPR35KZGksmv01nOYR1TM2X2nP
+    description: ""   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/kdsA5lb.jpg
+    prevLoc: xEV8RZ4KzohXvmmp891Ji6WmxKr6W1h1pWnLEnJZsBlV7O5mYxiGA217Gq2osgOn0v14EEhx5jWk8OOmFBzB5PPgP6CZE9oqN1DoF2rYr8kQWBfkvlzXP7DGTOkmgLqLAyh795XoAKp4CY4W3KvomXCDk8Opml5KfQvJxDoPP3SPE0OMGvW3H1MkBvAQvwC35MEVMXxvt87lQkPWxWHrMkm55vZOiJql7n4Z6WfGyRXQwGLASqGxXJMgq2T8QVE2lqx6ILD5QZ
+    parentId: Vj4PEr1pDOfZAxOmjm5AupzExDB
+    postId: 6NnXKxyz6LfWpWXlBnZ5UXKVKZl8Y9fkEzE7oKwjUjXGp70JG6UrjR5N
+    factor: 1.78
+    portrait: 0
+    mInfo: FsThPW8cZtYMClJ
+message: "第17屆中國錦鯉大賽  
+全體總亞軍  
+大正 86公分  
+魚主;潘志成 中國  
+代理漁場;長龍錦鯉場 中國廣州  
+生產漁場;阪井養魚場 日本廣島  
+  
+The 17th China Koi Show  
+1st Runner-up  
+Sanke 86cm  
+Owner; Pan, Zhi Cheng  
+Handler; Chang Long Koi Farm - Guangdong  
+Breeder; Sakai Fish Farm - Japan  
+  
+#第17屆中國錦鯉大賽  
+#The17thChinaKoiShow"
+---
+
+第17屆中國錦鯉大賽  
+全體總亞軍  
+大正 86公分  
+魚主：潘志成 中國  
+代理漁場：長龍錦鯉場 中國廣州  
+生產漁場：阪井養魚場 日本廣島  
+  
+The 17th China Koi Show  
+1st Runner-up  
+Sanke 86cm  
+Owner: Pan, Zhi Cheng  
+Handler: Chang Long Koi Farm - Guangdong  
+Breeder: Sakai Fish Farm - Japan  
+  
+#第17屆中國錦鯉大賽  
+#The17thChinaKoiShow
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/BlwiclL.jpg"><img src="https://i.imgur.com/BlwiclL.jpg" height="168" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/kdsA5lb.jpg"><img src="https://i.imgur.com/kdsA5lb.jpg" height="168" width="300" /></a> 
+ 
