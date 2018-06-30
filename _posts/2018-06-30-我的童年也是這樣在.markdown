@@ -1,0 +1,64 @@
+---
+layout: post
+title: "我的童年也是這樣在" 
+date: 2018-06-30T05:18:33+0000 
+categories: ["Koi "] 
+media:
+  - id: 8zTiOWJ
+    name: yvM6LBLyY0F3nJz4NVQrHNq6k8
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/8zTiOWJ.jpg
+    prevLoc: orv8GN4xnAIwYllA9BrXTXoMEx4XowT9KwvWqvPnc05YNk3x9MS8JX0m8Z8BIzwNMwZ03rcry1MxJmE2sAmO7NjpL5cJ2D8NKZG5hl930K30JOuzqgDA3xwvIkpgmqPyDzsyZmm5GOBvTwpO7wB6vRfBGGPL4KvWtAZQN88BGGfE0rKpO0NGT6nxzwyjJJH1ZDqDoLo3H2KvqOBWKLiD5VGBLqZ2S5BkGGwYB2h7B3WBPN99hBq
+    parentId: 1vQYJOJNR5HZoJgxWqRzTYnqQD
+    postId: pmN8LoKXgrswVw5EBjpYHXn8nr3KNxfV1vV5RQ8MCoXKwG9L7XhADwQQ
+    factor: 1.33
+    portrait: 0
+    mInfo: 7liQVsWuyXY7MBF
+  - id: Ph3qEme
+    name: EVGZ3E3p4AIjYjMKGYLLuZ2046
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/Ph3qEme.jpg
+    prevLoc: 4okV1p0MvWC85YYZPmBJSrMK5nlrMwuJQLxDGxgyF1VqyLJ3pGu06v780R0Efy1K81ArZXtxAgz2q3jrul5oQQOQxVSpnYo7ov1Ocv6vVEj6BBfK343vBykMTOMoW60V16h5r4x6r9M8Tm81vYpNW0iPoGN2WP6ZTpZ4JjMQ2XIXvKkQ26O6IJDkokLkoLCDRx6wMJqOTxKMwOxnpMHqRrK24rzJTgnG3K0DX2I5Eg50gp8
+    parentId: 1vQYJOJNR5HZoJgxWqRzTYnqQD
+    postId: pmN8LoKXgrswVw5EBjpYHXn8nr3KNxfV1vV5RQ8MCoXKwG9L7XhADwQQ
+    factor: 1.33
+    portrait: 0
+    mInfo: jJfgfYQsnJSaQRc
+  - id: cVF1xlg
+    name: 2wOgKPKNV3tQjZ0yYB2LH9xnwk
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/cVF1xlg.jpg
+    prevLoc: BJ8OwK03X1TnKPPxqM7VhZ1gPwxZ15hGLp3Ny3E1cRAvlN63MoiOA6J7ODOjIzMWkMLyRAcYn9w12E7zfZxzAJPYXos89q6zMjwjhYjEorPl95HrNPkz8jYKS6WGoRnZkGIPpo75gwPGI4pWo4y9krsQrrPJoy8WtJlYGKKOD9skvv3AwJv1iKEA2ZPD0JipEvogyk99Tq8KQ2QjMmUZX9G0YPvliA1lyYLVvJfJ0A2Az8NzF4z
+    parentId: 1vQYJOJNR5HZoJgxWqRzTYnqQD
+    postId: pmN8LoKXgrswVw5EBjpYHXn8nr3KNxfV1vV5RQ8MCoXKwG9L7XhADwQQ
+    factor: 1.33
+    portrait: 0
+    mInfo: qMOM0wQRVowVClz
+message: "我的童年也是這樣在漁場玩大的，划船、玩水、灌蟋蟀、烤地瓜⋯⋯(≧∇≦)  
+  
+Have fun in Koi farm!"
+---
+
+我的童年也是這樣在漁場玩大的，划船、玩水、灌蟋蟀、烤地瓜⋯⋯(≧∇≦)  
+  
+Have fun in Koi farm!
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/8zTiOWJ.jpg"><img src="https://i.imgur.com/8zTiOWJ.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/Ph3qEme.jpg"><img src="https://i.imgur.com/Ph3qEme.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/cVF1xlg.jpg"><img src="https://i.imgur.com/cVF1xlg.jpg" height="225" width="300" /></a> 
+ 
