@@ -1,59 +1,59 @@
 ---
 layout: post
 title: "第17屆中國錦鯉大" 
-date: 2017-12-17T08:33:18+0000 
-categories: ["KoiShow","Champion","Sakai","Koi ","錦鯉"] 
+date: 2017-12-17T08:22:15+0000 
+categories: ["KoiShow","新潟","Koi ","錦鯉"] 
 media:
-  - id: XhtaEFT
-    name: 8Np6JAm8j0cgrPGBxAPMfPpMKON
-    description: ""   
+  - id: O0NqsNw
+    name: KyPZpBMXoXU1Xl0mGPyPU1PWDYn
+    description: "第17屆中國錦鯉大賽全體總季軍紅白93公分魚主;尹文強 中國代理漁場;海日錦鯉場 中國廣州生產漁場;伊佐養鯉場 日本新潟The 17th China Koi Show2nd Runner-upKohaku 93cmOwner; Yin, Wen QianHandler; Hai Ri Koi Farm - GuangdongBreeder; Isa Koi Farm - Japan第17屆中國錦鯉大賽The17thChinaKoiShow"   
     height: 404
     width: 720
     type: image/jpeg
-    link: https://i.imgur.com/XhtaEFT.jpg
-    prevLoc: BJ8OwK03X1TnKPPxqM7VhZ1gPwxZ15hGLp3Ny3E1cRAvlN63MoiOA6J7ODOjIzM17YR5BOFYn9wNALBGfZMWYGzzQRI83zKgPN52hA18PQEZoQir6q9yMmEWhovPXDBwEqiLzRKv23qJtAQ8gQQrWzFy4kpkD4WoIjZVWjAOBNuDxxO06kwEhzYqNvv0mOuWKlX8kRNWTqB7DAjQAgHRr336DVYMt5wXV3K5Qguqz3vkqDnViwYByxQ8Djt3vwg32r47Hmg
-    parentId: 54m9Dxjnvyt1ZmjYBAGMH1O8g4E
-    postId: olMVXnK6YpHwgwkp076OH8xGxlNkY2CDm9mqRXoXTNYk0JNvrLf2A2vA
+    link: https://i.imgur.com/O0NqsNw.jpg
+    prevLoc: xEV8RZ4KzohXvmmp891Ji6WmxKr6W1h1pWnLEnJZsBlV7O5mYxiGA217GoGnIgN5OBE3Dpi23mkMy4LpuBYq7RQgRgIZL0oJ4xNjt2oyZkv5ZWIw7GmZlw0mhvy9q4XBjDI7Kz5A8qQ6sJWGkZR574hDkLmV4NKZiQBpKQGVnXiP55VkoOrjuWZ0NwwMJJi38ryPL65wsRyyXB2gBAho4GYA6wv3i7VozOV32WfvlKvzwX9ohKv81PzZvycov7nnzLx7fWD
+    parentId: xxYv35Qq0qcX7yA8k7mVTkOZKNp
+    postId: KyP197B5OKI1X1LxGjZVtlD5DKrE92UNGmGB2yKETPmp929pJ1f3pD3K
     factor: 1.78
     portrait: 0
-    mInfo: 42BNDQyQH0GIhqJ
-  - id: sA5W6Zd
-    name: xxYv35QqRwTjORlQAxBKskvRg9v
+    mInfo: cCNTRFVvDSlRFQo
+  - id: CUBq41a
+    name: W057Gv2OAgu8PK27JzX6c5oXxz6
     description: ""   
     height: 405
     width: 720
     type: image/jpeg
-    link: https://i.imgur.com/sA5W6Zd.jpg
-    prevLoc: orv8GN4xnAIwYllA9BrXTXoMEx4XowT9KwvWqvPnc05YNk3x9MS8JX0m8DXZizGZ4Eo033ix3V7MYgg1FA3AM99YMMfJ1loRoxlwhym6mJMGWDHznM64W04niGj3yYOyVyIyZmmz3vv2FK2MElm0LkuKALvNBZZQU7kg0ORQQ9UE4BGwlVQWCyj2A0gQ03U16N9kZyMGs2YGmMPxo8fQ7A8pP7nETGpx95q6XPUwWpJV2qVLtPQQvyr20XURlxMOBJJxSoxorB
-    parentId: 54m9Dxjnvyt1ZmjYBAGMH1O8g4E
-    postId: olMVXnK6YpHwgwkp076OH8xGxlNkY2CDm9mqRXoXTNYk0JNvrLf2A2vA
+    link: https://i.imgur.com/CUBq41a.jpg
+    prevLoc: nqY7EM4wmGiWDll4wK7Gs8EjKQD8ExsM3EvmQvXgFBv10RGkYOiZY2wKZ72RtoPL7wkDWWcBD50jqPPJIAGAXzzLX4s3Z0PJ8EEEtGk5kZoBw7TEVMJq7gxQfJ9L25lnWpF6kvJqMLM7IjwOV0MwvwTKzXylj7r1tonk2wpGGZfLKzmqErB2hBOw7YE6YQFgmyzoPN8KHVk0GAjmmRi3MYG7yqKpug0vDRrLMJiL1p917mQ2ig47y2lRyDFpP0oJAvPXCj1nov
+    parentId: xxYv35Qq0qcX7yA8k7mVTkOZKNp
+    postId: KyP197B5OKI1X1LxGjZVtlD5DKrE92UNGmGB2yKETPmp929pJ1f3pD3K
     factor: 1.78
     portrait: 0
-    mInfo: DksJbSpQwaxSx9x
-message: "第17屆中國錦鯉大賽  全體總冠軍  大正 93公分  魚主;王威 中國  代理漁場;川島錦鯉場、魯泉錦鯉場  生產漁場;阪井養魚場 日本廣島    The 17th China Koi Show  Grand Champion   Sanke 93cm  Owner; Wang, Wei  Handler; Kawashima Koi Farm - Guangdong, Lu Quan Koi Farm - Shangdong  Breeder; Sakai Fish Farm - Japan    第17屆中國錦鯉大賽  The17thChinaKoiShow"
+    mInfo: AbJjlEHnV7jkPOw
+message: "第17屆中國錦鯉大賽  全體總季軍  紅白93公分  魚主;尹文強 中國  代理漁場;海日錦鯉場 中國廣州  生產漁場;伊佐養鯉場 日本新潟    The 17th China Koi Show  2nd Runner-up  Kohaku 93cm  Owner; Yin, Wen Qian  Handler; Hai Ri Koi Farm - Guangdong  Breeder; Isa Koi Farm - Japan    第17屆中國錦鯉大賽  The17thChinaKoiShow"
 ---
 
 第17屆中國錦鯉大賽  
-全體總冠軍  
-大正 93公分  
-魚主：王威 中國  
-代理漁場：川島錦鯉場、魯泉錦鯉場  
-生產漁場：阪井養魚場 日本廣島  
+全體總季軍  
+紅白93公分  
+魚主：尹文強 中國  
+代理漁場：海日錦鯉場 中國廣州  
+生產漁場：伊佐養鯉場 日本新潟  
   
 The 17th China Koi Show  
-Grand Champion   
-Sanke 93cm  
-Owner: Wang, Wei  
-Handler: Kawashima Koi Farm - Guangdong, Lu Quan Koi Farm - Shangdong  
-Breeder: Sakai Fish Farm - Japan  
+2nd Runner-up  
+Kohaku 93cm  
+Owner: Yin, Wen Qian  
+Handler: Hai Ri Koi Farm - Guangdong  
+Breeder: Isa Koi Farm - Japan  
   
 #第17屆中國錦鯉大賽  
 #The17thChinaKoiShow
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/XhtaEFT.jpg"><img src="https://i.imgur.com/XhtaEFT.jpg" height="168" width="300" /></a> 
+<a href="https://i.imgur.com/O0NqsNw.jpg"><img src="https://i.imgur.com/O0NqsNw.jpg" height="168" width="300" /></a> 
   
 
-<a href="https://i.imgur.com/sA5W6Zd.jpg"><img src="https://i.imgur.com/sA5W6Zd.jpg" height="168" width="300" /></a> 
+<a href="https://i.imgur.com/CUBq41a.jpg"><img src="https://i.imgur.com/CUBq41a.jpg" height="168" width="300" /></a> 
  
