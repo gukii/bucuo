@@ -1,0 +1,64 @@
+---
+layout: post
+title: "超極美啊o  德國" 
+date: 2018-02-24T09:05:35+0000 
+categories: ["新潟","錦鯉"] 
+media:
+  - id: 1nASUf2
+    name: kLGZmrOvqXcwKPYAOx2Mfoqnk96
+    description: ""   
+    height: 720
+    width: 504
+    type: image/jpeg
+    link: https://i.imgur.com/1nASUf2.jpg
+    prevLoc: GOYzBPq3XwU84WWrn01JSq0OX59q0xfRyLZPmZ5pcwOq06RQ1xuEGNDrE0EQTXrpRqy1QJFE398Zpq0vSVgVy4kNBKSPkPNQjPjRUqKlG1Jl94Fo8Z8zAWr8iQrw8p9j15f3n4pOgjrQUNgYyBr7PxCP4mxJYQovUO0jxOJ36XIj11A7QXqEhAQx1RRrJJf3VxzLJOAJUmvKVkY9JNIA0Al3xp4jTJOJ9rxLnKuQlW9pVy36CBD56Po3q1fMAjMPYmxJFN5
+    parentId: qnOYvlMBzLhv70GA1Mm8HxR9mYK
+    postId: ODWM6Xk57ViO7O3ry6EWH8QOQVJL0WCPq789AB4KHqA8nx5JjyfABEWy
+    factor: 1.43
+    portrait: 1
+    mInfo: 8OoT9zOgQWnC9n4
+  - id: hkwrusy
+    name: LzQ8ov5r3Wc3G7KJpW3RHVq1QLQ
+    description: ""   
+    height: 720
+    width: 504
+    type: image/jpeg
+    link: https://i.imgur.com/hkwrusy.jpg
+    prevLoc: LkY0KXy31AC39NN0qmRPuvgJAQRvgpT0xB9MD9oVtlQM4YrEROijwl4kjojViJy7wG1x3MF05RDg9kNvS393qE8RgpSw0WZ9y3k0cGnRpOWR7xi1RNlqn95BhMVmwyzmB7SNOAAOMqxJsqnz25qQ6Mhx7qyWmX4ZF7BqX725JNiYZZ5GmA7niXBAWNNvRvfDAOn1pYQqT59LvR64rBTrYVVAw7V6tNlXWjXlYNcDOQ53WM55C0kQmVqZkltR97VNlWEmFp4
+    parentId: qnOYvlMBzLhv70GA1Mm8HxR9mYK
+    postId: ODWM6Xk57ViO7O3ry6EWH8QOQVJL0WCPq789AB4KHqA8nx5JjyfABEWy
+    factor: 1.43
+    portrait: 1
+    mInfo: rQpnIFY1mbsWE1m
+  - id: 6Kwufnz
+    name: 54m95R1ZNKFlX2EDm5xVu1O4rp1
+    description: ""   
+    height: 720
+    width: 504
+    type: image/jpeg
+    link: https://i.imgur.com/6Kwufnz.jpg
+    prevLoc: NmEXMZA3K7h63VVYLE0NC60W9MK60ohZxjgD2gnPczw1rPn0KmiBrQyNBnB4CoRNpqgx5wC3ARx6K9qMflZlGNzMOgFZlR7JEKoGtk7O4qlOy4SP3xJ2nwEQtyDARj62jjI8X3or97xPtvq3VRExnyhD5PGB2ozzhQZwXQVDvOioKK0NxRWOtOzM9KKYAxilOvv0EZQMsREOvNyjDYFO1P82rOJxU9kVrNy8xNil7Vq7wOBDhkjDXVogWKcZ6Xz7jYvBCwn
+    parentId: qnOYvlMBzLhv70GA1Mm8HxR9mYK
+    postId: ODWM6Xk57ViO7O3ry6EWH8QOQVJL0WCPq789AB4KHqA8nx5JjyfABEWy
+    factor: 1.43
+    portrait: 1
+    mInfo: CHNmJKLaoyHFUqI
+message: "超極美啊o  德國鯉的光澤好比絲綢、珍珠，明亮迷人！    第22回銘血と伝統の祭典   新潟県錦鯉拍賣會"
+---
+
+超極美啊*\(^o^)/*  
+德國鯉的光澤好比絲綢、珍珠，明亮迷人！  
+  
+#第22回銘血と伝統の祭典   
+#新潟県錦鯉拍賣會
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/1nASUf2.jpg"><img src="https://i.imgur.com/1nASUf2.jpg" height="300" width="210" /></a> 
+  
+
+<a href="https://i.imgur.com/hkwrusy.jpg"><img src="https://i.imgur.com/hkwrusy.jpg" height="300" width="210" /></a> 
+  
+
+<a href="https://i.imgur.com/6Kwufnz.jpg"><img src="https://i.imgur.com/6Kwufnz.jpg" height="300" width="210" /></a> 
+ 
