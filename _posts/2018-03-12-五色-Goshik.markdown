@@ -6,13 +6,7 @@ categories: ["IKI"]
 media:
   - id: wGazB8l
     name: kLG8XjXKYOSvLzz1jwAlSovRYww
-    description: "五色 Goshiki
-衣五色 Goromo Goshiki
-這一陣子廣受大家喜愛的豔麗風美女*\(^o^)/*
-你喜歡哪個？
-
-#五色
-#Goshiki"   
+    description: "五色 Goshiki衣五色 Goromo Goshiki這一陣子廣受大家喜愛的豔麗風美女o你喜歡哪個？五色Goshiki"   
     height: 720
     width: 720
     type: image/jpeg
@@ -23,13 +17,7 @@ media:
     factor: 1.00
     portrait: 0
     mInfo: 52ssTINx9BUTwkK
-message: "五色 Goshiki  
-衣五色 Goromo Goshiki  
-這一陣子廣受大家喜愛的豔麗風美女*\(^o^)/*  
-你喜歡哪個？  
-  
-#五色  
-#Goshiki"
+message: "五色 Goshiki  衣五色 Goromo Goshiki  這一陣子廣受大家喜愛的豔麗風美女o  你喜歡哪個？    五色  Goshiki"
 ---
 
 五色 Goshiki  
