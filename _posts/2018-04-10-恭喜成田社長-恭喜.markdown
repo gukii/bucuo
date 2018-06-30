@@ -56,14 +56,7 @@ media:
     factor: 1.33
     portrait: 1
     mInfo: DwN8BelOzvb9AaW
-message: "恭喜成田社長 恭喜🎉🎉🎉  
-大日豐田店拍賣會   
-大當歲標王 400萬日幣！  
-4月21-22日 國際錦鯉幼魚品評會，大獎在望啊*\(^o^)/*  
-  
-Congratulations Ryuki Narita 🎉   
-Dainichi Toyota Auction  
-Jumbo Tosai Showa JPY 4,000,000- !!!"
+message: "恭喜成田社長 恭喜🎉🎉🎉  大日豐田店拍賣會   大當歲標王 400萬日幣！  4月21-22日 國際錦鯉幼魚品評會，大獎在望啊o    Congratulations Ryuki Narita 🎉   Dainichi Toyota Auction  Jumbo Tosai Showa JPY 4,000,000- !!!"
 ---
 
 恭喜成田社長 恭喜🎉🎉🎉  
