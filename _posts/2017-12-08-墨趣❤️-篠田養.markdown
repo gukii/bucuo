@@ -1,0 +1,63 @@
+---
+layout: post
+title: "墨趣❤️  篠田養" 
+date: 2017-12-08T08:39:25+0000 
+categories: ["Koi "] 
+media:
+  - id: D66R6im
+    name: W057Gol7GwS4MV63zL6As5x104A
+    description: "墨趣❤️
+篠田養鯉場 Shinoda Koi Farm"   
+    height: 538
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/D66R6im.jpg
+    prevLoc: BJ8OwK03X1TnKPPxqM7VhZ1gPwxZ15hGLp3Ny3E1cRAvlN63MoiOA6J7ODOjIzM17YR5BOFYn9wNALBGfZMkWvrL3vI8roRWlNq9iA1kZo6gg2IrAogxBJErIopz9BVXkgsLDmlZxrYqiYqQPLxzzjIyLYvVMJQKsjZVWjAOBNuDxxO06kwEhzYqNvv0ooipEvo2OJEEi9k3YW17RDURr33552VosAD99QwqJlSq0gRnKDZ2UN1KxoroBnH3vVOLZkJ5Fx8
+    parentId: QGY0yg20yNTR2YBo8rDrIDm2pA4
+    postId: BmDN9XpRglsnwnvJOgzYhAw4wop3L7FDr1xN0lD3TlnNM1lqGRT18MPM
+    factor: 1.34
+    portrait: 0
+    mInfo: bB3886wf8Vudayj
+  - id: yyCIrsc
+    name: roPR3VvR3EiOx4BYkvLDtMo4VA5
+    description: ""   
+    height: 538
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/yyCIrsc.jpg
+    prevLoc: QpNjP3E9KATRPBBnV3k6TZA2vXzZANhxXJym9yNAhjw1Erq9LRt9PwVz9o97szyEO7X9YKF7VRowQEZPSrj1GEWk9KFXK5mEpL06CW7ZYOG4M0Cz2zg2gwpOCZ8RVRlQ9lUp64W79ZqYIYw57LwpvkIp40XwYDpZI6AmD6zG1jFEVV6YyOlgCDzkXNNYZZtx5XzVgJORUpjD62EoqRUEpl3j81VniBm0YYVGmGhnOmlW43xnsyDoELAOEzHxMA12xqwlS5D
+    parentId: QGY0yg20yNTR2YBo8rDrIDm2pA4
+    postId: BmDN9XpRglsnwnvJOgzYhAw4wop3L7FDr1xN0lD3TlnNM1lqGRT18MPM
+    factor: 1.34
+    portrait: 0
+    mInfo: hjNn0GNT5pIx2iX
+  - id: auSjJjO
+    name: yyZr32DKx1c3yXvjvgylH3MynXN
+    description: ""   
+    height: 538
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/auSjJjO.jpg
+    prevLoc: AGQWvJk3X8HROrrx0nN9TjMPwxDjMWskMJ1G91Pzu1E0ROX78WurAYVgrBrMiLXW9E4AwgIDZk6g5PW7SyXWx5V8jpc8jw9zWNKKc6z5wkExD7UXVx286B64SW0r4kvKqLu3r92ABjARIxr2D1jPV3cAl5RALPGxc1xB01jEOPINPP6kv97wFvYKDBBr11txw7935wm8sB7MjvyQBjIrk0j7W60ZfOP23V6jx6hozAZk8JRpC82yy8WLY3U5OBq2W6wlU7Z
+    parentId: QGY0yg20yNTR2YBo8rDrIDm2pA4
+    postId: BmDN9XpRglsnwnvJOgzYhAw4wop3L7FDr1xN0lD3TlnNM1lqGRT18MPM
+    factor: 1.34
+    portrait: 0
+    mInfo: 1yi6gk1NJKu60lI
+message: "墨趣❤️  
+篠田養鯉場 Shinoda Koi Farm"
+---
+
+墨趣❤️  
+篠田養鯉場 Shinoda Koi Farm
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/D66R6im.jpg"><img src="https://i.imgur.com/D66R6im.jpg" height="224" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/yyCIrsc.jpg"><img src="https://i.imgur.com/yyCIrsc.jpg" height="224" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/auSjJjO.jpg"><img src="https://i.imgur.com/auSjJjO.jpg" height="224" width="300" /></a> 
+ 
