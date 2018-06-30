@@ -1,64 +1,40 @@
 ---
 layout: post
 title: "第49回 全日本総" 
-date: 2018-02-02T02:19:02+0000 
-categories: ["錦鯉品評會","Champion","Sakai","錦鯉"] 
+date: 2018-02-02T02:37:56+0000 
+categories: ["錦鯉品評會","Champion","Sakai","Koi ","錦鯉"] 
 media:
-  - id: AXesxO6
-    name: GrL5lGQEMqi8D9g52zBJUGA6ywg
-    description: "第49回 全日本総合錦鯉品評會
-全體総合優勝 90部紅白
-獲獎鯉主;潘 志成 - 中國
-生產漁場;阪井養魚場
-經銷代理;小田原觀賞魚
-
-The 49th AJKS Grand Champion
-Owner; Pan, Zhichen - China
-Breeder; Sakai Fish Farm
-Handler; Odakan
-
-Photo courtesy of Domi Johan
-#第49回全日本総合錦鯉品評會"   
+  - id: 8tvCxDl
+    name: ZnkVL5mRzLsjk332yl42F07q49l
+    description: "第49回 全日本総合錦鯉品評會大魚部総合優勝 90部大正獲獎鯉主;袁 建棟 - 中國生產漁場;阪井養魚場經銷代理;成田養魚園The 49th AJKS Jumbo ChampionOwner; Yuan, Jiandong - ChinaBreeder; Sakai Fish FarmHandler; Narita Koi FarmPhoto courtesy of Domi Johan第49回全日本総合錦鯉品評會"   
     height: 720
     width: 478
     type: image/jpeg
-    link: https://i.imgur.com/AXesxO6.jpg
-    prevLoc: orv8GN4xnAIwYllA9BrXTXoMEx4XowT9KwvWqvPnc05YNk3x9MS8JX0m8Z8BIzwkGY3qmnFry1M9Rp0QsAoABwYQ1MFKz7A1O5gEulv5yz3lOGuznM6x4EQBTk1R9520mXSyZmmNJV00SKgoWA8jO0iK1xZglpBYT7qME7lB2JiEKKNk2GMZC6MEX33j5Rh5xYA2r5zksjQnO1E08VsDGj9q9OkmtgD8vxLkV0FqyYMZ2y41UlALgpXP9xH40gG4BmWgsj1
-    parentId: GrL5lGQEMqi8D9g52zBJUGA6ywg
-    postId: kLG8XjKO59SwKwg3pMoxH7MvMAG5B0iNkEKLMlL4fyN1K01jQySp87gX
+    link: https://i.imgur.com/8tvCxDl.jpg
+    prevLoc: Xz7qZjO8XYT9KBBlAqXnTY9gx1jY9OHwNg0kL0B1uMQ5NvRP74HAr3VLAWAvILn2mlOQzyIRo7A4P193U3O3mJ6nQ3h50lE0x6Zyhvo2W28DJLCYl7lV7X5NTo5101xy3PtRP57Vq8V2SvgYQ87kWnIjWMXly3vRFYW2zYRqEmFNPPDJXlz2FgYMWzz3KvUmqV5nWPl9FJB59A2EwvtmgKM7Y70BhpnwlkjX65iPjKRXgxw5iJNNQ7BZE6UzLKYLXQGOI5O
+    parentId: ZnkVL5mRzLsjk332yl42F07q49l
+    postId: AlBNKXo9njHRwRjJzvGkH4xoxVJ3rBi84YEAqrPjhRQN25N3NQSWM8yv
     factor: 1.51
     portrait: 1
-    mInfo: uOYB5Bqi8S3hV0S
-message: "第49回 全日本総合錦鯉品評會  
-全體総合優勝 90部紅白  
-獲獎鯉主;潘 志成 - 中國  
-生產漁場;阪井養魚場  
-經銷代理;小田原觀賞魚  
-  
-The 49th AJKS Grand Champion  
-Owner; Pan, Zhichen - China  
-Breeder; Sakai Fish Farm  
-Handler; Odakan  
-  
-Photo courtesy of Domi Johan  
-#第49回全日本総合錦鯉品評會"
+    mInfo: 0tw7ixDktRhp0iL
+message: "第49回 全日本総合錦鯉品評會  大魚部総合優勝 90部大正  獲獎鯉主;袁 建棟 - 中國  生產漁場;阪井養魚場  經銷代理;成田養魚園    The 49th AJKS Jumbo Champion  Owner; Yuan, Jiandong - China  Breeder; Sakai Fish Farm  Handler; Narita Koi Farm    Photo courtesy of Domi Johan  第49回全日本総合錦鯉品評會"
 ---
 
 第49回 全日本総合錦鯉品評會  
-全體総合優勝 90部紅白  
-獲獎鯉主：潘 志成 - 中國  
+大魚部総合優勝 90部大正  
+獲獎鯉主：袁 建棟 - 中國  
 生產漁場：阪井養魚場  
-經銷代理：小田原觀賞魚  
+經銷代理：成田養魚園  
   
-The 49th AJKS Grand Champion  
-Owner: Pan, Zhichen - China  
+The 49th AJKS Jumbo Champion  
+Owner: Yuan, Jiandong - China  
 Breeder: Sakai Fish Farm  
-Handler: Odakan  
+Handler: Narita Koi Farm  
   
 Photo courtesy of Domi Johan  
 #第49回全日本総合錦鯉品評會
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/AXesxO6.jpg"><img src="https://i.imgur.com/AXesxO6.jpg" height="300" width="199" /></a> 
+<a href="https://i.imgur.com/8tvCxDl.jpg"><img src="https://i.imgur.com/8tvCxDl.jpg" height="300" width="199" /></a> 
  
