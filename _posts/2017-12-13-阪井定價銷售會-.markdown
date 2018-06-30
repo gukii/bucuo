@@ -1,0 +1,83 @@
+---
+layout: post
+title: "阪井定價銷售會  " 
+date: 2017-12-12T16:24:41+0000 
+categories: ["Sakai","IKI","華錦"] 
+media:
+  - id: N9hNRAY
+    name: Vj4PEnjYNzf8P9oKor58up59QP3
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/N9hNRAY.jpg
+    prevLoc: YAQr1kP3YVc9lkkKYNL3ToZWQmNoZ5IPrwoZJoK0cvnzol3MRmHgP3OZgrgLTPGA5G1j0BIWMK87JpOgt89qXAogPWFK72M4X5kBILA55W8N4qT9GQ4M0YlKF2rvZR6O2ZHNpW1LZAnQh9EP1DKmZGHYr4Gk64O1c4pXY4VLv9s7RR1qvw4NH74PDrrw0whElrqZn8A8HR7Mm47o7ruK09EoONkMtA04BQxgP0fWN8ZQnB7PHnEBLOjL5ZC4k8J8oPyMI4Y
+    parentId: roPR3VoJYWfODVXvBLWgHMoym3j
+    postId: ODWM6Xk57ViO7O3ry6EWH8QOQVJL0WCPqx78xwBKCqA8xyLMprTAmWgw
+    factor: 1.33
+    portrait: 0
+    mInfo: IH0hGiNYibqVvQF
+  - id: ordxMuC
+    name: 43lRBG359nTx73KDgVBrc18EVrk
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/ordxMuC.jpg
+    prevLoc: YAQr1kP3YVc9lkkKYNL3ToZWQmNoZ5IPrwoZJoK0cvnzol3MRmHgP3OZgrgLTPGA5G1j0BIWMK87JpOgt89Mq12JZYFK688286JvTLA55W8N4Pc9GQ4M0YlKF2AOK4M72Jfz4zBpBZ2PF9m9Bn7kq3CYJJ926k5gh4pXY4VLv9s7RR1qvw4NH74PDrrwyytE8AAk260rhQZ4RxXl2WuKQjq8Z5GWIQxzK8DNkRiW25YnYKLpuPQo24k4Xjt4k1Wmolwwh4J
+    parentId: roPR3VoJYWfODVXvBLWgHMoym3j
+    postId: ODWM6Xk57ViO7O3ry6EWH8QOQVJL0WCPqx78xwBKCqA8xyLMprTAmWgw
+    factor: 1.33
+    portrait: 0
+    mInfo: qdIoTAFskr5gknV
+  - id: 07JvyKc
+    name: wwXm37wOk6CnR93qEQnRhOq1YJY
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/07JvyKc.jpg
+    prevLoc: knwBAJ4qj6swBYYDlrOnTW8xyMmW8LCPJ6V5nVWBcxkBy95OY4fPEj4APWP8cgNEPNwQ1nu4EMy67QpLF1V89GQ6X0Hw4ngOo6pNuvpgg5L3rNI6ELLEkNBKU536RrD9nGiOk4y14yX7izDB7QpjpJFNLKooWjw6FxQqgx9wjosmVV3G9xy5S32JowwxV5iVw7QzQr8ZhyoVnJoZx1uxkXkn02wmil1q78qwBWTlV0pg4g9EF3pWww8zplhNZqORX3Vxh5Q
+    parentId: roPR3VoJYWfODVXvBLWgHMoym3j
+    postId: ODWM6Xk57ViO7O3ry6EWH8QOQVJL0WCPqx78xwBKCqA8xyLMprTAmWgw
+    factor: 1.33
+    portrait: 0
+    mInfo: r1Ug7dPqaMVPmGE
+  - id: 7C2rV9X
+    name: AlBPVKlwmEC512OZZAgvHl8QL3A
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/7C2rV9X.jpg
+    prevLoc: wDE2QY4JynINx0056AGLU78gXMW78jS3xM4kG4D7F659koQgVNHvz4Kov0vGf14ExLwZRMiAm0OkqMg2SlRvGjykYZURB06AL70Wu47QQKVXk3i6wQQwzlV2UjPA7VjlWJi4B11v4yv1TgmLD032qrSwrm3ZJy7Lsnyg1nOA5DFXyy9vAG5rs5JngOOqPxiGN0890GnRckvlxg0jwyhBXnDxvXM4C0vkB6WnrMu93mMD01KXSJ82lDBP4ofpl54Pm59lhkZ
+    parentId: roPR3VoJYWfODVXvBLWgHMoym3j
+    postId: ODWM6Xk57ViO7O3ry6EWH8QOQVJL0WCPqx78xwBKCqA8xyLMprTAmWgw
+    factor: 1.33
+    portrait: 1
+    mInfo: mRMcV7KOVrczqxt
+message: "阪井定價銷售會  一共約80個代理商，分成10組。  每組先猜拳決定撈魚順序，再蹲下來比眼力！    Ps. 其實每次我都出布⋯≧∇≦    台灣華錦IKITAIWAN  SakaiOpenSale"
+---
+
+阪井定價銷售會  
+一共約80個代理商，分成10組。  
+每組先猜拳決定撈魚順序，再蹲下來比眼力！  
+  
+Ps. 其實每次我都出布⋯(≧∇≦)  
+  
+#台灣華錦IKITAIWAN  
+#SakaiOpenSale
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/N9hNRAY.jpg"><img src="https://i.imgur.com/N9hNRAY.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/ordxMuC.jpg"><img src="https://i.imgur.com/ordxMuC.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/07JvyKc.jpg"><img src="https://i.imgur.com/07JvyKc.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/7C2rV9X.jpg"><img src="https://i.imgur.com/7C2rV9X.jpg" height="300" width="225" /></a> 
+ 
