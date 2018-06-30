@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "大日拍賣會 Dai" 
+title: "大日拍賣會 Dainichi" 
 date: 2018-03-05T01:38:14+0000 
 categories: ["Auction","Dainichi","大日"] 
 media:
