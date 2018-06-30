@@ -1,0 +1,38 @@
+---
+layout: post
+title: "2017 年愛鱗會" 
+date: 2018-02-01T15:05:57+0000 
+categories: ["錦鯉品評會","Sakai","錦鯉"] 
+media:
+  - id: LhmyprR
+    name: lgJ53AMmPPTl7OLBPpGLunXkLVQ
+    description: ""   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/LhmyprR.jpg
+    prevLoc: 5plV2qGNwATl9ggy8xZ0fK8LjrXK8gH31MOBqOnmFomzOxQ9KLhj9Y1JjZYxiR3K2jAGnntDo3RJ2WWEs9M9JpWmB8CV03309pg5TW8OK24ZKVsq9DykE68whLOMg6zXnWFQPD0Pg02kCB60MgMqDBtJ6PEkOOy6UkMn3yBqqASMl8vE6nGpCvRLM4x240sZBwgmWDr0F7GEqNlv5PfYlYjKp17DsLR0vXqyykc7WypjMmkDF2zRRKmZV8i9y7Q4kOo7TGxWqm
+    parentId: lgJ53AMmPPTl7OLBPpGLunXkLVQ
+    postId: ODWM6Xk57ViO7O3ry6EWH8QOQVJL0WCPqM0rvB03fqlApQ4E6ohA96lg
+    factor: 1.78
+    portrait: 0
+    mInfo: MsvN25qwjf09ncn
+message: "2017 年愛鱗會全體總冠軍  
+阪井大正96公分！入場啦！  
+Super Sakai Sanke!! 2017 ZNA GC!!  
+  
+#第49回全日本総合錦鯉品評會  
+#阪井大正"
+---
+
+2017 年愛鱗會全體總冠軍  
+阪井大正96公分！入場啦！  
+Super Sakai Sanke!! 2017 ZNA GC!!  
+  
+#第49回全日本総合錦鯉品評會  
+#阪井大正
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/LhmyprR.jpg"><img src="https://i.imgur.com/LhmyprR.jpg" height="168" width="300" /></a> 
+ 
