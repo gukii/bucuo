@@ -1,0 +1,46 @@
+---
+layout: post
+title: "可惜不能開窗≧∇≦" 
+date: 2017-12-15T02:45:11+0000 
+categories: [] 
+media:
+  - id: xDsbBDV
+    name: kLGZ3KY1JjTvq1BgODO7co8XPqv
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/xDsbBDV.jpg
+    prevLoc: JgYz0Vw3KEunwppkO1q8hMO9njxMOrTK7OL93Lkjcp4LQYAxkrSwxrVlw3wXIwy8qyE61GT1E9JvMolRCvrqWNL9KqsNkr4jQm4ZU20v6R1OQzHzo5jpyWwKCL3p5BAz79fmYE80AL7KcYRPnZxxPOsVMy3o835GHp74ZpgM9yTX22104KMBsYpqQzzlNNFrRPJnpOMJcM4DN0Zjm0U8q9y9BOjVf2rw6YRQQXFYKElnEKo9fO9qm4nWL1Ir7lRVmN4EsQ6
+    parentId: 8Np6JAGVwzsgwLq76GGXtPYM2YO
+    postId: 3XkQVrvKlBf4y4ZYE5Wnc7GlGJ9K0OiL2jYlq6jLsA1pAXVPVEU0Jm7p
+    factor: 1.33
+    portrait: 0
+    mInfo: 8d6kvHInOxFAPJA
+  - id: w4xjVhG
+    name: 075VxpwKlotzrZBQAj17FKQnpBo
+    description: ""   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/w4xjVhG.jpg
+    prevLoc: 8voWjwLQzXukqOOm3z6jcpwx4Q7pwrTG4APkgP3xcJA0r2z68wS8wYyv878xI8w9k6GpV1uZgG0KDzO4hOXmPL5JpAuw39Byp2W4CkNq0VLlQESwNmr6B015tG6jKRRZKnsYQ4rY04p6folRQ2QYRPIKl5B150KMugzJAg028qfWjjANYgO0tJW1Evvq8khz9L1OXjW7U9krPqV1wksZ6BLxjDPrtyOnl80QvphElrJEnYj1cO4gYxn4RKSlw3QZqXxofxD
+    parentId: 8Np6JAGVwzsgwLq76GGXtPYM2YO
+    postId: 3XkQVrvKlBf4y4ZYE5Wnc7GlGJ9K0OiL2jYlq6jLsA1pAXVPVEU0Jm7p
+    factor: 1.78
+    portrait: 0
+    mInfo: IEfDjJMpk4Ce1Z5
+message: "可惜不能開窗≧∇≦    美麗之島"
+---
+
+可惜不能開窗(≧∇≦)  
+  
+#美麗之島
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/xDsbBDV.jpg"><img src="https://i.imgur.com/xDsbBDV.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/w4xjVhG.jpg"><img src="https://i.imgur.com/w4xjVhG.jpg" height="168" width="300" /></a> 
+ 
