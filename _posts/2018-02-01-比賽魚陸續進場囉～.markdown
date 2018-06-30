@@ -1,0 +1,80 @@
+---
+layout: post
+title: "比賽魚陸續進場囉～" 
+date: 2018-02-01T10:48:18+0000 
+categories: ["錦鯉品評會","錦鯉"] 
+media:
+  - id: utxD2Wq
+    name: ZnkVL5Z1MKuYmgN7lDjVu0jxAJ1
+    description: ""   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/utxD2Wq.jpg
+    prevLoc: 5plV2qGNwATl9ggy8xZ0fK8LjrXK8gH31MOBqOnmFomzOxQ9KLhj9Y1JjZYxiR3K2jAGnntDo3RJ2WWEs9M9JpWyWBfxn1OzGJz5SW8OKLA4GmiqAV6EAvj8hyjE3Q42mKTQvlG0BNjnipM8636QQksVqW34wBVLckMn3yBqqASMl8vE6nGpCvRLM4x240sZPrgm8nAGsw5Z3VvgjvfYAkAqjDJmtLRv21QpnmF7O8LBGNxKTWZrZNn2NjC9y7QB087QUGEm1k
+    parentId: JxOqoLEBpnhoVojRBlk3FJMzoOV
+    postId: PE07WKl51Xu6j6QAk7JphxOnO3RD4mfj8QnWELPOC8ovP1XNqZUl8z4G
+    factor: 1.78
+    portrait: 0
+    mInfo: Mq70iNGNowPgIKq
+  - id: zmRmJIY
+    name: wwXm3Pn1LNFnOQDGGmDjfO2zAoE
+    description: ""   
+    height: 538
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/zmRmJIY.jpg
+    prevLoc: YAQr1kP3YVc9lkkKYNL3ToZWQmNoZ5IPrwoZJoK0cvnzol3MRmHgP3OZgrgLTPGLRq07M4uWMK85mzVQf898wJjmYWFK4LyznoRYcpW7W8oXyKfQ4PPlM5Xot2AOKv9nkYSN50rW2Y7Zu9RljOGZrWcYv8Lo1rWQu4Pr9BKKV1S7gxm2q55JT75pBN7GBzTX3W6w8OQJTQWGnA7kr6cVOWAp4A5rc9GkWPlJrJUWRg05NjEOsYq30Gm3E6C4k4yQxw2D
+    parentId: JxOqoLEBpnhoVojRBlk3FJMzoOV
+    postId: PE07WKl51Xu6j6QAk7JphxOnO3RD4mfj8QnWELPOC8ovP1XNqZUl8z4G
+    factor: 1.34
+    portrait: 0
+    mInfo: mEkTIZ8zCVDrZYI
+  - id: zp3TNQF
+    name: NBV9vP7Jwrspn3BX035EfGqg7Gl
+    description: ""   
+    height: 538
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/zp3TNQF.jpg
+    prevLoc: LkY0KXy31AC39NN0qmRPuvgJAQRvgpT0xB9MD9oVtlQM4YrEROijwl4kjojViJy7wG1x3MF05RDg9kNvS393NkQ48EuwGOwvMZY2TmOwOZqP3yT1MppX6yJ2F7zA6Yy89otNoNYgOpRkSqjX2x84NDhxQ22Y6qjOF7BqX725JNiYZZ5GmA7niXBAWNNvRpsD1GByDNMrU4wBEZ4rJwhjmY3wlV1ptJqXoj1ELjcDo8XXLELBf4DYoovlDNtR92kVLGWrTwm
+    parentId: JxOqoLEBpnhoVojRBlk3FJMzoOV
+    postId: PE07WKl51Xu6j6QAk7JphxOnO3RD4mfj8QnWELPOC8ovP1XNqZUl8z4G
+    factor: 1.34
+    portrait: 0
+    mInfo: zMRPTNk1WXd8IM5
+  - id: 282dEWU
+    name: 1Ngry5VLZosXjGYJQ2qyt06V4ND
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/282dEWU.jpg
+    prevLoc: mp28DL4v07TMl11VXAj5s1Dkwj81D6C42orB8rNZu8lwXmgOzWHLDxVqLJLEcOm27Dw54Mhx5wlOM1z9cJVJNl6vRqIrX3MpyXo6IylGlkvBXETNV77QvyWRIB7XxzzjO4UD84kYLXXOt5yG65Az7nfL23k1rP0XU9NDm9Yj7lCOkk34QlLptZw0q33DkYcZmlyMk1vztRon0qzogBuNZ6wk3x1MC19KRxgNozSwYkGjz4Vnu7V2JZB1kwTqr7qjmNDgsyn
+    parentId: JxOqoLEBpnhoVojRBlk3FJMzoOV
+    postId: PE07WKl51Xu6j6QAk7JphxOnO3RD4mfj8QnWELPOC8ovP1XNqZUl8z4G
+    factor: 1.33
+    portrait: 1
+    mInfo: dee4je8WN1wQBRA
+message: "比賽魚陸續進場囉～  
+  
+#第49回全日本総合錦鯉品評會"
+---
+
+比賽魚陸續進場囉～  
+  
+#第49回全日本総合錦鯉品評會
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/utxD2Wq.jpg"><img src="https://i.imgur.com/utxD2Wq.jpg" height="168" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/zmRmJIY.jpg"><img src="https://i.imgur.com/zmRmJIY.jpg" height="224" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/zp3TNQF.jpg"><img src="https://i.imgur.com/zp3TNQF.jpg" height="224" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/282dEWU.jpg"><img src="https://i.imgur.com/282dEWU.jpg" height="300" width="225" /></a> 
+ 
