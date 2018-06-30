@@ -43,16 +43,7 @@ media:
     factor: 1.67
     portrait: 1
     mInfo: 1ReC3zbKl3MwFVs
-message: "阪井競標拍賣會 Sakai Auction  
-競標日期;4月17日  
-競標地點;阪井養魚場  
-官方網址;http;//sff-koi.com/carp/  
-  
-喜歡大當歲的魚友可以參考看看喔！  
-委託競標請私訊我，謝謝^_^  
-  
-純欣賞的朋友，你喜歡哪隻呢？  
-可複選喔*\(^o^)/*"
+message: "阪井競標拍賣會 Sakai Auction  競標日期;4月17日  競標地點;阪井養魚場  官方網址;http;sff-koi.comcarp    喜歡大當歲的魚友可以參考看看喔！  委託競標請私訊我，謝謝_    純欣賞的朋友，你喜歡哪隻呢？  可複選喔o"
 ---
 
 阪井競標拍賣會 Sakai Auction  
