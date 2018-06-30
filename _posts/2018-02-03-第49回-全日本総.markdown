@@ -1,64 +1,36 @@
 ---
 layout: post
 title: "第49回 全日本総" 
-date: 2018-02-03T09:15:01+0000 
-categories: ["錦鯉品評會","錦鯉"] 
+date: 2018-02-03T13:49:56+0000 
+categories: ["錦鯉品評會","Champion","錦鯉"] 
 media:
-  - id: Gyk5dji
-    name: 8Np6JmOBgDIgz33x7Z8WfP85oKZ
+  - id: rS2Yva3
+    name: KyPZpMzX62H1XlnK5jk2i19M8Vv
     description: ""   
-    height: 720
-    width: 540
+    height: 405
+    width: 720
     type: image/jpeg
-    link: https://i.imgur.com/Gyk5dji.jpg
-    prevLoc: NmEXMZA3K7h63VVYLE0NC60W9MK60ohZxjgD2gnPczw1rPn0KmiBrQyNBnB4CoRNpqgx5wC3ARx6K9qMflZlozrDY9IZ07z87GQBFwowryDw8LiJynG0xwowIGlD5NoQZXc8QzzyONM3cvPZQln60MHEALGE8M4rFQZwXQVDvOioKK0NxRWOtOzM9KKYAjhYXlowLZ1wtRE43wL3vwFOMQo6qrLmT97MYGW188uz0MLBGYwVHkg6BPDgn5cZ6XJ6Q2DDiwn
-    parentId: QGY0yVv5X8FLYLzpxkxphDA42pp
-    postId: mjKON06MwlUMgMvLrmkOiKj2jqVAo4Sl75V8w36yfKmvGyn6JBhZoM5r
-    factor: 1.33
-    portrait: 1
-    mInfo: 7gPKGEhdHLSdCx4
-  - id: UCrERkE
-    name: KyPZpMm5GVskBKK63y98I1ZwB8D
-    description: ""   
-    height: 720
-    width: 540
-    type: image/jpeg
-    link: https://i.imgur.com/UCrERkE.jpg
-    prevLoc: vBYRPX4GxmIl8OOJ127Wf45VWGm45xsry9RjlRVnS3EropJAjMuXLjD6XnXvIzB4WXRMj1FXkDLYQ9Gqf7w75EkV8wfXmkAkJ5kMiDlDO2KDVJT03l5zYVPKS0GA0717pohLXD7L8LJ4TwOgzrg9qDuYvqQWowWMhzvV8zqw9YT0VVWEM4xpuAL2NDD7JghnlwvpZJmJu93ApBznAJH5wv4LV5PWSj4mnXy9D9H0Xo5KQjrlf0GGBEZ4vYU8V1RV877mHm7
-    parentId: QGY0yVv5X8FLYLzpxkxphDA42pp
-    postId: mjKON06MwlUMgMvLrmkOiKj2jqVAo4Sl75V8w36yfKmvGyn6JBhZoM5r
-    factor: 1.33
-    portrait: 1
-    mInfo: vhGYNzNwo14Yxcm
-  - id: crMvO4p
-    name: BmDLWzQRvYsNvvmqM7KKCRG0vlm
-    description: ""   
-    height: 720
-    width: 540
-    type: image/jpeg
-    link: https://i.imgur.com/crMvO4p.jpg
-    prevLoc: YAQr1kP3YVc9lkkKYNL3ToZWQmNoZ5IPrwoZJoK0cvnzol3MRmHgP3OZgrgLTPGLRq07M4uWMK85mzVQf898wpz3pVuoE0RwYmk1IpwpYO9z9zCQ4RrZp1Jkt2AOKOzpmgsz7MxVk8YWFk57A4zRYjUYgYABw1X8h4pXY4VLv9s7RR1qvw4NH74PDrrw0yuA8lPAw0OGSQnp0lPjEZtKQB14mpG7tA0y8E78rNUJ9NE82xZGsPQo24k4Xjt4kR4ERknRS4Y
-    parentId: QGY0yVv5X8FLYLzpxkxphDA42pp
-    postId: mjKON06MwlUMgMvLrmkOiKj2jqVAo4Sl75V8w36yfKmvGyn6JBhZoM5r
-    factor: 1.33
-    portrait: 1
-    mInfo: 7NhvVJsw4L3jiPD
+    link: https://i.imgur.com/rS2Yva3.jpg
+    prevLoc: orv8GN4xnAIwYllA9BrXTXoMEx4XowT9KwvWqvPnc05YNk3x9MS8JX0m8DXZizGZ4Eo033ix3V7MYgg1FA3AM925YDIKrBwONNv5tymzgoMAWrfNBOzQBBN0sGj7lEpLrZtkWkxLKVLycr6nDpLxwLSK00qMZv8kt7kg0ORQQ9UE4BGwlVQWCyj2A0gQ03U1RrvRXnX9szGOx9jg1wcDV6KrzJR0c5lQynPqwLiAvNOpGLvMIlA5MJKGpvHRlxME1OO5CoMNE6
+    parentId: KyPZpMzX62H1XlnK5jk2i19M8Vv
+    postId: roP8Vq5M0yHmkmx3G54gfPW9Wq68ZLCQ1DR9z0w8sWyj0vXmJNsA4AWN
+    factor: 1.78
+    portrait: 0
+    mInfo: waZfERTIRIxZ0EM
 message: "第49回 全日本総合錦鯉品評會  
-上位賞 名錄  
-総合優勝，國魚賞，彰顯，櫻、椿、牡丹、雅大賞。"
+壯魚公魚部 総合優勝  
+  
+The 49th AJKS   
+Mature (Male) Champion"
 ---
 
 第49回 全日本総合錦鯉品評會  
-上位賞 名錄  
-総合優勝，國魚賞，彰顯，櫻、椿、牡丹、雅大賞。
+壯魚公魚部 総合優勝  
+  
+The 49th AJKS   
+Mature (Male) Champion
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/Gyk5dji.jpg"><img src="https://i.imgur.com/Gyk5dji.jpg" height="300" width="225" /></a> 
-  
-
-<a href="https://i.imgur.com/UCrERkE.jpg"><img src="https://i.imgur.com/UCrERkE.jpg" height="300" width="225" /></a> 
-  
-
-<a href="https://i.imgur.com/crMvO4p.jpg"><img src="https://i.imgur.com/crMvO4p.jpg" height="300" width="225" /></a> 
+<a href="https://i.imgur.com/rS2Yva3.jpg"><img src="https://i.imgur.com/rS2Yva3.jpg" height="168" width="300" /></a> 
  
