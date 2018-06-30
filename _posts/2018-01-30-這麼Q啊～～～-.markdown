@@ -1,0 +1,31 @@
+---
+layout: post
+title: "這麼Q啊～～～  " 
+date: 2018-01-30T02:05:54+0000 
+categories: ["Omosako"] 
+media:
+  - id: 142MYnK
+    name: MARQryRMjziYR84G7E8Rc52wV21
+    description: "這麼Q啊～～～
+Omosako Shiro!!!!"   
+    height: 538
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/142MYnK.jpg
+    prevLoc: EMZ1zNo3XKTqx11wyg3WT6Q2Kvl6QWh1DPVyGVq7s2rKlRGxP5HZpRjNZYZ3u7Xgv6D5ALfxgZ8rYLE2cVWVLJ39lXFvQKL8nBjmsLpkDjpEWlfln6n7rlyjcz4EgyvoDlcVXvyvOmVycYqZNRJNwMiKqx1rpZAjcYQqKlAAy5fo4Gxnzww5unNpJ7n24yFXO7D8QwWNh23GnGw7OZIKVz7jWKVmIQVPZEOJz8UNx9YlpnyqhqYJxw4JjVI2KEyO7LG5
+    parentId: MARQryRMjziYR84G7E8Rc52wV21
+    postId: jKEZ6gMO27IOBOg1v7ZWH9lDlk2AoMsYQ99B90wkizDA3r10zoc4GKvr
+    factor: 1.34
+    portrait: 0
+    mInfo: zpmIlUWTqw75FvY
+message: "這麼Q啊～～～  
+Omosako Shiro!!!!"
+---
+
+這麼Q啊～～～  
+Omosako Shiro!!!!
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/142MYnK.jpg"><img src="https://i.imgur.com/142MYnK.jpg" height="224" width="300" /></a> 
+ 
