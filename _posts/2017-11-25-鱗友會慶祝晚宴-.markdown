@@ -1,0 +1,62 @@
+---
+layout: post
+title: "鱗友會慶祝晚宴  " 
+date: 2017-11-25T15:50:49+0000 
+categories: [] 
+media:
+  - id: daOrOOn
+    name: xxYv1lXN4ocXVE8knDQAskvWkpp
+    description: "恭喜Ryuki  Narita、阪井健太郎、Kiki Sutarki"   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/daOrOOn.jpg
+    prevLoc: LkY0KXy31AC39NN0qmRPuvgJAQRvgpT0xB9MD9oVtlQM4YrEROijwl4kjojViJy7wG1x3MF05RDg9kNvS392195x54cvm5OzzxYKUm3o5442kgClwZZvDX4NtMmBrEVlmocNorVwNxxxh2Q34W19j4fx0oMMDJYrI7BqX725JNiYZZ5GmA7niXBAWNNvpncDKxZqRnzLu5XMX48QBqhrqP8rEOw4hJolAlDpoMIDK1ZkZM99u4ZGG4zlnECR9253rLLgsp7
+    parentId: 3Xk2w9W0DYTv8N4VQ92pSZlLJ92
+    postId: 2NjxDqr1RzfmBm7o9N0MfZwywV8zDLS20OAJjDDZcvM3wVXqKgf1E6g6
+    factor: 1.78
+    portrait: 0
+    mInfo: UODViJIs7QC1f3S
+  - id: 0DrMWfy
+    name: AlBP1m47k8c5mLOzzN6Jhl1yy3p
+    description: "左起;小田原社長、潘志成先生、袁建栋先生、譚永權先生"   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/0DrMWfy.jpg
+    prevLoc: q0V6KP4zpAI2NLLgBz8OuKr4YGkKrAHVOW6YK6wMHzy7XQ18AWinwryAnYn6h5LlGLyV46hyj9M4GNLgtGBVVgmB7NcvoG7AEXoDHLKlgvMJj3fOq99Yn4NktjvL21m4wkSZ1AzRnWPnHrzO29M83zf5Y8ZR08ZnsKMnrKXGzAFVkkNvjn4zU56KXQQzkOSJMDvlMM7oIR5lj8mPzPTnynZVDoz2UgBrNNjZwRFyJ4z08ENnuO177OPpKJHXYVAEBYYPhGy
+    parentId: 3Xk2w9W0DYTv8N4VQ92pSZlLJ92
+    postId: 2NjxDqr1RzfmBm7o9N0MfZwywV8zDLS20OAJjDDZcvM3wVXqKgf1E6g6
+    factor: 1.33
+    portrait: 0
+    mInfo: ko4GtKtv6jCmuCF
+  - id: pFA9m4h
+    name: lgJ57pGV48il90Ev8Ny7c6pPyPj
+    description: "恭喜袁建栋先生 愛鯉榮獲鱗友會櫻賞"   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/pFA9m4h.jpg
+    prevLoc: ZBwv2lQ7GZIjgPP1vD5MuOP6m45OPWsGLxqNVq64cR9vZK8VYmiDAgNwDBDZTQxjlxmqWOs4WrzNVRvnFVgYxD03OrfXN8B5O6GRHX9RZv0Yy7UYNppjXLVNfqLXjwrYW7H4Pm6N2BZRCWLWZ3kmOjTl1GlEwV5wCM3QpMOKvkh855q1zGQLc6AErNNDBMsGOGLQRqyjSmgrNDw5QYin1Ey6Nxg8CXN8K6mnvKipxK15XQ87CEVVqWNvX1I8YLnr3g2qCyQ
+    parentId: 3Xk2w9W0DYTv8N4VQ92pSZlLJ92
+    postId: 2NjxDqr1RzfmBm7o9N0MfZwywV8zDLS20OAJjDDZcvM3wVXqKgf1E6g6
+    factor: 1.33
+    portrait: 0
+    mInfo: 6LcUTVY9sGbHHeu
+message: "鱗友會慶祝晚宴  恭喜得獎者🎉🎉🎉  Congratulations!!! 🍾🎉🎊"
+---
+
+鱗友會慶祝晚宴  
+恭喜得獎者🎉🎉🎉  
+Congratulations!!! 🍾🎉🎊
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/daOrOOn.jpg"><img src="https://i.imgur.com/daOrOOn.jpg" height="168" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/0DrMWfy.jpg"><img src="https://i.imgur.com/0DrMWfy.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/pFA9m4h.jpg"><img src="https://i.imgur.com/pFA9m4h.jpg" height="225" width="300" /></a> 
+ 
