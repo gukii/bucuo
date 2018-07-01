@@ -1,0 +1,82 @@
+---
+layout: post
+title: "常玉 藍夜花豹  " 
+date: 2017-11-20T12:34:18+0000 
+categories: [] 
+media:
+  - id: ouwSsYf
+    name: zz1KXvAY3wTzKnZX69JBTLlgxg3
+    description: ""   
+    height: 489
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/ouwSsYf.jpg
+    prevLoc: jmv5zG4pgAhOmllzE3njhmnqgl0mnvhwnxVKAVNouLjxn1ZOVDiqWxnpqAqkuLPNWVxYy5I9A6zJvWrQtW89Nzmr31h1kqZ16m6XTQ9XrZWEO6ix5loXyAwXTv0xqzZlDAf9GNpPGyzntwDzVoygJ0cqzgnmD0vwsOBy8OrDjPIQPPR149pLS0oPD55ZkMs01Jv17A5kswXEVp8E08sqNzV3L3O2fL8xoYAERDhQllyxwp7quEGM4lZJD9sqy2WBrJjqfPW
+    parentId: KyPZQ1G9pVikL9o4q4X7t1O3y31
+    postId: NBVLWKj5xQC6O6o5G2w4hLMOM2l1nyfBE3Jx0VB6fGmyjV1ZQYSLjYOZ
+    factor: 1.47
+    portrait: 0
+    mInfo: 6dOLH8mXwfWlQ5H
+  - id: 10ApRTT
+    name: ODWy8MG6w0Tk3wjOEXR3FGyMK6l
+    description: ""   
+    height: 442
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/10ApRTT.jpg
+    prevLoc: Xz7qZjO8XYT9KBBlAqXnTY9gx1jY9OHwNg0kL0B1uMQ5NvRP74HAr3VLAWAvILn2mlOQzyIRo7A4P193U3Og69ZnZyI5ZND46lL2IA6G9ZRJKJSYo2WkYNAZSoEy3KY6V5uRNlrxvNMWuYOykROR7lFjPPkqYyY2IYW2zYRqEmFNPPDJXlz2FgYMWzz3KKuN8vr8RLnnfX9kWy6kqAIln6L68p7GT50XjQvL5KF3nmYJ8w74UxVY3QN7qYCzLqXJyNz5Ho9
+    parentId: KyPZQ1G9pVikL9o4q4X7t1O3y31
+    postId: NBVLWKj5xQC6O6o5G2w4hLMOM2l1nyfBE3Jx0VB6fGmyjV1ZQYSLjYOZ
+    factor: 1.63
+    portrait: 0
+    mInfo: g9zxI8lYSgZrA8e
+  - id: G0fL7fB
+    name: Vj4PQAWnEVF8MX6VoojNSpV2mD8
+    description: ""   
+    height: 466
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/G0fL7fB.jpg
+    prevLoc: Vx5oX8M32JTZy00VB5xlhPkoxwBPkYFR5qK4rK83c5xVBj6n8vI6Yjxq656Du2nXZNjB4WTy3RLnGEXmtWARXAwZw8CowGYmJrDGTqD7mRYNVGHXGP7pXgjWcn4AgMqOYyiVwlyz7pnkcBNEKqY451HRVW11qL9wC0kOM0mAY4sv88W9NVMliEBmKyy1pxigQyoV3ZBrupXgJKrPgvSwGX6m1Zz0SXg52VJV6WUJOGoV1lG8SB5jvlYlPMtK8VzLGN2lfG1
+    parentId: KyPZQ1G9pVikL9o4q4X7t1O3y31
+    postId: NBVLWKj5xQC6O6o5G2w4hLMOM2l1nyfBE3Jx0VB6fGmyjV1ZQYSLjYOZ
+    factor: 1.55
+    portrait: 0
+    mInfo: xKKvzwXKGRTxJHG
+  - id: B3ukeYe
+    name: vvWoZlwL3puZv45l2XGKfkvzYzR
+    description: ""   
+    height: 424
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/B3ukeYe.jpg
+    prevLoc: lovXBK4rk8CMEOOWGA2osRYQLM8RYPhBKjWGMWE6upW3vjAnOVSDoLjpD0DvTLWO9q4RvZI7oxWXlGBMSY1L51pNA1CRNB7L21Q5IvXj4Mg1B1uv5VW9B0Y9S5gQqOAEEpfpjG6GApVys1g83G6GRvcKp3RpY21VIOXPoOyzJ2IvBBwQA9jOi5xnz33X1XclBLlZ30RYtrZpooOrDXSyZ5BNXN9LFP3W17kjyAT5oJG1lRkyuEGn0gMz12ugZNxQN5yYS6A
+    parentId: KyPZQ1G9pVikL9o4q4X7t1O3y31
+    postId: NBVLWKj5xQC6O6o5G2w4hLMOM2l1nyfBE3Jx0VB6fGmyjV1ZQYSLjYOZ
+    factor: 1.70
+    portrait: 0
+    mInfo: sQcdsfmgt5mv3Ix
+message: "常玉 藍夜花豹   文創品是存錢盒ㄟ～～  一套2隻就古錐≧∇≦    喜歡收集藝術文創品的朋友可以聯繫陳國元顧問，這個作品價格親民NTD3,6002隻一組，但純手工繪製，所以呢⋯⋯要排隊喔！    常玉藍夜花豹"
+---
+
+常玉 藍夜花豹   
+文創品是存錢盒ㄟ～～  
+一套2隻就古錐(≧∇≦)  
+  
+喜歡收集藝術文創品的朋友可以聯繫陳國元顧問，這個作品價格親民NTD3,600/2隻一組，但純手工繪製，所以呢⋯⋯要排隊喔！  
+  
+#常玉藍夜花豹
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/ouwSsYf.jpg"><img src="https://i.imgur.com/ouwSsYf.jpg" height="203" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/10ApRTT.jpg"><img src="https://i.imgur.com/10ApRTT.jpg" height="184" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/G0fL7fB.jpg"><img src="https://i.imgur.com/G0fL7fB.jpg" height="194" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/B3ukeYe.jpg"><img src="https://i.imgur.com/B3ukeYe.jpg" height="176" width="300" /></a> 
+ 
