@@ -1,0 +1,65 @@
+---
+layout: post
+title: "面迫定價銷售會  " 
+date: 2017-11-01T06:11:02+0000 
+categories: ["Event","Omosako","面迫"] 
+media:
+  - id: gGkp5yu
+    name: roPRmPvEX6uO1jlXOEWlUMpVlnK
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/gGkp5yu.jpg
+    prevLoc: WywpYgN3KWS4qzz13P5jH7plr437pGSVAjrxkrn8HN2V91DAg3tlLKJrl0l1tqXJ0Yj97DtRwGk47rqLUwG6WlV1nyuRl0L5nyxmikO5o8DM8WtpQkMO7ApYhlA2Ej2668U69VJjpzVYsMQ2YYkkADh65ZqpZ82mCkMWDkZJj7HEJJomNQLvCZvnV99BjXfL2ZWo97OlTLjwWLXPXPU1jy047OVGtmBmEMLGD4FE1gG49RZPu4ARODXlGRijQ43g2rD3un8
+    parentId: vvWo8WzYDkiZ2Pv8xAQyukXEJw4
+    postId: jKEZ6gMO27IOBOg1v7ZWH9lDlk2AoMsYggVxDqVwSzDxpyk26wi4kJR4
+    factor: 1.33
+    portrait: 1
+    mInfo: 0TJ2eQumCxNni5d
+  - id: F6MKSGl
+    name: nkLrgLoY8PHVKLNxXNZycyA5WD9
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/F6MKSGl.jpg
+    prevLoc: 4okV1p0MvWC85YYZPmBJSrMK5nlrMwuJQLxDGxgyF1VqyLJ3pGu06v780R0Efy1YmGZp3ETxAgzYovV9cl0Krxy3WLfvoPv9W9pqHvopWPVnPrcKJwpGB6K5uOMzp6yOAAF5QrBWMKM4T3o61Xol7KIQEKYn6m90cpz5BpOyoNTXvvyNMJnOs7QY9553p3hDp4W177lKFxXlMRNDRDskoXLvmJLNSQP0K0og6nuk9l12GYRBujzyWRxOz0HL14LBYX8yHNr
+    parentId: vvWo8WzYDkiZ2Pv8xAQyukXEJw4
+    postId: jKEZ6gMO27IOBOg1v7ZWH9lDlk2AoMsYggVxDqVwSzDxpyk26wi4kJR4
+    factor: 1.33
+    portrait: 1
+    mInfo: pPrzvPXDvtBhss3
+  - id: Ys2bc4E
+    name: DoG9QG2YPAuZnmlQL8LMfD5n2xx
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/Ys2bc4E.jpg
+    prevLoc: RqMkQ4G3K8iOWnnwYRvrh8ojExD8o5sqPzYx6YopTgwvEK207Wc83zgO8V86IjyKoWPLkDTRyGXlvm9ZU7vLzr4mYGu1JQQKO6vwFnGpKJwMJZCVLLGp3KzvI3ONZ3n89vInGg0xoxZxhRDzjDMOOlip2mpAAZn9sDolmDExA2FqKK6oRBkjfR3Qw99g70ix78WmBzpnsKqYnnQMOGTB0B2kZx14t5EoAVAoGBsLZMQ3LYZXTg5wGJEqNwc5wjR7P1XwHLw
+    parentId: vvWo8WzYDkiZ2Pv8xAQyukXEJw4
+    postId: jKEZ6gMO27IOBOg1v7ZWH9lDlk2AoMsYggVxDqVwSzDxpyk26wi4kJR4
+    factor: 1.33
+    portrait: 1
+    mInfo: Qd3PAdRsnehZonA
+message: "面迫定價銷售會  Omosako Event     有興趣的魚友可以參考一下網址，定價銷售是抽籤決定得主，有興趣的私訊聯繫我😊    http;www.omosako.comeventevent.html"
+---
+
+面迫定價銷售會  
+Omosako Event   
+  
+有興趣的魚友可以參考一下網址，定價銷售是抽籤決定得主，有興趣的私訊聯繫我😊  
+  
+http://www.omosako.com/event/event.html
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/gGkp5yu.jpg"><img src="https://i.imgur.com/gGkp5yu.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/F6MKSGl.jpg"><img src="https://i.imgur.com/F6MKSGl.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/Ys2bc4E.jpg"><img src="https://i.imgur.com/Ys2bc4E.jpg" height="300" width="225" /></a> 
+ 
