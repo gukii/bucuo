@@ -1,0 +1,45 @@
+---
+layout: post
+title: "有人問我，我拍的魚" 
+date: 2017-11-03T14:38:22+0000 
+categories: [] 
+media:
+  - id: bhkbUcW
+    name: DoG9QGA5JqiZn9oJpEVGsD5lBvj
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/bhkbUcW.jpg
+    prevLoc: 6qmG3rJOxYiWmVVRk1rosAL3vKoAL7tzAP4G74n6C3LXjw0rOGuRNQ7vRDR4tOx89RWorNhqAGMPVR6ES8E6NKyR4NUPn2XO89JZfv8oVqKX5nTmX1Mz213vh7vWpyrkJRfj9P4JNGjZUDPBBrox97IPYWoLED6QTy35RyzxW9C5QQJE2DXrSV10MLL2G3TW734BQNMKu2vpEmx894cB3p8Av0oXtXx7rgwYp8skEWD7EO9VC1QL8y2qrZU9N49jAO9kumX
+    parentId: ZnkVzkRJm8fYD6rqL0xxH0QvQA3
+    postId: gEAZMDKQ51uBoB857L4MuGgngpxmOyfZ33pNG3VnHO8w99mmKOhDyK8x
+    factor: 1.33
+    portrait: 1
+    mInfo: KqUC9cRQK7YYKXw
+  - id: ciPzVjb
+    name: wwXmKXlBR0CnAjvVmJjACO7K433
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/ciPzVjb.jpg
+    prevLoc: pvRBJO5yo9uwoQQgkvnzTO26Vn4O2MsGlw0x20O9c1ZXoVD6pzuK7Ej8K0KDczko0NGwjBFKRy83MAlLSkOMwx65QNcmEAyrNGzvF4LqDPNM3jhXm5zK4Z5jTEZ6jQMN8ncxgNyk1JzjhkNNWrAjEYHrQ6G0yxl3hmkrEmOp4zI7NNO50Q4BH9gEZllK0wfJ5q5QovW7SQGDxvDARPsBW1y8P5zlcQrw3NxqgqilXQoz6g48HpvD6lr1A5H9BA9L3Y1zU9G
+    parentId: ZnkVzkRJm8fYD6rqL0xxH0QvQA3
+    postId: gEAZMDKQ51uBoB857L4MuGgngpxmOyfZ33pNG3VnHO8w99mmKOhDyK8x
+    factor: 1.33
+    portrait: 1
+    mInfo: cCk4dJKlaTwdch1
+message: "有人問我，我拍的魚怎麼只有局部？  因為我看魚的時候，會很著迷顏色線條跟特殊的質感，就像看藝術家的設計作品一般，比如，把這兩隻魚身上的顏色跟質感跟車子還有手錶來對比，我覺得一樣酷啊≧∇≦"
+---
+
+有人問我，我拍的魚怎麼只有局部？  
+因為我看魚的時候，會很著迷顏色線條跟特殊的質感，就像看藝術家的設計作品一般，比如，把這兩隻魚身上的顏色跟質感跟車子還有手錶來對比，我覺得一樣酷啊(≧∇≦)
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/bhkbUcW.jpg"><img src="https://i.imgur.com/bhkbUcW.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/ciPzVjb.jpg"><img src="https://i.imgur.com/ciPzVjb.jpg" height="300" width="225" /></a> 
+ 
