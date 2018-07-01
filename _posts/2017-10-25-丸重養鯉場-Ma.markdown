@@ -1,0 +1,32 @@
+---
+layout: post
+title: "丸重養鯉場  Ma" 
+date: 2017-10-25T07:55:20+0000 
+categories: ["Marujyu","丸重","Koi "] 
+media:
+  - id: 5JNMVds
+    name: 4y4Gy4v1pptxjgXzBL4vCVKDXg
+    description: ""   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/5JNMVds.jpg
+    prevLoc: 4okV1p0MvWC85YYZPmBJSrMK5nlrMwuJQLxDGxgyF1VqyLJ3pGu06v7801vRiymAoklrZZH284RzlMMgilzlMJogv4Fv9XpE8q5Xsv67Y5zvWJCKOAYGkAP1SgvWlvr93GcLXyVDOYVYUp0KEDQz7Bc3vYMwkoq1T0vGgr8o44i1xgY1zPR7IVP6z35rD1C65DK2zgN6sx22BmAvvWSXGMVwM0A2sQXVPQMZBGHw65YDqK5RCqz095Zw63fv12p1z9BGFLAP
+    parentId: 4y4Gy4v1pptxjgXzBL4vCVKDXg
+    postId: 54mQKwx18JilXlAYDVwBcnrYr7V654SjEEKXOp5QiOJW0YzPyAcKlGwM
+    factor: 1.78
+    portrait: 0
+    mInfo: MvlawUBs4bbwL3G
+message: "丸重養鯉場  Marujyu Koi Farm    丹頂昭和 97公分！  Tancho Showa 97cm !"
+---
+
+丸重養鯉場  
+Marujyu Koi Farm  
+  
+丹頂昭和 97公分！  
+Tancho Showa 97cm !
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/5JNMVds.jpg"><img src="https://i.imgur.com/5JNMVds.jpg" height="168" width="300" /></a> 
+ 
