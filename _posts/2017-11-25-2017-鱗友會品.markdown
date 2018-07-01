@@ -1,51 +1,51 @@
 ---
 layout: post
 title: "2017 鱗友會品" 
-date: 2017-11-25T09:54:10+0000 
+date: 2017-11-25T09:51:13+0000 
 categories: [] 
 media:
-  - id: xku3TNY
-    name: PE0ZQY4pG9cnlZ1W7wnnH24zpJm
+  - id: pHHkEWv
+    name: 9NqQg247jysjMBk8KDXVirqPwWl
     description: ""   
     height: 720
     width: 540
     type: image/jpeg
-    link: https://i.imgur.com/xku3TNY.jpg
-    prevLoc: nqY7EM4wmGiWDll4wK7Gs8EjKQD8ExsM3EvmQvXgFBv10RGkYOiZY2wKZRZguonpPQWA3yClWJjwO26vtApXX7Gpw8u3yxxnxywgfy2ErZlEmJFEWPPn4qLGSKJgp4JJA7i6kvJzOKvoFjQ06LlW0MSKzGDLp95wuoxA7oBYKguLXXD43m18t91zlQQOx5HL4QQywEEqClpwzAz3yYc35nk1vPlOhg0A6jY29rIqlw5xxxqWhJMkLQnEvmCMxLW2yJvriqR
-    parentId: 2NjvW9VAXosQgm4GvrAMUKqqpJM
-    postId: 075YDopXgvTy7yj0LRY1tlEzEMqZkoU0nMm6Dr1BFqnz9YEDJ3FogKqE
+    link: https://i.imgur.com/pHHkEWv.jpg
+    prevLoc: pvRBJO5yo9uwoQQgkvnzTO26Vn4O2MsGlw0x20O9c1ZXoVD6pzuK7Ej8K0KDczko0NGwjBFKRy83MAlLSkOMNB1ZVwcmO7J11338iwj8Z6gBBPCr6nBrMNlNiE09rX5kj9txXQlXp0EEhkWlzwRO5Jso18XGyJmOFmkrEmOp4zI7NNO50Q4BH9gEZllK0ASYXmnKPm52sQ9N6O6X3AuVxZq5vj22S1nlBBNq3MHlEJgOn0p4Fp2Y1G41gVU9BDzr6pPyi9z
+    parentId: pmNQ2zM6nqcZlmYOg6YPfrzwoP0
+    postId: NBVLWKj5xQC6O6o5G2w4hLMOM2l1nyfBEnoJ5ZG5CGDxAq1lZAtLoJ0r
     factor: 1.33
     portrait: 1
-    mInfo: xm1nN9I0Fv5wuyj
-  - id: cgWz6nN
-    name: mjKQyEJVknsq26oyKrBAuJoO3G9
+    mInfo: be6UBIoMWfEAT7S
+  - id: 5MiHRGb
+    name: PE0ZQY4pG9cnDWYjB73Ws2g7YDq
     description: ""   
     height: 720
     width: 540
     type: image/jpeg
-    link: https://i.imgur.com/cgWz6nN.jpg
-    prevLoc: q0V6KP4zpAI2NLLgBz8OuKr4YGkKrAHVOW6YK6wMHzy7XQ18AWinwryAnYn6h5LO024PMKhyj9MZ6JWAtGBVVgmRDMIvgwV6NXnltLmYPRnY1WtOq99JGnE6cjRzXPZE0xhypGDgZrlPIx6zOoGZXmF5YY3kx9zghKMnrKXGzAFVkkNvjn4zU56KXQQzNNtZG0VE7jNrTrkpl3p3x4UnAA79PA4DiVEPEkXgwxizkmZAy90zcO177OPpKJHXYV87BEgPf7Y
-    parentId: 2NjvW9VAXosQgm4GvrAMUKqqpJM
-    postId: 075YDopXgvTy7yj0LRY1tlEzEMqZkoU0nMm6Dr1BFqnz9YEDJ3FogKqE
+    link: https://i.imgur.com/5MiHRGb.jpg
+    prevLoc: PoMgO2D3K6C6XvvBgoK4CMrpQOKMr5TpwBv2lvK5ImPnkYzJ6Zi2Jr7j2p28ulpOR069MqIMNRWJq5j9trpkYp5j5MSzYg5oEp2Quk3KAOMjzWizg99njRR4HgGV9o6nYvun254DG9jMHlZ2E5QONKHBwrYJ0KKVUryL2rmO51IkYYoZ0yVAtk7BO55mWmUYkG2ZBlNvTkWK6qQ5zVCJXvZLlYj4HLMLNo8lw3FlqplKrNB9Hj5EmrXJ4wCE4rOmn7m3CD9
+    parentId: pmNQ2zM6nqcZlmYOg6YPfrzwoP0
+    postId: NBVLWKj5xQC6O6o5G2w4hLMOM2l1nyfBEnoJ5ZG5CGDxAq1lZAtLoJ0r
     factor: 1.33
     portrait: 1
-    mInfo: VvHQmIqLao7mRR1
-message: "2017 鱗友會品評會  巨鯉総合優勝  大正 75部  生產;阪井養魚場  代理;小田原株式會社  魚主;Johnny Ng    恭喜🎉🎉🎉"
+    mInfo: 4HX3jhjZqxCrfHi
+message: "2017 鱗友會品評會  全体総合優勝  紅白 90部  生產;阪井養魚場  代理;成田養魚園  魚主;Sugiarto Kurniawan    恭喜🎉🎉🎉"
 ---
 
 2017 鱗友會品評會  
-巨鯉総合優勝  
-大正 75部  
+全体総合優勝  
+紅白 90部  
 生產：阪井養魚場  
-代理：小田原株式會社  
-魚主：Johnny Ng  
+代理：成田養魚園  
+魚主：Sugiarto Kurniawan  
   
 恭喜🎉🎉🎉
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/xku3TNY.jpg"><img src="https://i.imgur.com/xku3TNY.jpg" height="300" width="225" /></a> 
+<a href="https://i.imgur.com/pHHkEWv.jpg"><img src="https://i.imgur.com/pHHkEWv.jpg" height="300" width="225" /></a> 
   
 
-<a href="https://i.imgur.com/cgWz6nN.jpg"><img src="https://i.imgur.com/cgWz6nN.jpg" height="300" width="225" /></a> 
+<a href="https://i.imgur.com/5MiHRGb.jpg"><img src="https://i.imgur.com/5MiHRGb.jpg" height="300" width="225" /></a> 
  
