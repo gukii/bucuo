@@ -1,0 +1,29 @@
+---
+layout: post
+title: "來自日本的禮物o " 
+date: 2017-12-02T11:00:17+0000 
+categories: [] 
+media:
+  - id: K8NvN5W
+    name: NBV908VMj5tpnDxoyxpPFG90ZEy
+    description: "來自日本的禮物oThank you! Misaji Yamazaki San!"   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/K8NvN5W.jpg
+    prevLoc: AGQWvJk3X8HROrrx0nN9TjMPwxDjMWskMJ1G91Pzu1E0ROX78WurAYVgrBrMiLXOkXz34BuDZk6YznqETyXWWWwoDGi8rmGy9NpBI6K1nGOVMZUXJZJDkvD9SqnG5WVkBRu3YrlGO6nlFxKD7EnWpQU8QDDn0yyNt1xB01jEOPINPP6kv97wFvYKDBBr1Mh785xG1PkjiBQNA2JYKZcDxoxpLrMKf8z9gkJB2gFwVqVLxDzYTG7lOBZQ06S5OBZ458Ewcvn
+    parentId: NBV908VMj5tpnDxoyxpPFG90ZEy
+    postId: W05LoKvjnki4M40wWANJcv4A4QzgDOf39n3y515KU41ZzNV29YS6Yx77
+    factor: 1.33
+    portrait: 0
+    mInfo: YKKrVMe2GfroNJ8
+message: "來自日本的禮物o  Thank you! Misaji Yamazaki San!"
+---
+
+來自日本的禮物*\(^o^)/*  
+Thank you! Misaji Yamazaki San!
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/K8NvN5W.jpg"><img src="https://i.imgur.com/K8NvN5W.jpg" height="225" width="300" /></a> 
+ 
