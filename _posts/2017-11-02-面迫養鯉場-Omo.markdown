@@ -1,0 +1,84 @@
+---
+layout: post
+title: "面迫養鯉場 Omo" 
+date: 2017-11-02T01:24:17+0000 
+categories: ["Auction","Event","Omosako","面迫","愛好家","Koi "] 
+media:
+  - id: cwO5afD
+    name: roPRmPvQjphOWOB2Y3YVuqJAEEN
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/cwO5afD.jpg
+    prevLoc: vBYRPX4GxmIl8OOJ127Wf45VWGm45xsry9RjlRVnS3EropJAjMuXLjD6XnXvIzBZoBKJRNcXkDLr8z7Nh7w3DGY1OMHXmX12GRoNiQXnWkVNR5Cq9G0Y9qkAtp2g1g1j3OCLyJGwDNnnUwOZLoZzG1F46jkVWNQmHzvV8zqw9YT0VVWEM4xpuAL2NDD7JWSzoVnr24LQHpxWAKR01YfBRgYLBrRohPm2vAwXk8I0mr4DD7L3cp130JzNRXH8Vz8gNpyBtmK
+    parentId: pmNQkNqO4LhZ5y2A965yCoOPkg6
+    postId: LzQ7W1D5gMH3G3LMZJl6iMQWQ9Ywl1HmPP9mmpAjh8Oy517nyEiGOZAQ
+    factor: 1.33
+    portrait: 0
+    mInfo: PpgtzHv2ToyZ9x5
+  - id: hlDNu11
+    name: AlBPMB2jqqhRWrkG940MslwO5A6
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/hlDNu11.jpg
+    prevLoc: nqY7EM4wmGiWDll4wK7Gs8EjKQD8ExsM3EvmQvXgFBv10RGkYOiZY2wKZRZguonrRnLDWJclWJjBNQopfAp82KkR3DH6EppwG31XsGgoZX8W7pSEG9Orj689SJ4Oqg1yJ0u6P2D1kpA3hjZ5NXxyOnSKyR38yKowFoxA7oBYKguLXXD43m18t91zlQQOxOUgw1vwJ5LqfV79yxQ3YOi3MkYl3874Cr5AA5mWqETOQ8NRBJPWcJvpz183v0SMxLE1DRymfqN
+    parentId: pmNQkNqO4LhZ5y2A965yCoOPkg6
+    postId: LzQ7W1D5gMH3G3LMZJl6iMQWQ9Ywl1HmPP9mmpAjh8Oy517nyEiGOZAQ
+    factor: 1.33
+    portrait: 0
+    mInfo: WtSr6qUrMCWNosM
+  - id: 3WnQj1t
+    name: KyPZLP2WgGsk6ywMVm3Vf1NlrZl
+    description: ""   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/3WnQj1t.jpg
+    prevLoc: EMZ1zNo3XKTqx11wyg3WT6Q2Kvl6QWh1DPVyGVq7s2rKlRGxP5HZpRjNZYZ3u7Xgv6xkZzIxgZ8rYLE2cVWy7GE09ziv99ozkBnMCLpN8ogWnJFqVxz0k5gxtz04oYX1kOHVjKwLvl7vukBO0o3MNjH5kJm4L8OyhYQqKlAAy5fo4Gxnzww5unNpJ7n1Nkh4n7KmkQRqF2w2WjKz7oCKnz8OnjVRU2j4E0rLk0H916pDOZyruqYJxw4JjVI2Jq0yjl5p
+    parentId: pmNQkNqO4LhZ5y2A965yCoOPkg6
+    postId: LzQ7W1D5gMH3G3LMZJl6iMQWQ9Ywl1HmPP9mmpAjh8Oy517nyEiGOZAQ
+    factor: 1.00
+    portrait: 0
+    mInfo: IoRa3s5RV5gxNcA
+  - id: SA6DmHc
+    name: 1NgrGgnm0MCXlXQqmDglc09LmOm
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/SA6DmHc.jpg
+    prevLoc: LkY0KXy31AC39NN0qmRPuvgJAQRvgpT0xB9MD9oVtlQM4YrEROijwl4kjojViJy69yoD18F05RDmyMVOc3927lJDp0sw0WZ9y3vYTGXnKlzB4MTl00rR87AxHM7AE2gk9VuNOmWkVPQvfqkgD4pPYXhMER0RpmPGu7BqX725JNiYZZ5GmA7niXBAWNNvRvfD89Q7WMjrc5Z40yKj3kTjEp86q9yWtN7LE5XRVRuDE0QgNWxZt0V4WNXrgvHR97VNxBrkFpV
+    parentId: pmNQkNqO4LhZ5y2A965yCoOPkg6
+    postId: LzQ7W1D5gMH3G3LMZJl6iMQWQ9Ywl1HmPP9mmpAjh8Oy517nyEiGOZAQ
+    factor: 1.33
+    portrait: 0
+    mInfo: ZD4LDDFw6xETjAa
+message: "面迫養鯉場 Omosako Koi Farm  定價抽籤會拍賣會  有可愛的丹頂昭和喔！  小兩歲，是成長較慢但體型質地模樣都很美的魚，適合小魚池的愛好家o    Omosako Koi Farm  Event  Auction!!    http;www.omosako.comeventevent.html"
+---
+
+面迫養鯉場 Omosako Koi Farm  
+定價抽籤會&拍賣會  
+有可愛的丹頂昭和喔！  
+小兩歲，是成長較慢但體型質地模樣都很美的魚，適合小魚池的愛好家*\(^o^)/*  
+  
+Omosako Koi Farm  
+Event & Auction!!  
+  
+http://www.omosako.com/event/event.html
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/cwO5afD.jpg"><img src="https://i.imgur.com/cwO5afD.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/hlDNu11.jpg"><img src="https://i.imgur.com/hlDNu11.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/3WnQj1t.jpg"><img src="https://i.imgur.com/3WnQj1t.jpg" height="300" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/SA6DmHc.jpg"><img src="https://i.imgur.com/SA6DmHc.jpg" height="225" width="300" /></a> 
+ 
