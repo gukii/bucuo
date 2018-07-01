@@ -1,0 +1,60 @@
+---
+layout: post
+title: "大日拍賣會 Dai" 
+date: 2017-10-30T05:01:54+0000 
+categories: ["Auction","Dainichi","大日"] 
+media:
+  - id: m5I4wiL
+    name: RJZoPZnGr9uO1wvjL37gt34KAE8
+    description: ""   
+    height: 480
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/m5I4wiL.jpg
+    prevLoc: zJBQW2jM4qTrq88XDxMRTzwrJ93zwPsZKMAz7ANlcVLvw31oxkHWo06gW9WZFR7n97zNN3c68m7zlWg6Hp309gjEOPuwkJPANLXoT30WEvWwvnFJVNo8LNnXU4lDB69ZOJuBj6j5Qg1ZcyBRQODWVoC3kMMQqkYEuXGRkXo0Eyu3RRmE1MP9UlVwLzzZ05UmARljMjQGTpK9JQKQj2fzvL4pn4q0HqXxwOA0pYhmqZqJwoGVUPRZGG2xRDHPomP5rA8GiEQ
+    parentId: 6NnRBnyJ7ZuWKrQpzY7wsP6xnz2
+    postId: 8Np1KzABqPfk2k98K7BoHAQGQ3KmNEFYWWPLoZn2ir0DPK7Yn3HWyDMX
+    factor: 1.50
+    portrait: 0
+    mInfo: EBZqd106zxHOXfe
+  - id: KJOzHhN
+    name: 43lRzlw0DXI8O2o6l2OyH19DL2q
+    description: ""   
+    height: 480
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/KJOzHhN.jpg
+    prevLoc: ZBwv2lQ7GZIjgPP1vD5MuOP6m45OPWsGLxqNVq64cR9vZK8VYmiDAgNwDBDZTQxjlxm22Pi4WrzGkwK4SVgYl2rRVYFXK1qKpZ9Lhm27Ox78RrSY7G7ormpwIqvQM3EBJGu4EzMgY5mluWg2RQD6AMf7v5kDxzYJuM3QpMOKvkh855q1zGQLc6AErNNDBMsz7rQ9kGMRhmQZQg94RlHojmlR1jq6uW8xK6R31ztpxOPjx5YzHJ6ExMYOlXf8Y48nmj7nC7L
+    parentId: 6NnRBnyJ7ZuWKrQpzY7wsP6xnz2
+    postId: 8Np1KzABqPfk2k98K7BoHAQGQ3KmNEFYWWPLoZn2ir0DPK7Yn3HWyDMX
+    factor: 1.50
+    portrait: 0
+    mInfo: 4BH7XIuyLlzGKDn
+  - id: vWX9Mw8
+    name: roPRmP54NOumYR96wxMQSMRv1Yg
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/vWX9Mw8.jpg
+    prevLoc: Xz7qZjO8XYT9KBBlAqXnTY9gx1jY9OHwNg0kL0B1uMQ5NvRP74HAr3VLAWAvILnJxnWVOjuRo7A0xzEkF3OgovJOR7C8AQ3ZljrPSARywQyrJjFVjY7ylY4yCgWXNokDxJFRP5x54ENqivx3MBny11H8lRwKoQQRsYW2zYRqEmFNPPDJXlz2FgYMWzz3KKu15QLBQ6r9IJqlOwKw8oSlXAEqYok4hpm2X1A0Z3CrNBql7qM9ijwJk0lGOEHzLK9oyM1yf5V
+    parentId: 6NnRBnyJ7ZuWKrQpzY7wsP6xnz2
+    postId: 8Np1KzABqPfk2k98K7BoHAQGQ3KmNEFYWWPLoZn2ir0DPK7Yn3HWyDMX
+    factor: 1.33
+    portrait: 0
+    mInfo: Spt0v8H1dHRn11S
+message: "大日拍賣會 Dainichi Auction!"
+---
+
+大日拍賣會 Dainichi Auction!
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/m5I4wiL.jpg"><img src="https://i.imgur.com/m5I4wiL.jpg" height="200" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/KJOzHhN.jpg"><img src="https://i.imgur.com/KJOzHhN.jpg" height="200" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/vWX9Mw8.jpg"><img src="https://i.imgur.com/vWX9Mw8.jpg" height="225" width="300" /></a> 
+ 
