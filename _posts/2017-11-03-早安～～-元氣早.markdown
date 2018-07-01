@@ -1,0 +1,49 @@
+---
+layout: post
+title: "早安～～  元氣早" 
+date: 2017-11-03T01:31:31+0000 
+categories: ["Koi "] 
+media:
+  - id: aA7uV3k
+    name: mjKQYKP3zZtq9oYPODElFJYKVZK
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/aA7uV3k.jpg
+    prevLoc: LkY0KXy31AC39NN0qmRPuvgJAQRvgpT0xB9MD9oVtlQM4YrEROijwl4kjojViJy7wG1x3MF05RDg9kNvS3921pqrv1FwGPPMX3OATGWGy4YP9QslVRYyK9ophMVmw8nvVxHNjxkV3zlrIqkKLVAMnMixk31xDqPmU7BqX725JNiYZZ5GmA7niXBAWNNvpZSDKjG7kjkri56ooPgR1AfjAgjwgD6pCJolVkjBzpSDLGx0lgYLf018pEOrkKUR9259rGM2fw9
+    parentId: 2Njv7jE0pkfQg2G5wmJVCKJn0YV
+    postId: MARwWKg5jOhJwJjVAQvNtMlZlx9zEOHryykW9j3NTXm5vv6yj7UYEpEl
+    factor: 1.33
+    portrait: 1
+    mInfo: A0dSX0P2SY98oNw
+  - id: Bs8EqyE
+    name: lgJ52JP3yYSljwKPYNqWinRGgrv
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/Bs8EqyE.jpg
+    prevLoc: YAQr1kP3YVc9lkkKYNL3ToZWQmNoZ5IPrwoZJoK0cvnzol3MRmHgP3OZgrgLTPGLRq07M4uWMK85mzVQf89ZDA3mXPFoE1QWynPqFLALvBEj6wh905M1r9nXHY6xVmLDy9CNpQ5wl8zPFkNXMkDjzgCY4zxr9mn1F4pXY4VLv9s7RR1qvw4NH74PDrrw0jSj7WwjjL95CRmxZ8V99MIjVp1KVZy8F9GgrPP7RGhWyxVp9lNoSYroW9Xrn4u4kRE91yv6c4A
+    parentId: 2Njv7jE0pkfQg2G5wmJVCKJn0YV
+    postId: MARwWKg5jOhJwJjVAQvNtMlZlx9zEOHryykW9j3NTXm5vv6yj7UYEpEl
+    factor: 1.33
+    portrait: 1
+    mInfo: aRUuHgMyXhd8FAC
+message: "早安～～  元氣早餐！準備去賞魚囉！    Good Morning!  Let’s Go!!   Hiroshima Koi Showa!"
+---
+
+早安～～  
+元氣早餐！準備去賞魚囉！  
+  
+Good Morning!  
+Let’s Go!!   
+Hiroshima Koi Showa!
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/aA7uV3k.jpg"><img src="https://i.imgur.com/aA7uV3k.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/Bs8EqyE.jpg"><img src="https://i.imgur.com/Bs8EqyE.jpg" height="300" width="225" /></a> 
+ 
