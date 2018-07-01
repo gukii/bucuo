@@ -1,0 +1,33 @@
+---
+layout: post
+title: "早安o  Good" 
+date: 2017-11-04T23:07:03+0000 
+categories: [] 
+media:
+  - id: YW4L6wt
+    name: olMQjpwlg5hwREqrVrRGHRGPXYX
+    description: "早安oGood Morning!我做夢⋯⋯去剪頭髮⋯⋯變成西瓜頭⋯還被裝飾成聖誕樹⋯⋯≧∇≦ 嚇醒⋯哈哈哈哈⋯⋯"   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/YW4L6wt.jpg
+    prevLoc: WywpYgN3KWS4qzz13P5jH7plr437pGSVAjrxkrn8HN2V91DAg3tlLKJrl0l1tqX1BXkPjVfRwGkyXoQVFwG651Wv8oTRlAn8ALMYs0j7JYYnm5tp5n7xW09qHQ3rl4Ow5ofo8B0KA92VsMrz3jkD9KUKN2Oolrk2ukMWDkZJj7HEJJomNQLvCZvnV99Bj8iM9vD0E550h5X7pmGpPghxWPmqJGZEtmpqpnnxqvCGgw9pgOAQsyZPw38wRXcjQE1Q14X2Fng
+    parentId: olMQjpwlg5hwREqrVrRGHRGPXYX
+    postId: 70o1VyzW6NiR8RLjJOnDHzg9gnPmZACM4LVnm1YQCRzWlj691DcoZrv8
+    factor: 1.33
+    portrait: 0
+    mInfo: JUBg7Faj9WQigh0
+message: "早安o  Good Morning!    我做夢⋯⋯去剪頭髮⋯⋯  變成西瓜頭⋯還被裝飾成聖誕樹⋯⋯  ≧∇≦ 嚇醒⋯哈哈哈哈⋯⋯"
+---
+
+早安*\(^o^)/*  
+Good Morning!  
+  
+我做夢⋯⋯去剪頭髮⋯⋯  
+變成西瓜頭⋯還被裝飾成聖誕樹⋯⋯  
+(≧∇≦) 嚇醒⋯哈哈哈哈⋯⋯
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/YW4L6wt.jpg"><img src="https://i.imgur.com/YW4L6wt.jpg" height="225" width="300" /></a> 
+ 
