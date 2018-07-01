@@ -1,0 +1,29 @@
+---
+layout: post
+title: "這是我常常去的新潟" 
+date: 2017-11-13T15:33:06+0000 
+categories: ["新潟","丸重"] 
+media:
+  - id: 98I3o6S
+    name: j9L5GJ2982i0nv8MBB8oU14mqm
+    description: ""   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/98I3o6S.jpg
+    prevLoc: NmEXMZA3K7h63VVYLE0NC60W9MK60ohZxjgD2gnPczw1rPn0KmiBrQyNBWQnCopBPAVMggc8yz0x1BBRfl4lPO7DRYFZM2GrMM3VikzAXq4AvRhJqJ4MABo9tyWmroJqXOf8zvzDQQ4mfmwm3ARl75tDwO2k8OJPsPMN6oLvppi4pmZ45LjvS2NrPYKV1pt2p95GO2qMuRgPM57qzEIGl8JpqPzgtyqL10j63osl64o3xMkghxBoY00OkJt96LPvOpMyipqw
+    parentId: j9L5GJ2982i0nv8MBB8oU14mqm
+    postId: XlgLpXwk6mH989m7zxkwin141lEAPrS2r9v8Y2gGFNZDDVqp3Yh2YgNv
+    factor: 1.78
+    portrait: 0
+    mInfo: niT4eUAlBOXtEzS
+message: "這是我常常去的新潟漁場之一「丸重養鯉場」  很美吧！野池空拍，有拍到我最愛的丹頂昭和喔o"
+---
+
+這是我常常去的新潟漁場之一「丸重養鯉場」  
+很美吧！野池空拍，有拍到我最愛的丹頂昭和喔*\(^o^)/*
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/98I3o6S.jpg"><img src="https://i.imgur.com/98I3o6S.jpg" height="168" width="300" /></a> 
+ 
