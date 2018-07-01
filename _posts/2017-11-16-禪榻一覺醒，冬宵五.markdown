@@ -1,0 +1,31 @@
+---
+layout: post
+title: "禪榻一覺醒，冬宵五" 
+date: 2017-11-15T18:21:37+0000 
+categories: [] 
+media:
+  - id: ByikXZg
+    name: PE0ZQ7g8xRu6x03LxBJJs2qp4Pz
+    description: "禪榻一覺醒，冬宵五更長。窗遞清風入，枕邊松柏香。宋- 李曾伯"   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/ByikXZg.jpg
+    prevLoc: gjx8wB4mD7hByPPv6mAlfD74JgRD70hNDYpwkp54Cm6AOM2rjvipZ40qpVpWhRy73yz25rIOLNJ7YqR2SPZDnGvqmGH96wPqO8RBslXxMkPAjBCYzkjP17vWfK85DOR5P5Up2NjvpJByH6pPNLwZzzfN6KEpMMRvUqgp8qm57xtX116r7VpBsBYqJyywEPfWv9194n0gIO9X1yQ76jFLAlVD6NQMfQjn9l0qlOcDo5MAXW9OfxwE6YZz6NSQw4G2KKqKt9O
+    parentId: PE0ZQ7g8xRu6x03LxBJJs2qp4Pz
+    postId: AlBNKXo9njHRwRjJzvGkH4xoxVJ3rBi8EqAA941AURjmRrmDDgfWql3N
+    factor: 1.33
+    portrait: 0
+    mInfo: X4veXlN9Ram7Nr9
+message: "禪榻一覺醒，冬宵五更長。  窗遞清風入，枕邊松柏香。    宋- 李曾伯"
+---
+
+禪榻一覺醒，冬宵五更長。  
+窗遞清風入，枕邊松柏香。  
+  
+宋- 李曾伯
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/ByikXZg.jpg"><img src="https://i.imgur.com/ByikXZg.jpg" height="225" width="300" /></a> 
+ 
