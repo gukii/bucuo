@@ -1,0 +1,29 @@
+---
+layout: post
+title: "你喜歡那個？  A" 
+date: 2017-11-06T06:48:47+0000 
+categories: [] 
+media:
+  - id: XHQYSXB
+    name: mjKQYlD89qtq9oPBZyzwFJONP0E
+    description: "你喜歡那個？A or B ?"   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/XHQYSXB.jpg
+    prevLoc: DLY6yMn3ZwIxAjj7pn5Bszk0vGPzkYsmw1ZRGZOYFrLK42NEWRHEGNZmEnE3TNgmLgq7yOFm7xnNY3RZSWkANoPJkqTM53DR1pM7f8RDl68zmkiXMkBljzz9CV4wWQw719TyQlj700DkcZ6On16n4ZTYpYvko1zohk4nYk7mZBHnKKZov3VEhnGKLrrmMMcMw8657NxVijwDWZvEG6fM01Nmno9vsByqXz8PgOUgYBG5VpZ5cZxk8l0MDkiP7BPY7jgRTGv
+    parentId: mjKQYlD89qtq9oPBZyzwFJONP0E
+    postId: 54mQKwx18JilXlAYDVwBcnrYr7V654SjELzBvmo3cO6QlLKnxAFKlpPm
+    factor: 1.33
+    portrait: 0
+    mInfo: Omi5zMgAr9VxYyY
+message: "你喜歡那個？  A or B ?"
+---
+
+你喜歡那個？  
+A or B ?
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/XHQYSXB.jpg"><img src="https://i.imgur.com/XHQYSXB.jpg" height="225" width="300" /></a> 
+ 
