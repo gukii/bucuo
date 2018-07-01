@@ -1,61 +1,61 @@
 ---
 layout: post
 title: "丸重養鯉場 Mar" 
-date: 2017-11-01T13:33:33+0000 
+date: 2017-11-01T13:36:30+0000 
 categories: ["Marujyu","丸重","Koi "] 
 media:
-  - id: FHaJkJO
-    name: KyPZLP2YxPCk61NOYXOzF1kp7xk
-    description: ""   
-    height: 540
-    width: 720
-    type: image/jpeg
-    link: https://i.imgur.com/FHaJkJO.jpg
-    prevLoc: 2mg2YnBKqGhm3KKLrRpkuJMEpwRJMkhK4pqx3qOncknMv4gQoKcKBPEGK9KQcpnzQnw381hvM1N25qzxHk8mKr6jg0H96jzq3LR3I2xW3gRWxzHj11ZyxrWzUpJMXJnRBXH5xJjPjYRwuw1xKk5ADyfVxrJW9W2JT54wp5nBLjUKkkpBPy9Vi3jZ5nnkozul4V5APvvmfPDo1w4JKxSjkJ4rGvX2Uq20DKq3J1skp23ElyZ1C037lEDO3PtzmPz2yDLnsqy
-    parentId: JxOqNO2YwJunYpNQM0pqsJ22mGr
-    postId: JxOyWKA7ZGfn6nxLD7gNhoj4jQmN6kIB00LONRVZsQOwP75ADWtJ28rV
-    factor: 1.33
-    portrait: 0
-    mInfo: PYXJcWoQX1BLoIM
-  - id: eicT9UZ
-    name: mjKQYKn24KHq9M3yELxYHJZmrPw
+  - id: lniqPFT
+    name: olMQjM0v4DFmKZ3m33MmTRE18qY
     description: ""   
     height: 720
     width: 540
     type: image/jpeg
-    link: https://i.imgur.com/eicT9UZ.jpg
-    prevLoc: q0V6KP4zpAI2NLLgBz8OuKr4YGkKrAHVOW6YK6wMHzy7XQ18AWinwryAnYn6h5LO024PMKhyj9MZ6JWAtGBMZ3rN0xHMQLWqyzKRFV6OKG1O6McOPW2v5K0jh1P43Aky2ghZGDJq1k9oIrEymw1ygrc50AnrBY7ruKMnrKXGzAFVkkNvjn4zU56KXQQzk9hJQNGoXB9LCRV0r64N85F4grE6rB0yHoQWYqgLr8UDrlprOQr7uO33918pZNTXYV83kNqYhGQ
-    parentId: JxOqNO2YwJunYpNQM0pqsJ22mGr
-    postId: JxOyWKA7ZGfn6nxLD7gNhoj4jQmN6kIB00LONRVZsQOwP75ADWtJ28rV
+    link: https://i.imgur.com/lniqPFT.jpg
+    prevLoc: q0V6KP4zpAI2NLLgBz8OuKr4YGkKrAHVOW6YK6wMHzy7XQ18AWinwryAnYn6h5LO024PMKhyj9MZ6JWAtGBM6Wv4AxfvrDZ58G7jFV6OK58N3EIOAAxPW2qAcjvL21mDkQfyrlRz26O7frEkYZYgL4c54xJyVp3xuKMnrKXGzAFVkkNvjn4zU56KXQQzNzfZKwnGE06RCrDQrYKOAjs4lMrQ21Zyfgp2NzkAmrcD3xKmK3AvFR2XDwZYDQCXYVALKnqmuGV
+    parentId: 6NnRBnvmJgsJGOx6z28GCP4GP3p
+    postId: Vj4An2r0mgUZWZMjRDzGi1wvwKN3XrclQQKq7DYNTBl5y0yPwmInxl06
     factor: 1.33
     portrait: 1
-    mInfo: DEW6Q0vMJkojb8W
-  - id: 4tTkHsw
-    name: EpJ90J2ZoJfjYjMnolrrs8KZoE1
+    mInfo: Kl0eYJKM3DIDN8b
+  - id: QlF29Si
+    name: vvWo8WzY4NcZyKzx2xMmskWQqRR
     description: ""   
     height: 540
     width: 720
     type: image/jpeg
-    link: https://i.imgur.com/4tTkHsw.jpg
-    prevLoc: 2mg2YnBKqGhm3KKLrRpkuJMEpwRJMkhK4pqx3qOncknMv4gQoKcKBPEGK9KQcpnzQnw381hvM1N25qzxHk8mKr6jqEUZEMRlDqA3s2xW3gRWm2uj11ZyxrWRTpGvR4wRnmSPlDDLjY0VhWonnoRxgjuVn8lgWBnEU54wp5nBLjUKkkpBPy9Vi3jZ5nnkgmflPBRvOoG8TPDQW8zMoJcJ9393gOAJIJpYYG251JTjxZDANvgNI0yk4mwmJMfzmqODzB7nSnk
-    parentId: JxOqNO2YwJunYpNQM0pqsJ22mGr
-    postId: JxOyWKA7ZGfn6nxLD7gNhoj4jQmN6kIB00LONRVZsQOwP75ADWtJ28rV
+    link: https://i.imgur.com/QlF29Si.jpg
+    prevLoc: 1lYEXmAJpVIZGnnrgkMph91EWgv91xugB2XkpXP0srwjYE0R3BHM46pAMNMRcE0rG0KM7pfYwn2DZLo8f1BlXw2xvBC8K1JglXvWuBwv1LgyEMt5qq4zlGpqum0815QjvQC2x5yB6NnVupLJ5kRWQAijD8z9rJq5TrpBVrnoR6Ix44LGME3qFYoX0ggEyniDxG07kwVvcrYAK1Mo70tXPmBvnZNoIlKlQEQB0Pcvlq8KOJl0C4kVBzRloXiNW9j2DyMpIm8
+    parentId: 6NnRBnvmJgsJGOx6z28GCP4GP3p
+    postId: Vj4An2r0mgUZWZMjRDzGi1wvwKN3XrclQQKq7DYNTBl5y0yPwmInxl06
     factor: 1.33
     portrait: 0
-    mInfo: H9LAH5JqvAkg0t4
-  - id: 87vCzVt
-    name: 54m9RmrlG6ulGgmm9o3Ou1qWv1Y
+    mInfo: Z8DR0smWK1uOCU6
+  - id: MEw5FAw
+    name: 54m9RmrlG6u1W4LD6kR5T181nrx
     description: ""   
     height: 540
     width: 720
     type: image/jpeg
-    link: https://i.imgur.com/87vCzVt.jpg
-    prevLoc: KjYzJWx37Ah1W88QKB2qugG8kDRgG0hmJK1wB15VFYMmPJvBLkfk1wWKkZkOIBG6EGqNRJhvVJKz9mBYHJx2lkvPAgi13136NM1mhErmlKBE37sl6GBPK1x2fLpBZm59GlT4vENzWYw5tYABEL6mj5iNQOqmDM7rFRO0rRL1K3FOyy7Nkz4XtXl5K33YR6TL6wV338zZs0xGr3MJnDuBgR8A9KD0SxJXZzRN85S7AEEQm3m9sYgXPw2kzGuA7NK88EJnS72
-    parentId: JxOqNO2YwJunYpNQM0pqsJ22mGr
-    postId: JxOyWKA7ZGfn6nxLD7gNhoj4jQmN6kIB00LONRVZsQOwP75ADWtJ28rV
+    link: https://i.imgur.com/MEw5FAw.jpg
+    prevLoc: 9wpGkxM0A3tOqRRJnMkmhA1nqyvA19t54wDlND8PFjn6xJwEW0tqmYnAqPqMuAG6mGQMqyI41W0rLMvzForzNMZJQksj137Jp6Bzc8lD3xKOJGSrNNXkzGxVfJGwQyZ42VF83qZ3ZW63s020mQw8GXTQjZ8nklYycNlMLNZgYmF7GGzZ0YvQH9Pp4DD2jjhYq8zP4nxKcvklj6RjQPcKpA9Yr6P0hoYVmOqoOBIPBLO6oPN5SJlyRO4OpGH2LXMlXXRQCM5
+    parentId: 6NnRBnvmJgsJGOx6z28GCP4GP3p
+    postId: Vj4An2r0mgUZWZMjRDzGi1wvwKN3XrclQQKq7DYNTBl5y0yPwmInxl06
     factor: 1.33
     portrait: 0
-    mInfo: dl8Prlv71Rllu5b
+    mInfo: rolnZw1pAypL6lG
+  - id: zPHnLb6
+    name: olMQjM0v4DFmKZYP2qgYTRoR8xz
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/zPHnLb6.jpg
+    prevLoc: 8voWjwLQzXukqOOm3z6jcpwx4Q7pwrTG4APkgP3xcJA0r2z68wS8wYyv878xI8w2zwKjGQTZgG0VPN8yfOXqR2D4O6tJkOyYOZ1Xcx0YNXwj8msPkkKRY1yZuGAg7kWGkVFYQPymNZv0sM1EnVzwzGcQozzq41WLsgzJAg028qfWjjANYgO0tJW1Evvq80HzkzGvOAq6U5QPlLL8mNCyjyXlLEMLiy4KYPgpwyTgXYJz6lyBcrg6MQVkByHlw5lpAYQQfx3
+    parentId: 6NnRBnvmJgsJGOx6z28GCP4GP3p
+    postId: Vj4An2r0mgUZWZMjRDzGi1wvwKN3XrclQQKq7DYNTBl5y0yPwmInxl06
+    factor: 1.33
+    portrait: 0
+    mInfo: hPwsfHDBpXdEipZ
 message: "丸重養鯉場 Marujyu Koi Farm  池揚客戶寄養魚o    Marujyu Koi Farm  Customer’s Koi  Super beautiful! 🎉🎉🎉"
 ---
 
@@ -68,14 +68,14 @@ Super beautiful! 🎉🎉🎉
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/FHaJkJO.jpg"><img src="https://i.imgur.com/FHaJkJO.jpg" height="225" width="300" /></a> 
+<a href="https://i.imgur.com/lniqPFT.jpg"><img src="https://i.imgur.com/lniqPFT.jpg" height="300" width="225" /></a> 
   
 
-<a href="https://i.imgur.com/eicT9UZ.jpg"><img src="https://i.imgur.com/eicT9UZ.jpg" height="300" width="225" /></a> 
+<a href="https://i.imgur.com/QlF29Si.jpg"><img src="https://i.imgur.com/QlF29Si.jpg" height="225" width="300" /></a> 
   
 
-<a href="https://i.imgur.com/4tTkHsw.jpg"><img src="https://i.imgur.com/4tTkHsw.jpg" height="225" width="300" /></a> 
+<a href="https://i.imgur.com/MEw5FAw.jpg"><img src="https://i.imgur.com/MEw5FAw.jpg" height="225" width="300" /></a> 
   
 
-<a href="https://i.imgur.com/87vCzVt.jpg"><img src="https://i.imgur.com/87vCzVt.jpg" height="225" width="300" /></a> 
+<a href="https://i.imgur.com/zPHnLb6.jpg"><img src="https://i.imgur.com/zPHnLb6.jpg" height="225" width="300" /></a> 
  
