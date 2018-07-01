@@ -1,0 +1,94 @@
+---
+layout: post
+title: "2017 台灣國際" 
+date: 2017-12-02T05:43:56+0000 
+categories: ["錦鯉品評會","Koi ","錦鯉"] 
+media:
+  - id: NNHWoX9
+    name: EpJ9xPJz0MIqDlGpkrj4H8KpP9D
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/NNHWoX9.jpg
+    prevLoc: rxEBLQ4AqgTmZwwyM18AuoN23WnoNAInV48m68MBCjxBWq81Mzt6PK706j65uvO0oOz1QEs769yMDgzoiDjOOOqW0VtLx8krQYg5uypVExA2BlHLWEWw2D8LUWpqwV8EMgfP3wKqrlvOFL2zJ66B2oF8O8nJ8OZQcOlwBORjZgIR11jOr67PHknOwMMoDoUV73QMqEOkty2YAJoY4kCD2WK0px5pI13DJr0WRAcqp9xW8wWEsJE1G3qNR0CnronvwZOLulz
+    parentId: qnOYZ2OKl0c25LAAwXYXcx5wBxy
+    postId: AlBNKXo9njHRwRjJzvGkH4xoxVJ3rBi8EP82POyqFRq6ywKPX8IWqlDA
+    factor: 1.33
+    portrait: 0
+    mInfo: 3medFJueGUw6JLw
+  - id: 6odaF8Q
+    name: 075VL95W0kcy3kWmMXXVCKkDrMo
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/6odaF8Q.jpg
+    prevLoc: MlENLYz3K7IJ3xxpPRq5uL1XNlvL1rTWjMkKZkD5hgKQXy7jnAcM5gmzM7MDcg2V42oNx8u7PEjyZK9Di83RRRE591cPQVRvqzBJuM7o9z0RXnCgM2pQ9WxWfjByE8lAA2fD2xZLXOv5cJVy9XWYrrIRByzDJmxgIKQPYKkgmlFEDDBQzmoLCBk6RAAW40h5q4qEp6mQcYJ9EMy0y7HwjQyJW2l6F0nl9L72OoCM5roklYDnivPZ1JnwMYHPprVOmgG1uRM
+    parentId: qnOYZ2OKl0c25LAAwXYXcx5wBxy
+    postId: AlBNKXo9njHRwRjJzvGkH4xoxVJ3rBi8EP82POyqFRq6ywKPX8IWqlDA
+    factor: 1.33
+    portrait: 0
+    mInfo: Z4py7ENZuiDBuan
+  - id: dnE5RjW
+    name: AlBP1mBvMGFRWrJ728EGfl0ZvzZ
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/dnE5RjW.jpg
+    prevLoc: KjYzJWx37Ah1W88QKB2qugG8kDRgG0hmJK1wB15VFYMmPJvBLkfk1wWKkZkOIBG6EGqNRJhvVJKz9mBYHJxOO0Wg7PHKY7xnVBwGCE8PGLWZ5kSln1VvJ8pGCyP7LYp1x4HzgBwmrGxPInD146MxNgS7O7XY2oZqTRO0rRL1K3FOyy7Nkz4XtXl5K33YRRhmAnBLDQ3mH0NN716jm5HBvBKkR4NyfWgNvgLZoRHPJ0g564zgtk1VM6vqLKFA7NO7kWDmuk0
+    parentId: qnOYZ2OKl0c25LAAwXYXcx5wBxy
+    postId: AlBNKXo9njHRwRjJzvGkH4xoxVJ3rBi8EP82POyqFRq6ywKPX8IWqlDA
+    factor: 1.33
+    portrait: 0
+    mInfo: p0oHxjxHVdrcWYb
+  - id: pnlgvNN
+    name: nkLrOzLEgquWolp9rL89UynJ0gL
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/pnlgvNN.jpg
+    prevLoc: 2mg2YnBKqGhm3KKLrRpkuJMEpwRJMkhK4pqx3qOncknMv4gQoKcKBPEGK9KQcpnzQnw381hvM1N25qzxHk8MMMxWQJT9w2B5lZY4S2D1QYpBmosQgjxzP73Ospg28LKKJ0U50M2O5NN2hW37jk92WLu73xQPgKwmI54wp5nBLjUKkkpBPy9Vi3jZ5nnkgwclMnP1MlRvh7N1v1X4GBs0kG67kqxoUxy1EOz95mUjQGND9KnMh9Ok6qJO1mtzml8zOOJzcnv
+    parentId: qnOYZ2OKl0c25LAAwXYXcx5wBxy
+    postId: AlBNKXo9njHRwRjJzvGkH4xoxVJ3rBi8EP82POyqFRq6ywKPX8IWqlDA
+    factor: 1.33
+    portrait: 0
+    mInfo: ciDCbz9Mh2uA617
+  - id: KOl6YqR
+    name: mjKQyEKDYphMn10AW3DziJwB9PZ
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/KOl6YqR.jpg
+    prevLoc: xEV8RZ4KzohXvmmp891Ji6WmxKr6W1h1pWnLEnJZsBlV7O5mYxiGA217GoGnIgNY9Nn4ELu23mkxDPBZuBY55WV2z0FZkRgXQX67I2Lp5yqYxPIkP4PzGRrwHOlgnDwvmYfzmgEYppOXsJ5xrzV4MPHLngLL6JMZfQZ2Xo88GwhPEJ41kXXmUWX4RBW4v8i3zLkNX3GETRyGzyn2lPHrx3QEK00ZI7N9YjkxzjhvKDkGpGVgcovVjEYV1ktoYmWEoVPp
+    parentId: qnOYZ2OKl0c25LAAwXYXcx5wBxy
+    postId: AlBNKXo9njHRwRjJzvGkH4xoxVJ3rBi8EP82POyqFRq6ywKPX8IWqlDA
+    factor: 1.33
+    portrait: 0
+    mInfo: R0vfBWPDC6NF4TZ
+message: "2017 台灣國際錦鯉品評會  2017 TAIWAN International Koi Show  評審中！"
+---
+
+2017 台灣國際錦鯉品評會  
+2017 TAIWAN International Koi Show  
+評審中！
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/NNHWoX9.jpg"><img src="https://i.imgur.com/NNHWoX9.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/6odaF8Q.jpg"><img src="https://i.imgur.com/6odaF8Q.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/dnE5RjW.jpg"><img src="https://i.imgur.com/dnE5RjW.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/pnlgvNN.jpg"><img src="https://i.imgur.com/pnlgvNN.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/KOl6YqR.jpg"><img src="https://i.imgur.com/KOl6YqR.jpg" height="225" width="300" /></a> 
+ 
