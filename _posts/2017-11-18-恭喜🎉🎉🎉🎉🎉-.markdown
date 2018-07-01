@@ -1,77 +1,59 @@
 ---
 layout: post
 title: "恭喜🎉🎉🎉🎉🎉  " 
-date: 2017-11-18T07:19:06+0000 
-categories: ["錦鯉品評會","華錦","Marujyu","丸重","Koi ","錦鯉"] 
+date: 2017-11-18T03:29:59+0000 
+categories: ["錦鯉品評會","Champion","Sakai","Koi ","錦鯉"] 
 media:
-  - id: ICaSZgq
-    name: 70oLX1J6DZuRKloDzGW2ipWqmQ3
-    description: ""   
-    height: 405
-    width: 720
-    type: image/jpeg
-    link: https://i.imgur.com/ICaSZgq.jpg
-    prevLoc: PoMgO2D3K6C6XvvBgoK4CMrpQOKMr5TpwBv2lvK5ImPnkYzJ6Zi2Jr7j2MrpFlRYD32166HroPLWYggRSr1rPmmV9YCEWXokyQjwtwDPovW3LoFzkOvw45vZIG3R4GqEops94EL7w9LWcMRo5zwXEJFBw2z4Lz18srMv3PVWWofk1vyDjnrWUxmVMJADJ5IY0WmGm7xBIPVqq52lyrc6NvEEYOEqsVDw4NxNRnilJwl79RYmhOWQvP2LRMHx09gPYvOktMvZYq
-    parentId: AlBP1NOn8ZsRwgWoJ7mLFl1p1Dq
-    postId: RJZOjKn5g2HOMONPzAy2HMx6xJvGlXHgrBnWVvonhEvrnX8PrEuWny9v
-    factor: 1.78
-    portrait: 0
-    mInfo: OFiHTYPLHsaHlyI
-  - id: LWgs80i
-    name: nkLrOxJZGyhW2vj87g3yiyA24Bp
+  - id: JJI5imt
+    name: lgJ57x6OxrSl9x92XmAGi6pRXOE
     description: ""   
     height: 720
     width: 540
     type: image/jpeg
-    link: https://i.imgur.com/LWgs80i.jpg
-    prevLoc: vBYRPX4GxmIl8OOJ127Wf45VWGm45xsry9RjlRVnS3EropJAjMuXLjD6XnXvIzB4WXRMj1FXkDLYQ9Gqf7w3QX5rRNcXlY5V97OrTQN1Mx9rgYi0g1wlpzv0F0g4xwD541uLzvYnWLLyiwxXD0nNvEhYKKE7j9X5hzvV8zqw9YT0VVWEM4xpuAL2NDD7JzczxOmNEOErt936y4rq7rS5P1xrJm0JtPERqqw9p1U0mlXZnqROuNro62Z28YH8VzP6EBAyumP
-    parentId: AlBP1NOn8ZsRwgWoJ7mLFl1p1Dq
-    postId: RJZOjKn5g2HOMONPzAy2HMx6xJvGlXHgrBnWVvonhEvrnX8PrEuWny9v
+    link: https://i.imgur.com/JJI5imt.jpg
+    prevLoc: lovXBK4rk8CMEOOWGA2osRYQLM8RYPhBKjWGMWE6upW3vjAnOVSDoLjpD0DvTLWO9q4RvZI7oxWXlGBMSY1L5wy8V3uRvn2LE8llsvrz9Brj0vIv5j0mZpXZC5jAg48k3LtADMOvZ10VC1RRvj2PzJfKpQ78lRRyhOXPoOyzJ2IvBBwQA9jOi5xnz33X1VIXY9zGzMBxfQA9K2ZXYMTyqN8YnkP7u0YBlxx8EvTKOZznBQxgHPXj60OZgwHgZYjVknq4Tl3
+    parentId: jKEq8ZJ2Zph06861z5qrF6gnrGE
+    postId: GrLvWXxQZyi8D8wZQV2vSl5w52BJgrUWOvD68kkrUmxBooRoVvFMYOxM
     factor: 1.33
     portrait: 1
-    mInfo: CfDKmH7wqq7ihDJ
-  - id: Ld5AMqQ
-    name: vvWoZlJgm0Tl3knXjzDkfkXo1Ex
+    mInfo: nnb4b228L5EPZ9h
+  - id: Y1rrSdU
+    name: ZnkV0YX4Y7fYmlm5DKQgF0mPpQZ
     description: ""   
     height: 720
     width: 540
     type: image/jpeg
-    link: https://i.imgur.com/Ld5AMqQ.jpg
-    prevLoc: 8voWjwLQzXukqOOm3z6jcpwx4Q7pwrTG4APkgP3xcJA0r2z68wS8wYyv878xI8w9k6GpV1uZgG0KDzO4hOXqjXMxnwuwW7X8mv0mcxAD5LPzJVcPgmRZy3DZfG5MJVzl9mtDXxQvDzYWHoj0LEVWx5TQzAlnwxA3sgzJAg028qfWjjANYgO0tJW1Evvq8OujM0RnLW6As96oGkyrXjIylOnV2KDrcg1A4oyGw3HgMl3orRzOHrBv5AN4BEUlw5lkmq1oCxD
-    parentId: AlBP1NOn8ZsRwgWoJ7mLFl1p1Dq
-    postId: RJZOjKn5g2HOMONPzAy2HMx6xJvGlXHgrBnWVvonhEvrnX8PrEuWny9v
+    link: https://i.imgur.com/Y1rrSdU.jpg
+    prevLoc: nqY7EM4wmGiWDll4wK7Gs8EjKQD8ExsM3EvmQvXgFBv10RGkYOiZY2wKZRZguonpPQWA3yClWJjwO26vtAp82kR9OQh6Ewxg2nGGsGZM4RZWKGSEkKRRV3G1sKL58VJ0y9f6KDWpxBkBCjQLOADoLwTK19qW5PgphoQJgprrB5FLKZOV4xxJC95op79vPKuQqrWQVW0YuVmY7zOAWAUWKJWl0yGMfgMExqOL0RfLjk3Zy3n2Sgvk72okzxtM01r1BwP8
+    parentId: jKEq8ZJ2Zph06861z5qrF6gnrGE
+    postId: GrLvWXxQZyi8D8wZQV2vSl5w52BJgrUWOvD68kkrUmxBooRoVvFMYOxM
     factor: 1.33
     portrait: 1
-    mInfo: z9lIgRITNEi0DRf
-message: "恭喜🎉🎉🎉🎉🎉  第53回國際錦鯉品評會  丹頂 85超部 優勝一席  丹頂 種別最優秀賞  丹頂紅白 86公分    得獎魚主;袁建栋 先生 - 中國  生產魚場;三好養魚場   經銷代理;華錦顧問股份有限公司丸重養鯉場    The 53rd, ZNA International KoI show   1st in Tancho 85+Bu  Best in Variety  Tancho Kohaku 86cm    Mr. Yuan Jian Dong - China  Bred by Miyoshi Koi Farm   Agented by Huajin Consulting  Marujyu Koi Farm"
+    mInfo: UpSgdDr5fwZldZQ
+message: "恭喜🎉🎉🎉🎉🎉  第53回國際錦鯉品評會  全體總和優勝   阪井大正 96公分    得獎魚主;袁建栋 先生 - 中國  生產魚場;阪井養魚場  經銷代理;成田養魚園    The 53rd, ZNA International KoI show   Grand Champion  Sakai Sanke 96cm    Mr. Yuan Jian Dong - China  Bred by Sakai Fish Farm  Handled by Narita Koi Farm"
 ---
 
 恭喜🎉🎉🎉🎉🎉  
 第53回國際錦鯉品評會  
-丹頂 85超部 優勝一席  
-丹頂 種別最優秀賞  
-丹頂紅白 86公分  
+全體總和優勝   
+阪井大正 96公分  
   
 得獎魚主：袁建栋 先生 - 中國  
-生產魚場：三好養魚場   
-經銷代理：華錦顧問股份有限公司&丸重養鯉場  
+生產魚場：阪井養魚場  
+經銷代理：成田養魚園  
   
 The 53rd, ZNA International KoI show   
-1st in Tancho 85+Bu  
-Best in Variety  
-Tancho Kohaku 86cm  
+Grand Champion  
+Sakai Sanke 96cm  
   
 Mr. Yuan Jian Dong - China  
-Bred by Miyoshi Koi Farm   
-Agented by Huajin Consulting & Marujyu Koi Farm
+Bred by Sakai Fish Farm  
+Handled by Narita Koi Farm
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/ICaSZgq.jpg"><img src="https://i.imgur.com/ICaSZgq.jpg" height="168" width="300" /></a> 
+<a href="https://i.imgur.com/JJI5imt.jpg"><img src="https://i.imgur.com/JJI5imt.jpg" height="300" width="225" /></a> 
   
 
-<a href="https://i.imgur.com/LWgs80i.jpg"><img src="https://i.imgur.com/LWgs80i.jpg" height="300" width="225" /></a> 
-  
-
-<a href="https://i.imgur.com/Ld5AMqQ.jpg"><img src="https://i.imgur.com/Ld5AMqQ.jpg" height="300" width="225" /></a> 
+<a href="https://i.imgur.com/Y1rrSdU.jpg"><img src="https://i.imgur.com/Y1rrSdU.jpg" height="300" width="225" /></a> 
  
