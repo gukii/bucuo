@@ -1,0 +1,101 @@
+---
+layout: post
+title: "阪井養魚場 - S" 
+date: 2017-11-30T12:41:33+0000 
+categories: ["錦鯉品評會","Sakai","錦鯉"] 
+media:
+  - id: rNWzk3n
+    name: PE0ZQYngqotnQAnNgzLrS2k0xXD
+    description: ""   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/rNWzk3n.jpg
+    prevLoc: yG67V1gLApH4o66GD0rNHXAqnJoXA8TGj86wm6rJc67lw9rk5MHQLPXBQYPNszOnXPyqRRiM74DPk99GFYOYzXX5XXiE7xvR89DKf3RJ3nzknRc8yo7KBBxKCX0ZPRoo28t7wKm4rJ7Qhq6W7BvK4Jc7JQy9gOn4fWLYp2VqqysvW7xP2Z4Eh25oByMQyKuW38ZwgvwWcr0WO6m8j1HXB4wwZqMEi01RWmVE8AcmlG3wlWqlCPDRxrPvp6Sk9Yv6oBBzHgjEpw
+    parentId: AlBP1mRWEkH5mOMGAV1BCljGND0
+    postId: ODWM6Xk57ViO7O3ry6EWH8QOQVJL0WCP09P8pZ8kHqoVJ0QzMrIA6r9K
+    factor: 1.78
+    portrait: 0
+    mInfo: Khq6q8sJLKIlsMx
+  - id: cDYEtAr
+    name: 6NnR90DGpJUJ3YYqZ1r7UPA67MR
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/cDYEtAr.jpg
+    prevLoc: 0k2EWlzGoACyBJJnvMG2I63VpEG63mhr8kJ9PJM2S6Xyzw0n7pHzZBX7z4z5cmL4qLOZyPHqxL2lKr16SW5DD985wDCo754PrQ28HENv36JoJxTrXwg8X081H4K6VOoQo9U1wjjoOL53h8v94xVx2JHGDY2P5L6jsAZQoAODWpfKEE8Q9ND0iL143yyZEWSEGyzAm5mJT7Z3KXB1gJC8lQRpryvmu7kDOJg2MNuRWgLDM6KwImpMw5np10tgJpg5QL7ku9l
+    parentId: AlBP1mRWEkH5mOMGAV1BCljGND0
+    postId: ODWM6Xk57ViO7O3ry6EWH8QOQVJL0WCP09P8pZ8kHqoVJ0QzMrIA6r9K
+    factor: 1.33
+    portrait: 0
+    mInfo: i5ZqtZlCT82mYs6
+  - id: BadOlAA
+    name: NBV908lXoAHpnmmzPGZvIGpvK93
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/BadOlAA.jpg
+    prevLoc: wDE2QY4JynINx0056AGLU78gXMW78jS3xM4kG4D7F659koQgVNHvz4Kov0vGf14ExLwZRMiAm0OkqMg2SlRvvv0QMxuRzJYWprlNF4wg50DvDJtqMmQD1WOntjqwgxn2jnT4p3L766KAugoZGpw7V1UwBvVvgyR8cnyg1nOA5DFXyy9vAG5rs5JngOOqPxirnBqpz381F0Rk13YOE3fLlXPONlZlFxN7APJ1MKUrgyZlEo6GFJo8DzNPWEUpl54X1Yx8ck2
+    parentId: AlBP1mRWEkH5mOMGAV1BCljGND0
+    postId: ODWM6Xk57ViO7O3ry6EWH8QOQVJL0WCP09P8pZ8kHqoVJ0QzMrIA6r9K
+    factor: 1.33
+    portrait: 1
+    mInfo: Puxmrh1Hq8gOd18
+  - id: 8PKpmB4
+    name: olMQyO38W4Hmo33Znk3ESRzVG0D
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/8PKpmB4.jpg
+    prevLoc: GOYzBPq3XwU84WWrn01JSq0OX59q0xfRyLZPmZ5pcwOq06RQ1xuEGNDrE0EQTXrpRqy1QJFE398Zpq0vSVgppKLnPMuRlENlM8zMFq3GjwOgOpso5WOVgvgyHQ8WzDRw4vS3nvkY3ExoIYlWAv6ZQviPO7NXRP9mHO0jxOJ36XIj11A7QXqEhAQx1RRrJNh3Qz24y5AEhmw8mr4RNQUxll64GBxwiD188M1X8WS9m2MnAOPRCBznnB5329tMADZGWEm6tNZ
+    parentId: AlBP1mRWEkH5mOMGAV1BCljGND0
+    postId: ODWM6Xk57ViO7O3ry6EWH8QOQVJL0WCP09P8pZ8kHqoVJ0QzMrIA6r9K
+    factor: 1.33
+    portrait: 1
+    mInfo: xfeY95JlJz1Icky
+message: "阪井養魚場 - S傳說  8歲，99公分  Sakai Fish Farm - S Legend   8y, 99 cm    2017 年2月在東京舉辦的「第48屆全日本総合錦鯉品評會」阪井生產、育成的三段紅白獲得最高榮譽大獎-全體総合優勝，也就是全體總冠軍，當時7歲97公分。    獲獎後，魚主-白坂 大四郎先生，為他的愛鯉命名「S傳說」，這是他從2歲買下後一路看著她成長，陸續拿到每一屆的大獎;    2015年 第46屆全日本総合錦鯉品評會  紅白 種別優秀賞 - 全場紅白類最美  紅白 90部優勝 - 90部紅白最美    2016年 第47屆全日本総合錦鯉品評會  國魚賞 - 全場所有90公分中最美的  紅白 90部優勝 - 90部紅白最美    2017年 第48屆全日本総合錦鯉品評會  全体総合優勝 - 全場最美    在2017春季「S傳說」產了第一胎，幼魚至今成長狀況理想，而「S傳說」產後脫胎換骨，整個體型更加飽滿、質地光澤提升，健康狀態非常好。    入秋後到2018年是「S傳說」的休養年，能有這樣的狀態很令人驚艷，讓人非常期待在2019年的東京大賽能再看到她的身影！    阪井S傳說  SLegend"
+---
+
+阪井養魚場 - S傳說  
+8歲，99公分  
+Sakai Fish Farm - S Legend   
+8y, 99 cm  
+  
+2017 年2月在東京舉辦的「第48屆全日本総合錦鯉品評會」阪井生產、育成的三段紅白獲得最高榮譽大獎-全體総合優勝，也就是全體總冠軍，當時7歲97公分。  
+  
+獲獎後，魚主-白坂 大四郎先生，為他的愛鯉命名「S傳說」，這是他從2歲買下後一路看著她成長，陸續拿到每一屆的大獎：  
+  
+2015年 第46屆全日本総合錦鯉品評會  
+紅白 種別優秀賞 - 全場紅白類最美  
+紅白 90部優勝 - 90部紅白最美  
+  
+2016年 第47屆全日本総合錦鯉品評會  
+國魚賞 - 全場所有90公分中最美的  
+紅白 90部優勝 - 90部紅白最美  
+  
+2017年 第48屆全日本総合錦鯉品評會  
+全体総合優勝 - 全場最美  
+  
+在2017春季「S傳說」產了第一胎，幼魚至今成長狀況理想，而「S傳說」產後脫胎換骨，整個體型更加飽滿、質地光澤提升，健康狀態非常好。  
+  
+入秋後到2018年是「S傳說」的休養年，能有這樣的狀態很令人驚艷，讓人非常期待在2019年的東京大賽能再看到她的身影！  
+  
+#阪井S傳說  
+#SLegend
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/rNWzk3n.jpg"><img src="https://i.imgur.com/rNWzk3n.jpg" height="168" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/cDYEtAr.jpg"><img src="https://i.imgur.com/cDYEtAr.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/BadOlAA.jpg"><img src="https://i.imgur.com/BadOlAA.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/8PKpmB4.jpg"><img src="https://i.imgur.com/8PKpmB4.jpg" height="300" width="225" /></a> 
+ 
