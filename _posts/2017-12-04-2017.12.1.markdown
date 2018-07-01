@@ -1,0 +1,71 @@
+---
+layout: post
+title: "2017.12.1" 
+date: 2017-12-04T15:14:49+0000 
+categories: ["Auction","Sakai"] 
+media:
+  - id: 0VCKDHZ
+    name: AlBPVKrVjoh5nXgxgqANfVL7g2k
+    description: ""   
+    height: 720
+    width: 504
+    type: image/jpeg
+    link: https://i.imgur.com/0VCKDHZ.jpg
+    prevLoc: 2mg2YnBKqGhm3KKLrRpkuJMEpwRJMkhK4pqx3qOncknMv4gQoKcKBPEGK9KQcpnJjZ8W6XhvM1NWnBP9Fk8M7A25l8f9XW9Z4Y79ILMvG8vKVOHjkqXgo6MwHwYkQ6EqggF5q719R713tWonp1NQQBT7Q52vk9wmh54wp5nBLjUKkkpBPy9Vi3jZ5nnkoKCWNp9wzL28hPA1rZGXw8s0w819VpXJUxE1GDj4nlCkB1Wr9B4QSp3K1W50qrHzmPZYz3jjCnJ
+    parentId: kLGZ3Xg39KTvrjMOWE3mtoYZVGE
+    postId: 075YDopXgvTy7yj0LRY1tlEzEMqZkoU0321rJ14ZhzyEWylLwPhokDjX
+    factor: 1.43
+    portrait: 1
+    mInfo: 45P5NJX6f7rdDLq
+  - id: knVJ8Kb
+    name: 6NnREKMELyuJ1vEWoomJhPN46lx
+    description: ""   
+    height: 720
+    width: 504
+    type: image/jpeg
+    link: https://i.imgur.com/knVJ8Kb.jpg
+    prevLoc: Xz7qZjO8XYT9KBBlAqXnTY9gx1jY9OHwNg0kL0B1uMQ5NvRP74HAr3VLAWAvILn2mlOQzyIRo7A4P193U3O11V2Ykzu8WyjQ5YGpsv03YN3XDnuY994m76DmcgWXol5RzxIRoWWjjjnWTYKPvk7qWMT8Zy2ZAxNMIYW2zYRqEmFNPPDJXlz2FgYMWzz3Kqf1JY5xRRXKHXEnM3kZNxflX9mK620wfygpM9oXVki3y8rkvkoYcJNNQ7BZE6UzLW7LKqW0f5Q
+    parentId: kLGZ3Xg39KTvrjMOWE3mtoYZVGE
+    postId: 075YDopXgvTy7yj0LRY1tlEzEMqZkoU0321rJ14ZhzyEWylLwPhokDjX
+    factor: 1.43
+    portrait: 1
+    mInfo: HjZLnvf6NFMTHjI
+  - id: GkeQX3v
+    name: GrL5lWAlyxF90Rm5vKrGS2nAv1B
+    description: ""   
+    height: 720
+    width: 504
+    type: image/jpeg
+    link: https://i.imgur.com/GkeQX3v.jpg
+    prevLoc: 7rnYgvKPyDIRNEErMQAmTJRGrgwJRDhlErDX3Dzvcw4n18lzL5uX4j2xXlXnIREAGqyY1VuZO4KXAvJph4rppM1rA2H1M3VgKXNnuDn1EV1kO7TgJp83z5PvUkXAWPWNrxUA35BqqxzGCvWgzLmw13IXRlkMgwG1FLKmyL65QosVQQqwj7mzURlZQPP4w4fqMAlAPAJ6TP2rrO42JMIgNKQWDEvEiAVXP9xoKBfrDKw82E23sDRlA76Ap3CjZkxQgYwOTA4
+    parentId: kLGZ3Xg39KTvrjMOWE3mtoYZVGE
+    postId: 075YDopXgvTy7yj0LRY1tlEzEMqZkoU0321rJ14ZhzyEWylLwPhokDjX
+    factor: 1.43
+    portrait: 1
+    mInfo: zZOCIhTxEEOtZw1
+message: "2017.12.13  阪井拍賣會，2歲大當歲  有興趣的魚友請私訊我囉_    Sakai fish Farm  12.12 Open sale  12.13 Auction    Ps. 照片陸續上傳中，每天會有更新喔！    尋寶連結如下;  http;sff-koi.comcarp"
+---
+
+2017.12.13  
+阪井拍賣會，2歲&大當歲  
+有興趣的魚友請私訊我囉^_^  
+  
+Sakai fish Farm  
+12.12 Open sale  
+12.13 Auction  
+  
+Ps. 照片陸續上傳中，每天會有更新喔！  
+  
+尋寶連結如下：  
+http://sff-koi.com/carp/
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/0VCKDHZ.jpg"><img src="https://i.imgur.com/0VCKDHZ.jpg" height="300" width="210" /></a> 
+  
+
+<a href="https://i.imgur.com/knVJ8Kb.jpg"><img src="https://i.imgur.com/knVJ8Kb.jpg" height="300" width="210" /></a> 
+  
+
+<a href="https://i.imgur.com/GkeQX3v.jpg"><img src="https://i.imgur.com/GkeQX3v.jpg" height="300" width="210" /></a> 
+ 
