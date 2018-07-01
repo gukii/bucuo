@@ -1,0 +1,77 @@
+---
+layout: post
+title: "2017 台灣國際" 
+date: 2017-12-03T01:52:55+0000 
+categories: ["錦鯉品評會","愛好家","錦鯉"] 
+media:
+  - id: qCAqlyZ
+    name: KyPZQ60ogASkLP7w3P1Jt1vG0w5
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/qCAqlyZ.jpg
+    prevLoc: OnELN1B3XJsOx55DY0pAhz5BYQ4z57s4VjyzBy9xumZ9q5NzQYirP8BnrXrmiD6A46QnLyF6n7KDMw3lhP0777DnEnIvkO1pAXDOt7VDP3xZWgTvWoYRlONQFDXzAGj0MwUkjwY67kpgTrXoDgDz7RcJzYgRKQl9t2EWq2D5R8slGGJL6wQyIo2JAEEGzviNG4qRKLBNu0DVZB0ojzH9VG6nrYrDH26DzpVArytwRLkvwnKrIBRnVMWPKxf3ny3WVAlDiqz
+    parentId: qnOYZ2GEgAuv99xDLO39Ixgm8J6
+    postId: jKEZ6gMO27IOBOg1v7ZWH9lDlk2AoMsYgNYVRyBLun07pooD73F4QQwD
+    factor: 1.33
+    portrait: 0
+    mInfo: dyWJeRvdOTJgVzI
+  - id: dGXgkdd
+    name: qnOYZ2GEgAuvz58wrqG5FxR4ElP
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/dGXgkdd.jpg
+    prevLoc: 8voWjwLQzXukqOOm3z6jcpwx4Q7pwrTG4APkgP3xcJA0r2z68wS8wYyv878xI8w2zwKjGQTZgG0VPN8yfOX666pzvxCwqlK92P6BfxQByL77M5CPkq1O3NG5IGAgl10rpYSDmy6Dz9QyioGg0VP01oSKMWoK2glMhgzJAg028qfWjjANYgO0tJW1Evvq8OuqjyONZJPks64AYGOPvEtZBRN6EOAqcp7ZAxPxz4uELgNXZ9WrcrARxG7kpwUlwgPYopg4Tx3
+    parentId: qnOYZ2GEgAuv99xDLO39Ixgm8J6
+    postId: jKEZ6gMO27IOBOg1v7ZWH9lDlk2AoMsYgNYVRyBLun07pooD73F4QQwD
+    factor: 1.33
+    portrait: 0
+    mInfo: 6gpmVO14YOR7kIF
+  - id: HLNQiYa
+    name: RJZo1LRyp8hXNQ1wZ2GjI3468WB
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/HLNQiYa.jpg
+    prevLoc: 6qmG3rJOxYiWmVVRk1rosAL3vKoAL7tzAP4G74n6C3LXjw0rOGuRNQ7vRDR4tOxL1xyj1BtqYBkrRk7Jsl2jvljl1ks13PjxZNwDCoX3GJ9EjwfR7X43VWzBIvJZwnAJ7NiQKwPD3MZwTMzrVxBOlKfPQlXG30D2C1YAgzGV5XU4mpVjDXylsv1BKNjv6xhoVnp2Xg6pUjnj0yYv51s15v1GYZv2S3N0vQPLO9IWpNLPB921s74x4wV8WRH84Nv1Q2gDC7KVPk1lx
+    parentId: qnOYZ2GEgAuv99xDLO39Ixgm8J6
+    postId: jKEZ6gMO27IOBOg1v7ZWH9lDlk2AoMsYgNYVRyBLun07pooD73F4QQwD
+    factor: 1.33
+    portrait: 0
+    mInfo: O8TLmQS9hsMUKHG
+  - id: wtDufz6
+    name: nkLrOzBA2GcVnxx1B4R2cyJpOgE
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/wtDufz6.jpg
+    prevLoc: QpNjP3E9KATRPBBnV3k6TZA2vXzZANhxXJym9yNAhjw1Erq9LRt9PwVz9o97szyvnyr4X0c7VRoKOJ2rirj11Bl0Z6s6m7ooZm91TWYOK5MoBJCzOq0yRrp8Snw4Ll811DsrmJgY6KVxtYq17Q4xPzHp8g8RMm5yi6AmD6zG1jFEVV6YyOlgCDzkXNNYZZtxkolGj923Cp7lW8n3jpUgL5XDJY92hWOjGjKoxPun15GPmR0riKPYN9qRpYHxMyD5GJZAt5z
+    parentId: qnOYZ2GEgAuv99xDLO39Ixgm8J6
+    postId: jKEZ6gMO27IOBOg1v7ZWH9lDlk2AoMsYgNYVRyBLun07pooD73F4QQwD
+    factor: 1.33
+    portrait: 0
+    mInfo: 6YyYwM60axFlBOM
+message: "2017 台灣國際錦鯉品評會  拜訪台灣錦鯉愛好家 Mr. David"
+---
+
+2017 台灣國際錦鯉品評會  
+拜訪台灣錦鯉愛好家 Mr. David
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/qCAqlyZ.jpg"><img src="https://i.imgur.com/qCAqlyZ.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/dGXgkdd.jpg"><img src="https://i.imgur.com/dGXgkdd.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/HLNQiYa.jpg"><img src="https://i.imgur.com/HLNQiYa.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/wtDufz6.jpg"><img src="https://i.imgur.com/wtDufz6.jpg" height="225" width="300" /></a> 
+ 
