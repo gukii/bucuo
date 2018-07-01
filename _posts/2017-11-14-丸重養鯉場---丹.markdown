@@ -1,0 +1,103 @@
+---
+layout: post
+title: "丸重養鯉場 - 丹" 
+date: 2017-11-13T17:42:59+0000 
+categories: ["錦鯉品評會","新潟","Marujyu","丸重","Koi ","錦鯉"] 
+media:
+  - id: KNTYEsB
+    name: RJZoP24ADBUXxEgo06LGT3oJ5n0
+    description: "2014年，6歲，83公分。2月參加東京大賽 「第45回全日本総合錦鯉品評會 AJKS」獲得;丹頂 85部次席第二名在所有85部的丹頂中，第二名。"   
+    height: 720
+    width: 404
+    type: image/jpeg
+    link: https://i.imgur.com/KNTYEsB.jpg
+    prevLoc: 0k2EWlzGoACyBJJnvMG2I63VpEG63mhr8kJ9PJM2S6Xyzw0n7pHzZBX7z4z5cmLEXgyRNKUqxL2y4EgXSW5y1K9k4vckyzDWzGOYtEgEjgqBVyFrR89Y40l1S4G0yV556GC18xyYOYZBh8jDn60pQyiGoy5B67M0FAZQoAODWpfKEE8Q9ND0iL143yyZ72iDZN8y86BVS7YMmMoBK2Uv56KggzZJTyRl1orKzDHRn2O4j13zumPk34JpokhgJrm1OQvLS9j
+    parentId: PE0ZzX2yAJtnPW5kKnM9I2r3ljZ
+    postId: ODWM6Xk57ViO7O3ry6EWH8QOQVJL0WCP0O3wK95ZIqxrp5Z0g5HA99oP
+    factor: 1.78
+    portrait: 1
+    mInfo: 0jHGZJMSjNyKnHg
+  - id: NeEqCvM
+    name: 54m9RJqZX0f12EW3MxrAF1qDN5v
+    description: "2017年秋季池揚，10歲，97cm"   
+    height: 720
+    width: 496
+    type: image/jpeg
+    link: https://i.imgur.com/NeEqCvM.jpg
+    prevLoc: BJ8OwK03X1TnKPPxqM7VhZ1gPwxZ15hGLp3Ny3E1cRAvlN63MoiOA6J7ODOjIzM17YR5BOFYn9wNALBGfZM1XQ7vNDs83wXR9LYEcAZAWZOqKvTM2xmYOjDYH6yLx2EP0YtLzL4pvG7EtYk32MrAxkhyRpj1OXyGTj0XNkPPAzfD7mJL0nnXCzPZV7zk0BUWPX70G987t9DQv4p36yU38rppLDAzcWwByBJrjNSYGK5NqYQPIwjvgZWvYJs3rkK24PGv
+    parentId: PE0ZzX2yAJtnPW5kKnM9I2r3ljZ
+    postId: ODWM6Xk57ViO7O3ry6EWH8QOQVJL0WCP0O3wK95ZIqxrp5Z0g5HA99oP
+    factor: 1.45
+    portrait: 1
+    mInfo: EVGFdo2nyzPiwzf
+  - id: FjuFhWq
+    name: NBV9YQZwy1ipz7MjyGOmhG02oqy
+    description: "2016年，8歲，92公分。參加全日本総合錦鯉品評會，獲得丹頂90部優勝，90部椿賞，椿大賞。"   
+    height: 720
+    width: 463
+    type: image/jpeg
+    link: https://i.imgur.com/FjuFhWq.jpg
+    prevLoc: 6qmG3rJOxYiWmVVRk1rosAL3vKoAL7tzAP4G74n6C3LXjw0rOGuRNQ7vRDR4tOx89RWorNhqAGMPVR6ES8E6NR1QvJUPzlypnYZBUv8vk86pAxum9yDPjlvpT72yA6gBnQtjgxk4Lm8MtMz2OOE9mytPM7wMjP8kIy35RyzxW9C5QQJE2DXrSV10MLL2G3TN1LMJzVZ1sYqGLvvZgQT1lkopkP0nSoNmgn8A6xtAEZ4LypGNsnZYQ0BqZgH9N42p1gwEFmn
+    parentId: PE0ZzX2yAJtnPW5kKnM9I2r3ljZ
+    postId: ODWM6Xk57ViO7O3ry6EWH8QOQVJL0WCP0O3wK95ZIqxrp5Z0g5HA99oP
+    factor: 1.56
+    portrait: 1
+    mInfo: 0urU8hGN3uXyKkv
+message: "丸重養鯉場 - 丹頂昭和  Marujyu Koi Farm - Tancho Showa    2013年  秋季，6歲，83cm，在新潟農業祭拍賣會高價拍出，由小山 泰 先生得標。  =====    2014年   2月參加東京大賽 「第45回全日本総合錦鯉品評會 AJKS」獲得;  丹頂 85部次席;  在所有85部的丹頂中，第二名。  秋季，7歲，88cm。  =====    2015年   野池放養，秋季池揚，8歲，92cm。  =====    2016年  2月參加東京大賽 「第47回全日本総合錦鯉品評會 AJKS」獲得3個大獎;    丹頂 90部優勝;  在丹頂類90部裡面得到冠軍。   所有超過85公分的丹頂裡面選出最優秀的一隻）    椿賞90部;  在90部的九紋龍、德國鯉、光模樣、丹頂、衣類的冠軍魚當中，選出最優秀的一隻。   在超過85公分的5 隻冠軍中選出最優秀的一隻    椿大賞;  在17個部別的椿賞中，選出最優秀的一隻。   全場12公分以上分為17個部別級距，各部別冠軍中選出頂級優秀的一隻。所以也許90部的會輸給80、85部的美女喔！  秋季，9歲，94cm。  =====    2017年  野池放養，秋季池揚，10歲，97cm。  跟2016年2月參賽時的狀況來比較，現在體型更完美！質地光澤更細緻！墨更完整！  讓人超期待未來會如何發展！    資料來源;  獲獎紀錄-全日本錦鯉振興會  獲獎照片-Jane Maneerat  成長紀錄-Shigeyoshi Tanaka"
+---
+
+丸重養鯉場 - 丹頂昭和  
+Marujyu Koi Farm - Tancho Showa  
+  
+2013年  
+秋季，6歲，83cm，在新潟農業祭拍賣會高價拍出，由小山 泰 先生得標。  
+=====  
+  
+2014年   
+2月參加東京大賽 「第45回全日本総合錦鯉品評會 AJKS」獲得：  
+丹頂 85部次席:  
+在所有85部的丹頂中，第二名。  
+秋季，7歲，88cm。  
+=====  
+  
+2015年   
+野池放養，秋季池揚，8歲，92cm。  
+=====  
+  
+2016年  
+2月參加東京大賽 「第47回全日本総合錦鯉品評會 AJKS」獲得3個大獎：  
+  
+丹頂 90部優勝：  
+在丹頂類90部裡面得到冠軍。  
+( 所有超過85公分的丹頂裡面選出最優秀的一隻）  
+  
+椿賞90部：  
+在90部的九紋龍、德國鯉、光模樣、丹頂、衣類的冠軍魚當中，選出最優秀的一隻。  
+( 在超過85公分的5 隻冠軍中選出最優秀的一隻)  
+  
+椿大賞：  
+在17個部別的椿賞中，選出最優秀的一隻。  
+( 全場12公分以上分為17個部別級距，各部別冠軍中選出頂級優秀的一隻。所以也許90部的會輸給80、85部的美女喔！)  
+秋季，9歲，94cm。  
+=====  
+  
+2017年  
+野池放養，秋季池揚，10歲，97cm。  
+跟2016年2月參賽時的狀況來比較，現在體型更完美！質地光澤更細緻！墨更完整！  
+讓人超期待未來會如何發展！  
+  
+資料來源：  
+獲獎紀錄-全日本錦鯉振興會  
+獲獎照片-Jane Maneerat  
+成長紀錄-Shigeyoshi Tanaka
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/KNTYEsB.jpg"><img src="https://i.imgur.com/KNTYEsB.jpg" height="300" width="168" /></a> 
+  
+
+<a href="https://i.imgur.com/NeEqCvM.jpg"><img src="https://i.imgur.com/NeEqCvM.jpg" height="300" width="206" /></a> 
+  
+
+<a href="https://i.imgur.com/FjuFhWq.jpg"><img src="https://i.imgur.com/FjuFhWq.jpg" height="300" width="192" /></a> 
+ 
