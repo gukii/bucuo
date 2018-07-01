@@ -1,0 +1,77 @@
+---
+layout: post
+title: "明天開展囉！快來賞" 
+date: 2017-12-01T12:08:01+0000 
+categories: ["Koi "] 
+media:
+  - id: sVXHS5w
+    name: NBV908V96vspRjDxvzxWtGn4Vvw
+    description: ""   
+    height: 720
+    width: 515
+    type: image/jpeg
+    link: https://i.imgur.com/sVXHS5w.jpg
+    prevLoc: ZBwv2lQ7GZIjgPP1vD5MuOP6m45OPWsGLxqNVq64cR9vZK8VYmiDAgNwDBDZTQxZK4xg3oINYVvg3zMnFVAoLnAoKmIXKl0pqQp8UmzYxmDPw4FYpjPOnooYFLl6Rlp2N1C2kz37kl53cXLjnwZjZXClNjr8J8Z5tWg9yR07g1f0YB7LWM4ycqA7gA2Qv0UzAV2lXB2mCm20WzMrZNInDZo9EM2PhrGXARNEmmfpgQAnnjWnhRNMRWr
+    parentId: wwXmrkXmqBUNmEp3DLlAtOXVE5g
+    postId: EpJ8WXv6lrCqvqBoNQkESRvEv5kg7ySkAqkm0kBWslyp1l2NgxCg4wyv
+    factor: 1.40
+    portrait: 1
+    mInfo: Ikngr7vWQF0J1nY
+  - id: K2CMrNS
+    name: ZnkV0WkV9LIYGQrrNYvEI0gjNlw
+    description: ""   
+    height: 720
+    width: 504
+    type: image/jpeg
+    link: https://i.imgur.com/K2CMrNS.jpg
+    prevLoc: NmEXMZA3K7h63VVYLE0NC60W9MK60ohZxjgD2gnPczw1rPn0KmiBrQyNBnB4CoRNpqgx5wC3ARx6K9qMflZPPPWr32IZ06kKwn51ukYQVZ257WiJ7WPkZXXOfyKQyrKLm7sxWO6ARnN1tvP2JzX3JxiD3mo7qwPzFQZwXQVDvOioKK0NxRWOtOzM9KKYnAHl8YjDjDEkcq710XQZZBuM5YlMAnO0tyRoZDq4xzF262KxQ246CkY21mJgN2HZ6XPr51mjfwn
+    parentId: wwXmrkXmqBUNmEp3DLlAtOXVE5g
+    postId: EpJ8WXv6lrCqvqBoNQkESRvEv5kg7ySkAqkm0kBWslyp1l2NgxCg4wyv
+    factor: 1.43
+    portrait: 1
+    mInfo: omqYusoiDk3IV0f
+  - id: gd7QNqI
+    name: GrL589L5VlF9gO2wPzz4cGXpQZj
+    description: ""   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/gd7QNqI.jpg
+    prevLoc: JgYz0Vw3KEunwppkO1q8hMO9njxMOrTK7OL93Lkjcp4LQYAxkrSwxrVlw3wXIwyBzK1LJQF1E9J3Nm56tvr55oP6BYuNkozEPk6nIr63EGz4xocJrB4ZwVp9ILzEBOzAyAFmYEXZgxnOFYzvk1wv1ysJvoKJXZx7fp74ZpgM9yTX22104KMBsYpqQzzlNVHrVgjkvroycMlw7DJ7GwUOL2rXmLnohAE20QoBWYcYW7KkZ6wpSJKlY8Ewyjfr7lrkRZRGSkG
+    parentId: wwXmrkXmqBUNmEp3DLlAtOXVE5g
+    postId: EpJ8WXv6lrCqvqBoNQkESRvEv5kg7ySkAqkm0kBWslyp1l2NgxCg4wyv
+    factor: 1.78
+    portrait: 0
+    mInfo: izTNHwbIWGVvnlo
+  - id: H7VlRK7
+    name: 6NnR90nRA5fWvLkQZpAQhPYWAxL
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/H7VlRK7.jpg
+    prevLoc: Xz7qZjO8XYT9KBBlAqXnTY9gx1jY9OHwNg0kL0B1uMQ5NvRP74HAr3VLAWAvILnJxnWVOjuRo7A0xzEkF3O111Jj94F8OYBrM3ojuAqLwjjyn7cY9WVPQ72WhoEy3B9AQWCRP8gLXYJxTvgQKG96zGFj4mOV2q2ntYW2zYRqEmFNPPDJXlz2FgYMWzz3KRs1525xEqz7IX1G1N2jwpFlPVg0rMrWiyxr8R78G6hrPYWp1988iJOvmolZkEtzLK9NjNm9f5J
+    parentId: wwXmrkXmqBUNmEp3DLlAtOXVE5g
+    postId: EpJ8WXv6lrCqvqBoNQkESRvEv5kg7ySkAqkm0kBWslyp1l2NgxCg4wyv
+    factor: 1.33
+    portrait: 0
+    mInfo: jclePODwDSd3hcn
+message: "明天開展囉！快來賞魚o  Taiwan Internatinal Koi Show"
+---
+
+明天開展囉！快來賞魚*\(^o^)/*  
+Taiwan Internatinal Koi Show
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/sVXHS5w.jpg"><img src="https://i.imgur.com/sVXHS5w.jpg" height="300" width="214" /></a> 
+  
+
+<a href="https://i.imgur.com/K2CMrNS.jpg"><img src="https://i.imgur.com/K2CMrNS.jpg" height="300" width="210" /></a> 
+  
+
+<a href="https://i.imgur.com/gd7QNqI.jpg"><img src="https://i.imgur.com/gd7QNqI.jpg" height="168" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/H7VlRK7.jpg"><img src="https://i.imgur.com/H7VlRK7.jpg" height="225" width="300" /></a> 
+ 
