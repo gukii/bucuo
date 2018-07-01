@@ -1,0 +1,66 @@
+---
+layout: post
+title: "2107 鱗友會品" 
+date: 2017-11-26T15:12:03+0000 
+categories: [] 
+media:
+  - id: 39STOOz
+    name: mjKQyEv2gmiqRDNg9wJquqzJM5P
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/39STOOz.jpg
+    prevLoc: BJ8OwK03X1TnKPPxqM7VhZ1gPwxZ15hGLp3Ny3E1cRAvlN63MoiOA6J7ODOjIzM17YR5BOFYn9wNALBGfZM1Bjl0GGs8rR3gJRO6IYNnpZWZBAsM1w1A592Zh6ZgoNnYKrfLE4Py6WDghY9v7kjwmQSyRZDvB6QGujZVWjAOBNuDxxO06kwEhzYqNvv0mOuDEml46OX8f9O3mm92r7U3oY1LyEM5sW4NmxvJDrIMEYprJ4mMhNPLqM0X72t3vX3m0q1rhxP
+    parentId: 2NjvW9KgQPiQElA2gD2RsVgKmDP
+    postId: 9Nq1YABL8RfOlO8Vp5rGHYyly6B85Gs2W82YLpE2TxAjgXwKymuK90Xp
+    factor: 1.33
+    portrait: 1
+    mInfo: ZwP6MU3250AV2do
+  - id: 7GHU5BD
+    name: 70oLXAPn2miYWo184LMXup9YJlq
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/7GHU5BD.jpg
+    prevLoc: 8voWjwLQzXukqOOm3z6jcpwx4Q7pwrTG4APkgP3xcJA0r2z68wS8wYyv878xI8w9k6GpV1uZgG0KDzO4hOX66QBopZuJoj2AEX61ik79ZQ5Q2xsPxrgxJvk8IKomw469DLhDA8Lzp1qrcoEXyQGj0nHQ4483r6mPcgzJAg028qfWjjANYgO0tJW1EvvqwqHqNwxgRQRDu64AYJPPv9CgMz6oxMVWSyXArZzmw2h7o2E7MRXVsRpJ197ExwClw3k2ZKBmSxG
+    parentId: 2NjvW9KgQPiQElA2gD2RsVgKmDP
+    postId: 9Nq1YABL8RfOlO8Vp5rGHYyly6B85Gs2W82YLpE2TxAjgXwKymuK90Xp
+    factor: 1.33
+    portrait: 1
+    mInfo: XHZ9slSTWASMilE
+  - id: GA28She
+    name: 1Ngr49JYPOiXE5G6py46C0WO50E
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/GA28She.jpg
+    prevLoc: nqY7EM4wmGiWDll4wK7Gs8EjKQD8ExsM3EvmQvXgFBv10RGkYOiZY2wKZRZguonpPQWA3yClWJjwO26vtApXXExMGRS6NzZ0XMWBTyMwnNxN5KcEkLqmEMDkiKvMKmKgY2fnZxE9ZB46UjwWo69q6LCKzXqpjZ1XIoxA7oBYKguLXXD43m18t91zlQQOKWSgzgKYwzJQiVm6AGLBP8S35MjQPjLzcz0rANO3vlSLPn5QP3wZigk5Wom375cMxLrxrB6mUqV
+    parentId: 2NjvW9KgQPiQElA2gD2RsVgKmDP
+    postId: 9Nq1YABL8RfOlO8Vp5rGHYyly6B85Gs2W82YLpE2TxAjgXwKymuK90Xp
+    factor: 1.33
+    portrait: 1
+    mInfo: U9oXeq090LpPW5c
+message: "2107 鱗友會品評會  恭喜🎉🎉🎊🎊  袁建栋 先生  愛鯉榮獲;  德國昭和65部 鱗友櫻賞  紅白85部 優勝  紅白65部 準優勝"
+---
+
+2107 鱗友會品評會  
+恭喜🎉🎉🎊🎊  
+袁建栋 先生  
+愛鯉榮獲：  
+德國昭和65部 鱗友櫻賞  
+紅白85部 優勝  
+紅白65部 準優勝
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/39STOOz.jpg"><img src="https://i.imgur.com/39STOOz.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/7GHU5BD.jpg"><img src="https://i.imgur.com/7GHU5BD.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/GA28She.jpg"><img src="https://i.imgur.com/GA28She.jpg" height="300" width="225" /></a> 
+ 
