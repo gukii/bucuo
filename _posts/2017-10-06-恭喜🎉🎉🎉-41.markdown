@@ -1,0 +1,84 @@
+---
+layout: post
+title: "恭喜🎉🎉🎉  41" 
+date: 2017-10-05T22:24:08+0000 
+categories: [] 
+media:
+  - id: Patku8F
+    name: MARQJvg296iJZqwGvz42s5yKNG2
+    description: ""   
+    height: 720
+    width: 504
+    type: image/jpeg
+    link: https://i.imgur.com/Patku8F.jpg
+    prevLoc: NmEXMZA3K7h63VVYLE0NC60W9MK60ohZxjgD2gnPczw1rPn0KmiBrQyNBnB4CoRNpqgx5wC3ARx6K9qMflZNBBNDzpIZPzmo9LxvTwo66qEy9niJ1AA6yowNFyW36vxwDVF8QDMqB46XTv602KMB7lFD5vMQYGKxHQZwXQVDvOioKK0NxRWOtOzM9KKYnqSWkJqlxLlVSR57l9nMgNuOM1qZ9wz6SyYl63BLELtyR2XZKBrNfngyyn9vLzfZ6gYwZQZ6HwR
+    parentId: PE0Zzyl9Y8fnDXxMo8AZh20ZRZx
+    postId: 43lQGvwY8Ei8D8rAvpRXS4nYngz7m3i5kBmnqKEViy6rrrXvE2T2z0gp
+    factor: 1.43
+    portrait: 1
+    mInfo: 82yiudedOkrhRoO
+  - id: PnONgg0
+    name: 1NgrGZqn9DtZYMPKKOKgF01R265
+    description: "親鯉Parent Koi; New Japan + Tomohawk"   
+    height: 720
+    width: 404
+    type: image/jpeg
+    link: https://i.imgur.com/PnONgg0.jpg
+    prevLoc: QpNjP3E9KATRPBBnV3k6TZA2vXzZANhxXJym9yNAhjw1Erq9LRt9PwVz9o97szyEO7X9YKF7VRowQEZPSrjVlBXRl3S6P6QNrWj5H3D99B6j2nTq4qpGZ74vFZVNW5L4mQtpNYrQGZwPuYn3OYkk7vHp44PLAMRNt6AmD6zG1jFEVV6YyOlgCDzkXNNYBpTVWV7nW6jZHMJwVQV8jAijrgYG6VoPSWRy8oOw7jhP423yLOXNUKBJQ8xREjixMAKmrqvyC5Y
+    parentId: PE0Zzyl9Y8fnDXxMo8AZh20ZRZx
+    postId: 43lQGvwY8Ei8D8rAvpRXS4nYngz7m3i5kBmnqKEViy6rrrXvE2T2z0gp
+    factor: 1.78
+    portrait: 1
+    mInfo: 0JvcI4PI5UnFoun
+  - id: 5VclhYy
+    name: nkLrgyXozPIWo7PZZBknTyXZNX2
+    description: "Beauty Rose, Miss Japan, New Japan"   
+    height: 415
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/5VclhYy.jpg
+    prevLoc: zJBQW2jM4qTrq88XDxMRTzwrJ93zwPsZKMAz7ANlcVLvw31oxkHWo06gW9WZFR7L582x1qu68m7KOYxnTp30DDpz3RfD8kYJy2QXh7jEEWkOpPSJE88kA10ys4opARRklpTZ2KvR1goASy9Lo7K8KEH3XZRqZmPVsXGRkXo0Eyu3RRmE1MP9UlVwLzzZ0kumAQVNnmN5s02Yn6j4B5czPXQ9wYR1tYQALz8gWpCmqNQAEARmI5AyqxnJgMTPoKW2M7zOhBY
+    parentId: PE0Zzyl9Y8fnDXxMo8AZh20ZRZx
+    postId: 43lQGvwY8Ei8D8rAvpRXS4nYngz7m3i5kBmnqKEViy6rrrXvE2T2z0gp
+    factor: 1.73
+    portrait: 0
+    mInfo: 0UwWNJHUl5Bqkss
+  - id: 6uRPa45
+    name: 2Njv7Zro9EtmwpB21JvZCKP3pX5
+    description: "Donguri, Benibana, Tomohawk"   
+    height: 635
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/6uRPa45.jpg
+    prevLoc: orv8GN4xnAIwYllA9BrXTXoMEx4XowT9KwvWqvPnc05YNk3x9MS8JX0m8Z8BIzwkGY3qmnFry1M9Rp0QsAoKqqAK9DSKj61LENOBclnBBrx9WwhzPAA2nvr7fkL4r25x0EiyZoy0KYVMUr7G6oBlLwcKOmoBvEYJh7qME7lB2JiEKKNk2GMZC6MEX33j57cYnLEVGQQAT2BD3kWKW6uDgZp8KRNxTGlNzRRVPquNMk39LMnZhrwMQ97wgvi40gPy1VqMt9W
+    parentId: PE0Zzyl9Y8fnDXxMo8AZh20ZRZx
+    postId: 43lQGvwY8Ei8D8rAvpRXS4nYngz7m3i5kBmnqKEViy6rrrXvE2T2z0gp
+    factor: 1.13
+    portrait: 0
+    mInfo: 63Jg7REqsiXxwUV
+message: "恭喜🎉🎉🎉  410號 五段紅白 - New Japan 子代  2歲57公分，得標價日幣3,000萬  約台幣810萬！  由泰國代理得標o    Congratulations 🍾🎉🎊   JPY 30,000,000-  USD 270,000-"
+---
+
+恭喜🎉🎉🎉  
+410號 五段紅白 - New Japan 子代  
+2歲57公分，得標價日幣3,000萬  
+約台幣810萬！  
+由泰國代理得標*\(^o^)/*  
+  
+Congratulations 🍾🎉🎊   
+JPY 30,000,000-  
+USD 270,000-
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/Patku8F.jpg"><img src="https://i.imgur.com/Patku8F.jpg" height="300" width="210" /></a> 
+  
+
+<a href="https://i.imgur.com/PnONgg0.jpg"><img src="https://i.imgur.com/PnONgg0.jpg" height="300" width="168" /></a> 
+  
+
+<a href="https://i.imgur.com/5VclhYy.jpg"><img src="https://i.imgur.com/5VclhYy.jpg" height="172" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/6uRPa45.jpg"><img src="https://i.imgur.com/6uRPa45.jpg" height="264" width="300" /></a> 
+ 
