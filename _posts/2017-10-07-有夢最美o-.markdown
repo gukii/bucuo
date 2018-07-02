@@ -1,0 +1,82 @@
+---
+layout: post
+title: "有夢最美o    " 
+date: 2017-10-07T01:59:48+0000 
+categories: ["Auction","Dainichi","大日"] 
+media:
+  - id: XpniMTo
+    name: 6NnRB17Y9qIJDyjDBJNPcPY62Z2
+    description: ""   
+    height: 480
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/XpniMTo.jpg
+    prevLoc: orv8GN4xnAIwYllA9BrXTXoMEx4XowT9KwvWqvPnc05YNk3x9MS8JX0m8Z8BIzwNMwZPP4cry1MN4PArFAoKqpzDpvCKWPDMk54BIyJA0prWPYtN5ZBz6Jx6tGENjAnmOVhy5kXzQyEqsr9Em62OD7TkGMlWRWGYI7qME7lB2JiEKKNk2GMZC6MEX33jB5I1GPQXmpNlH2WZoLjxrXuQ7v9jA3xDuN1YRwD74RSNp1VN8JxmfP5MRvNv7jt40j7vVJMxUjQ
+    parentId: jKEq0rVA8mH09GAvLmRxc6oRxwZ
+    postId: NBVLWKj5xQC6O6o5G2w4hLMOM2l1nyfBEMVJ1Ovjfr4lWOXoX1fL42kJ
+    factor: 1.50
+    portrait: 0
+    mInfo: PZxujOE9DopqbFk
+  - id: uZ6LvWD
+    name: 54m9RZEALpT1v65vrBq9u1qWvmk
+    description: ""   
+    height: 480
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/uZ6LvWD.jpg
+    prevLoc: 9wpGkxM0A3tOqRRJnMkmhA1nqyvA19t54wDlND8PFjn6xJwEW0tqmYnAqPqMuAG6mGQRRvS41W062Xo4SorzBxNQB6s6p6m1V6GXT8kVZWJ6pNTrkWDOkVrqiJqn68M59RfnVnvVL7ovf087ZGrZ3yFQ11YQOvmkINEGm9RRZnS7kgP6ZwwpT9gYk59PY0FLVVPooQqQFLkpWVzlPXuY6DkAgOGQco4R88BB63szO3prrB8jtroEKQDEz6I2oxKKQxDj
+    parentId: jKEq0rVA8mH09GAvLmRxc6oRxwZ
+    postId: NBVLWKj5xQC6O6o5G2w4hLMOM2l1nyfBEMVJ1Ovjfr4lWOXoX1fL42kJ
+    factor: 1.50
+    portrait: 0
+    mInfo: Pe7daZ5ID1syZ6u
+  - id: fbYaPFF
+    name: AlBPMZ781GT5YEL5m8OYflr8O0Z
+    description: ""   
+    height: 480
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/fbYaPFF.jpg
+    prevLoc: PoMgO2D3K6C6XvvBgoK4CMrpQOKMr5TpwBv2lvK5ImPnkYzJ6Zi2Jr7j2p28ulpNWpYLLDuMNRWAwVGMCrpk55rZpEtzkBBALJPvtwOBA7E5mZt41jnzA3rofgGV9mzqy1h983JW1DwJSMPXXZOgw3u93YvK0k54uryL2rmO51IkYYoZ0yVAtk7BO55mW1IYL6Z9B6jlhEJ7O11Mp7i6P4y0xBlBHLlWpKR9josOEWrlyG6pfO8oK9w8qGSE48BjgKQZHDV
+    parentId: jKEq0rVA8mH09GAvLmRxc6oRxwZ
+    postId: NBVLWKj5xQC6O6o5G2w4hLMOM2l1nyfBEMVJ1Ovjfr4lWOXoX1fL42kJ
+    factor: 1.50
+    portrait: 0
+    mInfo: FCVGZ8HQmEUNycu
+  - id: IsmxjIY
+    name: zz1K7ONqXJTzL4QLlABjhLJgKmN
+    description: ""   
+    height: 480
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/IsmxjIY.jpg
+    prevLoc: nqY7EM4wmGiWDll4wK7Gs8EjKQD8ExsM3EvmQvXgFBv10RGkYOiZY2wKZRZguonrRnL887tlWJjMA4LluAp8xxA8zYS6O93j94B6fGZAr7XpxmTEVMOj55ZETKXjwl72Pxf6qjg34G8Gfj7X4l6OBPcKzGP6gzGAhoxA7oBYKguLXXD43m18t91zlQQOxJTLm8MBl6QWiV2VQANR1DHg7MvqBOERhX6m6KQQopSLPn3gNm2ZFZXxggr0XKfMxXNzNK4PsxX
+    parentId: jKEq0rVA8mH09GAvLmRxc6oRxwZ
+    postId: NBVLWKj5xQC6O6o5G2w4hLMOM2l1nyfBEMVJ1Ovjfr4lWOXoX1fL42kJ
+    factor: 1.50
+    portrait: 0
+    mInfo: QPVyB62jgtKUEG2
+message: "有夢最美o    大日拍賣會 Dainichi Auction  10月8-9日，這次花落誰家呢？    Dainichi Auction on 8-9th OCT.  Let's Go!!!!"
+---
+
+有夢最美*\(^o^)/*  
+  
+大日拍賣會 Dainichi Auction  
+10月8-9日，這次花落誰家呢？  
+  
+Dainichi Auction on 8-9th OCT.  
+Let's Go!!!!
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/XpniMTo.jpg"><img src="https://i.imgur.com/XpniMTo.jpg" height="200" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/uZ6LvWD.jpg"><img src="https://i.imgur.com/uZ6LvWD.jpg" height="200" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/fbYaPFF.jpg"><img src="https://i.imgur.com/fbYaPFF.jpg" height="200" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/IsmxjIY.jpg"><img src="https://i.imgur.com/IsmxjIY.jpg" height="200" width="300" /></a> 
+ 
