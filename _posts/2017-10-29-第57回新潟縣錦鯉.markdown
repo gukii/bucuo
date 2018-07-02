@@ -1,85 +1,37 @@
 ---
 layout: post
 title: "第57回新潟縣錦鯉" 
-date: 2017-10-29T06:34:16+0000 
-categories: ["錦鯉品評會","Niigata","新潟","Koi ","錦鯉"] 
+date: 2017-10-29T01:23:45+0000 
+categories: ["錦鯉品評會","Champion","Niigata","新潟","Koi ","錦鯉"] 
 media:
-  - id: mOha4ys
-    name: 54m9RmMmvwu1ZBy60xNqI1B2mWJ
+  - id: vTnpJmc
+    name: vvWo8WwWL3hZ211n1l1kCk5Lo6r
     description: ""   
-    height: 720
-    width: 540
-    type: image/jpeg
-    link: https://i.imgur.com/mOha4ys.jpg
-    prevLoc: orv8GN4xnAIwYllA9BrXTXoMEx4XowT9KwvWqvPnc05YNk3x9MS8JX0m8Z8BIzwkGY3qmnFry1M9Rp0QsAoK0Dwo49IKjVozJAgMsyQmnYkWLrIznQLjzywJiGx9JkgWPvfkXPYrv7xWcK2MDKnk4jTKzEEm1P4JI7qME7lB2JiEKKNk2GMZC6MEX33jBqTYxPqRKjkWhzMEMljLznHQRm7roWAlh5pyWZ59EkcNPNyQk48EIPWg9kKDloi40gGm49p4F9n
-    parentId: xxYv2YyY0zsj1793yAl2SkWn61J
-    postId: lgJxEkLMOjsMVMLqvB6QiWMOM6DzojhkPPWqBpYNtv5YxpgQXXsgR4kQ
-    factor: 1.33
-    portrait: 1
-    mInfo: duIQqUtIG7z2dBT
-  - id: MkOaWwE
-    name: 9NqQDqjqzAujkGJrO2WqfrJOjzR
-    description: ""   
-    height: 540
+    height: 405
     width: 720
     type: image/jpeg
-    link: https://i.imgur.com/MkOaWwE.jpg
-    prevLoc: mp28DL4v07TMl11VXAj5s1Dkwj81D6C42orB8rNZu8lwXmgOzWHLDxVqLJLEcOmrLmj9wJsx5wlnLG64uJVXAWB7JKUrklowqWQ5s71rg5mnZxijqB7EjxvyfoR6z0qyZxiRx183R9K6h5oq73Xy5ksAQAmyYxlQF9NDm9Yj7lCOkk34QlLptZw0q33DmmtZKORlWjWjh78YrnZvGguNz2pyKg6Ph1V0DwWk0lSr6oYDPDg0TvwwqXlRYBSqr780N0VJcy1
-    parentId: xxYv2YyY0zsj1793yAl2SkWn61J
-    postId: lgJxEkLMOjsMVMLqvB6QiWMOM6DzojhkPPWqBpYNtv5YxpgQXXsgR4kQ
-    factor: 1.33
+    link: https://i.imgur.com/vTnpJmc.jpg
+    prevLoc: 3njEZoDLrYs4K77j3GpmHMv6jG3MvkTjMX6PZ6YWhnoOAgWGYBSXEKYxXLKjIkOljpL7MMIlZ02kwWWAu3G31XKlQzs9Rj3OAZ05twWWqgxLZvUZr5OQx8PjU7v3KXyL7Vh054X85xgETRkr3QxQ99IkV8KLZl0zSBxq259mmLS1qPpMLVNZtDVEO6AN6ns34zYMMLjJu4YVD1YWK3f9rLkNQBNkUPxg6l87glhYnkmOZ0O1hkw6qKn17WHp2zj7J4mXTyPJQ0
+    parentId: vvWo8WwWL3hZ211n1l1kCk5Lo6r
+    postId: W05LoKvjnki4M40wWANJcv4A4QzgDOf399rJwV6yh41ZzVonQ1h6YOxD
+    factor: 1.78
     portrait: 0
-    mInfo: 9sUqZEqBUrSGAda
-  - id: kcn5jR3
-    name: JxOqNO1OnKsoqNkKpVzOUJwlVkA
-    description: ""   
-    height: 540
-    width: 720
-    type: image/jpeg
-    link: https://i.imgur.com/kcn5jR3.jpg
-    prevLoc: NmEXMZA3K7h63VVYLE0NC60W9MK60ohZxjgD2gnPczw1rPn0KmiBrQyNBnB4CoRmrRBMg9c3ARx8l4L2HlZNBLDzgniW7J90K9ppTk7YoXQ92qcJ7WP8xQPNsypVAO8nX1i8DpRmjBJVuvPZzMOZXpfD3xJAkyZ7cQZwXQVDvOioKK0NxRWOtOzM9KKYnYu2qp4RYYqDIp76onG538IOXvQVEJkyTyAOpKgE90Hl64xvM56RFkY21mJgN2HZ6KZpg2VlIwY
-    parentId: xxYv2YyY0zsj1793yAl2SkWn61J
-    postId: lgJxEkLMOjsMVMLqvB6QiWMOM6DzojhkPPWqBpYNtv5YxpgQXXsgR4kQ
-    factor: 1.33
-    portrait: 0
-    mInfo: VqzB4mRuBWJEoZE
-  - id: Juakl9T
-    name: NBV9YVGVrKIp04YwkAy9hGkBmyv
-    description: ""   
-    height: 540
-    width: 720
-    type: image/jpeg
-    link: https://i.imgur.com/Juakl9T.jpg
-    prevLoc: ZBwv2lQ7GZIjgPP1vD5MuOP6m45OPWsGLxqNVq64cR9vZK8VYmiDAgNwDBDZTQxjlxmqWOs4WrzNVRvnFVgYQx4W2PHXmmm4Npr9FmxWgLGyv0cY64q20vq8sqn7o7Qj3rc4r5BMQjnouW1OY34ZpKu7vOKLp4OLIM3QpMOKvkh855q1zGQLc6AErNNDBDtV39AVz5gBSvlB2zYD6RCJjJygkkLXIXNxmrZ27LcpwORW681XcJLropNpg1H8YLPGMjJlcy4
-    parentId: xxYv2YyY0zsj1793yAl2SkWn61J
-    postId: lgJxEkLMOjsMVMLqvB6QiWMOM6DzojhkPPWqBpYNtv5YxpgQXXsgR4kQ
-    factor: 1.33
-    portrait: 0
-    mInfo: htkwL6FEuWcelwG
-message: "第57回新潟縣錦鯉品評會  新潟縣鑑賞魚賞賞  全體総合優勝三席  村田養鯉場   紅白 第80超部 84公分    Niigata Nogyosai 2017  Third Prize  Murata Koi Farm  Kohaku size 80bu+ 84cm"
+    mInfo: 1GuR7p9iCucaMeF
+message: "第57回新潟縣錦鯉品評會  農林水產大臣賞  全體総合優勝一席  丸堂養鯉場   紅白 第80超部 97公分    Niigata Nogyosai 2017  Grand Champion  Marudo Koi Farm  Kohaku size 80bu+ 97 cm"
 ---
 
 第57回新潟縣錦鯉品評會  
-新潟縣鑑賞魚賞賞  
-全體総合優勝三席  
-村田養鯉場   
-紅白 第80超部 (84公分)  
+農林水產大臣賞  
+全體総合優勝一席  
+丸堂養鯉場   
+紅白 第80超部 (97公分)  
   
 Niigata Nogyosai 2017  
-Third Prize  
-Murata Koi Farm  
-Kohaku size 80bu+ (84cm)
+Grand Champion  
+Marudo Koi Farm  
+Kohaku size 80bu+ (97 cm)
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/mOha4ys.jpg"><img src="https://i.imgur.com/mOha4ys.jpg" height="300" width="225" /></a> 
-  
-
-<a href="https://i.imgur.com/MkOaWwE.jpg"><img src="https://i.imgur.com/MkOaWwE.jpg" height="225" width="300" /></a> 
-  
-
-<a href="https://i.imgur.com/kcn5jR3.jpg"><img src="https://i.imgur.com/kcn5jR3.jpg" height="225" width="300" /></a> 
-  
-
-<a href="https://i.imgur.com/Juakl9T.jpg"><img src="https://i.imgur.com/Juakl9T.jpg" height="225" width="300" /></a> 
+<a href="https://i.imgur.com/vTnpJmc.jpg"><img src="https://i.imgur.com/vTnpJmc.jpg" height="168" width="300" /></a> 
  
