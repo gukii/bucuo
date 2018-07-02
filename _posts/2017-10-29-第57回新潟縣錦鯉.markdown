@@ -1,37 +1,37 @@
 ---
 layout: post
 title: "第57回新潟縣錦鯉" 
-date: 2017-10-29T06:37:52+0000 
+date: 2017-10-29T06:40:06+0000 
 categories: ["錦鯉品評會","Niigata","新潟","Koi ","錦鯉"] 
 media:
-  - id: WBqSViK
-    name: qnOYlOoOEpTvzQ1mjnmzux9Q2B1
+  - id: 1AwGI13
+    name: QGY06YXYxKCL74Lvpj8LUD6P10B
     description: ""   
     height: 405
     width: 720
     type: image/jpeg
-    link: https://i.imgur.com/WBqSViK.jpg
-    prevLoc: JgYz0Vw3KEunwppkO1q8hMO9njxMOrTK7OL93Lkjcp4LQYAxkrSwxrVlwEr3IwzEMvP611hvKrjJQVV9Hvwv53Wo78cN0vB8oOrAFrXXgnKVOysJYQyMYD1Zsxk5vMoW4KUv8XwLyY56HkZWyLB23YCJk6MBXqv0HpEG8LAqqjCXq7KERnyzUmlP4Or5OzT5y6rGn1EOCMxPyKJZgQUyzQz6ADlnt2WWxqNgOMfQ9PV2A0KPtJBVxjW553CQk3qjVY0NiomMxO
-    parentId: qnOYlOoOEpTvzQ1mjnmzux9Q2B1
-    postId: NBVLWKj5xQC6O6o5G2w4hLMOM2l1nyfBEEg6ZmVVcrnZ7k42ErTL4lVP
+    link: https://i.imgur.com/1AwGI13.jpg
+    prevLoc: 1lYEXmAJpVIZGnnrgkMph91EWgv91xugB2XkpXP0srwjYE0R3BHM46pAM86NcExKvD9M77FDk3r2GXXns1Z19mpL4EH4mxjQJQn2tBLL97MQmgi5G196XK1RFm68Np22vzF2xp4ZymqJfj5E6BoxqKtjZQwmJxlltrzgM8x994fx7KEmJW26s9Ek7zOrzgiv5m2AJAAvt8Q4MnvJ1wtXpW30y59lhvYk9zwG90tnoPAA1kp2u4X7LyK09pSZy8K352Ryf1KpN3
+    parentId: QGY06YXYxKCL74Lvpj8LUD6P10B
+    postId: ZnkYrGym4qSjkjznp3XJUw4Y41RAgMIEZZq9G7PoH6mBJWY6gKFERzXG
     factor: 1.78
     portrait: 0
-    mInfo: 9Nxq4LsEK0kI0AX
-message: "第57回新潟縣錦鯉品評會  新潟縣鑑賞魚賞賞  全體総合優勝三席  村田養鯉場   紅白 第80超部 84公分    Niigata Nogyosai 2017  Third Prize  Murata Koi Farm  Kohaku size 80bu+ 84cm"
+    mInfo: zdwlcyx0HMgurYA
+message: "第57回新潟縣錦鯉品評會  水產庁長官賞  全體総合優勝二席  丸堂養鯉場   紅白 第80超部 90cm    Niigata Nogyosai 2017  Runner Up  Marudo Koi Farm  Kohaku size 80bu+ 90cm"
 ---
 
 第57回新潟縣錦鯉品評會  
-新潟縣鑑賞魚賞賞  
-全體総合優勝三席  
-村田養鯉場   
-紅白 第80超部 (84公分)  
+水產庁長官賞  
+全體総合優勝二席  
+丸堂養鯉場   
+紅白 第80超部 (90cm)  
   
 Niigata Nogyosai 2017  
-Third Prize  
-Murata Koi Farm  
-Kohaku size 80bu+ (84cm)
+Runner Up  
+Marudo Koi Farm  
+Kohaku size 80bu+ (90cm)
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/WBqSViK.jpg"><img src="https://i.imgur.com/WBqSViK.jpg" height="168" width="300" /></a> 
+<a href="https://i.imgur.com/1AwGI13.jpg"><img src="https://i.imgur.com/1AwGI13.jpg" height="168" width="300" /></a> 
  
