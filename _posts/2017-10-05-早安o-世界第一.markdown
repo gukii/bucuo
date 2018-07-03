@@ -1,0 +1,81 @@
+---
+layout: post
+title: "早安o  世界第一" 
+date: 2017-10-04T23:00:07+0000 
+categories: ["Sakai"] 
+media:
+  - id: H32neYZ
+    name: 2Njv7ZXZoKHQx1M5NDAWHVgJPNq
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/H32neYZ.jpg
+    prevLoc: xEV8RZ4KzohXvmmp891Ji6WmxKr6W1h1pWnLEnJZsBlV7O5mYxiGA217GoGnIgN5OBE3Dpi23mkMy4LpuBY8VWJmVJSZDgwq2BLriDR722oG19tkvo228wVEhvy9qXpKyqUz6LOv4ny6FJ5nwPO3v1CDxOzkOYwqCQBpKQGVnXiP55VkoOrjuWZ0NwwMOOc3vn1WOBkqSRD0BxyP9Kcrjnw7EKPAHJX9BJDvZ9svKv7GXykjuK596AQANDuovqoALJxWfWg
+    parentId: BmDLPZvZ23INZ5PqWM0vhRP12NZ
+    postId: 54mQKwx18JilXlAYDVwBcnrYr7V654SjErvKMP8JiO6vnRpnQJcKvV15
+    factor: 1.33
+    portrait: 1
+    mInfo: 4JhuVbIgC1RzPaZ
+  - id: 1lG7c3R
+    name: yyZr9NzNDLT3jZx24DZMt39pzLZ
+    description: ""   
+    height: 480
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/1lG7c3R.jpg
+    prevLoc: EMZ1zNo3XKTqx11wyg3WT6Q2Kvl6QWh1DPVyGVq7s2rKlRGxP5HZpRjNZYZ3u7XnrXEGGJhxgZ8j9OkxcVWyZmPAnruvDgLD8J86Tr0WLLN8qotlGYK60WGoCw1LYOPPwAsl2pJE9WNDIYqmlJ92M2H5k5qQ5On0uYjXWYy89KFoPPXzAQjvtnXRxkk5ANCX55LoRnQqh2x9Gm24q3HKn91pzWpnSGZY3YQN0AsNDN3YGE39fNDnnNmEBXt2zY2RplBJHLv
+    parentId: BmDLPZvZ23INZ5PqWM0vhRP12NZ
+    postId: 54mQKwx18JilXlAYDVwBcnrYr7V654SjErvKMP8JiO6vnRpnQJcKvV15
+    factor: 1.50
+    portrait: 0
+    mInfo: 3R8bprhPIt55ofq
+  - id: eFot1Xy
+    name: roPRmDpDvAuONEgrAvjmSM9J5rz
+    description: ""   
+    height: 480
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/eFot1Xy.jpg
+    prevLoc: Xz7qZjO8XYT9KBBlAqXnTY9gx1jY9OHwNg0kL0B1uMQ5NvRP74HAr3VLAWAvILnJxnW77XFRo7AKOXjRf3Og28EzJPt5Zk50l082Ivo2AAQM8mIVNmAvXJNlcoEy3kJD3DhRz3kLvyjkIYKQ2p6ozyUjVW5Jg36OCYW2zYRqEmFNPPDJXlz2FgYMWzz3KVc1QWG9JlpzFYgv2kxD3vcmE9Jvz70zUpyBMGBWE6T376jGWw7YIjWlo9EGo0SzL8N3NVy4to9
+    parentId: BmDLPZvZ23INZ5PqWM0vhRP12NZ
+    postId: 54mQKwx18JilXlAYDVwBcnrYr7V654SjErvKMP8JiO6vnRpnQJcKvV15
+    factor: 1.50
+    portrait: 0
+    mInfo: 53LfM8VFpoP3JVJ
+  - id: K3pU8vU
+    name: 70oLpZMZwPiYP7Rpo4P1tp9vQ2x
+    description: ""   
+    height: 480
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/K3pU8vU.jpg
+    prevLoc: zJBQW2jM4qTrq88XDxMRTzwrJ93zwPsZKMAz7ANlcVLvw31oxkHWo06gW9WZFR7n97zNN3c68m7zlWg6Hp30DD06kVFwBnOVoBLwI7J133vP37UJE3v6RME5cr47D8jgnvSBKYppWQpGCy9pEZYokzc38o2M2xKvIXGRkXo0Eyu3RRmE1MP9UlVwLzzZ0jFmZ0X558QjflnMO4pVr3FzPABwrLovhqjLP2MVgWHm6nD5XrnwuG7Bzv47PpiPoKMDN7EqfBx
+    parentId: BmDLPZvZ23INZ5PqWM0vhRP12NZ
+    postId: 54mQKwx18JilXlAYDVwBcnrYr7V654SjErvKMP8JiO6vnRpnQJcKvV15
+    factor: 1.50
+    portrait: 0
+    mInfo: fqnkpuqzIAdHHkq
+message: "早安o  世界第一，不斷前進！  阪井新溫室即將再添一座！    Good Morning!  Sakai new greenhouse!"
+---
+
+早安*\(^o^)/*  
+世界第一，不斷前進！  
+阪井新溫室即將再添一座！  
+  
+Good Morning!  
+Sakai new greenhouse!
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/H32neYZ.jpg"><img src="https://i.imgur.com/H32neYZ.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/1lG7c3R.jpg"><img src="https://i.imgur.com/1lG7c3R.jpg" height="200" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/eFot1Xy.jpg"><img src="https://i.imgur.com/eFot1Xy.jpg" height="200" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/K3pU8vU.jpg"><img src="https://i.imgur.com/K3pU8vU.jpg" height="200" width="300" /></a> 
+ 
