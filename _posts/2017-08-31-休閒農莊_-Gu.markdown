@@ -1,0 +1,61 @@
+---
+layout: post
+title: "休閒農莊_  Gu" 
+date: 2017-08-31T05:27:25+0000 
+categories: [] 
+media:
+  - id: 1TQCgzE
+    name: PE0ZzK2B9zInDXx78gAri2nEM5O
+    description: ""   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/1TQCgzE.jpg
+    prevLoc: lovXBK4rk8CMEOOWGA2osRYQLM8RYPhBKjWGMWE6upW3vjAnOVSDoLjpDxL0FL9p1X5844ty3EvW855xFY3YlrRxY3iREOywrn86TvXjJwm6nVcoYN3llpq5ig611l6M6xcp365l25E7T1BZrz5Zy1sKpwDERp6ptOE30L9kkKTvgx98NVyPhEX0Rg9og3IXpMGJZP9pcx6wO1pmKPF7xxYMYplns09gJ2XA1ws5O8yr8kErHEL9vnZKkoCK34xWwGqYiDnAMD
+    parentId: LzQ8v1Xx2vT2vwWY1QD9HVWwOBA
+    postId: xxYnLz57GOfX7XZq32PYs9KoKp0GjAsBwY3lPV7Wi76wYjVvLgu5V8wX
+    factor: 1.78
+    portrait: 0
+    mInfo: 6cK8Z351gdfV90n
+  - id: kw1MNSD
+    name: JxOqNKVv2NFo4wDjyz2PHJWEEVq
+    description: ""   
+    height: 426
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/kw1MNSD.jpg
+    prevLoc: rxEBLQ4AqgTmZwwyM18AuoN23WnoNAInV48m68MBCjxBWq81Mzt6PK706j65uvOLNyQqAlT769yJK4k8SDjJVmEvY7FolB7pjXK2U1LvYMQ0o0CLvpGnDWq7tW1DOVGVX6CPWJvXxjMkCLpl3RW5xNtkqv2LrkQqTOlwBORjZgIR11jOr67PHknOwMMoDQI343QoODmXs573Eq68G6H8JgxOWlWgCK86y68zB8c98lqMyr8EsgjjoN7O5LHnrVvQrpXpirV
+    parentId: LzQ8v1Xx2vT2vwWY1QD9HVWwOBA
+    postId: xxYnLz57GOfX7XZq32PYs9KoKp0GjAsBwY3lPV7Wi76wYjVvLgu5V8wX
+    factor: 1.69
+    portrait: 0
+    mInfo: 18G1clusRfMcI3N
+  - id: 9GTUIFf
+    name: 43lRzvpNqzfxjWpB7MZ3s182ZkV
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/9GTUIFf.jpg
+    prevLoc: 4okV1p0MvWC85YYZPmBJSrMK5nlrMwuJQLxDGxgyF1VqyLJ3pGu06v780R0Efy1K81ArZXtxAgz2q3jrul0OVpRMYoHvL0Y9k51Es8q2xjgzZVSKYm4O2JN6fg5DJzwZ1jhLl53PmPMvFpy99Er4ZDTQo32zP7rxcpz5BpOyoNTXvvyNMJnOs7QY9553R3f6A2MWD9J1txp3kvMQGZiXV2gNnp7jfZoGDn7BRqIk9AO40Y5NSjnwPpZXz9fL1GpoWOWLsNk
+    parentId: LzQ8v1Xx2vT2vwWY1QD9HVWwOBA
+    postId: xxYnLz57GOfX7XZq32PYs9KoKp0GjAsBwY3lPV7Wi76wYjVvLgu5V8wX
+    factor: 1.33
+    portrait: 0
+    mInfo: bodV8w6AU7cZ3rM
+message: "休閒農莊_  Guangdong, China."
+---
+
+休閒農莊^_^  
+Guangdong, China.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/1TQCgzE.jpg"><img src="https://i.imgur.com/1TQCgzE.jpg" height="168" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/kw1MNSD.jpg"><img src="https://i.imgur.com/kw1MNSD.jpg" height="177" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/9GTUIFf.jpg"><img src="https://i.imgur.com/9GTUIFf.jpg" height="225" width="300" /></a> 
+ 
