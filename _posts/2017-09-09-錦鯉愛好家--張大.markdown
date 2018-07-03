@@ -1,0 +1,127 @@
+---
+layout: post
+title: "錦鯉愛好家- 張大" 
+date: 2017-09-09T11:30:17+0000 
+categories: ["愛好家","錦鯉"] 
+media:
+  - id: jMxg57b
+    name: YmjvyZWolOuXwE9KkBPVikG2qEn
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/jMxg57b.jpg
+    prevLoc: q0V6KP4zpAI2NLLgBz8OuKr4YGkKrAHVOW6YK6wMHzy7XQ18AWinwryAnYn6h5LlGLyV46hyj9M4GNLgtGBzAKQm5qtvRNllRpDgCVABBvDY1WfO2Q03rz8ktjXQoZrB9BuZM20OjP15HrgpJp3PEoI5YllmBL02uKMnrKXGzAFVkkNvjn4zU56KXQQzNZhZgvwJxY88CR77mkDl74Snpo70O0L5SVmw6D7Pnjcz77gpY2GncOLn44ZpLQIXYVxRmPvkCGZ
+    parentId: LzQ8vG7M5xh27KYOJ3kRHVq1nRp
+    postId: LzQ7W1D5gMH3G3LMZJl6iMQWQ9Ywl1HmPX6x8mjDi4ZmPRY9gQtGV9MR
+    factor: 1.33
+    portrait: 0
+    mInfo: 0ikgYBex0elvfx0
+  - id: yPyb8n3
+    name: RJZoPXO25EFXxjOxwWBQU3NXwGg
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/yPyb8n3.jpg
+    prevLoc: MlENLYz3K7IJ3xxpPRq5uL1XNlvL1rTWjMkKZkD5hgKQXy7jnAcM5gmzM7MDcg2V42oNx8u7PEjyZK9Di83JEDOMyJHPQYDXpBjRTMmvv0EJN1t2l4EnAgyQUjY9GO5onOcD9NBVm84BtJkryvMjBzTRZQXWZRRjSKxzlo99k5FEP5k1Q22wcBxKOwB5NEFLqMXlGg8PCYgqVZ19kpSRkRKrGjpMH0W7LZronmcXoDZ1ZAYGFvY68Nj6PmFPp7n3qqnv
+    parentId: LzQ8vG7M5xh27KYOJ3kRHVq1nRp
+    postId: LzQ7W1D5gMH3G3LMZJl6iMQWQ9Ywl1HmPX6x8mjDi4ZmPRY9gQtGV9MR
+    factor: 1.33
+    portrait: 0
+    mInfo: qA2eDHJxxstfHB5
+  - id: qNb5jbE
+    name: RJZoPXO25EFXxEg5w1XYc3NXwDl
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/qNb5jbE.jpg
+    prevLoc: KjYzJWx37Ah1W88QKB2qugG8kDRgG0hmJK1wB15VFYMmPJvBLkfk1wWKkZkOIBG6EGqNRJhvVJKz9mBYHJxnP2JMN5sKYpJRxOlXSEqBBWAo2MtlBZO9WgvMuylEQ3X55GUz9DBDvrOMInD1LZ9pXyuNQ8OVLxA4cRO0rRL1K3FOyy7Nkz4XtXl5K33YBRsL62QjYV5Rs0kvqM7JzBhRv93Kl1Y0IronpEVmWQU7Z91p8R52uxZ9mJwlngtA7NG1g2mkh7q
+    parentId: LzQ8vG7M5xh27KYOJ3kRHVq1nRp
+    postId: LzQ7W1D5gMH3G3LMZJl6iMQWQ9Ywl1HmPX6x8mjDi4ZmPRY9gQtGV9MR
+    factor: 1.33
+    portrait: 0
+    mInfo: fvo2ewiOTAhMsvZ
+  - id: 5LcF0WV
+    name: olMQjmVp6wFmQjmrL7yrfRz2A4Q
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/5LcF0WV.jpg
+    prevLoc: BJ8OwK03X1TnKPPxqM7VhZ1gPwxZ15hGLp3Ny3E1cRAvlN63MoiOA6J7ODOjIzMWkMLyRAcYn9w12E7zfZM2VE1pRWh8mxjNwjvzCAZMMDyEwWFrDkzOPMNGH6G0BWyMVqhPpJ65y48nsAxLJ9Lor4hXYDNNv5NxujZVWjAOBNuDxxO06kwEhzYqNvv0mGFDnv4lq63jCAlwV39ZBKt3OO2R5Bp4IAB8on1jgpsq6MM08Nvls7j9LQONq5S3vVEqExE3Uxl
+    parentId: LzQ8vG7M5xh27KYOJ3kRHVq1nRp
+    postId: LzQ7W1D5gMH3G3LMZJl6iMQWQ9Ywl1HmPX6x8mjDi4ZmPRY9gQtGV9MR
+    factor: 1.33
+    portrait: 0
+    mInfo: nC2VptDhoL0KdLp
+  - id: OE19Ksz
+    name: RJZoPXO25EFXxjOwr7KES3n7Lwp
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/OE19Ksz.jpg
+    prevLoc: jmv5zG4pgAhOmllzE3njhmnqgl0mnvhwnxVKAVNouLjxn1ZOVDiqWxnpqAqkuLPNWVxYy5I9A6zJvWrQtW8q0JLXAJHDqG4qOZ2QfQknnK1JrZIx5loXzwDVfv0xqOKlDASZW9qxzNnZfwxnoMMVggHY4x3jRG0MsOBy8OrDjPIQPPR149pLS0oPD55ZkJhrq78kqn6jfV17D0l2xMS987Rzr0QEIL5QA0l5N2UAgM8E5mDpCE9GlqxJLpiqyRlYEXgGuAX
+    parentId: LzQ8vG7M5xh27KYOJ3kRHVq1nRp
+    postId: LzQ7W1D5gMH3G3LMZJl6iMQWQ9Ywl1HmPX6x8mjDi4ZmPRY9gQtGV9MR
+    factor: 1.33
+    portrait: 1
+    mInfo: s4gpIQv30v4ACwt
+  - id: VRw0ksD
+    name: KyPZLG1K5wFk6z16pYG3c1OJQ37
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/VRw0ksD.jpg
+    prevLoc: jmv5zG4pgAhOmllzE3njhmnqgl0mnvhwnxVKAVNouLjxn1ZOVDiqWxnpqAqkuLPNWVxYy5I9A6zJvWrQtW8q0JLXA5u1ZK5ymAJrtQknnK1Jr9HMw0zQgyWPIvwKz9RXyJu9OBvrk4lKfwDoZLpnNzsqp0pYYqMLsOBy8OrDjPIQPPR149pLS0oPD55Z9kIjLG8YzgDmUVz75AGoVZUqZLzgrkQOUL3rrKVxXNtQJ415E5R6iE9GlqxJLpiqyR3KBQwwcP7
+    parentId: LzQ8vG7M5xh27KYOJ3kRHVq1nRp
+    postId: LzQ7W1D5gMH3G3LMZJl6iMQWQ9Ywl1HmPX6x8mjDi4ZmPRY9gQtGV9MR
+    factor: 1.33
+    portrait: 1
+    mInfo: 6C6qMkN8Ee37W5i
+  - id: Y5LEArY
+    name: XlgorPLmkNFZWVZy8qXMhNZzoKE
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/Y5LEArY.jpg
+    prevLoc: 2mg2YnBKqGhm3KKLrRpkuJMEpwRJMkhK4pqx3qOncknMv4gQoKcKBPEGK9KQcpnJjZ8W6XhvM1NWnBP9Fk84xmk1DEt9WXG7D7KnS2nAApwvRVtQqk8M1PDYipL0ovZ9yEsPlxvo63MjHwEGjOO2qOiVn7kOJxEJF54wp5nBLjUKkkpBPy9Vi3jZ5nnkgNUr4WPqN0RXu70XYl3463TJ1PlAYRVRH5RgKp0g7vCjJDyvj9B6i02yAPzXRxUzmPV0V97nfnk
+    parentId: LzQ8vG7M5xh27KYOJ3kRHVq1nRp
+    postId: LzQ7W1D5gMH3G3LMZJl6iMQWQ9Ywl1HmPX6x8mjDi4ZmPRY9gQtGV9MR
+    factor: 1.33
+    portrait: 1
+    mInfo: aYsQZOdQ2QHeqVK
+message: "錦鯉愛好家- 張大千 大師  紀念館內有3個錦鯉池_    他是台灣早期有名的錦鯉愛好家，當時他養了紅白、大正、昭和、黃金、孔雀、丹頂、淺黃。有的是求畫的人送的，有的是自己買的，他喜歡錦鯉，自己設計了三個風格不同的錦鯉池，旁邊佈置有盆景、雅石。 從臥室、客廳、餐廳，不同角度都有落地窗可以看到每個庭園的不同風貌。"
+---
+
+錦鯉愛好家- 張大千 大師  
+紀念館內有3個錦鯉池^_^  
+  
+他是台灣早期有名的錦鯉愛好家，當時他養了紅白、大正、昭和、黃金、孔雀、丹頂、淺黃。有的是求畫的人送的，有的是自己買的，他喜歡錦鯉，自己設計了三個風格不同的錦鯉池，旁邊佈置有盆景、雅石。 從臥室、客廳、餐廳，不同角度都有落地窗可以看到每個庭園的不同風貌。
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/jMxg57b.jpg"><img src="https://i.imgur.com/jMxg57b.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/yPyb8n3.jpg"><img src="https://i.imgur.com/yPyb8n3.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/qNb5jbE.jpg"><img src="https://i.imgur.com/qNb5jbE.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/5LcF0WV.jpg"><img src="https://i.imgur.com/5LcF0WV.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/OE19Ksz.jpg"><img src="https://i.imgur.com/OE19Ksz.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/VRw0ksD.jpg"><img src="https://i.imgur.com/VRw0ksD.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/Y5LEArY.jpg"><img src="https://i.imgur.com/Y5LEArY.jpg" height="300" width="225" /></a> 
+ 
