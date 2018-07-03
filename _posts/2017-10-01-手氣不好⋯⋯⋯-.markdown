@@ -1,0 +1,80 @@
+---
+layout: post
+title: "手氣不好⋯⋯⋯  " 
+date: 2017-10-01T04:10:49+0000 
+categories: [] 
+media:
+  - id: tHeLlz2
+    name: xxYv20G661UjGgLZ490mUp56Mvp
+    description: ""   
+    height: 720
+    width: 504
+    type: image/jpeg
+    link: https://i.imgur.com/tHeLlz2.jpg
+    prevLoc: LkY0KXy31AC39NN0qmRPuvgJAQRvgpT0xB9MD9oVtlQM4YrEROijwl4kjojViJy7wG1x3MF05RDg9kNvS39255RgxlUwV4J9PJYWHGXnK94ORvfl0Y36xlOyfMmBrO1kEZi3yo6okPWPFqnnkxJLqWtMErn5oYE1u7BqX725JNiYZZ5GmA7niXBAWNNvpEHZEKZlLX3ks4j55GMkm9srLrk7JVvBTNYZ0PGE0XCqgLDWw7GyfoZ19WJZ4MhR92kLg1WNFpz
+    parentId: EpJ90glqqxfjAzlzPBB2S8KQBV1
+    postId: yyZo2A5J8QI484YmRlAxc5J9JmgVWxckEY2WDRqYtw36wll841c8OQrL
+    factor: 1.43
+    portrait: 1
+    mInfo: gY0w8DMat6C2USa
+  - id: MkB2St1
+    name: BmDLPMgrr6TNZkDEg8j1Io2ZY6Z
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/MkB2St1.jpg
+    prevLoc: vBYRPX4GxmIl8OOJ127Wf45VWGm45xsry9RjlRVnS3EropJAjMuXLjD6XnXvIzBZoBKJRNcXkDLr8z7Nh7w3yy3kjmik81L3RL5oCQXnWLRvXztq4jED1qOrC0MB45BmXmtLX4oK45D9H5Lr8RNkE8uYOPBg2oNMIzvV8zqw9YT0VVWEM4xpuAL2NDD7ggszxjMZ3jqMI9ARNVpKXQh5JZKEv7QDujr0JYLGgZFl2YqkQrM9tNnrj4OqD7C8V3X62GNEs6p
+    parentId: EpJ90glqqxfjAzlzPBB2S8KQBV1
+    postId: yyZo2A5J8QI484YmRlAxc5J9JmgVWxckEY2WDRqYtw36wll841c8OQrL
+    factor: 1.33
+    portrait: 0
+    mInfo: HVf4c3TtvMF4t2R
+  - id: ocbFhr7
+    name: xxYv20G661UjGgLrMmJNcko5X9N
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/ocbFhr7.jpg
+    prevLoc: rxEBLQ4AqgTmZwwyM18AuoN23WnoNAInV48m68MBCjxBWq81Mzt6PK706j65uvOLNyQqAlT769yJK4k8SDjE65jv8kuolB7pjXK7fypKljA3p5UO6OxYw64LTVwnqv2nKptPNpgqEzoyTLXyLmvnlgSkxYKlWOvqcOlwBORjZgIR11jOr67PHknOwMMoD6SXnmWrkJnDto1gylBzZwI6xGlOZNR1hK5mkYR14YuApPg1y6oNhJE1G3qNR0CnrVZ5K8JvSrK
+    parentId: EpJ90glqqxfjAzlzPBB2S8KQBV1
+    postId: yyZo2A5J8QI484YmRlAxc5J9JmgVWxckEY2WDRqYtw36wll841c8OQrL
+    factor: 1.33
+    portrait: 1
+    mInfo: mOtt6y8KRsmKizi
+  - id: fHnTQKI
+    name: JxOqNnZ88QUo42BR6p9JuQqMgG4
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/fHnTQKI.jpg
+    prevLoc: wDE2QY4JynINx0056AGLU78gXMW78jS3xM4kG4D7F659koQgVNHvz4Kov0vGf14ExLwZRMiAm0OkqMg2SlRY4jgD0BFRO9JQ5ADJs4GAOR0KGqS64v7mn6jpcxZgqgvWR1tzAjvXpMPoUgo44lEy0LSw8WEK7B3Qhnyg1nOA5DFXyy9vAG5rs5JngOOqB4HRVXnrWAZ0H0mv2wzY8pC3LOYkJ1jLT0vk8pg8WAh9jPpzvWRrFJ1BAyoPADipl5ZrAw8YckZ
+    parentId: EpJ90glqqxfjAzlzPBB2S8KQBV1
+    postId: yyZo2A5J8QI484YmRlAxc5J9JmgVWxckEY2WDRqYtw36wll841c8OQrL
+    factor: 1.33
+    portrait: 1
+    mInfo: mqwKQ8XEZMhYGxG
+message: "手氣不好⋯⋯⋯  太多人喜歡了T  T    There are more than 60 dealer want this koi....  Unlucky me....."
+---
+
+手氣不好⋯⋯⋯  
+太多人喜歡了(T ^ T)  
+  
+There are more than 60 dealer want this koi....  
+Unlucky me.....
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/tHeLlz2.jpg"><img src="https://i.imgur.com/tHeLlz2.jpg" height="300" width="210" /></a> 
+  
+
+<a href="https://i.imgur.com/MkB2St1.jpg"><img src="https://i.imgur.com/MkB2St1.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/ocbFhr7.jpg"><img src="https://i.imgur.com/ocbFhr7.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/fHnTQKI.jpg"><img src="https://i.imgur.com/fHnTQKI.jpg" height="300" width="225" /></a> 
+ 

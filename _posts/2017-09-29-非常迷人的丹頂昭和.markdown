@@ -1,0 +1,48 @@
+---
+layout: post
+title: "非常迷人的丹頂昭和" 
+date: 2017-09-29T04:10:13+0000 
+categories: ["Marujyu","丸重","Koi "] 
+media:
+  - id: ydABJqh
+    name: Vj4P7Dpz3RU8vPvWkyrvup295EB
+    description: ""   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/ydABJqh.jpg
+    prevLoc: nqY7EM4wmGiWDll4wK7Gs8EjKQD8ExsM3EvmQvXgFBv10RGkYOiZY2wKZRZguonpPQWA3yClWJjwO26vtAp8xypBLXS62J7V29wVcGvvLPpWv7sEGXmR8792CK29AXQGzZs6K9vW3yv0ijZ5JopBNqCKn8kPN35whoxA7oBYKguLXXD43m18t91zlQQOKWSQ48pWOKgpClLvzjKlL7c3E32nGzA4fgrKMr7qVGULXgvnp0PvIJMkLQnEvmCMxX9VV7kwFqD
+    parentId: NBV9YrDo3JipRMAPMDxPCGvDpVA
+    postId: vvWlLx59gKClYlv03DrQcqGKGOg1pwT0N2xA4j44c6gqqxl1oXu5vrzW
+    factor: 1.78
+    portrait: 0
+    mInfo: KbuoJgATjIA3zxI
+  - id: ZRB7OvO
+    name: 8Np6My8rQVCgJAX1VZgkf3Bp01k
+    description: ""   
+    height: 356
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/ZRB7OvO.jpg
+    prevLoc: RqMkQ4G3K8iOWnnwYRvrh8ojExD8o5sqPzYx6YopTgwvEK207Wc83zgO77YJUjo0YBrz3rSR27B7kK1WH7QmQmQKwof1YWPN5WVwunoE15z2EwUVxDZNZZW2i34yw8ZlW4fn2ggQVVBxU3v2JPmDB6Tp1vWVwQlrcZJ0P5wAkkt39WA3YlgncVvP8g91nACQxqLqOnvgcKn3Vp2DLMTVYJww5gvDsqVK0rj4MpULvKlER8G7SA5000Wp58CDwGzQBZABuyRp
+    parentId: NBV9YrDo3JipRMAPMDxPCGvDpVA
+    postId: vvWlLx59gKClYlv03DrQcqGKGOg1pwT0N2xA4j44c6gqqxl1oXu5vrzW
+    factor: 2.02
+    portrait: 0
+    mInfo: PW0wH2YUhrQCcsX
+message: "非常迷人的丹頂昭和，拭目以待2018的東京大賽o    Amazing Marujyu Tancho Showa......    生產漁場;丸重養鯉場 Marujyu Koi Farm"
+---
+
+非常迷人的丹頂昭和，拭目以待2018的東京大賽*\(^o^)/*  
+  
+Amazing Marujyu Tancho Showa......  
+  
+生產漁場：丸重養鯉場 Marujyu Koi Farm
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/ydABJqh.jpg"><img src="https://i.imgur.com/ydABJqh.jpg" height="168" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/ZRB7OvO.jpg"><img src="https://i.imgur.com/ZRB7OvO.jpg" height="148" width="300" /></a> 
+ 

@@ -1,0 +1,66 @@
+---
+layout: post
+title: "Good luck" 
+date: 2017-10-04T05:38:59+0000 
+categories: [] 
+media:
+  - id: ioCxcaC
+    name: XlgorKX3xyIZqQ29470QTNWR6PN
+    description: ""   
+    height: 712
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/ioCxcaC.jpg
+    prevLoc: JgYz0Vw3KEunwppkO1q8hMO9njxMOrTK7OL93Lkjcp4LQYAxkrSwxrVlw3wXIwyBzK1LJQF1E9J3Nm56tvrK44269jUxGNEDPr7zS2BlB0RPymHJxOXEp6wJHLPyL0EmXohmRmq29g18cY2xOy3EPvFJp7ON9XjrUp74ZpgM9yTX22104KMBsYpqQzzl02TrR0AXVrrNhJVRXlW3kXCyOWZ3B267SAMJYzj9QYfQx6778vVLhy10ln2JYXSr7MXm4QEruko
+    parentId: RJZoPAKWYpcXxXBQokjWI3EQ35N
+    postId: RJZOjKn5g2HOMONPzAy2HMx6xJvGlXHgr2Qq649qS8WvVQ45E1CW6jlJ
+    factor: 1.01
+    portrait: 0
+    mInfo: yCuSiAoWu14Eo8S
+  - id: 3qp6ddT
+    name: yyZr9NARlqI3YE84MNMqc3l5nwj
+    description: ""   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/3qp6ddT.jpg
+    prevLoc: 1lYEXmAJpVIZGnnrgkMph91EWgv91xugB2XkpXP0srwjYE0R3BHM46pAM86NcExKvD9M77FDk3r2GXXns1Z19mpjLnu467wwz4N6sBLDmMoRQMH5YQXz386DH9gMLJmAPRf2gqkB3gg1Fp9ojB4VZDSjD2QX4XrgtrzgM8x994fx7KEmJW26s9Ek7zOrzgiv5RY65LkMh8Z9Wxw0X1c4v4JrQGLytkxEYxoM7lCpk4N3zoKwsVYDK4PLBXUZy8Kl6kGGI1W1Yv
+    parentId: RJZoPAKWYpcXxXBQokjWI3EQ35N
+    postId: RJZOjKn5g2HOMONPzAy2HMx6xJvGlXHgr2Qq649qS8WvVQ45E1CW6jlJ
+    factor: 1.78
+    portrait: 0
+    mInfo: 2pGOWf1ZMY62I0h
+  - id: LBV4q7Y
+    name: ZnkVzMG5OAuYzyknW3VLU0OG6ZZ
+    description: ""   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/LBV4q7Y.jpg
+    prevLoc: 5plV2qGNwATl9ggy8xZ0fK8LjrXK8gH31MOBqOnmFomzOxQ9KLhj9Y1JjZYxiR3K2jAGnntDo3RJ2WWEs9M9Jp2LgmCV5pmPQRYmcWKwNnZkEnuq7rNog1RGuyjElqxpxDsqAJYgD2EEUpj9oXk3y5TJN99XpRW8ckMn3yBqqASMl8vE6nGpCvRLM4x240sZB3QmKJnxTw69jpKjQ7TY78mP8xmVSmoLq8zy0niP094ZRvN4H2NoLLKpw5i9y7Q4k1GYHGpM9v
+    parentId: RJZoPAKWYpcXxXBQokjWI3EQ35N
+    postId: RJZOjKn5g2HOMONPzAy2HMx6xJvGlXHgr2Qq649qS8WvVQ45E1CW6jlJ
+    factor: 1.78
+    portrait: 0
+    mInfo: rDmSOc06RKvwowa
+message: "Good luck!    來自世界各地的代理商，一共約100人左右，每人再帶小團隊⋯⋯  一年比一年盛大的阪井銷售會，今天是第一天，定價銷售會。    百貨公司週年慶⋯⋯  排隊搶福袋的概念≧∇≦"
+---
+
+Good luck!  
+  
+來自世界各地的代理商，一共約100人左右，每人再帶小團隊⋯⋯  
+一年比一年盛大的阪井銷售會，今天是第一天，定價銷售會。  
+  
+百貨公司週年慶⋯⋯  
+排隊搶福袋的概念(≧∇≦)
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/ioCxcaC.jpg"><img src="https://i.imgur.com/ioCxcaC.jpg" height="296" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/3qp6ddT.jpg"><img src="https://i.imgur.com/3qp6ddT.jpg" height="168" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/LBV4q7Y.jpg"><img src="https://i.imgur.com/LBV4q7Y.jpg" height="168" width="300" /></a> 
+ 
