@@ -1,0 +1,84 @@
+---
+layout: post
+title: "恭喜🎉🎉🎉  29" 
+date: 2017-10-03T04:15:14+0000 
+categories: [] 
+media:
+  - id: eD5DnQB
+    name: pmNQkDgNNKHZDQBg4JDjsoVk16n
+    description: ""   
+    height: 720
+    width: 513
+    type: image/jpeg
+    link: https://i.imgur.com/eD5DnQB.jpg
+    prevLoc: jmv5zG4pgAhOmllzE3njhmnqgl0mnvhwnxVKAVNouLjxn1ZOVDiqWxnpqAqkuLPNWVxYy5I9A6zJvWrQtW89KKqvlyf1Z33KJDEzUQkzYPQnL6UxoEpz730OHvRGv641VLc9OyonBK9Qfwp9oKD40puqmQnxmAwjsOBy8OrDjPIQPPR149pLS0oPD55Z9ZC01W82REnmCwmojMGkr9Tq25BNoD9MF4KoNgXWNmhQwBn5j0QGcEGM4lZJD9sqyRlq9D9qCPW
+    parentId: EpJ90glJJvujYq2RK3V4t8KB8zl
+    postId: GrLvWXxQZyi8D8wZQV2vSl5w52BJgrUWOnXKQ4wvtmQZZWNwZKuMQW0n
+    factor: 1.40
+    portrait: 1
+    mInfo: yI99q07rgGKfO8L
+  - id: 4EPPKGS
+    name: mjKQYzwKK6Fq21rVNPKWsqzJE6j
+    description: ""   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/4EPPKGS.jpg
+    prevLoc: 8voWjwLQzXukqOOm3z6jcpwx4Q7pwrTG4APkgP3xcJA0r2z68wS8wYyv8qY7i8kKroyjGGfVkrA0E77GSOBO6JPKkMhwxAAjzWWWCxXPKk3J6ZUwDzBgj9oOcGL12jvJG5SDXXlW5ygpTMR9oQKm7EIQEg5ly5AOSgx39ZlGGBuWnLg6m39lHAqMNjQnjvCz5ROvn4Wzt5pOKMWj39sgJ1OXzYM8Cg1yGR6Qxjh7AZ83yjyWsrWoB5JxvntqxBOPjnKPCVzLo8
+    parentId: EpJ90glJJvujYq2RK3V4t8KB8zl
+    postId: GrLvWXxQZyi8D8wZQV2vSl5w52BJgrUWOnXKQ4wvtmQZZWNwZKuMQW0n
+    factor: 1.78
+    portrait: 0
+    mInfo: QIfd2f6nOiyHMIB
+  - id: kg2kxlx
+    name: wwXmKNjXX5unpRp6Q0n8FOnN79W
+    description: ""   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/kg2kxlx.jpg
+    prevLoc: mp28DL4v07TMl11VXAj5s1Dkwj81D6C42orB8rNZu8lwXmgOzWHLDxVqLzxJFO7jKnB9wwUnyXDlNqqwtJoJKZQvPDUrkD8Wgk12S769pyqDkQUjqry6kvPkTBEM1lkBwRHRMWmn23MDcqEzgMDyMlIAQqxXqyPpt9AORqXnnZcOoxl8D9PKHpDLB1zo13hRgEJgVN8Nhr1JAv6ygyhGJQzD06KDH19KKl5mVPfrA65G1MWES7kwNRgPEkCLy6NPXDNAinl8m6
+    parentId: EpJ90glJJvujYq2RK3V4t8KB8zl
+    postId: GrLvWXxQZyi8D8wZQV2vSl5w52BJgrUWOnXKQ4wvtmQZZWNwZKuMQW0n
+    factor: 1.78
+    portrait: 0
+    mInfo: 3XJNeZPKkU5Mgfi
+  - id: zMn5dqC
+    name: qnOYlEjOO5svVg4N6ZzXH0DKLxZ
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/zMn5dqC.jpg
+    prevLoc: JgYz0Vw3KEunwppkO1q8hMO9njxMOrTK7OL93Lkjcp4LQYAxkrSwxrVlw3wXIwyBzK1LJQF1E9J3Nm56tvrK4E1RGAsNkozEPk6DsrQKp3OoR2izOBBmPKNvULzExrQzVKfv8qqEVxvmUYzvkWrKy9cJRKoPn0oZFp74ZpgM9yTX22104KMBsYpqQzzl00t59VE2M3GRFM4PZ3X2Kktrz8kKwjV8U2YYr8ElVQsjPmzRBp7DtJPELXjwL8ir7lRZ3DDZskw
+    parentId: EpJ90glJJvujYq2RK3V4t8KB8zl
+    postId: GrLvWXxQZyi8D8wZQV2vSl5w52BJgrUWOnXKQ4wvtmQZZWNwZKuMQW0n
+    factor: 1.33
+    portrait: 1
+    mInfo: qyLgPdfXtWHRtgz
+message: "恭喜🎉🎉🎉  29號真子昭和 - 獅女王子代  3歲69公分，得標價日幣1,000萬  約台幣270萬！  由新加坡代理得標o    Congratulations 🍾🎉🎊   JPY 10,000,000-  USD 89,000-"
+---
+
+恭喜🎉🎉🎉  
+29號真子昭和 - 獅女王子代  
+3歲69公分，得標價日幣1,000萬  
+約台幣270萬！  
+由新加坡代理得標*\(^o^)/*  
+  
+Congratulations 🍾🎉🎊   
+JPY 10,000,000-  
+USD 89,000-
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/eD5DnQB.jpg"><img src="https://i.imgur.com/eD5DnQB.jpg" height="300" width="213" /></a> 
+  
+
+<a href="https://i.imgur.com/4EPPKGS.jpg"><img src="https://i.imgur.com/4EPPKGS.jpg" height="168" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/kg2kxlx.jpg"><img src="https://i.imgur.com/kg2kxlx.jpg" height="168" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/zMn5dqC.jpg"><img src="https://i.imgur.com/zMn5dqC.jpg" height="300" width="225" /></a> 
+ 
