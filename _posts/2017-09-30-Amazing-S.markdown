@@ -1,0 +1,66 @@
+---
+layout: post
+title: "Amazing S" 
+date: 2017-09-30T02:51:42+0000 
+categories: ["Sakai","Koi "] 
+media:
+  - id: 7VJZaKh
+    name: wwXmKNpgxvHNm5LLM8oPHO8Ep6Q
+    description: ""   
+    height: 720
+    width: 382
+    type: image/jpeg
+    link: https://i.imgur.com/7VJZaKh.jpg
+    prevLoc: gjx8wB4mD7hByPPv6mAlfD74JgRD70hNDYpwkp54Cm6AOM2rjvipZ40qpVpWhRyQMV5AKPuOLNJz1K3GiPZD6EqBLLt9lL7qR0ywS70ZmXD0n2TYpMRmA0QKfOzmyxDnpvuvowP4JoljH6pzzqP77jspgkQ630PZfqgp8qm57xtX116r7VpBsBYqJyywE0Tyq5vxkMEmtO8Y8NV378i2vxl4wE6NTQZDDwMkl7i92jOLR2nWSx9P5MrzWKUQw4zANnW7t9O
+    parentId: jKEq0wRJBNUOX85nVx18C6yZrvr
+    postId: KyP197B5OKI1X1LxGjZVtlD5DKrE92UNgyo5QEoQsPo87rzNwls3Ek9G
+    factor: 1.88
+    portrait: 1
+    mInfo: HiuqGC57nQduKDz
+  - id: 3sYeLHj
+    name: YmjvyJEXZNF9qKKzx96rUkJPvmz
+    description: ""   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/3sYeLHj.jpg
+    prevLoc: 1lYEXmAJpVIZGnnrgkMph91EWgv91xugB2XkpXP0srwjYE0R3BHM46pAM86NcExKvD9M77FDk3r2GXXns1Z19mpj8gt8Ek0QXAmBtBLD6P4W6AC9QY1pKqA5c9v2WjVRvXf21G3lnMJ0Ip9j5YNpBJfqzjY0KpmqSrzgM8x994fx7KEmJW26s9Ek7zOrzgiv5jJwP3EwsjBW7P49DQc4oBKDkEYwUjypwrgOqLivzDmVM4z1CVo76yzgQ1iZy8KlYG0DC19j0P
+    parentId: jKEq0wRJBNUOX85nVx18C6yZrvr
+    postId: KyP197B5OKI1X1LxGjZVtlD5DKrE92UNgyo5QEoQsPo87rzNwls3Ek9G
+    factor: 1.78
+    portrait: 0
+    mInfo: GXYGTXrHdUjJ2vX
+  - id: NB7P7BB
+    name: pmNQkDYVnlFwWgg0Dwwjfo2EwM1
+    description: ""   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/NB7P7BB.jpg
+    prevLoc: vBYRPX4GxmIl8OOJ127Wf45VWGm45xsry9RjlRVnS3EropJAjMuXLjD6X3jnIzWKDr5JRRirZ1xLPwwDS7P7plxk9RTX9o28wwzPfQgyzK03zMTq87B0V40zu0AARg1Z2mfA919EK0EMS597kg0K2oUYoXrxnE4WtzgXW2QMMZC0Qw4r7N1Rtn7rjVZqVDunE93yOVj0TAYpKZ4gELU5GAyD34BQIPlOpJBpEYf0qz14J31gtNLR6nMJo7HE7ARx2pZpUKlRjK
+    parentId: jKEq0wRJBNUOX85nVx18C6yZrvr
+    postId: KyP197B5OKI1X1LxGjZVtlD5DKrE92UNgyo5QEoQsPo87rzNwls3Ek9G
+    factor: 1.78
+    portrait: 0
+    mInfo: HYHaLBBpG7dkT37
+message: "Amazing Sakai Sanke!  體型、質地、模樣⋯⋯o    生產漁場;阪井養魚場 Sakai Fish Farm  代理漁場;成田養魚園 Narita Koi Farm  品種尺寸;大正三色 Sanke 94cm  魚主;袁建栋 - 中國 Mr. Yuan - China"
+---
+
+Amazing Sakai Sanke!  
+體型、質地、模樣⋯⋯*\(^o^)/*  
+  
+生產漁場：阪井養魚場 Sakai Fish Farm  
+代理漁場：成田養魚園 Narita Koi Farm  
+品種尺寸：大正三色 Sanke 94cm  
+魚主：袁建栋 - 中國 Mr. Yuan - China
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/7VJZaKh.jpg"><img src="https://i.imgur.com/7VJZaKh.jpg" height="300" width="159" /></a> 
+  
+
+<a href="https://i.imgur.com/3sYeLHj.jpg"><img src="https://i.imgur.com/3sYeLHj.jpg" height="168" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/NB7P7BB.jpg"><img src="https://i.imgur.com/NB7P7BB.jpg" height="168" width="300" /></a> 
+ 
