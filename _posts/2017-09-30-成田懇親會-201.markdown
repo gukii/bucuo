@@ -1,0 +1,62 @@
+---
+layout: post
+title: "成田懇親會 201" 
+date: 2017-09-30T08:23:59+0000 
+categories: [] 
+media:
+  - id: I7YWiut
+    name: XlgorGDVlAHZM5YKwpq1hNxDJRm
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/I7YWiut.jpg
+    prevLoc: 7rnYgvKPyDIRNEErMQAmTJRGrgwJRDhlErDX3Dzvcw4n18lzL5uX4j2xXlXnIREZQE8jyBIZO4KoBNR0f4rngkrL7OI12DlRA2kriBYKpqYGypiqngmNRZD0Hl28k0365DfG29j8Z0mzHoYEXXDjXEILP9n2pwPEfLKmyL65QosVQQqwj7mzURlZQPP4wWuwNpoDDYEPCxoYVvrWkJugNqnwAVGBfAL4nV7mDGhr0xZ3QXPYhDXj5EoA8BtjZkXnYlrzIp3
+    parentId: wwXmKNpgw8SnAW86L871tOEEXGn
+    postId: mjKON06MwlUMgMvLrmkOiKj2jqVAo4Sl60mNKnR8SXgom0DA1DFZoBrD
+    factor: 1.33
+    portrait: 0
+    mInfo: hIAMj4KjrksNgNK
+  - id: ucaoToR
+    name: wwXmKNpgw8SnR81QLxQ0uO6qR97
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/ucaoToR.jpg
+    prevLoc: PoMgO2D3K6C6XvvBgoK4CMrpQOKMr5TpwBv2lvK5ImPnkYzJ6Zi2Jr7j2p28ulpNWpY16xFMNRWr0ylpCrpk5NowJ9CzYRw5BwnNcwQ6JzQWPJhzDq97ppzzCGM9LnGmo3UnzQg7Wp3nsMwPOBNNVRU97Q2kWmMGsryL2rmO51IkYYoZ0yVAtk7BO55mWjH6BPgMOnzgcP76m8OP6XIJ2qZANZL2cVx9ODrNrntlqR31Yz7Gsqnl70AL95CE48k5B1J6IlL
+    parentId: wwXmKNpgw8SnAW86L871tOEEXGn
+    postId: mjKON06MwlUMgMvLrmkOiKj2jqVAo4Sl60mNKnR8SXgom0DA1DFZoBrD
+    factor: 1.33
+    portrait: 0
+    mInfo: howilZkWC9adu0s
+  - id: mWcGJWT
+    name: yyZr94PkyOC3yXvN9Jx3I3nQjBM
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/mWcGJWT.jpg
+    prevLoc: BJ8OwK03X1TnKPPxqM7VhZ1gPwxZ15hGLp3Ny3E1cRAvlN63MoiOA6J7ODOjIzMWkMLyRAcYn9w12E7zfZM1pNzLMBh8roRWlNwRIA8D1n8yp3TM2rxP6957SovPXRP2lOSL0Ev8Z24zUY9pAO7nNWiyMv8Blw7xIjZVWjAOBNuDxxO06kwEhzYqNvv0mGFxLP1G2n8wtqj1PAL1x9U3MwRPo7E2IAlYYGkxrxUYGK526k98TNKv56nXjmU3vVOLv9qvUxl
+    parentId: wwXmKNpgw8SnAW86L871tOEEXGn
+    postId: mjKON06MwlUMgMvLrmkOiKj2jqVAo4Sl60mNKnR8SXgom0DA1DFZoBrD
+    factor: 1.33
+    portrait: 0
+    mInfo: UKOSz6TAAb4Rz4B
+message: "成田懇親會 2017    這是成田養魚場每年舉辦的活動，在過去一年從成田買魚而獲獎的客戶，成田舉辦感謝晚宴並贈與紀念品。"
+---
+
+成田懇親會 2017  
+  
+這是成田養魚場每年舉辦的活動，在過去一年從成田買魚而獲獎的客戶，成田舉辦感謝晚宴並贈與紀念品。
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/I7YWiut.jpg"><img src="https://i.imgur.com/I7YWiut.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/ucaoToR.jpg"><img src="https://i.imgur.com/ucaoToR.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/mWcGJWT.jpg"><img src="https://i.imgur.com/mWcGJWT.jpg" height="225" width="300" /></a> 
+ 
