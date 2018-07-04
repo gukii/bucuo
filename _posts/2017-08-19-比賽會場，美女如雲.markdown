@@ -1,0 +1,61 @@
+---
+layout: post
+title: "比賽會場，美女如雲" 
+date: 2017-08-18T16:52:54+0000 
+categories: ["Koi "] 
+media:
+  - id: mEybngs
+    name: NBV9YpRLzxhpRjNzzmyDfG6Rlk6
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/mEybngs.jpg
+    prevLoc: q0V6KP4zpAI2NLLgBz8OuKr4YGkKrAHVOW6YK6wMHzy7XQ18AWinwryAnYn6h5LlGLyV46hyj9M4GNLgtGBzpxM8QGIvV5wYlXBBsL3P9WvwN4UOAAR57K2pf1jzQJJlLPUZGpO5qEJwtrz3kRzVz3F5Yq26jOnmFKMnrKXGzAFVkkNvjn4zU56KXQQzknHJQKp0Jn4BuR58yLmpgwf4lmGKzlAnHnpql6lKG3uzArgqkYjnI4l0r931E0iXYVx9Njmrt7Y
+    parentId: DoG9QPA1mRHZP3N61GlKFDzZLrj
+    postId: 70o1VyzW6NiR8RLjJOnDHzg9gnPmZACM4KK0zp1gI1g7kg4RMzhonGnY
+    factor: 1.33
+    portrait: 0
+    mInfo: UwPi3BbuSf9xkzw
+  - id: 95qUWvs
+    name: 8Np6MOl1RqhgrwlWDoZGuPpMyoo
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/95qUWvs.jpg
+    prevLoc: Xz7qZjO8XYT9KBBlAqXnTY9gx1jY9OHwNg0kL0B1uMQ5NvRP74HAr3VLAWAvILnJxnWVOjuRo7A0xzEkF3OqG6O168c8Bpq4XBvRSvyY7ZgDgDSY99z3RLowio0AZBY8rPSRoEPvPXyBUYQpk13OKEU8ZOjgL92mSYW2zYRqEmFNPPDJXlz2FgYMWzz3x3ImlGBL5xM1uYGl03XP0GSG68p3zEp7s5Dv3qLXLOurgEwn30rYujrV9R6GpNfzL8yRkOwEuop
+    parentId: DoG9QPA1mRHZP3N61GlKFDzZLrj
+    postId: 70o1VyzW6NiR8RLjJOnDHzg9gnPmZACM4KK0zp1gI1g7kg4RMzhonGnY
+    factor: 1.33
+    portrait: 0
+    mInfo: nLr3Yc7KjioCldp
+  - id: mTNsO4U
+    name: 9NqQDOm1V8hj12LrG30KirK4PkN
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/mTNsO4U.jpg
+    prevLoc: JgYz0Vw3KEunwppkO1q8hMO9njxMOrTK7OL93Lkjcp4LQYAxkrSwxrVlw3wXIwy8qyE61GT1E9JvMolRCvr2Lk1O2jiN7BGEOo7lC2ByP5zmY4czLqZGnmmDSLxXDEOq26UvyMMjD8QlIkZWRyPJOAfJpqNl95G3ip74ZpgM9yTX22104KMBsYpqQzzl0GfrGqr8E7Ewslk11qyLqRTr1O6l3m1GSlMn7ZWZvOCYjG6qxAjvUOWkPYqWlgSr7lRVWEQ9TQn
+    parentId: DoG9QPA1mRHZP3N61GlKFDzZLrj
+    postId: 70o1VyzW6NiR8RLjJOnDHzg9gnPmZACM4KK0zp1gI1g7kg4RMzhonGnY
+    factor: 1.33
+    portrait: 0
+    mInfo: UpJNwkuF6hwJRFs
+message: "比賽會場，美女如雲≧∇≦  Very nice koi show!!"
+---
+
+比賽會場，美女如雲(≧∇≦)  
+Very nice koi show!!
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/mEybngs.jpg"><img src="https://i.imgur.com/mEybngs.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/95qUWvs.jpg"><img src="https://i.imgur.com/95qUWvs.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/mTNsO4U.jpg"><img src="https://i.imgur.com/mTNsO4U.jpg" height="225" width="300" /></a> 
+ 
