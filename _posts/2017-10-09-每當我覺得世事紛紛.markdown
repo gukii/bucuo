@@ -1,0 +1,34 @@
+---
+layout: post
+title: "每當我覺得世事紛紛" 
+date: 2017-10-08T16:45:05+0000 
+categories: [] 
+media:
+  - id: LeEreTV
+    name: Vj4P7GkB5kT8vP77ZyEyhpXzEBr
+    description: "每當我覺得世事紛紛擾擾，就會上網找銀河系的圖片，然後就覺得滄海一粟的自己，能有多大的煩惱呢？晚安！加油！Good Night! ABK GO!!圖片來自;http;www.youcanseethemilkyway.com"   
+    height: 479
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/LeEreTV.jpg
+    prevLoc: RqMkQ4G3K8iOWnnwYRvrh8ojExD8o5sqPzYx6YopTgwvEK207Wc83zgO8V86IjyKoWPLkDTRyGXlvm9ZU7vL0wv49ru1XwnowWWNsn1kjwGLgpfXkA2kkzyEI3GJLrwjKDtn23zwLk7Kt30XRWjlxgFp2mpXl5pQcDolmDExA2FqKK6oRBkjfR3Qw99g7xh6wp8A2wGNhBwzgPl5oLfB3v2LZ11vtqV7Mm7ExRhEzqZpmYZ4fgqkQn8qAvC5wjqwqBv0iK9
+    parentId: Vj4P7GkB5kT8vP77ZyEyhpXzEBr
+    postId: nkLx6mXNZnIWPWnpYJr8ULQRQVz7nvf90ZPN071pT01RBYE9Zvt9g52V
+    factor: 1.50
+    portrait: 0
+    mInfo: lzphEWZPhPKUhMk
+message: "每當我覺得世事紛紛擾擾，就會上網找銀河系的圖片，然後就覺得滄海一粟的自己，能有多大的煩惱呢？    晚安！加油！  Good Night! ABK GO!!    圖片來自;  http;www.youcanseethemilkyway.com"
+---
+
+每當我覺得世事紛紛擾擾，就會上網找銀河系的圖片，然後就覺得滄海一粟的自己，能有多大的煩惱呢？  
+  
+晚安！加油！  
+Good Night! ABK GO!!  
+  
+圖片來自：  
+http://www.youcanseethemilkyway.com/
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/LeEreTV.jpg"><img src="https://i.imgur.com/LeEreTV.jpg" height="199" width="300" /></a> 
+ 
