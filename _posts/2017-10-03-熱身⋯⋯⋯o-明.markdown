@@ -1,0 +1,94 @@
+---
+layout: post
+title: "熱身⋯⋯⋯o  明" 
+date: 2017-10-03T11:54:51+0000 
+categories: ["Sakai"] 
+media:
+  - id: 4jWsACD
+    name: PE0ZzyKP7MInD20OxKElF201nz6
+    description: "阪井養魚場 阪井健太郎社長日本資深錦鯉愛好家 岡田 隆平社長"   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/4jWsACD.jpg
+    prevLoc: wDE2QY4JynINx0056AGLU78gXMW78jS3xM4kG4D7F659koQgVNHvz4Kov0vGf14ExLwZRMiAm0OkqMg2SlRY44Y2JxFR2D5yLQnDHNK41Jg11vfqzl1nKqo3hj7k2B9OwBCzRY7L0AQ1sgVyp4Y3RDH7nrB2GM43Inyg1nOA5DFXyy9vAG5rs5JngOOqBPsRm0nREjKQH0WvwkNvNDu3PnMXp68JU0v0r9zR8GfrP2MLBXlJH2mm6nvLoXHploB6YXo4SkY
+    parentId: 54m9RZw6lOc1ZXzLovMMU7EKR0V
+    postId: qnO7Lp5MjwS2E296opJqc3GyG0oVOMtA15DMvQB7fXYyjQJE4JTKB494
+    factor: 1.33
+    portrait: 1
+    mInfo: FvW9Hcxt1709D62
+  - id: rj4Mefk
+    name: gEALnoDrxlHJAoNwMnRRFpvDLwY
+    description: "這是要上幾道菜呢?≧∇≦"   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/rj4Mefk.jpg
+    prevLoc: NmEXMZA3K7h63VVYLE0NC60W9MK60ohZxjgD2gnPczw1rPn0KmiBrQyNBnB4CoRmrRBMg9c3ARx8l4L2HlZNBnqMW4UW7JqXRxOYuwqPM5rpVwfPnqKjAGykTyGmOoxkQmhxrjynVK9Kuvkm9g59wxfEpElgBQ74hQA8OnWWVjhozyQJN44muO5DqvONxwTWlK8N9o9Aup7pDnEMB0iGn55lMPj2I9kgRonxmqSlpnlRNLPqSkKYNAmYjMcZRJjpy155
+    parentId: 54m9RZw6lOc1ZXzLovMMU7EKR0V
+    postId: qnO7Lp5MjwS2E296opJqc3GyG0oVOMtA15DMvQB7fXYyjQJE4JTKB494
+    factor: 1.33
+    portrait: 0
+    mInfo: ZS0k0B56KfjQI03
+  - id: T4eIuM5
+    name: JxOqNpKJYvsoq6yBnrV1cJnOqPX
+    description: "🐂"   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/T4eIuM5.jpg
+    prevLoc: YAQr1kP3YVc9lkkKYNL3ToZWQmNoZ5IPrwoZJoK0cvnzol3MRmHgP3OZgrgLTPGA5G1j0BIWMK87JpOgt89ZRRAQYvfKYBp2jkJrupW5l0YmrAc90wwYqZp8F28Lgvkxz0iz4zq4m97XTkQzKAAQkQtY4M7wYGAGs4pXY4VLv9s7RR1qvw4NH74PDrrw0yujpzvLrG7wHQNxppJz53CjVG2pgB0OfAMr2wQZkGfJjw74YKQZfnO6YY1LOAH4k8MMMlw0C1n
+    parentId: 54m9RZw6lOc1ZXzLovMMU7EKR0V
+    postId: qnO7Lp5MjwS2E296opJqc3GyG0oVOMtA15DMvQB7fXYyjQJE4JTKB494
+    factor: 1.33
+    portrait: 0
+    mInfo: 5YbKAP7yhnOyeRK
+  - id: BnC6xVm
+    name: NBV9YwKNEzcp0O9ErvlpFG90Z51
+    description: "🐔"   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/BnC6xVm.jpg
+    prevLoc: RqMkQ4G3K8iOWnnwYRvrh8ojExD8o5sqPzYx6YopTgwvEK207Wc83zgO8V86Ijyzqy0wP7FRyGXQjgAPF7vL0MVQ9xF1X67D9krxFlRNJzyX7liVL00MoP2OFGWOw99xxpFnGkj64DWlSRWMMOYNG2tplGDAxLZGCDolmDExA2FqKK6oRBkjfR3Qw99gByHQZwOPpGBpS2yw4X5336SVDBAK7pRvUY1XQgy995T78z6lpMDjIgr8YxWqZMI5wK0zrGkLHKQ
+    parentId: 54m9RZw6lOc1ZXzLovMMU7EKR0V
+    postId: qnO7Lp5MjwS2E296opJqc3GyG0oVOMtA15DMvQB7fXYyjQJE4JTKB494
+    factor: 1.33
+    portrait: 0
+    mInfo: f04RIBz0P5QBtML
+  - id: sm3t1xh
+    name: mjKQYx0A2rhqjg6pylZpSJ2zlJX
+    description: "🐟"   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/sm3t1xh.jpg
+    prevLoc: 6qmG3rJOxYiWmVVRk1rosAL3vKoAL7tzAP4G74n6C3LXjw0rOGuRNQ7vRDR4tOxL1xykWmsqAGMWrg4NS8E6P10MJoT13VvwYkl6sg6wpNYMx8FmX55y4kLGH7glz3rAPquQYqYKPYnwTDqmmZ0j0BtVy0w1DBJluy35RyzxW9C5QQJE2DXrSV10MLL23wTWXmPOXVrnCjXEymB7PvuB0QxRmLxxSomWwZYqnzTAQAmOowJxTnwNyVKVLpi9N8MNRN9khm8
+    parentId: 54m9RZw6lOc1ZXzLovMMU7EKR0V
+    postId: qnO7Lp5MjwS2E296opJqc3GyG0oVOMtA15DMvQB7fXYyjQJE4JTKB494
+    factor: 1.33
+    portrait: 0
+    mInfo: CbQZcCTNZaY2T5O
+message: "熱身⋯⋯⋯o  明天是阪井定價銷售會，儲備熱量好搶魚啦！  Sakai welcome dinner party!"
+---
+
+熱身⋯⋯⋯*\(^o^)/*  
+明天是阪井定價銷售會，儲備熱量好搶魚啦！  
+Sakai welcome dinner party!
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/4jWsACD.jpg"><img src="https://i.imgur.com/4jWsACD.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/rj4Mefk.jpg"><img src="https://i.imgur.com/rj4Mefk.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/T4eIuM5.jpg"><img src="https://i.imgur.com/T4eIuM5.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/BnC6xVm.jpg"><img src="https://i.imgur.com/BnC6xVm.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/sm3t1xh.jpg"><img src="https://i.imgur.com/sm3t1xh.jpg" height="225" width="300" /></a> 
+ 
