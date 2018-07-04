@@ -1,0 +1,29 @@
+---
+layout: post
+title: "聽說颱風要來⋯⋯⋯" 
+date: 2017-09-01T14:09:00+0000 
+categories: [] 
+media:
+  - id: o5SyNXo
+    name: mjKQY0lzxAFq9yyGPDyouJwOMyv
+    description: "聽說颱風要來⋯⋯⋯這次該不會逆風飛回去吧⋯⋯⋯"   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/o5SyNXo.jpg
+    prevLoc: BJ8OwK03X1TnKPPxqM7VhZ1gPwxZ15hGLp3Ny3E1cRAvlN63MoiOA6J7ODOjIzMWkMLyRAcYn9w12E7zfZM2V45kN8c824O0N2EQiYNZB4mxX6crx6k7Q28ju6Zg2QXWZ3fPpopm77YEsYl28rxn0AhyLJE1kYQGhjZVWjAOBNuDxxO06kwEhzYqNvv0m0SDEm1wpNW8cqBWEo4AvZt3MKgkRLmkSWgKAY4R3EhmMO90kVROuL833L4k16H3vV29ZlLDcxj
+    parentId: mjKQY0lzxAFq9yyGPDyouJwOMyv
+    postId: 9Nq1YABL8RfOlO8Vp5rGHYyly6B85Gs2Wr0zoMAVcQEz6jP20yiKRR3K
+    factor: 1.33
+    portrait: 0
+    mInfo: OaSpPCr9f5rRfvv
+message: "聽說颱風要來⋯⋯⋯  這次該不會逆風飛回去吧⋯⋯⋯"
+---
+
+聽說颱風要來⋯⋯⋯  
+這次該不會逆風飛回去吧⋯⋯⋯
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/o5SyNXo.jpg"><img src="https://i.imgur.com/o5SyNXo.jpg" height="225" width="300" /></a> 
+ 
