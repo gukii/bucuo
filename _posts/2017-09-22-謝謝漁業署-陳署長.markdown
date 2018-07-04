@@ -1,0 +1,76 @@
+---
+layout: post
+title: "謝謝漁業署 陳署長" 
+date: 2017-09-22T06:50:38+0000 
+categories: [] 
+media:
+  - id: 1AwNCsc
+    name: lgJ52WJK15FMVMGv9DEvun757pp
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/1AwNCsc.jpg
+    prevLoc: GOYzBPq3XwU84WWrn01JSq0OX59q0xfRyLZPmZ5pcwOq06RQ1xuEGNDrE0EQTXrgAr5kyluE398yPNKrCVgNJYREnvcPvRMMZ7rPUN1n5LzXmxuo6XovmkvrcQrwvl9gZkt3Y1YrQ44VTNR9l2gnzDsPO11AEnrVIO0jxOJ36XIj11A7QXqEhAQx1RRrNNs75mD7vW5Mf9YXvNjj56I4ZRPxEZOoTJkY0J4NpwIOBy0vKJ9lfVZoPE1QPpSMAjVLAjkkiNZ
+    parentId: lgJ52WJK15FMVl7j9gJjIn7578j
+    postId: ZnkYrGym4qSjkjznp3XJUw4Y41RAgMIEZYNo2ZgrIZk6V4YYXDhEZ5KY
+    factor: 1.33
+    portrait: 0
+    mInfo: KFlgrYRKeK7M9j8
+  - id: i3E0Aom
+    name: qnOYlWOP1YC2E2BEjgrDf0Dm98E
+    description: ""   
+    height: 720
+    width: 514
+    type: image/jpeg
+    link: https://i.imgur.com/i3E0Aom.jpg
+    prevLoc: DLY6yMn3ZwIxAjj7pn5Bszk0vGPzkYsmw1ZRGZOYFrLK42NEWRHEGNZmEnE3TNg3J5ykD0Tm7xngEo5jiWkGpQx6wJHLoyp8P8NBs80PyxkD49fyB63POrjDHVkQy7gWqyu2NDKqYNNXtD3JJE84AEIQqgZD8pkpck4nYk7mZBHnKKZov3VEhnGKLrrmMMcrYnJlAARvsYn7xNLNRWiMnl09LNMjs83rzpmPj8FEmmrXOkWmFmMLLmK7YBhP7l9pwmnrhG6
+    parentId: lgJ52WJK15FMVl7j9gJjIn7578j
+    postId: ZnkYrGym4qSjkjznp3XJUw4Y41RAgMIEZYNo2ZgrIZk6V4YYXDhEZ5KY
+    factor: 1.40
+    portrait: 1
+    mInfo: zXnbzkourYHmWub
+  - id: DwFsA5t
+    name: pmNQkWNO1QHwVwkV2qmpcoEwEzg
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/DwFsA5t.jpg
+    prevLoc: KjYzJWx37Ah1W88QKB2qugG8kDRgG0hmJK1wB15VFYMmPJvBLkfk1wWKkZkOIBG6EGqNRJhvVJKz9mBYHJxnPqjojkiKBjR17qDjH4Y1J7l8G5UlnOl0oY0Wtyk1044jxos4vX653j5Rtn3vO7OG50c7Zj2POMjYhRqV3xEEL2fO0r2pN66MhXyvWJXMzAHL7AG1NPmPH2lYWoDXgVcRwKAVZjjph9oNONw02Xc7Z9xnVnZ0UxgML8WMZ0FAXQXWo5wJ
+    parentId: lgJ52WJK15FMVl7j9gJjIn7578j
+    postId: ZnkYrGym4qSjkjznp3XJUw4Y41RAgMIEZYNo2ZgrIZk6V4YYXDhEZ5KY
+    factor: 1.33
+    portrait: 0
+    mInfo: zdcQieKo2P08iIG
+  - id: cMdD6ai
+    name: ODWyPpW1KySO7OyNEKDmSGYPXw6
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/cMdD6ai.jpg
+    prevLoc: NmEXMZA3K7h63VVYLE0NC60W9MK60ohZxjgD2gnPczw1rPn0KmiBrQyNBnB4CoRmrRBMg9c3ARx8l4L2HlZ0WQK6mnSZjYGAMDnxhwq8xrpzjlTJyn1GxzAAUGZmYmo1g9F8j2XW834Zim1EDAJVRoHD3oB7Apn4fQZwXQVDvOioKK0NxRWOtOzM9KKYnnI2pr3Jq8o7Hq7A4VKP3wtGmG6WRORxiyx4nDr8rpi26z544xRVCkY21mJgN2HZ6Kp9kVnDFwq
+    parentId: lgJ52WJK15FMVl7j9gJjIn7578j
+    postId: ZnkYrGym4qSjkjznp3XJUw4Y41RAgMIEZYNo2ZgrIZk6V4YYXDhEZ5KY
+    factor: 1.33
+    portrait: 0
+    mInfo: 5UrnphmbqWAwoqs
+message: "謝謝漁業署 陳署長蒞臨指導_"
+---
+
+謝謝漁業署 陳署長蒞臨指導^_^
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/1AwNCsc.jpg"><img src="https://i.imgur.com/1AwNCsc.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/i3E0Aom.jpg"><img src="https://i.imgur.com/i3E0Aom.jpg" height="300" width="214" /></a> 
+  
+
+<a href="https://i.imgur.com/DwFsA5t.jpg"><img src="https://i.imgur.com/DwFsA5t.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/cMdD6ai.jpg"><img src="https://i.imgur.com/cMdD6ai.jpg" height="225" width="300" /></a> 
+ 
