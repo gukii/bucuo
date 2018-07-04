@@ -1,0 +1,78 @@
+---
+layout: post
+title: "感謝～  中華愛鯉" 
+date: 2017-09-23T03:51:01+0000 
+categories: [] 
+media:
+  - id: AfFFtA2
+    name: xxYv2WP39RSjQwo7pXXyckQD5XB
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/AfFFtA2.jpg
+    prevLoc: mp28DL4v07TMl11VXAj5s1Dkwj81D6C42orB8rNZu8lwXmgOzWHLDxVqLJLEcOm27Dw54Mhx5wlOM1z9cJVGmp464Ahrv0MYZkm4FyX8nLVQ7NTjPWo3J7nZHBpnOoPBZwtDjRlPZAVoS5y8k0GGQWiAQqykZXl7h9NDm9Yj7lCOkk34QlLptZw0q33DkYcZmllGv25Vsq3P2zQRRYHG3wrJLvE7cjLNl7yZ6XUXNXYn61m0UgW9DNEXGkIqr7lGROo2ur9
+    parentId: xxYv2WP39RSj90oBx1YnukQDZr8
+    postId: Vj4An2r0mgUZWZMjRDzGi1wvwKN3XrclQJ4xZ6posMn5nvXyB2CnmQWg
+    factor: 1.33
+    portrait: 1
+    mInfo: 6VQnB9CGrRp8eWM
+  - id: Wp1GhTk
+    name: GrL5MNDlgBf9LG4Jzn9JuG7Wjgx
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/Wp1GhTk.jpg
+    prevLoc: AGQWvJk3X8HROrrx0nN9TjMPwxDjMWskMJ1G91Pzu1E0ROX78WurAYVgrBrMiLXOkXz34BuDZk6YznqETyXk79DXylSEvlw6zj1kUXRQjx1M6gfKEOqw7qQ9UqmE14m1r2H3N7lG0xkGTxRP4W99knh83wvm9jXXI1xB01jEOPINPP6kv97wFvYKDBBr71UNOk93NAMDCmq2v1R4jqurk6GEmRKOFOM4OAWY69fwVn2j76JVCGEoXk7QXOs5Oj0gwYJ9ivD
+    parentId: xxYv2WP39RSj90oBx1YnukQDZr8
+    postId: Vj4An2r0mgUZWZMjRDzGi1wvwKN3XrclQJ4xZ6posMn5nvXyB2CnmQWg
+    factor: 1.33
+    portrait: 0
+    mInfo: 2NjQu28TpvrSKSk
+  - id: oTd1jzE
+    name: XlgorB1JnZCZM0Kp5o3OhNVQpPY
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/oTd1jzE.jpg
+    prevLoc: mp28DL4v07TMl11VXAj5s1Dkwj81D6C42orB8rNZu8lwXmgOzWHLDxVqLJLEcOm27Dw54Mhx5wlOM1z9cJVGmnlVgKHrkz98OzM9UyX8nLVQ7AhNVvyY4yMLfBpnoK06YKiRwPnvEDEmiq1WqmklOliAlwjk16l7s9NDm9Yj7lCOkk34QlLptZw0q33DkAfZlqp8R80jtqMr97x7N7fGP55Eg0AnI18l627B5ycXKkg8OJrmfvomNGOR5YSqrZR6OvM1Sy1
+    parentId: xxYv2WP39RSj90oBx1YnukQDZr8
+    postId: Vj4An2r0mgUZWZMjRDzGi1wvwKN3XrclQJ4xZ6posMn5nvXyB2CnmQWg
+    factor: 1.33
+    portrait: 1
+    mInfo: CTJ5nkerk4WleHY
+  - id: I5tr1d4
+    name: gEALnWr36wiJYpyVLAKAu9BNLV0
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/I5tr1d4.jpg
+    prevLoc: 6qmG3rJOxYiWmVVRk1rosAL3vKoAL7tzAP4G74n6C3LXjw0rOGuRNQ7vRDR4tOxL1xykWmsqAGMWrg4NS8ELJRGBA7c1pX56E1pAtgM7D2KjvLfmOMEMGWrJc7w6LOY0M5uQW1y6o2KjHMYppXL9wMtPYggD9Lr6Fy35RyzxW9C5QQJE2DXrSV10MLL23wTyry3Oponrs2YymlzLy4cBPxWopP1KIX55OZkKJEUWPMqkWgYWi7Q9gzpg5vC9Nr3ljzGMUEy
+    parentId: xxYv2WP39RSj90oBx1YnukQDZr8
+    postId: Vj4An2r0mgUZWZMjRDzGi1wvwKN3XrclQJ4xZ6posMn5nvXyB2CnmQWg
+    factor: 1.33
+    portrait: 0
+    mInfo: S5NtrNfo2jofMVz
+message: "感謝～  中華愛鯉協會 洪理事長  贈送 祝賀花籃"
+---
+
+感謝～  
+中華愛鯉協會 洪理事長  
+贈送 祝賀花籃
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/AfFFtA2.jpg"><img src="https://i.imgur.com/AfFFtA2.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/Wp1GhTk.jpg"><img src="https://i.imgur.com/Wp1GhTk.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/oTd1jzE.jpg"><img src="https://i.imgur.com/oTd1jzE.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/I5tr1d4.jpg"><img src="https://i.imgur.com/I5tr1d4.jpg" height="225" width="300" /></a> 
+ 
