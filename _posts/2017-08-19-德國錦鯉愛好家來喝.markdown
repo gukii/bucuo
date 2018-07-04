@@ -1,0 +1,60 @@
+---
+layout: post
+title: "德國錦鯉愛好家來喝" 
+date: 2017-08-18T16:34:55+0000 
+categories: ["愛好家","錦鯉"] 
+media:
+  - id: kaTelRj
+    name: EpJ90GB8nRHj3v2oMnZJS8zgJGl
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/kaTelRj.jpg
+    prevLoc: zJBQW2jM4qTrq88XDxMRTzwrJ93zwPsZKMAz7ANlcVLvw31oxkHWo06gW9WZFR7n97z02wI68m74M59jhp3zELrx9ghwX81w2x2wu7WMZ6gN0xUNrrgp2lp9HrxZNWngP6TZgDxBKY4JtEROlj5zMET38oMvYwMZuXqLyB22oxt3jkqKEBBnIlo4y3lnRBCmPk7K8l1jil4VP20RgPFl5PyGyDkwFqMm3MWrOOCv5jMoVJyjHGlqgKYqOZIP493wqNwl
+    parentId: 1NgrGQDWKwfXEzyjy12ys019mNw
+    postId: qnO7Lp5MjwS2E296opJqc3GyG0oVOMtA1ll8wQ61sX1JAWVGKDhK7VOr
+    factor: 1.33
+    portrait: 0
+    mInfo: vu3HsU0mJHTZUvy
+  - id: AUbNSmg
+    name: 54m9R3gQOyi1ZX7j78BVf1qBGKq
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/AUbNSmg.jpg
+    prevLoc: orv8GN4xnAIwYllA9BrXTXoMEx4XowT9KwvWqvPnc05YNk3x9MS8JX0m8Z8BIzwNMwZ03rcry1MxJmE2sAolQgAq54CKq5EYANMkslr0EVoNRAtzn32VVX6WTkwlOB2q0mfyOoVvJzwQUK2xp16GGgiKA94EVD8JF7qME7lB2JiEKKNk2GMZC6MEX33j5zu15m4vA1lQI2AKAQwZ4AtDKjWyNBK9c5NQpWV1AWhN55RL810RsP5MRvNv7jt40j4wK03Yi9o
+    parentId: 1NgrGQDWKwfXEzyjy12ys019mNw
+    postId: qnO7Lp5MjwS2E296opJqc3GyG0oVOMtA1ll8wQ61sX1JAWVGKDhK7VOr
+    factor: 1.33
+    portrait: 0
+    mInfo: QXpgHn4RDxQNWA2
+  - id: wFuj0GA
+    name: kLGZrDP8pRHvOJKj1yYVHo8WKry
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/wFuj0GA.jpg
+    prevLoc: Xz7qZjO8XYT9KBBlAqXnTY9gx1jY9OHwNg0kL0B1uMQ5NvRP74HAr3VLAWAvILnJxnWVOjuRo7A0xzEkF3OqG6O165f8WE5BEjDRFvyY7G4NM8FYm7oNZ64jigV4YJPlxZiRkOJNNmrjtv09PnzPL7Hj4vDBGyn0IYW2zYRqEmFNPPDJXlz2FgYMWzz3xKU1OOEyE7qQiY7qpq8gk7SmAgR474zzt5gVMLN8A8T35VqJpWE3Fj3zVZvGqRUzLKVPgv7qT5k
+    parentId: 1NgrGQDWKwfXEzyjy12ys019mNw
+    postId: qnO7Lp5MjwS2E296opJqc3GyG0oVOMtA1ll8wQ61sX1JAWVGKDhK7VOr
+    factor: 1.33
+    portrait: 0
+    mInfo: 30YgKX0VAIIWqCX
+message: "德國錦鯉愛好家來喝茶≧∇≦"
+---
+
+德國錦鯉愛好家來喝茶(≧∇≦)
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/kaTelRj.jpg"><img src="https://i.imgur.com/kaTelRj.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/AUbNSmg.jpg"><img src="https://i.imgur.com/AUbNSmg.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/wFuj0GA.jpg"><img src="https://i.imgur.com/wFuj0GA.jpg" height="225" width="300" /></a> 
+ 
