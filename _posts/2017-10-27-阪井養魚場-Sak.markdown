@@ -1,0 +1,31 @@
+---
+layout: post
+title: "阪井養魚場 Sak" 
+date: 2017-10-27T03:32:31+0000 
+categories: ["Sakai"] 
+media:
+  - id: 6KUUMFP
+    name: Vj4P742ZBji85BzNow0yFK6K2WQ
+    description: ""   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/6KUUMFP.jpg
+    prevLoc: WywpYgN3KWS4qzz13P5jH7plr437pGSVAjrxkrn8HN2V91DAg3tlLKJrlMK0hq0kz8gPjjSyzgYk8mmGFwKwQL2AOkInmv9WgNGJfkLLE2v06Osp5n757yLmcQGkZMWy8PF69yyvvLKrfMm4VxkEWRfK7z20XQREHkLGwRzQQ1SEpDQZ0PwqCgBK4mMDm9tMnZxNk2BmumE17knyEjfj7P67NOpDC7X8lBjj7GTE1XEzrBplhME24g2kNoIq7xYng2pqs6O4qW
+    parentId: Vj4P742ZBji85BzNow0yFK6K2WQ
+    postId: BmDN9XpRglsnwnvJOgzYhAw4wop3L7FDQQn5XlorUly6GQz8MLC1gVO2
+    factor: 1.78
+    portrait: 0
+    mInfo: GM2fojMuVIAbOmH
+message: "阪井養魚場 Sakai Fish Farm  2-4歲魚池揚囉o    池揚上來的魚，先由員工檢查公母，再由健太郎社長來分等級。"
+---
+
+阪井養魚場 Sakai Fish Farm  
+2-4歲魚池揚囉*\(^o^)/*  
+  
+池揚上來的魚，先由員工檢查公母，再由健太郎社長來分等級。
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/6KUUMFP.jpg"><img src="https://i.imgur.com/6KUUMFP.jpg" height="168" width="300" /></a> 
+ 
