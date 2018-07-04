@@ -1,0 +1,79 @@
+---
+layout: post
+title: "10月1日 成田養" 
+date: 2017-09-29T12:21:21+0000 
+categories: ["Koi "] 
+media:
+  - id: 2HAZ6nr
+    name: vvWo8MqMo7fZBzz26QM6Skp3KZn
+    description: ""   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/2HAZ6nr.jpg
+    prevLoc: lovXBK4rk8CMEOOWGA2osRYQLM8RYPhBKjWGMWE6upW3vjAnOVSDoLjpD0DvTLWO9qMB8DI7oxWXlGBMSY1L0O5BPziXAvNmq6yXuvXMKx5rgQIoG7glQ6nKF59wPP3l6RIpz4gprwx6SmqlDGpNvmuz435Wgpo2TOXPoOyzJ2IvBBwQA9jOi5xnz33XkktXj5rRor4xUxnD5jEVgLFyMyG4Q7YySOKW2lZRLDF5OrZoy62ZTPLym9YZqySgZYEzWxJWHlq
+    parentId: W057QEOE7zC8pmmm0oMmh5DVAyr
+    postId: ODWM6Xk57ViO7O3ry6EWH8QOQVJL0WCP0k2oJP5WiqkY98gpW9HA96OD
+    factor: 1.00
+    portrait: 0
+    mInfo: ZkkQk2EmXF7e2NU
+  - id: ANjplSX
+    name: 075V0nqnVytzEwwl0NE6tKgPmWW
+    description: ""   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/ANjplSX.jpg
+    prevLoc: BJ8OwK03X1TnKPPxqM7VhZ1gPwxZ15hGLp3Ny3E1cRAvlN63MoiOA6J7ODOjIzM17Y4VymFYn9wNALBGfZM1pNMRB2U8r6ERRKKEuAlp4Zyx31frAXJJyE8KT6WXvLjO2LsLAyA0MJ27tYq6Lxrgn0HXKyR1D50oUjZVWjAOBNuDxxO06kwEhzYqNvv0o1cpR3Q0YAEDt919wOW6J4s3yqXM39BQUW4q66poBEImv3gZkwJ2HLEJww2kEMt3vX8AnjO1hxv
+    parentId: W057QEOE7zC8pmmm0oMmh5DVAyr
+    postId: ODWM6Xk57ViO7O3ry6EWH8QOQVJL0WCP0k2oJP5WiqkY98gpW9HA96OD
+    factor: 1.00
+    portrait: 0
+    mInfo: gwpynoopR5qvgSh
+  - id: qkG8TrC
+    name: zz1K78P8KNHzPoovJ2vESLkZRWN
+    description: ""   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/qkG8TrC.jpg
+    prevLoc: jmv5zG4pgAhOmllzE3njhmnqgl0mnvhwnxVKAVNouLjxn1ZOVDiqWxnpqAqkuLPNWVo1zJI9A6zJvWrQtW89KGgx3YU10ABV63VACQ9Z8k16WYiMEjvZ1GJzcvRGyM7WOltZKElAErvPIwqG6nZ7ZLhY47Evvm1wcOBy8OrDjPIQPPR149pLS0oPD55Z9ETrBPPzlQgvF1ngxnvQ4OuqmRMA39lxi4K5lNA5NxHQp0WzPXQXhEGM4lZJD9sqyRqnLxM9sPY
+    parentId: W057QEOE7zC8pmmm0oMmh5DVAyr
+    postId: ODWM6Xk57ViO7O3ry6EWH8QOQVJL0WCP0k2oJP5WiqkY98gpW9HA96OD
+    factor: 1.00
+    portrait: 0
+    mInfo: PIp9SfJILyMBJlO
+  - id: bf75M9L
+    name: yyZr94l4rOh3j55EYKkli3nZBrN
+    description: ""   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/bf75M9L.jpg
+    prevLoc: q0V6KP4zpAI2NLLgBz8OuKr4YGkKrAHVOW6YK6wMHzy7XQ18AWinwryAnYn6h5LO02ArVxUyj9MZ6JWAtGBMXR67yKUvgn9JLG40FV5WjADRGpSO8o6KWlKOhjXQoG1XpztZBz00o9LBtrEymRgl11S541vMPNKjhKMnrKXGzAFVkkNvjn4zU56KXQQzk9hnjJ1BpoNjFRvkn0zOR8Tn5pZKLXwDSVvRNzwZmnUD8rE9wvDYiRZWQ0kYVACXYVZ05PxAS7Y
+    parentId: W057QEOE7zC8pmmm0oMmh5DVAyr
+    postId: ODWM6Xk57ViO7O3ry6EWH8QOQVJL0WCP0k2oJP5WiqkY98gpW9HA96OD
+    factor: 1.00
+    portrait: 0
+    mInfo: IDMIVXlfGnhKHF1
+message: "10月1日 成田養魚園 Narita Koi Farm  定價抽籤，我挑了這幾隻有特色的美魚_    有興趣的魚友可以私訊我，委託代抽o"
+---
+
+10月1日 成田養魚園 Narita Koi Farm  
+定價抽籤，我挑了這幾隻有特色的美魚^_^  
+  
+有興趣的魚友可以私訊我，委託代抽*\(^o^)/*
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/2HAZ6nr.jpg"><img src="https://i.imgur.com/2HAZ6nr.jpg" height="300" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/ANjplSX.jpg"><img src="https://i.imgur.com/ANjplSX.jpg" height="300" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/qkG8TrC.jpg"><img src="https://i.imgur.com/qkG8TrC.jpg" height="300" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/bf75M9L.jpg"><img src="https://i.imgur.com/bf75M9L.jpg" height="300" width="300" /></a> 
+ 
