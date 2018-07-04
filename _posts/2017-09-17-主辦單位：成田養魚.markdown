@@ -1,48 +1,61 @@
 ---
 layout: post
 title: "主辦單位：成田養魚" 
-date: 2017-09-17T10:28:54+0000 
+date: 2017-09-17T10:28:22+0000 
 categories: [] 
 media:
-  - id: u9Kb3hz
-    name: NBV9YRBgKDhpnx2wNx4DT2Z528D
-    description: ""   
-    height: 540
-    width: 720
-    type: image/jpeg
-    link: https://i.imgur.com/u9Kb3hz.jpg
-    prevLoc: nqY7EM4wmGiWDll4wK7Gs8EjKQD8ExsM3EvmQvXgFBv10RGkYOiZY2wKZRZguonrRnLDWJclWJjBNQopfApwrjly67s3kVgyYN8khGvWXynQ8gTEkLVlDNgQiKXjwPrORKT6Yw0w91Z9F1xQRAxB0MuKn8W0mkKxcoxA7oBYKguLXXD43m18t91zlQQOxyFLxJRr2l3WcVmRxjKr17cWKwLNGRojir6gvrxBW5ILy4R18P7Gugz64NO3VvIMxRoxZrkjSqV
-    parentId: ODWyPRDjXlhkPX6OR1wkuGM3EO8
-    postId: 2NjxDqr1RzfmBm7o9N0MfZwywV8zDLS20DLWJ30AHvgPQ22VNlh1lKN3
-    factor: 1.33
-    portrait: 0
-    mInfo: cTSSZF1qYhlsF70
-  - id: PZXUNmD
-    name: wwXmKlwzy9inOQDPw377sOEoVrQ
+  - id: gFQULX8
+    name: QGY06RGlKJcLDjZWxRONsDvMBVk
     description: ""   
     height: 720
-    width: 508
+    width: 480
     type: image/jpeg
-    link: https://i.imgur.com/PZXUNmD.jpg
-    prevLoc: gjx8wB4mD7hByPPv6mAlfD74JgRD70hNDYpwkp54Cm6AOM2rjvipZ40qpVpWhRyQMV5AKPuOLNJz1K3GiPZ4LypZ23H90qWnnAAmh71oMlVnQ6iVL0602RQlsOzmyWnZG3hvo4RRRW7xIo7zZRoyYAUN4EWA5xEvTq6QxOGGmyuXzKRwrZZGSBW5pnB5kJcmXmO5EEZ5sOL88ANxBZt2wXXMZ6XZIQXkPKlVO0hpnyz7AQklTmk5Wj35p2cQJNv2NoYZ
-    parentId: ODWyPRDjXlhkPX6OR1wkuGM3EO8
-    postId: 2NjxDqr1RzfmBm7o9N0MfZwywV8zDLS20DLWJ30AHvgPQ22VNlh1lKN3
-    factor: 1.42
+    link: https://i.imgur.com/gFQULX8.jpg
+    prevLoc: 4okV1p0MvWC85YYZPmBJSrMK5nlrMwuJQLxDGxgyF1VqyLJ3pGu06v780R0Efy1K81A55oSxAgzkPLOxcl0OVmKnwEsv943z1v9VcvZ0l8E1A4CK3jZpEyWltg13oL2V2li5ryDk45vGcp0wwzx9Qju39BpEB3OEFpz5BpOyoNTXvvyNMJnOs7QY9553RRt6vk913Z0xTGO5kYzLm8skZyYpW1yyUQYDVXjqOqs8z5n1pNBACjzyWRxOz0HL14LlVRVmtND
+    parentId: 3Xk2yGXgrRcv8zzOWnXkHJ4nJWw
+    postId: 43lQGvwY8Ei8D8rAvpRXS4nYngz7m3i5kPRwjGk1fyl22wW3MPt2QjKZ
+    factor: 1.50
     portrait: 1
-    mInfo: jvVQLeO6s3YsHKM
-  - id: nioQXKy
-    name: DoG9QAoDZNCZ6mRr1qg9uDm2WQ2
+    mInfo: qVlvC6dmBCJxe3H
+  - id: KbFd0ol
+    name: zz1K7ozD4PszPoVjAw7pt50D5RK
     description: ""   
-    height: 540
+    height: 720
     width: 720
     type: image/jpeg
-    link: https://i.imgur.com/nioQXKy.jpg
-    prevLoc: KjYzJWx37Ah1W88QKB2qugG8kDRgG0hmJK1wB15VFYMmPJvBLkfk1wWKkZkOIBG6EGqNRJhvVJKz9mBYHJxnPY3xGWHKkRg2lxZMhEKwY4QAkVFgyRjRDZQytyLBRX7r3Wu4Yk0DvrNNCn3YwpDGBvtNk577LYXjcRO0rRL1K3FOyy7Nkz4XtXl5K33YRwfLQRMBmkMPfO6Oq8k6mRURgxDJ5grKHrZzjDYJZrC7ZW1mA2B8Tkg7ZyRlg6sA75AqqDOYi7M
-    parentId: ODWyPRDjXlhkPX6OR1wkuGM3EO8
-    postId: 2NjxDqr1RzfmBm7o9N0MfZwywV8zDLS20DLWJ30AHvgPQ22VNlh1lKN3
-    factor: 1.33
+    link: https://i.imgur.com/KbFd0ol.jpg
+    prevLoc: DLY6yMn3ZwIxAjj7pn5Bszk0vGPzkYsmw1ZRGZOYFrLK42NEWRHEGNZmEnE3TNg3J5x67Yum7xngEo5jiWkGpxD63qiLlY3yMgXGcBno08prMRsXKqNjL1LYCVPqDQnZVktyWBxJRjxosZ5NnBNpXQTQ9PJXp0Y6Fk4nYk7mZBHnKKZov3VEhnGKLrrm5MhAPARANx1xi3LMNNK8gyHMnArBV1LXH8g8PQvqB4TnLV0G9kyzCW9JzA4qzrSP7BRMRYjpIjy
+    parentId: 3Xk2yGXgrRcv8zzOWnXkHJ4nJWw
+    postId: 43lQGvwY8Ei8D8rAvpRXS4nYngz7m3i5kPRwjGk1fyl22wW3MPt2QjKZ
+    factor: 1.00
     portrait: 0
-    mInfo: SJW5aZ2DLwcURmm
+    mInfo: 5a49pSvy8zYKA2O
+  - id: zlB99Zn
+    name: LzQ8vRzO16s2onnmWkM9S9Dz9Wq
+    description: ""   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/zlB99Zn.jpg
+    prevLoc: mp28DL4v07TMl11VXAj5s1Dkwj81D6C42orB8rNZu8lwXmgOzWHLDxVqLJLEcOm27Dyo91Ux5wlOM1z9cJVGmwWDY9Ur348YOGZ5f76VlyQ0ZpCjRDQ1MlM2ComQwBNQv5sD8mgrrR77U5yqGjxrPztAQ9qk6R20c9NDm9Yj7lCOkk34QlLptZw0q33DkgFmXQ513RozT7KBN7l35JfGxV4zlQR0SJL4DJ8lGEtX5RGKNqqJUgW9DNEXGkIqrZOj7VmRfyp
+    parentId: 3Xk2yGXgrRcv8zzOWnXkHJ4nJWw
+    postId: 43lQGvwY8Ei8D8rAvpRXS4nYngz7m3i5kPRwjGk1fyl22wW3MPt2QjKZ
+    factor: 1.00
+    portrait: 0
+    mInfo: zXUu1Qkkyk1Ov9r
+  - id: mMDCTbL
+    name: yyZr9nyBAlf3j55EJ8Wvu3BDYDg
+    description: ""   
+    height: 720
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/mMDCTbL.jpg
+    prevLoc: Vx5oX8M32JTZy00VB5xlhPkoxwBPkYFR5qK4rK83c5xVBj6n8vI6Yjxq656Du2nXZN3rEkuy3RLnGEXmtWAqnQv6JMhoEoE9vLoVIqD7orR1ZGuvLrnrMzVDCJGV3ykYo6hVNV1AlA61cBNEEGD631i1jDymMnk2s0kOM0mAY4sv88W9NVMliEBmKyy1r8FgnmmjjGjwcpoQMVYkANTAERqE8J13TzljP3LlNJCZmRogVyARt9DQQ9q85GSK8BEwkkJPT4E
+    parentId: 3Xk2yGXgrRcv8zzOWnXkHJ4nJWw
+    postId: 43lQGvwY8Ei8D8rAvpRXS4nYngz7m3i5kPRwjGk1fyl22wW3MPt2QjKZ
+    factor: 1.00
+    portrait: 0
+    mInfo: yhiM2iBXrdtw9H4
 message: "主辦單位;成田養魚園  生產漁場;阪井養魚場  活動日期;2017年10月1日  活動地點;成田養魚園  銷售方式;定價抽籤  注意事項;照片右下角定價是日幣    有興趣的魚友請私訊聯繫我囉😊"
 ---
 
@@ -57,11 +70,14 @@ message: "主辦單位;成田養魚園  生產漁場;阪井養魚場  活動日�
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/u9Kb3hz.jpg"><img src="https://i.imgur.com/u9Kb3hz.jpg" height="225" width="300" /></a> 
+<a href="https://i.imgur.com/gFQULX8.jpg"><img src="https://i.imgur.com/gFQULX8.jpg" height="300" width="200" /></a> 
   
 
-<a href="https://i.imgur.com/PZXUNmD.jpg"><img src="https://i.imgur.com/PZXUNmD.jpg" height="300" width="211" /></a> 
+<a href="https://i.imgur.com/KbFd0ol.jpg"><img src="https://i.imgur.com/KbFd0ol.jpg" height="300" width="300" /></a> 
   
 
-<a href="https://i.imgur.com/nioQXKy.jpg"><img src="https://i.imgur.com/nioQXKy.jpg" height="225" width="300" /></a> 
+<a href="https://i.imgur.com/zlB99Zn.jpg"><img src="https://i.imgur.com/zlB99Zn.jpg" height="300" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/mMDCTbL.jpg"><img src="https://i.imgur.com/mMDCTbL.jpg" height="300" width="300" /></a> 
  
