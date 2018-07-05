@@ -1,0 +1,30 @@
+---
+layout: post
+title: "我有另外一個粉絲專" 
+date: 2017-06-15T02:59:35+0000 
+categories: [] 
+media:
+  - id: uLh6asb
+    name: wqZR6QO2v4snGw97rwxGs13qRl
+    description: ""   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/uLh6asb.jpg
+    prevLoc: orv8GN4xnAIwYllA9BrXTXoMEx4XowT9KwvWqvPnc05YNk3x9MS8JX0m8DXZizGZ4Eo033ix3V7MYgg1FA3AKOw38YIKW7EYAYvQcyQmmG3YJ7iNvLOOBgRkSkY3lQm9vnCkXD8xx9OvhrvG3WwKxouk7XXw32K8sAkVzm8244IgzODg50n8FPrOoj3pK8H1ANyZA5v2CzGYQPJPR1TDnJyLY7GlcGlNDEjY0kFwWgKj1BXRuPAzv58KjASR01xMzzDjFQxE
+    parentId: wqZR6QO2v4snGw97rwxGs13qRl
+    postId: ODWM6Xk57ViO7O3ry6EWH8QOQVJL0WCPXGjEjK84uqAZy0XDEkFAmj73
+    factor: 1.78
+    portrait: 0
+    mInfo: vs1frenj6gnaLcJ
+message: "我有另外一個粉絲專頁，專門在說明養魚的事，有興趣的魚友可以在粉絲專頁跟我互動喔_    https;www.facebook.comtwkoiqueenvideos642455389291086"
+---
+
+我有另外一個粉絲專頁，專門在說明養魚的事，有興趣的魚友可以在粉絲專頁跟我互動喔^_^  
+  
+https://www.facebook.com/twkoiqueen/videos/642455389291086/
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/uLh6asb.jpg"><img src="https://i.imgur.com/uLh6asb.jpg" height="168" width="300" /></a> 
+ 
