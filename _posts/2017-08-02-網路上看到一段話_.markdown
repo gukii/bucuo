@@ -1,0 +1,31 @@
+---
+layout: post
+title: "網路上看到一段話_" 
+date: 2017-08-02T05:53:06+0000 
+categories: [] 
+media:
+  - id: my6Z9gC
+    name: LzQgmg2rg9H3rK49komOtVJ3Xmg
+    description: "網路上看到一段話_有能力時，就做點大事；沒能力時，就做點小事；有權力，就做點好事；沒權力，就做點正經事；有閒錢，就做點善事；沒有錢，就做點家務事。 我們肯定都會做錯事，但要盡量避免做傻事，堅決不要做壞事！回家真好"   
+    height: 720
+    width: 405
+    type: image/jpeg
+    link: https://i.imgur.com/my6Z9gC.jpg
+    prevLoc: knwBAJ4qj6swBYYDlrOnTW8xyMmW8LCPJ6V5nVWBcxkBy95OY4fPEj4APWP8cgNG3r1Bkvi4EMyYKW9xc1Vyr1rqmJtw9Aq4563NcvD0Q4pJ78IgRG6VYoXVt1xqw237R9SWPLXy7Q8Wsz330E3OAytNLK7BkRE0FxLKo2669JHmwZBMGooJs3r91B3mW2SXj7ZrpGZ0uJ63008YQYiMY3Kmoqqzil1rRAPy6Qi9BVAzLRE4HwR5QVj5OWsNYRQXADzj
+    parentId: LzQgmg2rg9H3rK49komOtVJ3Xmg
+    postId: 9Nq1YABL8RfOlO8Vp5rGHYyly6B85Gs2M74oqOJMFxYzAW06NmsKnNgj
+    factor: 1.78
+    portrait: 1
+    mInfo: xa8RwMU1NXonyrP
+message: "網路上看到一段話_  有能力時，就做點大事；沒能力時，就做點小事；有權力，就做點好事；沒權力，就做點正經事；有閒錢，就做點善事；沒有錢，就做點家務事。 我們肯定都會做錯事，但要盡量避免做傻事，堅決不要做壞事！    回家真好"
+---
+
+網路上看到一段話^_^  
+有能力時，就做點大事；沒能力時，就做點小事；有權力，就做點好事；沒權力，就做點正經事；有閒錢，就做點善事；沒有錢，就做點家務事。 我們肯定都會做錯事，但要盡量避免做傻事，堅決不要做壞事！  
+  
+#回家真好
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/my6Z9gC.jpg"><img src="https://i.imgur.com/my6Z9gC.jpg" height="300" width="168" /></a> 
+ 
