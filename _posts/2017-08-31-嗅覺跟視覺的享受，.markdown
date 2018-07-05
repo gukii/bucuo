@@ -1,0 +1,29 @@
+---
+layout: post
+title: "嗅覺跟視覺的享受，" 
+date: 2017-08-31T06:02:44+0000 
+categories: [] 
+media:
+  - id: fbcUtlI
+    name: QGY06K3D2OuLDOG2v0xOsDm1Eyk
+    description: ""   
+    height: 720
+    width: 405
+    type: image/jpeg
+    link: https://i.imgur.com/fbcUtlI.jpg
+    prevLoc: 8voWjwLQzXukqOOm3z6jcpwx4Q7pwrTG4APkgP3xcJA0r2z68wS8wYyv8qY7i8kKroyjGGfVkrA0E77GSOBO6Jv5OyFw3w5v3Xk8CxXn8w4JwqIPRp3AjWy1SGLgXQW1nyfDAQWyXJPVUol5xg6DLzfQEZnY60n2igx39ZlGGBuWnLg6m39lHAqMNjQnjvCz5MVm3nAyU5v66RjrMXugKAoY9ygmipgZGrZXn9s8mvKN9VlETrWWqgDmNKSqxBOPjWGmTVNVkQ
+    parentId: QGY06K3D2OuLDOG2v0xOsDm1Eyk
+    postId: BmDN9XpRglsnwnvJOgzYhAw4wop3L7FDQq9RX5RYhl64N5Kgnzf1jEE0
+    factor: 1.78
+    portrait: 1
+    mInfo: lK40hFo1NYEoVjk
+message: "嗅覺跟視覺的享受，滿有趣的≧∇≦  我覺得流煙是空間中的水墨畫。"
+---
+
+嗅覺跟視覺的享受，滿有趣的(≧∇≦)  
+我覺得流煙是空間中的水墨畫。
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/fbcUtlI.jpg"><img src="https://i.imgur.com/fbcUtlI.jpg" height="300" width="168" /></a> 
+ 
