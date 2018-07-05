@@ -1,0 +1,29 @@
+---
+layout: post
+title: "還好，延誤5小時後" 
+date: 2017-08-27T07:12:24+0000 
+categories: [] 
+media:
+  - id: WBBtFZn
+    name: AlBPMALg7Kh5jJ5ZgvD1Ul7P9kO
+    description: "還好，延誤5小時後落地了o沒有被吹到海裡去喔！"   
+    height: 396
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/WBBtFZn.jpg
+    prevLoc: WywpYgN3KWS4qzz13P5jH7plr437pGSVAjrxkrn8HN2V91DAg3tlLKJrl0l1tqXJ0Yj97DtRwGk47rqLUwGov8y2g3Tn94A9BQVGCkOXN408EzIpv9rPkWN4UQWyYkG8G8C6vjPM3kROHv0GGq3yEDHKjBpJng4vFkMWDkZJj7HEJJomNQLvCZvnV99BjjhLB4v8E6R0FLW7g57qKQCxD43EV4oNs7KLg8V866IGNxY41rjvs4lYgjrlyzUjQEBE0jn2fxp
+    parentId: AlBPMALg7Kh5jJ5ZgvD1Ul7P9kO
+    postId: KyP197B5OKI1X1LxGjZVtlD5DKrE92UNgnz87QDXcPoDGkrR6XH3Lzq0
+    factor: 1.82
+    portrait: 0
+    mInfo: 6NEPstjSZESxUBD
+message: "還好，延誤5小時後落地了o  沒有被吹到海裡去喔！"
+---
+
+還好，延誤5小時後落地了*\(^o^)/*  
+沒有被吹到海裡去喔！
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/WBBtFZn.jpg"><img src="https://i.imgur.com/WBBtFZn.jpg" height="165" width="300" /></a> 
+ 
