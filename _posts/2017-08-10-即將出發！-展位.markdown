@@ -1,0 +1,64 @@
+---
+layout: post
+title: "即將出發！  展位" 
+date: 2017-08-09T23:45:33+0000 
+categories: [] 
+media:
+  - id: YoPH1JK
+    name: 9Nq8vDqX25SOpwWVvQy2urqoDP4
+    description: ""   
+    height: 450
+    width: 321
+    type: image/jpeg
+    link: https://i.imgur.com/YoPH1JK.jpg
+    prevLoc: GOYzBPq3XwU84WWrn01JSq0OX59q0xfRyLZPmZ5pcwOq06RQ1xuEGNDrE0EQTXrpRNrvPziEoyBmQVqBfVo5rmo9EGSP1Lz8Ko4JSq5pVl77LyHoZXjZZlzLhQvN8Zzw3DsZpmB2kgjriOgV93QVQOhP1gK363NyUwAG4MRLAycDvlBXDorzu7NYwQZVM4u3VxzqX35Wt9OqwoLzWju1mxDmkgYgS5OrWrJ9MDIo0xy22LBjsJMWyAM
+    parentId: olMYWjMJOqCw0yVAgVvZHRvnR48
+    postId: NBVLWKj5xQC6O6o5G2w4hLMOM2l1nyfBq5ODxMYRTG0RROM3JKhLykyW
+    factor: 1.40
+    portrait: 1
+    mInfo: VYAw9VLjFFvSZ5M
+  - id: KIt2HJv
+    name: kLG5WrGMomiwpJyWxDEPFoy2ZJX
+    description: ""   
+    height: 720
+    width: 508
+    type: image/jpeg
+    link: https://i.imgur.com/KIt2HJv.jpg
+    prevLoc: MlENLYz3K7IJ3xxpPRq5uL1XNlvL1rTWjMkKZkD5hgKQXy7jnAcM5gmzM7MDcg2LY7xQvqi7PEjJGoqYS83J219Z9KfzlBp1A0N6UAWmRwD4ZPigMK5B1wW8hOVL0NGlmzUDjg1N2EAqtJklPpqOymfR7J9lEkp7iKQPYKkgmlFEDDBQzmoLCBk6RAAW4WULlLXjLoY1UkL23PvZJPtRwGPnr3lAfyLEzGYD1ySBqYL5gA7QfyE0JzozZlcPp0PmmxxQcRK
+    parentId: olMYWjMJOqCw0yVAgVvZHRvnR48
+    postId: NBVLWKj5xQC6O6o5G2w4hLMOM2l1nyfBq5ODxMYRTG0RROM3JKhLykyW
+    factor: 1.42
+    portrait: 1
+    mInfo: RROXvthF5PxTite
+  - id: 1fe4LUo
+    name: LzQgmvQBPoU3ZzDMDPAgcVE37vr
+    description: ""   
+    height: 720
+    width: 474
+    type: image/jpeg
+    link: https://i.imgur.com/1fe4LUo.jpg
+    prevLoc: EMZ1zNo3XKTqx11wyg3WT6Q2Kvl6QWh1DPVyGVq7s2rKlRGxP5HZpRjNZYZ3u7Xgv6D5ALfxgZ8rYLE2cVWONDy1oofzXG1qPB3KFr1woB6730tqoOLGREO9Hzgq2xkzBvSVXG9vyqMlfkBjP6vNyGh5BmoqL21AFY8XL164Q9ToPE79loANIzYqgKvoMvIXYYww9GJ7c2oExJgWODh1YZggP5QwHqlGZqqY3whN0y024xq2cl5LqOmV0YtZz9Arpjn
+    parentId: olMYWjMJOqCw0yVAgVvZHRvnR48
+    postId: NBVLWKj5xQC6O6o5G2w4hLMOM2l1nyfBq5ODxMYRTG0RROM3JKhLykyW
+    factor: 1.52
+    portrait: 1
+    mInfo: axkC9DvBukYF5Uj
+message: "即將出發！  展位;A區 4-8 號o    See you soon!!  A; Nr.4-8"
+---
+
+即將出發！  
+展位：A區 4-8 號*\(^o^)/*  
+  
+See you soon!!  
+A: Nr.4-8
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/YoPH1JK.jpg"><img src="https://i.imgur.com/YoPH1JK.jpg" height="300" width="214" /></a> 
+  
+
+<a href="https://i.imgur.com/KIt2HJv.jpg"><img src="https://i.imgur.com/KIt2HJv.jpg" height="300" width="211" /></a> 
+  
+
+<a href="https://i.imgur.com/1fe4LUo.jpg"><img src="https://i.imgur.com/1fe4LUo.jpg" height="300" width="197" /></a> 
+ 
