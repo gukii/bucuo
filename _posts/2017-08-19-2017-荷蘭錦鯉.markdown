@@ -1,0 +1,77 @@
+---
+layout: post
+title: "2017 荷蘭錦鯉" 
+date: 2017-08-18T16:11:19+0000 
+categories: ["Champion","錦鯉"] 
+media:
+  - id: Iap4WWD
+    name: yyZr9MnoNzu3yXEPGPnkC3MNpjk
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/Iap4WWD.jpg
+    prevLoc: 2mg2YnBKqGhm3KKLrRpkuJMEpwRJMkhK4pqx3qOncknMv4gQoKcKBPEGK9KQcpnJjZ8W6XhvM1NWnBP9Fk84OwkVMDU9L4qqLlBYsLXAzvwO2rIj11V4NEBJcp2ZJ9zJV4C5q4gr3rjQTw56qyk6kZC7v8LDjBlKI54wp5nBLjUKkkpBPy9Vi3jZ5nnkooHWD69zx6wmspNxqJZgzZTJ618J7Pxrt5PznjpBM2ujEjmY4N7Ru1Ogg1zPyxIzmPzG90Vocnw
+    parentId: PE0Zzr87yGHnl5OOW3ROs2PgO9w
+    postId: mjKON06MwlUMgMvLrmkOiKj2jqVAo4Sl6yyxNMBofKrK70m6AosZVGgN
+    factor: 1.33
+    portrait: 1
+    mInfo: tMbZwWVd1R0QGRC
+  - id: qd2iwTG
+    name: KyPZLmR1qGukrE0N76LrC1vpBPn
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/qd2iwTG.jpg
+    prevLoc: JgYz0Vw3KEunwppkO1q8hMO9njxMOrTK7OL93Lkjcp4LQYAxkrSwxrVlw3wXIwy8qyE61GT1E9JvMolRCvr2Lk1OOKuNoDjxVKELT2BODY9prWcz11y4MlD0hLZloNgjn7svMZyrwRPxsYzMqNomLmcJzV0PJ7NGip74ZpgM9yTX22104KMBsYpqQzzl08i59VzQYJLMUJKzL94WzYs8ExJwjxMlF2K2wY1lqrSYvlEyWPmvCJ1Z9K7W1MSr7lpoMA9OfkR
+    parentId: PE0Zzr87yGHnl5OOW3ROs2PgO9w
+    postId: mjKON06MwlUMgMvLrmkOiKj2jqVAo4Sl6yyxNMBofKrK70m6AosZVGgN
+    factor: 1.33
+    portrait: 0
+    mInfo: PUVRxOHM4jXsVuF
+  - id: 2q3Rtvd
+    name: ODWyPqRMxGSk2RoVAJ06tGvPgxA
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/2q3Rtvd.jpg
+    prevLoc: wDE2QY4JynINx0056AGLU78gXMW78jS3xM4kG4D7F659koQgVNHvz4Kov0vGf14ExLwZRMiAm0OkqMg2SlRpZ1gnXrIRO6gZM7GpINKQlPXA4Xi644GpLBEKsxwrOnnZw0Sz50rWpZPRhgVy7BYY7lfwx5oWRJzQunyg1nOA5DFXyy9vAG5rs5JngOOqPPtROB03k431fQ1WzVg08jtEDQXwqWJmhxWZ0ozWyKU93gq1B5GJT24QOABLlotploXyG3pGsnJ
+    parentId: PE0Zzr87yGHnl5OOW3ROs2PgO9w
+    postId: mjKON06MwlUMgMvLrmkOiKj2jqVAo4Sl6yyxNMBofKrK70m6AosZVGgN
+    factor: 1.33
+    portrait: 1
+    mInfo: Q3QHSlfyL3vOEad
+  - id: skhMzIn
+    name: zz1K79ovOAfzmgNNpWZ1FLNmovX
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/skhMzIn.jpg
+    prevLoc: rxEBLQ4AqgTmZwwyM18AuoN23WnoNAInV48m68MBCjxBWq81Mzt6PK706j65uvO0oOz1QEs769yMDgzoiDjJ9M4BJ1HLVZ2K9XRMU130GXNKyVFLAGn6B7XEfVwnqNZJNzTPzzR9jxmVsN3LBy1VV5tkgNjLo03QIOlwBORjZgIR11jOr67PHknOwMMovriVvAW3gL1GioQ6XVKWngSDP5jWGMNLUK5B756vpES9MB3pzzZXckwKRX5BRvFnronxG4E3Srw
+    parentId: PE0Zzr87yGHnl5OOW3ROs2PgO9w
+    postId: mjKON06MwlUMgMvLrmkOiKj2jqVAo4Sl6yyxNMBofKrK70m6AosZVGgN
+    factor: 1.33
+    portrait: 0
+    mInfo: Y4VKGufUsco1xOI
+message: "2017 荷蘭錦鯉展-壯魚總冠軍 o  Supreme Champion!  🎉🎊🍾️"
+---
+
+2017 荷蘭錦鯉展-壯魚總冠軍 *\(^o^)/*  
+Supreme Champion!  🎉🎊🍾️
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/Iap4WWD.jpg"><img src="https://i.imgur.com/Iap4WWD.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/qd2iwTG.jpg"><img src="https://i.imgur.com/qd2iwTG.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/2q3Rtvd.jpg"><img src="https://i.imgur.com/2q3Rtvd.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/skhMzIn.jpg"><img src="https://i.imgur.com/skhMzIn.jpg" height="225" width="300" /></a> 
+ 
