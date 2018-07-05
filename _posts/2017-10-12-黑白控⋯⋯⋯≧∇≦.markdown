@@ -1,0 +1,46 @@
+---
+layout: post
+title: "黑白控⋯⋯⋯≧∇≦" 
+date: 2017-10-11T16:14:26+0000 
+categories: ["面迫"] 
+media:
+  - id: tReI5Vj
+    name: QGY06zBjrlcLNA4BGRlDuDvMpZp
+    description: ""   
+    height: 720
+    width: 510
+    type: image/jpeg
+    link: https://i.imgur.com/tReI5Vj.jpg
+    prevLoc: xEV8RZ4KzohXvmmp891Ji6WmxKr6W1h1pWnLEnJZsBlV7O5mYxiGA217GoGnIgN5OBE3Dpi23mkMy4LpuBY8VrzW3lsZnyvpx8YKH2rqqOAVExHw7GmZMm6phvqmKr0DBBfzxxQNXNYwuJXRwRLE0XFDkr8g3Ep5tQBpKQGVnXiP55VkoOrjuWZ0NwwMOMSPqXmYg5JpS89BjxPGYgcoDR2KZMzYI7R41R1XOOcvjl81O7p0FK596AQANDuovqoAL9LnCGl
+    parentId: W057QJXpArC8y9wvJAANt5XE62k
+    postId: MARwWKg5jOhJwJjVAQvNtMlZlx9zEOHryo30P4xrHX4MAo8qQwIYJ4OJ
+    factor: 1.41
+    portrait: 1
+    mInfo: v25LBFPoqSQZMcC
+  - id: sqjCLz4
+    name: nkLrgyj7W0hV6OpqV8B7CynJvND
+    description: ""   
+    height: 720
+    width: 525
+    type: image/jpeg
+    link: https://i.imgur.com/sqjCLz4.jpg
+    prevLoc: BJ8OwK03X1TnKPPxqM7VhZ1gPwxZ15hGLp3Ny3E1cRAvlN63MoiOA6J7ODOjIzM17YR5BOFYn9wNALBGfZM1pAwLj4t84GR5vYVoUA8DDZwNLnFrxY51zmYGu6yLx4mlgBtLEqw7z62QTY9kkxvVGGFyMA2A3oqoujZVWjAOBNuDxxO06kwEhzYqNvv0o0UDoNL9GwNWc92VVEpZLxHRpX0W9wy6SAlgDr7g5DfqEQGWMjjvCLEJww2kEMt3vX874z3jumA
+    parentId: W057QJXpArC8y9wvJAANt5XE62k
+    postId: MARwWKg5jOhJwJjVAQvNtMlZlx9zEOHryo30P4xrHX4MAo8qQwIYJ4OJ
+    factor: 1.37
+    portrait: 1
+    mInfo: ZQhuRL8cZHZbefv
+message: "黑白控⋯⋯⋯≧∇≦  超期待！  這是2017年，面迫養鯉場的種魚，生產出來的小魚，11月開始可以開始收藏囉！"
+---
+
+黑白控⋯⋯⋯(≧∇≦)  
+超期待！  
+這是2017年，面迫養鯉場的種魚，生產出來的小魚，11月開始可以開始收藏囉！
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/tReI5Vj.jpg"><img src="https://i.imgur.com/tReI5Vj.jpg" height="300" width="212" /></a> 
+  
+
+<a href="https://i.imgur.com/sqjCLz4.jpg"><img src="https://i.imgur.com/sqjCLz4.jpg" height="300" width="218" /></a> 
+ 
