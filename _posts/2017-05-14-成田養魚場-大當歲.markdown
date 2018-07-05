@@ -1,0 +1,42 @@
+---
+layout: post
+title: "成田養魚場 大當歲" 
+date: 2017-05-14T01:57:37+0000 
+categories: ["Sakai","Koi "] 
+media:
+  - id: 6rPl1jA
+    name: KyPOVAonMlckL0VoQlQxT1OJ2gj
+    description: ""   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/6rPl1jA.jpg
+    prevLoc: pvRBJO5yo9uwoQQgkvnzTO26Vn4O2MsGlw0x20O9c1ZXoVD6pzuK7Ej8KBE0hz0Dx9OgGGiBXkD8JvvyIkLkMEpD6WcmEVXWr7Gxi4npRZEryBtXOyZqGvWzIEZYOXDlVDIR2MZ99JOmhkYmBVYRGmir8XZM6JoDSmgMvWZJJqs72oQAxL8gU6Kn7rkWrlcJrxZ82yO5tzkM00Y79yuAYolmVyDXt1mQ0m62JrHlEJlvpGX4TpvxRgAEkVCwpGZX4RpRizV1Wl
+    parentId: KyPOVAonMlckL0VoQlQxT1OJ2gj
+    postId: mjKON06MwlUMgMvLrmkOiKj2jqVAo4SlnOQJ6Nj4uX7ZxVl5q4HZEN6V
+    factor: 1.78
+    portrait: 0
+    mInfo: OTzZV5E4Lizoe7t
+message: "成田養魚場 大當歲祭 2017  編號;No. 1  生產漁場;阪井養魚場 Sakai Fish Farm   親鯉種魚;Miss Japan III  生產日期;2016年5月  性別尺寸;母魚43公分    Narita Koi Farm  Jumbo Tosai Festival  No.1  Breeder; Sakai Fish Farm  Variety; Sanke  Parent; Miss Japan III  Spawning date; 2016.05  SexSize; Female,43cm"
+---
+
+成田養魚場 大當歲祭 2017  
+編號：No. 1  
+生產漁場：阪井養魚場 Sakai Fish Farm   
+親鯉種魚：Miss Japan III  
+生產日期：2016年5月  
+性別尺寸：母魚43公分  
+  
+Narita Koi Farm  
+Jumbo Tosai Festival  
+No.1  
+Breeder: Sakai Fish Farm  
+Variety: Sanke  
+Parent: Miss Japan III  
+Spawning date: 2016.05  
+Sex/Size: Female,43cm
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/6rPl1jA.jpg"><img src="https://i.imgur.com/6rPl1jA.jpg" height="168" width="300" /></a> 
+ 
