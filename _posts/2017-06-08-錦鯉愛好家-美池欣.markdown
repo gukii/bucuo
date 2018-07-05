@@ -1,0 +1,77 @@
+---
+layout: post
+title: "錦鯉愛好家 美池欣" 
+date: 2017-06-08T02:44:23+0000 
+categories: ["Hobby","愛好家","Koi ","錦鯉"] 
+media:
+  - id: NgqUgGP
+    name: DoGRV7DgoRuZ5En8K2VoHDx222p
+    description: ""   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/NgqUgGP.jpg
+    prevLoc: lovXBK4rk8CMEOOWGA2osRYQLM8RYPhBKjWGMWE6upW3vjAnOVSDoLjpDxL0FL9p1X5844ty3EvW855xFY3YLk63pJiRvZ11vDzotvg9W5GZXQIoYqpENzKDI543EY75yOspJJXn2nogt1BDyO3gZwizX4YpkxoEIOE30L9kkKTvgx98NVyPhEX0Rg9og3IX6Vn16g3KtrBY8kgrrqt7YrmJPjLrUPR0ngDJnyTzGQQX5Y5jUPW2yEznEpiK34xPpowJUDAWO9
+    parentId: NBVx6ngvBxspMv6A854EFG4jOlK
+    postId: MARwWKg5jOhJwJjVAQvNtMlZlx9zEOHrQknAXJy2CX3Zx00m3NCYwrJ5
+    factor: 1.78
+    portrait: 0
+    mInfo: y6ioxC6GI931ZOr
+  - id: WzsGTzQ
+    name: xxYGrNA3xGcj17Br8NLrTkvY6AL
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/WzsGTzQ.jpg
+    prevLoc: knwBAJ4qj6swBYYDlrOnTW8xyMmW8LCPJ6V5nVWBcxkBy95OY4fPEj4APWP8cgNEPNwQ1nu4EMy67QpLF1DgYRlBMRIwkgEpGgnoFvmyOW3KR4fglOZOn6LDH1vg5l9p0xTWPDRqml3QclWY0DqLl6sogp3BPry9IxLKo2669JHmwZBMGooJs3r91B329nIVmk860vjJhnzoO2g7zjIM1rQYpwXQtl3M6rX2VXS4D06RqMBJswR5QVj5OWsNYnNO1NDO
+    parentId: NBVx6ngvBxspMv6A854EFG4jOlK
+    postId: MARwWKg5jOhJwJjVAQvNtMlZlx9zEOHrQknAXJy2CX3Zx00m3NCYwrJ5
+    factor: 1.33
+    portrait: 0
+    mInfo: NU9bLXxfXzU7WAB
+  - id: 4GAtG9B
+    name: 2NjRwAP0NRhQpB4LVo8RIKJ1PMP
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/4GAtG9B.jpg
+    prevLoc: 3njEZoDLrYs4K77j3GpmHMv6jG3MvkTjMX6PZ6YWhnoOAgWGYBSXEKYxXjXRIkXVOmMq2rSMXAk8RzG4t3ZXA2JwQDF9XMZXR3Y2cwW5rgjJyYHx7PMwEPWNIE7Pn1O4wMu05YArnq1RTRoWjgn1D9hk4nXA7Qw0FBrVpB748vI166o02pQWH0q8XnnVJLix21zJJG2lt2BQWL62Y0i9Z1vq5NjOt793OzXp0YsYxO6rVYMNSkV5MywGPpcnGNnVNxyLFjq
+    parentId: NBVx6ngvBxspMv6A854EFG4jOlK
+    postId: MARwWKg5jOhJwJjVAQvNtMlZlx9zEOHrQknAXJy2CX3Zx00m3NCYwrJ5
+    factor: 1.33
+    portrait: 1
+    mInfo: H2OAMHm4YWGyeaL
+  - id: A7AjnLp
+    name: 075gryNx7gCzG79xG47OfK6DQ3K
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/A7AjnLp.jpg
+    prevLoc: RqMkQ4G3K8iOWnnwYRvrh8ojExD8o5sqPzYx6YopTgwvEK207Wc83zgO8V86Ijyzqy0wP7FRyGXQjgAPF785XWov1gh1rq6ERYKQFnmqPW6p45tVx2PGE2Z0S3mAX7r2yMhn22806XL9FRWMDJkxXQTonLW6WBNPhDolmDExA2FqKK6oRBkjfR3Qw99g7BsQlyj1WZlLiByWkyxJ2wTBMoL1x4qJcqvZwELBgGuR9opAj1nktOMXAWw2nDS5wjRGnrw5CLE
+    parentId: NBVx6ngvBxspMv6A854EFG4jOlK
+    postId: MARwWKg5jOhJwJjVAQvNtMlZlx9zEOHrQknAXJy2CX3Zx00m3NCYwrJ5
+    factor: 1.33
+    portrait: 0
+    mInfo: EiaJXmQ21rzuUFe
+message: "錦鯉愛好家 美池欣賞 _  Taiwan koi Hobby's pond."
+---
+
+錦鯉愛好家 美池欣賞 ^_^  
+Taiwan koi Hobby's pond.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/NgqUgGP.jpg"><img src="https://i.imgur.com/NgqUgGP.jpg" height="168" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/WzsGTzQ.jpg"><img src="https://i.imgur.com/WzsGTzQ.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/4GAtG9B.jpg"><img src="https://i.imgur.com/4GAtG9B.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/A7AjnLp.jpg"><img src="https://i.imgur.com/A7AjnLp.jpg" height="225" width="300" /></a> 
+ 
