@@ -1,0 +1,79 @@
+---
+layout: post
+title: "太美了⋯⋯⋯  誰" 
+date: 2017-07-25T10:24:00+0000 
+categories: [] 
+media:
+  - id: 25vbTTV
+    name: ODW701Yqj2cO7OYyqYGQhG5OBpZ
+    description: ""   
+    height: 396
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/25vbTTV.jpg
+    prevLoc: ZBwv2lQ7GZIjgPP1vD5MuOP6m45OPWsGLxqNVq64cR9vZK8VYmiDAgNwDBDZTQxZKpWJGMU4WrzJjQD1cVg71ln9qoCXN8pYlpmxFmW6jMJE20IYLWvlPDkyfLoE7m2QVVt4Pm6NwqDlhWLXgPrlq1TloPwzL39RTM3QpMOKvkh855q1zGQLc6AErNND7WFzkw07O8X3FmAA5P0DADsnOMwmw55jcW195743gAuqWA4j7p8MclZQE7mJxkH8YLRRz2QMuyQ
+    parentId: 075grlRONmSy7yLjjVrmFK3zVrA
+    postId: YmjWqYxl6os9n95o4zjriPmymvrEp2Cq3QQBnXYoco3wrOKqjEunJkqE
+    factor: 1.82
+    portrait: 0
+    mInfo: IO459WFMFHnfqQr
+  - id: h7nQ0qd
+    name: ODW701Yqj2cO7OY7j63khGx6v5N
+    description: ""   
+    height: 396
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/h7nQ0qd.jpg
+    prevLoc: 7rnYgvKPyDIRNEErMQAmTJRGrgwJRDhlErDX3Dzvcw4n18lzL5uX4j2xXlXnIREAGqyY1VuZO4KXAvJph4rDy5LWAWF1QqJ8zgowSBYXy3Er5WfgR84VQ7rQHlDOGVX9KQhA3zWxXgxXtv6G81kQVEuLPVYp6kQDILKmyL65QosVQQqwj7mzURlZQPP4w4fqMvX3zPW6cY5YXnQWjxCLnBgkknOLuAVvL0vWkDFrWRDpNgQmUD33mKZAB6fjZkxy9Xy0CAz
+    parentId: 075grlRONmSy7yLjjVrmFK3zVrA
+    postId: YmjWqYxl6os9n95o4zjriPmymvrEp2Cq3QQBnXYoco3wrOKqjEunJkqE
+    factor: 1.82
+    portrait: 0
+    mInfo: 1YBl37RFXBa72Pe
+  - id: VjFYmMf
+    name: Vj4mV8OlqkFZWZBWB6OltpkvoO7
+    description: ""   
+    height: 396
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/VjFYmMf.jpg
+    prevLoc: 3njEZoDLrYs4K77j3GpmHMv6jG3MvkTjMX6PZ6YWhnoOAgWGYBSXEKYxXjXRIkXVOmMq2rSMXAk8RzG4t3BE6VQNPDH9RK6ApkKBtw26kOGmDEFxpNmq5J3Oc7vn4GARLnH9rGxG6gNnFREG8Ln41Qik55WBvjB0IBrVpB748vI166o02pQWH0q8XnnV5JIWoAojoD2MT4DVZ1AkLjf9ZO5pD0GGcrLABlQp91iRBMnExQPmsEQromj8A2snGNnqmr2Pfjq
+    parentId: 075grlRONmSy7yLjjVrmFK3zVrA
+    postId: YmjWqYxl6os9n95o4zjriPmymvrEp2Cq3QQBnXYoco3wrOKqjEunJkqE
+    factor: 1.82
+    portrait: 0
+    mInfo: XScvpSkAZ4Fg7w4
+  - id: NVeya70
+    name: jKE29GRLjkFOBOvYZyDnU6O1QWw
+    description: ""   
+    height: 396
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/NVeya70.jpg
+    prevLoc: xEV8RZ4KzohXvmmp891Ji6WmxKr6W1h1pWnLEnJZsBlV7O5mYxiGA217GoGnIgN5OBE3Dpi23mkMy4LpuBYvQwQpoPuZnomjDVOpi2rX6KWQnmTwpyzZ1v51hOlgnQ9yYNTz8pQn7r4ofYPBRNL5XMtLn2qAorORSQBpKQGVnXiP55VkoOrjuWZ0NwwMJJiK280JGJg7uRyGLX4jy6Irg6R3MqEEUJo0wJg8wXhvE6Px6JKGuoZ9RWNZqAhov7VwWyzGSWg
+    parentId: 075grlRONmSy7yLjjVrmFK3zVrA
+    postId: YmjWqYxl6os9n95o4zjriPmymvrEp2Cq3QQBnXYoco3wrOKqjEunJkqE
+    factor: 1.82
+    portrait: 0
+    mInfo: VYbWi8Sf6ydv8Cn
+message: "太美了⋯⋯⋯  誰能告訴我哪兒能買到呢？    That's Showa......❤️❤️❤️"
+---
+
+太美了⋯⋯⋯  
+誰能告訴我哪兒能買到呢？  
+  
+That's Showa......❤️❤️❤️
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/25vbTTV.jpg"><img src="https://i.imgur.com/25vbTTV.jpg" height="165" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/h7nQ0qd.jpg"><img src="https://i.imgur.com/h7nQ0qd.jpg" height="165" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/VjFYmMf.jpg"><img src="https://i.imgur.com/VjFYmMf.jpg" height="165" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/NVeya70.jpg"><img src="https://i.imgur.com/NVeya70.jpg" height="165" width="300" /></a> 
+ 
