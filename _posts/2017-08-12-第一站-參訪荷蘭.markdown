@@ -1,0 +1,94 @@
+---
+layout: post
+title: "第一站  參訪荷蘭" 
+date: 2017-08-12T10:51:33+0000 
+categories: ["錦鯉"] 
+media:
+  - id: cmjFDje
+    name: zz1mg7R1p8szM2OQjZkJhLXKpp4
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/cmjFDje.jpg
+    prevLoc: WywpYgN3KWS4qzz13P5jH7plr437pGSVAjrxkrn8HN2V91DAg3tlLKJrl0l1tqX1BXkPjVfRwGkyXoQVFwGoyJwLDkiRlWzq71QVfkom31m7AKHpQyANJnk4HQl2gJYPvRUo2O87MjExTv08g033xpU6QN9RE1kvUkMWDkZJj7HEJJomNQLvCZvnV99BjqIMP2rLoGwnt5GBAxkkqRI9817z4LBEfmBOmNMO8QiGOmXPNx4gcyZPw38wRXcjQE1m4Ey2Cxw
+    parentId: xxYGW2PYk0ujZD5rBWNnTk6MmEk
+    postId: GrLvWXxQZyi8D8wZQV2vSl5w52BJgrUWVYmVo4yZc0r1L559GKfMBMNL
+    factor: 1.33
+    portrait: 0
+    mInfo: OPlOtLd6XczH9QS
+  - id: yKDA4AZ
+    name: lgJOW2zJYyCl2Z6GZpGAhnRyAm8
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/yKDA4AZ.jpg
+    prevLoc: 7rnYgvKPyDIRNEErMQAmTJRGrgwJRDhlErDX3Dzvcw4n18lzL5uX4j2xXlXnIREZQE8jyBIZO4KoBNR0f4rDywn9Xmf1JqB4nE7QHBp9MJ91X7hq32Jggmz0tl4pgO79ylTA1OGgxMQYsv055EG78BIXYyOJzA4pULv0oVpp6PCVgEALw22NFRrNWBROLgcw1BQVLN8ZUPJm9MZMxmi57ORAxRE8Uqx8AxLw1Wir3VKmnr2zSzgW02mWRLhjgPA9lX9z
+    parentId: xxYGW2PYk0ujZD5rBWNnTk6MmEk
+    postId: GrLvWXxQZyi8D8wZQV2vSl5w52BJgrUWVYmVo4yZc0r1L559GKfMBMNL
+    factor: 1.33
+    portrait: 0
+    mInfo: 9Qo7n4HRUP1AzuG
+  - id: sBLetF3
+    name: 9Nq8vDlqrzujY1DPr6ZRt6Nm4Dg
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/sBLetF3.jpg
+    prevLoc: LkY0KXy31AC39NN0qmRPuvgJAQRvgpT0xB9MD9oVtlQM4YrEROijwl4kjojViJy69yoD18F05RDmyMVOc39RDMxWmqHwVmMgN369fGnRqxX5wgulVm3PXGK8TMVmM35rMktNorVggoPYHqk46R8W5nuM1xpKxQNoh7BqX725JNiYZZ5GmA7niXBAWNNvRvfZLX3nN902t56RwMKwqgHjEPD94wpYTjY4NW4Y7PFDqyV2ROKJU0kQmVqZkltR92oOJZgJhpn
+    parentId: xxYGW2PYk0ujZD5rBWNnTk6MmEk
+    postId: GrLvWXxQZyi8D8wZQV2vSl5w52BJgrUWVYmVo4yZc0r1L559GKfMBMNL
+    factor: 1.33
+    portrait: 0
+    mInfo: dmaWRdQQkthGt0G
+  - id: UwmS4h3
+    name: lgJOW2zJYyCl2ZmP70XQtn4k5q3
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/UwmS4h3.jpg
+    prevLoc: zJBQW2jM4qTrq88XDxMRTzwrJ93zwPsZKMAz7ANlcVLvw31oxkHWo06gW9WZFR7n97z02wI68m74M59jhp3zEMkANVcwXg0vlMjmf3vLl6LYr6fNLoZ2oyyOhr3LrP8133sZgl7lPKZySy0Yq5qoJ8s3YWZ86mROcXGRkXo0Eyu3RRmE1MP9UlVwLzzZQpcAommWvPEgipY1A2g6BlHnNL2rQovXhY7v46qq8DHQ9Q3q0v0JiGqXAYL7gXCPoK8PAovmiBN
+    parentId: xxYGW2PYk0ujZD5rBWNnTk6MmEk
+    postId: GrLvWXxQZyi8D8wZQV2vSl5w52BJgrUWVYmVo4yZc0r1L559GKfMBMNL
+    factor: 1.33
+    portrait: 0
+    mInfo: N92okeMT0mHaGUn
+  - id: J4hKZcj
+    name: 075gj015RnTzG3Q27PYNhKNn7WA
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/J4hKZcj.jpg
+    prevLoc: QpNjP3E9KATRPBBnV3k6TZA2vXzZANhxXJym9yNAhjw1Erq9LRt9PwVz9o97szyvnyr4X0c7VRoKOJ2rirj4oA61GWu6A22NDx5WhW7m01mMgxUqRlo6lXX9tnzGrOLnDOTpNpJ0KqK9fVgwyLkqkVUp62j7ZXOrF6AmD6zG1jFEVV6YyOlgCDzkXNNYBwSV6vJ8j975tpA3VD8l9AsjrgYRNDGDtD86vZkPpPfPlzW2r88rSKPYN9qRpYHxMyD8D1v2F59
+    parentId: xxYGW2PYk0ujZD5rBWNnTk6MmEk
+    postId: GrLvWXxQZyi8D8wZQV2vSl5w52BJgrUWVYmVo4yZc0r1L559GKfMBMNL
+    factor: 1.33
+    portrait: 0
+    mInfo: bh3yykKHBuEnQO9
+message: "第一站  參訪荷蘭錦鯉專賣店  商品陳列整齊、採購環境乾淨、銷售管理專業、產品周邊多元。"
+---
+
+第一站  
+參訪荷蘭錦鯉專賣店  
+商品陳列整齊、採購環境乾淨、銷售管理專業、產品周邊多元。
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/cmjFDje.jpg"><img src="https://i.imgur.com/cmjFDje.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/yKDA4AZ.jpg"><img src="https://i.imgur.com/yKDA4AZ.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/sBLetF3.jpg"><img src="https://i.imgur.com/sBLetF3.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/UwmS4h3.jpg"><img src="https://i.imgur.com/UwmS4h3.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/J4hKZcj.jpg"><img src="https://i.imgur.com/J4hKZcj.jpg" height="225" width="300" /></a> 
+ 
