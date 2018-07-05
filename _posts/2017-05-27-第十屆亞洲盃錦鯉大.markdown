@@ -1,0 +1,68 @@
+---
+layout: post
+title: "第十屆亞洲盃錦鯉大" 
+date: 2017-05-27T04:39:16+0000 
+categories: ["Champion","Sakai","Koi ","錦鯉"] 
+media:
+  - id: iFVe3E7
+    name: jKE29JYAErsOqYRq58kxf6yZKrN
+    description: ""   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/iFVe3E7.jpg
+    prevLoc: RqMkQ4G3K8iOWnnwYRvrh8ojExD8o5sqPzYx6YopTgwvEK207Wc83zgO8wzVijo04G8wPPSQNp8X5zzGI767LO9nYjuPpR1m1Ov7Un10my4J4EuVnk383RQrSGRZn4GYDVFxLG9Yo4X8iRA3v9znYxhoNO49PKvzHDJNMgRvvBUqzEBQX52Mt2goWOGEO9uQ9ywJK15rUKnvEGQwwmC1DqwgkwZ0cqvPoOM4RksR7pxmqp31IOM20YqLZMIDpzQNq8xJTlOyL2
+    parentId: GrLZVKRwLms8Dg5k6rJvhG7W69k
+    postId: LzQ7W1D5gMH3G3LMZJl6iMQWQ9Ywl1HmQ9PYzpzjI8O313xqMwUGVnnz
+    factor: 1.78
+    portrait: 0
+    mInfo: RMCX0Aql4dWxlDL
+  - id: 8iqqa70
+    name: jKE29JYAErsOqYGlkV80T6OWPVA
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/8iqqa70.jpg
+    prevLoc: 8voWjwLQzXukqOOm3z6jcpwx4Q7pwrTG4APkgP3xcJA0r2z68wS8wYyv878xI8w9k6GpV1uZgG0KDzO4hOjJRlVXrrSwxkn8K5DBCxrzyx107GuwDOJGKvj0HGAglzg4qQCD96oYB423UoBN5v4MroiQ43Q8DpBqFgzJAg028qfWjjANYgO0tJW1Evvqw8T06388MNLrh5Aj4rYJ9MHZBRDxylBNTy80ZOKgR3F7EKMg9vvjHR5MEqVEPyilw5ANqM19uxy
+    parentId: GrLZVKRwLms8Dg5k6rJvhG7W69k
+    postId: LzQ7W1D5gMH3G3LMZJl6iMQWQ9Ywl1HmQ9PYzpzjI8O313xqMwUGVnnz
+    factor: 1.33
+    portrait: 1
+    mInfo: T9wlQ5pFiSKbGAF
+  - id: 4ffRUNY
+    name: nkLZ9JRGLyIWoX3K1z90cyX9YG3
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/4ffRUNY.jpg
+    prevLoc: nqY7EM4wmGiWDll4wK7Gs8EjKQD8ExsM3EvmQvXgFBv10RGkYOiZY2wKZRZguonrRnLDWJclWJjBNQopfA2z0o31n1H6NQPNzvqYFGDJOGYkMxuo9l1BVz06iK13JQNB2xTnm6OlzN69cj7LYQm8NyiKzB9pED9LcoQJgprrB5FLKZOV4xxJC95op79vJxsQr3JjVVnYIVm612lMQ1syK3mv7nyrIzW63MwjjJfLMyqpyRVNIgvk72okzxtMYj1AlWOq
+    parentId: GrLZVKRwLms8Dg5k6rJvhG7W69k
+    postId: LzQ7W1D5gMH3G3LMZJl6iMQWQ9Ywl1HmQ9PYzpzjI8O313xqMwUGVnnz
+    factor: 1.33
+    portrait: 0
+    mInfo: keZ2fffUG5t0mnG
+message: "第十屆亞洲盃錦鯉大賽  全體綜合亞軍  魚主;王威   漁場;阪井養魚場     The 10th Asia Cup Koi Show  Superior Champion   Mr. Wang Wei  Breed by Sakai Fish Farm"
+---
+
+第十屆亞洲盃錦鯉大賽  
+全體綜合亞軍  
+魚主：王威   
+漁場：阪井養魚場   
+  
+The 10th Asia Cup Koi Show  
+Superior Champion   
+Mr. Wang Wei  
+Breed by Sakai Fish Farm
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/iFVe3E7.jpg"><img src="https://i.imgur.com/iFVe3E7.jpg" height="168" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/8iqqa70.jpg"><img src="https://i.imgur.com/8iqqa70.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/4ffRUNY.jpg"><img src="https://i.imgur.com/4ffRUNY.jpg" height="225" width="300" /></a> 
+ 
