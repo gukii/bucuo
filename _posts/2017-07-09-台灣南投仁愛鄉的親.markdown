@@ -1,0 +1,46 @@
+---
+layout: post
+title: "台灣南投仁愛鄉的親" 
+date: 2017-07-09T05:29:41+0000 
+categories: [] 
+media:
+  - id: N1kiirC
+    name: X9nn4kY47YSZ6N1vP057Fmomv6
+    description: ""   
+    height: 539
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/N1kiirC.jpg
+    prevLoc: ZBwv2lQ7GZIjgPP1vD5MuOP6m45OPWsGLxqNVq64cR9vZK8VYmiDAgNwQQ1oTQKm1DNj0Nc4oxExOLkGfVm13q5605txDvvrAmm6Im29rP1xMmHqRAlJ3MDwuq0k8QKLlBs4GpV5zoxLcW0yjZWQWWTlEmXVVX3RcM3QpMOKvkh855q1zGQLc6AErNNDBOizk9r7448RUmAzqRRNRjuo29VZ3WvLiWZkrQg1AOTpjNGZwA83uJrBk41OZVC8Y4XzNyXlHyB
+    parentId: k0DDEO6Ew6IvPv1W3ZrkIJzM3v
+    postId: jKEZ6gMO27IOBOg1v7ZWH9lDlk2AoMsY1qw719Zosn327g6LBzU4GKvA
+    factor: 1.34
+    portrait: 0
+    mInfo: 2gdA0bI6xn1RnTx
+  - id: uue8u73
+    name: n988KNGKYGSVyN6Gz1nxCmX0vn
+    description: ""   
+    height: 539
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/uue8u73.jpg
+    prevLoc: WywpYgN3KWS4qzz13P5jH7plr437pGSVAjrxkrn8HN2V91DAg3tlLKJrDDBwfq0k64W1mWSRK9596xnAHwzyxKkqwrfRq3GJPAxmTkwGYLjoBVcpQVvB4QLVClYXyL2Lmjio8EA3gmonfMPkz17J89CKwlYy2xopukxo7zqqZVtEpl7Xm22McZWOG4ZRrBUM7v6Z0RJRHLB05zYJl3cx50wByWkyfmpLAkBlB5SNYnREWDKjt4EAGxDAZmIjx9Kr16Yz
+    parentId: k0DDEO6Ew6IvPv1W3ZrkIJzM3v
+    postId: jKEZ6gMO27IOBOg1v7ZWH9lDlk2AoMsY1qw719Zosn327g6LBzU4GKvA
+    factor: 1.34
+    portrait: 0
+    mInfo: P7PDg6mXbXFKnje
+message: "台灣南投仁愛鄉的親愛愛樂弦樂團, 在七月八日於奧地利維也納, 贏得“至高榮耀”維也納國際青少年音樂節（The Summa Cum Laude Festival in Vienna）比賽, 弦樂合奏世界冠軍, 為台灣爭光.    評審通知時表示, 親愛愛樂“以非常突出的勝利贏得第一名優勝”（You are the first prize with outstanding success.）"
+---
+
+台灣南投仁愛鄉的親愛愛樂弦樂團, 在七月八日於奧地利維也納, 贏得“至高榮耀”維也納國際青少年音樂節（The Summa Cum Laude Festival in Vienna）比賽, 弦樂合奏世界冠軍, 為台灣爭光.  
+  
+評審通知時表示, 親愛愛樂“以非常突出的勝利贏得第一名優勝”（You are the first prize with outstanding success.）
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/N1kiirC.jpg"><img src="https://i.imgur.com/N1kiirC.jpg" height="224" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/uue8u73.jpg"><img src="https://i.imgur.com/uue8u73.jpg" height="224" width="300" /></a> 
+ 
