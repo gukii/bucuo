@@ -1,0 +1,28 @@
+---
+layout: post
+title: "o" 
+date: 2017-09-01T12:51:27+0000 
+categories: [] 
+media:
+  - id: hBY8j4Q
+    name: 075RlP8xvEhzrZmGMXK3uK4WGAl
+    description: "今天進到總統府晉見蔡總統，這是第一次這麼近的聽著總統說話，說到最後結尾，總統忽然點了我的名字，接著聽到總統親口對我說「謝謝妳留下來」，當下心裡只有滿滿的感動，一個國家的領導者，親口說的謝謝，雖然和大家對我說的一樣，而我做的這一切，其實有大家的這句話，都已經足夠～讓我真正的感覺到自己選擇留下來絕對值得且正確。世錦賽對我個人來說，非常重要。但對我來說更重要的是能讓世界看見台灣，讓更多人重視體育，這一次的世大運開啟台灣運動的希望，我們是潛力無限的台灣人，只要我們凝聚在一起，就會有無限的希望。謝謝這一連串的安排，讓運動選手備受矚目。 郭婞淳 KUO, Hsing-Chun 舉起142公斤的紀錄，讓人起雞皮疙瘩+感動萬分的一刻，謝謝選手們的努力，才能讓世界看見台灣。讓世界看見台灣 最值得且正確的決定 滿滿感動的2017世大運 圓滿落幕"   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/hBY8j4Q.jpg
+    prevLoc: 8voWjwLQzXukqOOm3z6jcpwx4Q7pwrTG4APkgP3xcJA0r2z68wS8wYyv878xI8w9k6GpV1uZgG0KDzO4hOXrpVz6o9Fw2KYDy74lHk7kPQDKp6hPkq1RzVWlSGyAQwWwBkFDmLZvmnPguoBN5v4olVsQojykzyANcgzJAg028qfWjjANYgO0tJW1Evvq8OuqP8XyY6ElF9W7X5QYQwIZOKyWvmPECyZ6V2kPZGh8LvvyXE2ZSrY79Mwk9GSlw3nnJXYlSgv
+    parentId: 075RlP8xvEhzrZmGMXK3uK4WGAl
+    postId: MARwWKg5jOhJwJjVAQvNtMlZlx9zEOHryxBLxg77SpAYZyMRE3fYmWGx
+    factor: 1.33
+    portrait: 1
+    mInfo: 5f9f4RTUpxSoOHK
+message: "o"
+---
+
+*\(^o^)/*
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/hBY8j4Q.jpg"><img src="https://i.imgur.com/hBY8j4Q.jpg" height="300" width="225" /></a> 
+ 
