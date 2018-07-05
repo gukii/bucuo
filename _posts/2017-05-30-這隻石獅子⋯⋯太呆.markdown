@@ -1,0 +1,64 @@
+---
+layout: post
+title: "這隻石獅子⋯⋯太呆" 
+date: 2017-05-30T13:53:15+0000 
+categories: [] 
+media:
+  - id: EHip7fO
+    name: olMYgJyg0YsmrNqpNwgofRD93G8
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/EHip7fO.jpg
+    prevLoc: RqMkQ4G3K8iOWnnwYRvrh8ojExD8o5sqPzYx6YopTgwvEK207Wc83zgO8V86Ijyzqy0GqmiR423jm3NrcJ3RnJRJ53u1rqnJz5EQhVZBvR8oAySXk6JVlZpZs3YVlnXANGtxLGor7x31U36kk8VKRqCpKpWKMEnyUWm2vyj2jWsBGLA9p9DqFL27Znym2Wi1ZoLy8EoLCwqXmRnGPjtBrw66YLMYH51L3PlZMGIELGMvZWzEsA7zkzkp3mc0RM5OOL24sBVv0PJ
+    parentId: yyZ8vkXvD8C3rxzlE95wf320rEm
+    postId: 6NnXKxyz6LfWpWXlBnZ5UXKVKZl8Y9fkR4goN8VQijD277xOnjhr9rAQ
+    factor: 1.33
+    portrait: 0
+    mInfo: C3r3PjkJMTCAkGu
+  - id: wneRPlP
+    name: 8NpqDYEDxqhg6R3Qn9yxtP1ED7q
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/wneRPlP.jpg
+    prevLoc: EMZ1zNo3XKTqx11wyg3WT6Q2Kvl6QWh1DPVyGVq7s2rKlRGxP5HZpRjNZYZ3u7Xgv6D5ALfxgZ8rYLE2cV7XoYNL34TvQ1p78krAiLjozKQZr3SqWEVx30jJTw1LY0npm0hl28MVpKLrTkWZV9J4ljsKok3AXx34FYjXWYy89KFoPPXzAQjvtnXRxkk5ABuXkZNGy0Yqf2vgZrjyy2uKNL370LGAsqnoRm1OW2I95g9pXr3WcqJoO4rDxof2zGkZyqRlHLO
+    parentId: yyZ8vkXvD8C3rxzlE95wf320rEm
+    postId: 6NnXKxyz6LfWpWXlBnZ5UXKVKZl8Y9fkR4goN8VQijD277xOnjhr9rAQ
+    factor: 1.33
+    portrait: 1
+    mInfo: OsJp7PkK1WIG2n9
+  - id: IjRzN2r
+    name: olMYgJyg0YsmrNqp06LMhRjZ2yv
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/IjRzN2r.jpg
+    prevLoc: QpNjP3E9KATRPBBnV3k6TZA2vXzZANhxXJym9yNAhjw1Erq9LRt9PwVz9o97szyEO7X9YKF7VRowQEZPSrXEmpo98ktXyoqBogyYIWJP0k1jPvizG07NM6RRUnQ16zB0l0UpEwE3PLG7hVW24QOv0ZHpORvRYAyos6AmD6zG1jFEVV6YyOlgCDzkXNNYBmiyoYGpZY6kCp0PAx3qBMHE4GKGozAvuW9VGE85LPfPK3n5PZ3oH6jwXxYygLSxMAKpWwPys5D
+    parentId: yyZ8vkXvD8C3rxzlE95wf320rEm
+    postId: 6NnXKxyz6LfWpWXlBnZ5UXKVKZl8Y9fkR4goN8VQijD277xOnjhr9rAQ
+    factor: 1.33
+    portrait: 1
+    mInfo: tuETBvsSr27LSZW
+message: "這隻石獅子⋯⋯太呆萌了⋯⋯  尤其是呆呆的屁股⋯⋯≧∇≦ 哈哈哈哈  可惜太大隻帶不走，要是巴掌大那我也會包起來的啦！    這神情姿態太像我家歐巴了⋯⋯≧∇≦"
+---
+
+這隻石獅子⋯⋯太呆萌了⋯⋯  
+尤其是呆呆的屁股⋯⋯(≧∇≦) 哈哈哈哈  
+可惜太大隻帶不走，要是巴掌大那我也會包起來的啦！  
+  
+這神情姿態太像我家歐巴了⋯⋯(≧∇≦)
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/EHip7fO.jpg"><img src="https://i.imgur.com/EHip7fO.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/wneRPlP.jpg"><img src="https://i.imgur.com/wneRPlP.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/IjRzN2r.jpg"><img src="https://i.imgur.com/IjRzN2r.jpg" height="300" width="225" /></a> 
+ 
