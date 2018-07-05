@@ -1,0 +1,79 @@
+---
+layout: post
+title: "幾年前捐了一批錦鯉" 
+date: 2017-08-13T09:50:51+0000 
+categories: ["Koi ","錦鯉"] 
+media:
+  - id: a7gRZS9
+    name: pmNgWkGv0zFZ7mxZGwDnIomgPjD
+    description: ""   
+    height: 459
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/a7gRZS9.jpg
+    prevLoc: 4okV1p0MvWC85YYZPmBJSrMK5nlrMwuJQLxDGxgyF1VqyLJ3pGu06v780R0Efy1YmGZp3ETxAgzYovV9cl0O3G8MEwIp68kV1RYrsvGKP1pKM3IlzkRVDJYxtgY9Rz18g9h5rQmJmwPYh3kqzRROK2c3O4G9QA1rupz5BpOyoNTXvvyNMJnOs7QY9553RpsDp4PJnjggiyRoolN294IXzzzmWOpvI39J6Z0vJzi8gjvD3QR2Uj2BlPgXlDSL1GpwmwqOtN8
+    parentId: 43l8nzgo7kcxrR0pL7K3F192Mgp
+    postId: gEAZMDKQ51uBoB857L4MuGgngpxmOyfZJ2k39MR9C3LO2V0B9YUDyPyR
+    factor: 1.57
+    portrait: 0
+    mInfo: KKvY5wk7K5EzSDZ
+  - id: tWXDD7P
+    name: AlBnEMyG5mh5841o6YBoHlzAGgv
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/tWXDD7P.jpg
+    prevLoc: orv8GN4xnAIwYllA9BrXTXoMEx4XowT9KwvWqvPnc05YNk3x9MS8JX0m8Z8BIzwNMwZ03rcry1MxJmE2sAolNPA9MjtKokJqE22pUyR745L7q9TNvoVLxnPRIkwJxY1OJlIyZrKPDz2BfKqrGZ5GYAcK1oxwQk2Ys7qME7lB2JiEKKNk2GMZC6MEX33jBzFYvg6kOg5gsjMZxRkQRMtDgZ5mlLrNSg1z4j7l8kSwr962ZOOPFPE5z2BDnGf40gxOvM30i9E
+    parentId: 43l8nzgo7kcxrR0pL7K3F192Mgp
+    postId: gEAZMDKQ51uBoB857L4MuGgngpxmOyfZJ2k39MR9C3LO2V0B9YUDyPyR
+    factor: 1.33
+    portrait: 0
+    mInfo: tcx5B2SfH2P8Om6
+  - id: KO49LmF
+    name: nkLZWgDqpzTVkvmGoZPLIyElVEz
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/KO49LmF.jpg
+    prevLoc: orv8GN4xnAIwYllA9BrXTXoMEx4XowT9KwvWqvPnc05YNk3x9MS8JX0m8Z8BIzwkGY3qmnFry1M9Rp0QsAz9GxNBZJiKo867DNVoCyR745L7qAfzn5v2v9m5CkwJxYpRWvhyOQqE3AZXtr54gOA4jOFK1xZrQP4Jh7qME7lB2JiEKKNk2GMZC6MEX33jB5I5voLr6L66UjQq79AwWVsyE9g9gJ9wCgwPpZlnJyiwWkLBA0G4sP5MRvNv7jt40j4JZq34F9M
+    parentId: 43l8nzgo7kcxrR0pL7K3F192Mgp
+    postId: gEAZMDKQ51uBoB857L4MuGgngpxmOyfZJ2k39MR9C3LO2V0B9YUDyPyR
+    factor: 1.33
+    portrait: 1
+    mInfo: cVJKy7Z5KUGfW9M
+  - id: zOnWgR8
+    name: yyZ8W9RGE6H3YJAE7X6Df32EAV4
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/zOnWgR8.jpg
+    prevLoc: Xz7qZjO8XYT9KBBlAqXnTY9gx1jY9OHwNg0kL0B1uMQ5NvRP74HAr3VLAWAvILnJxnWVOjuRo7A0xzEkF3OqGPgEL2S8AQo2zOg1cARzpr4MRAsVjMJO3wGPCoEy3jpQ51HRP5xj7BkPHY9LN0WZMRU8lJ6wVD92FYW2zYRqEmFNPPDJXlz2FgYMWzz3KVc1GZzk19J4TYgYoy460RcnrVp3pVABI5LjDlvPnrF34KB8B8L6cJ8AxxEZ80CzL8zxxwpXF5O
+    parentId: 43l8nzgo7kcxrR0pL7K3F192Mgp
+    postId: gEAZMDKQ51uBoB857L4MuGgngpxmOyfZJ2k39MR9C3LO2V0B9YUDyPyR
+    factor: 1.33
+    portrait: 0
+    mInfo: lgYW2MnNVNKDlzF
+message: "幾年前捐了一批錦鯉給這個城堡的熱帶植物園≧∇≦    See you soon!!  Holland Koi Show"
+---
+
+幾年前捐了一批錦鯉給這個城堡的熱帶植物園(≧∇≦)  
+  
+See you soon!!  
+Holland Koi Show
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/a7gRZS9.jpg"><img src="https://i.imgur.com/a7gRZS9.jpg" height="191" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/tWXDD7P.jpg"><img src="https://i.imgur.com/tWXDD7P.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/KO49LmF.jpg"><img src="https://i.imgur.com/KO49LmF.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/zOnWgR8.jpg"><img src="https://i.imgur.com/zOnWgR8.jpg" height="225" width="300" /></a> 
+ 
