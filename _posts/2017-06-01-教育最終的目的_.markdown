@@ -1,0 +1,28 @@
+---
+layout: post
+title: "教育最終的目的_" 
+date: 2017-06-01T00:13:20+0000 
+categories: [] 
+media:
+  - id: KrIRjxW
+    name: 70ENx9xxlAsYqZmxmJ9XhNqkZGRyg
+    description: ""   
+    height: 429
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/KrIRjxW.jpg
+    prevLoc: 1lYEXmAJpVIZGnnrgkMph91EWgv91xugB2XkpXP0srwjYE0R3BHM46pAM86NcExKvD9M77FDk3r2GXXns1Z1lO3yjjs4QOv8w8GNIpEBMRwpElI5YQXQQJ6BHmWz221WK0tny2MJVDG3Sp8AYD2YnDCj0AGwjL95uwV69JZ6ZwFE1ZpDrDjxS39vpDRN97cxAlMqEAWyC892YnlA6vi4wQBqpnoGTjY4x8g7BkHz1RKXYPNDcV0ErE3ZzmfEqXNDDmZPIN8m4pQ
+    parentId: 70ENx9xxlAsYqZmxmJ9XhNqkZGRyg
+    postId: 3XkQVrvKlBf4y4ZYE5Wnc7GlGJ9K0OiLg6BmZAzLuADoLQ8P4Vu09JYD
+    factor: 1.68
+    portrait: 0
+    mInfo: uqRs3dU0zo7uDcy
+message: "教育最終的目的_"
+---
+
+教育最終的目的^_^
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/KrIRjxW.jpg"><img src="https://i.imgur.com/KrIRjxW.jpg" height="178" width="300" /></a> 
+ 
