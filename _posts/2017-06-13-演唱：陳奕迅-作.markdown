@@ -1,0 +1,57 @@
+---
+layout: post
+title: "演唱：陳奕迅  作" 
+date: 2017-06-13T11:51:47+0000 
+categories: [] 
+media:
+  - id: VptABPZ
+    name: qnOjkkRKKlhv7lNm0jkpTxgK4mL
+    description: "演唱;陳奕迅作詞;林夕作曲;陳小霞編曲;陳輝陽如果那兩個字沒有顫抖我不會發現　我難受怎麼說出口　也不過是分手如果對於明天沒有要求牽牽手就像旅遊成千上萬個門口總有一個人要先走懷抱既然不能逗留何不在離開的時候一邊享受　一邊淚流十年之前　我不認識你你不屬於我　我們還是一樣陪在一個陌生人左右走過漸漸熟悉的街頭十年之後　我們是朋友還可以問候　只是那種溫柔再也找不到擁抱的理由情人最後難免淪為朋友直到和你做了多年朋友　才明白我的眼淚不是為你而流　也為別人而流"   
+    height: 312
+    width: 550
+    type: image/jpeg
+    link: https://i.imgur.com/VptABPZ.jpg
+    prevLoc: 2mg2YnBKqGhm3KKLrRpkuJMEpwRJMkhK4pqx3qOncknMv4gQoKcKBPEGK9KQcpnJj75M0Wh2p938EqrQskKQWWA66pC9WNj87RPQH2ODnGW9XDSjyQgwnZjPFp1qGDY8ENf5qq840LPJtN8pw7MLLqCPjE7JyA4YC7Bk1yMgyvFy1Gmkx718up2DrY5VgNIl32PWE0MQsP7MoKPQort0lR2GnXXgFxYx3POONwSkMzJXO88nSZ21RM
+    parentId: qnOjkkRKKlhv7lNm0jkpTxgK4mL
+    postId: zz1vY45xmVHrkrKNA0O5fG9R951EkVfmEOMB2WGJuwmLmRWgZLtMwKYx
+    factor: 1.76
+    portrait: 0
+    mInfo: fWY7rRtHmdT10Ke
+message: "演唱;陳奕迅  作詞;林夕  作曲;陳小霞  編曲;陳輝陽    如果那兩個字沒有顫抖  我不會發現　我難受  怎麼說出口　也不過是分手    如果對於明天沒有要求  牽牽手就像旅遊  成千上萬個門口  總有一個人要先走    懷抱既然不能逗留  何不在離開的時候  一邊享受　一邊淚流    十年之前　我不認識你  你不屬於我　我們還是一樣  陪在一個陌生人左右  走過漸漸熟悉的街頭    十年之後　我們是朋友  還可以問候　只是那種溫柔  再也找不到擁抱的理由  情人最後難免淪為朋友    直到和你做了多年朋友　才明白我的眼淚  不是為你而流　也為別人而流"
+---
+
+演唱：陳奕迅  
+作詞：林夕  
+作曲：陳小霞  
+編曲：陳輝陽  
+  
+如果那兩個字沒有顫抖  
+我不會發現　我難受  
+怎麼說出口　也不過是分手  
+  
+如果對於明天沒有要求  
+牽牽手就像旅遊  
+成千上萬個門口  
+總有一個人要先走  
+  
+懷抱既然不能逗留  
+何不在離開的時候  
+一邊享受　一邊淚流  
+  
+十年之前　我不認識你  
+你不屬於我　我們還是一樣  
+陪在一個陌生人左右  
+走過漸漸熟悉的街頭  
+  
+十年之後　我們是朋友  
+還可以問候　只是那種溫柔  
+再也找不到擁抱的理由  
+情人最後難免淪為朋友  
+  
+直到和你做了多年朋友　才明白我的眼淚  
+不是為你而流　也為別人而流
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/VptABPZ.jpg"><img src="https://i.imgur.com/VptABPZ.jpg" height="170" width="300" /></a> 
+ 
