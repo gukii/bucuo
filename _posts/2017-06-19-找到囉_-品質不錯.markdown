@@ -1,0 +1,63 @@
+---
+layout: post
+title: "找到囉_ 品質不錯" 
+date: 2017-06-19T10:28:19+0000 
+categories: [] 
+media:
+  - id: K2Oimge
+    name: yyZ8vv9pzKh4wZkmK9Kls3lEEvL
+    description: ""   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/K2Oimge.jpg
+    prevLoc: yG67V1gLApH4o66GD0rNHXAqnJoXA8TGj86wm6rJc67lw9rk5MHQLPXBQNQ3uz1lOMR5wpF5QGPXjO2qSYoX5PyxloUE9vwYgAyXC398QAg93qTMmZRv8lWRFPvELkGg8OfWA7GEQPmmhqwm857QmOUpZMrDZBY3fW9O8W01KgfvAAwgJxrmip3jEKK5N7SWkg4VRVmWur13jJzpwKSGB5qzzAWDt01NAgBm49Im8M4ALqkpfPKwJ5p5rQtGyDroAvv0CE9
+    parentId: 9Nq8EED3jVTOXQ9JqjRmhrlL6kV
+    postId: qnO7Lp5MjwS2E296opJqc3GyG0oVOMtAg38w3XQyFXZ998rog5fKyJGV
+    factor: 1.78
+    portrait: 0
+    mInfo: b6bAwudrjTQiarY
+  - id: dNwYfft
+    name: PE01VVz6GBF6RWMGW9VVh3G5110
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/dNwYfft.jpg
+    prevLoc: orv8GN4xnAIwYllA9BrXTXoMEx4XowT9KwvWqvPnc05YNk3x9MS8JX0m8Z8BIzwNMwZEZ1frLnjJpj3liZxPLZPZ95iJmyY6PvqySNBp2rwDoNUNvzRA1KvZIk1LX0n8QqCkWyLmMz2LhrljYEAw6rIk75p1ogQ4I0B6B74oBpugWwolGMX1f4Mrnyl4RgT8KmrzQEjPfjV9YRolBkuD2RVPnl0VFGlL25LkNyhNpDqRo05PCgwjJvjgMZTzj0WvOoEycLL4xx6oz
+    parentId: 9Nq8EED3jVTOXQ9JqjRmhrlL6kV
+    postId: qnO7Lp5MjwS2E296opJqc3GyG0oVOMtAg38w3XQyFXZ998rog5fKyJGV
+    factor: 1.33
+    portrait: 0
+    mInfo: XGYjzAvansVZFRy
+  - id: j7mpNho
+    name: 2NjRww7GXLTmXPYRPk11CKWNNmG
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/j7mpNho.jpg
+    prevLoc: xEV8RZ4KzohXvmmp891Ji6WmxKr6W1h1pWnLEnJZsBlV7O5mYxiGA217GoGnIgNY9Nnv9oF2JvXD4X5rCLoE3LELP1iZnppj10XNsgx1ylGNkghw8kADp1RxUOkRjgAG0zIzmonM41L5FJV42EqLJ6sL8DG05k0msxBk2zryLQsX3M7GOrAzTrZ6x12rzAuJYXjp49lyhRoqBo45YmIoD2yjvpn2CyGVw7B8v5ivl2lR42E3HoZkrWkvREs5qvGL0R2Zs9D1M9yJ3
+    parentId: 9Nq8EED3jVTOXQ9JqjRmhrlL6kV
+    postId: qnO7Lp5MjwS2E296opJqc3GyG0oVOMtAg38w3XQyFXZ998rog5fKyJGV
+    factor: 1.33
+    portrait: 0
+    mInfo: 5EvHWjcHBCUKoHR
+message: "找到囉_ 品質不錯！  雖然不是原件，但我還是很喜歡_    Got it, beautiful!"
+---
+
+找到囉^_^ 品質不錯！  
+雖然不是原件，但我還是很喜歡^_^  
+  
+Got it, beautiful!
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/K2Oimge.jpg"><img src="https://i.imgur.com/K2Oimge.jpg" height="168" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/dNwYfft.jpg"><img src="https://i.imgur.com/dNwYfft.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/j7mpNho.jpg"><img src="https://i.imgur.com/j7mpNho.jpg" height="225" width="300" /></a> 
+ 
