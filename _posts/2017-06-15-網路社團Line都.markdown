@@ -1,0 +1,72 @@
+---
+layout: post
+title: "網路社團Line都" 
+date: 2017-06-15T04:51:34+0000 
+categories: [] 
+media:
+  - id: Io9sRs7
+    name: Vj4mVVmWMwI8vkJvM79XUpzQE1G
+    description: ""   
+    height: 720
+    width: 486
+    type: image/jpeg
+    link: https://i.imgur.com/Io9sRs7.jpg
+    prevLoc: DLY6yMn3ZwIxAjj7pn5Bszk0vGPzkYsmw1ZRGZOYFrLK42NEWRHEGNZmEnE3TNg3J5ykD0Tm7xngEo5jiWNLr765OofMK9M5p58wiByRglNrLGHXMMEzjWYxSV4wWRKjAACyQLEygXyKHDkMEX11vDSQjgjR1VnyFk4nYk7mZBHnKKZov3VEhnGKLrrmMYHAXNMogm6nujwDWwqOnLfMnAAA41E2F83RpvppMxtEvEJxBkZKiWY51XnXwviP7BR1EQM7TGx
+    parentId: 8NpqDDqgLGFgrPGqp8YxCP1oRWm
+    postId: W05LoKvjnki4M40wWANJcv4A4QzgDOf34ljgPVY8T9Em5DryRmC68ZXQ
+    factor: 1.48
+    portrait: 1
+    mInfo: ZW2RzjY05Yh96Ck
+  - id: lAKHlq3
+    name: Vj4mVVmWMwI8vkJvjE40fp5ZAM4
+    description: ""   
+    height: 720
+    width: 647
+    type: image/jpeg
+    link: https://i.imgur.com/lAKHlq3.jpg
+    prevLoc: mp28DL4v07TMl11VXAj5s1Dkwj81D6C42orB8rNZu8lwXmgOzWHLDxVqLJLEcOm27Dw54Mhx5wlOM1z9cJ3Zz8qy1MFrXBVovQ5QI78gRZz0BmfjK8Rogw3YIB7XxJRQRGHRM9p2R7OVc5y93kkvNzSLYK509pJ0C9NDm9Yj7lCOkk34QlLptZw0q33DmAiRJvEN8kMQHRM391P7n8UXA5JJPRXwTjz0Bw7ZkmiwoAl0BRNXSokQvEy75JtqrZR4vqRPuyB
+    parentId: 8NpqDDqgLGFgrPGqp8YxCP1oRWm
+    postId: W05LoKvjnki4M40wWANJcv4A4QzgDOf34ljgPVY8T9Em5DryRmC68ZXQ
+    factor: 1.11
+    portrait: 1
+    mInfo: gRISasB7MpYX73g
+message: "網路社團Line都在傳，吳郭魚病毒感染不治之症，大量死亡。  有些人看到「病毒感染不治之症」嚇壞了，趕緊瘋傳大家不要吃吳郭魚。    這幾年養殖吳郭魚的漁民普遍因為市場供過於求，出口也萎縮，已經從薄利多銷到賠本出售。    當然如果冷靜理性的來看待生產跟銷售的問題，很多人會說出一片道理，不要養那麼多啊，不要養吳郭魚啊，品質提高啊，開發附加價值啊，轉加工啊⋯⋯等等。    今天我不談這個艱深的產學行銷問題。    我想表達的事，我記得有人說過「台灣最美的風景是人」    最近我看過新聞，有人車禍了躺在大馬路上，路人找來紙板讓他躺著，不要被高溫的柏油路燙傷，找來雨傘遮陽，避免他曬傷增加痛苦，有人幫忙指揮交通⋯⋯  看見別人有危難，舉手之勞，這樣的新聞讓所有海內外的人看見，台灣人民的良善。    這樣的生活故事，很普遍。都是升斗小民之間的互相關懷，都是讓人感到溫暖。    有了FB，有了Line，我們每天起床有很多即時訊息叮叮咚咚的不斷傳來，都是我們的朋友親人覺得有趣的或是值得分享的，我們也感受到被關心也被重視。  看到一則心有同感的文章、照片，我們也分享轉發給我們認識的朋友們，看到一則氣憤不已的新聞內容，也一起義不容辭的分享，希望正義能夠被伸張。    出發點都是好的，立意都是良善的。    但有時候，沒有考證清楚或是以訛傳訛的內容，就在我們一個按鍵下，轉發給無數的人，一直一直傳開。    良善的花朵開滿山野，可以溫暖我們的心。  但以訛傳訛的誤會，會像病毒一樣擴散，帶給我們彼此間傷害。    或許難免生活中有誤會造成的小火源，但大家如果能謹慎應對，考慮一下是否會對他人造成不可彌補的傷害，那即便星星之火，雖有燎原之勢，只要大家舉手之勞撲一下踩一下，那就不會火燒森林啦！    https;tw.mobi.yahoo.comnews%E5%90%83%E8%B1%AC%E7%B3%9E%E9%95%B7%E5%A4%A7-%E5%90%83%E7%89%A0%E8%87%B4%E7%99%8C-%E5%90%B3%E9%83%AD%E9%AD%9A%E7%9C%9F%E7%9B%B8-040310209.html"
+---
+
+網路社團Line都在傳，吳郭魚病毒感染不治之症，大量死亡。  
+有些人看到「病毒感染不治之症」嚇壞了，趕緊瘋傳大家不要吃吳郭魚。  
+  
+這幾年養殖吳郭魚的漁民普遍因為市場供過於求，出口也萎縮，已經從薄利多銷到賠本出售。  
+  
+當然如果冷靜理性的來看待生產跟銷售的問題，很多人會說出一片道理，不要養那麼多啊，不要養吳郭魚啊，品質提高啊，開發附加價值啊，轉加工啊⋯⋯等等。  
+  
+今天我不談這個艱深的產學行銷問題。  
+  
+我想表達的事，我記得有人說過「台灣最美的風景是人」  
+  
+最近我看過新聞，有人車禍了躺在大馬路上，路人找來紙板讓他躺著，不要被高溫的柏油路燙傷，找來雨傘遮陽，避免他曬傷增加痛苦，有人幫忙指揮交通⋯⋯  
+看見別人有危難，舉手之勞，這樣的新聞讓所有海內外的人看見，台灣人民的良善。  
+  
+這樣的生活故事，很普遍。都是升斗小民之間的互相關懷，都是讓人感到溫暖。  
+  
+有了FB，有了Line，我們每天起床有很多即時訊息叮叮咚咚的不斷傳來，都是我們的朋友親人覺得有趣的或是值得分享的，我們也感受到被關心也被重視。  
+看到一則心有同感的文章、照片，我們也分享轉發給我們認識的朋友們，看到一則氣憤不已的新聞內容，也一起義不容辭的分享，希望正義能夠被伸張。  
+  
+出發點都是好的，立意都是良善的。  
+  
+但有時候，沒有考證清楚或是以訛傳訛的內容，就在我們一個按鍵下，轉發給無數的人，一直一直傳開。  
+  
+良善的花朵開滿山野，可以溫暖我們的心。  
+但以訛傳訛的誤會，會像病毒一樣擴散，帶給我們彼此間傷害。  
+  
+或許難免生活中有誤會造成的小火源，但大家如果能謹慎應對，考慮一下是否會對他人造成不可彌補的傷害，那即便星星之火，雖有燎原之勢，只要大家舉手之勞撲一下踩一下，那就不會火燒森林啦！  
+  
+https://tw.mobi.yahoo.com/news/%E5%90%83%E8%B1%AC%E7%B3%9E%E9%95%B7%E5%A4%A7-%E5%90%83%E7%89%A0%E8%87%B4%E7%99%8C-%E5%90%B3%E9%83%AD%E9%AD%9A%E7%9C%9F%E7%9B%B8-040310209.html
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/Io9sRs7.jpg"><img src="https://i.imgur.com/Io9sRs7.jpg" height="300" width="202" /></a> 
+  
+
+<a href="https://i.imgur.com/lAKHlq3.jpg"><img src="https://i.imgur.com/lAKHlq3.jpg" height="300" width="269" /></a> 
+ 
