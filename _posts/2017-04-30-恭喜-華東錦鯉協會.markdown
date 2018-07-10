@@ -1,0 +1,81 @@
+---
+layout: post
+title: "恭喜 華東錦鯉協會" 
+date: 2017-04-30T03:04:32+0000 
+categories: ["Koi ","錦鯉"] 
+media:
+  - id: 1eMCrSF
+    name: RJZ62YmOx1iXvMR4ggzEU34MEK3
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/1eMCrSF.jpg
+    prevLoc: Xz7qZjO8XYT9KBBlAqXnTY9gx1jY9OHwNg0kL0B1uMQ5NvRP74HAr3VLAWAvILnJxnWVOjuRo7A0xzEkF3M7oRA24Rh5JRj7v6QpTA7npxKVVwcYoZ30X0NpFgyNk7vX71sg36X0PM3ESY9zmBj8rzT8ZKxYBWDmtYW2zYRqEmFNPPDJXlz2FgYMWzz3KqfmqODzD9BZCJl7mmOMJZIm3QL6zryYSpO4Ol1vqrt3y0mDQ0W8SjwJk0lGOEHzL8yRJZVkToN
+    parentId: 1Ngwx1OW84CXj3jZJwOOs0W1rq3
+    postId: gEAZMDKQ51uBoB857L4MuGgngpxmOyfZMorYmEMQu3vPDB8jzvuDrBLD
+    factor: 1.33
+    portrait: 0
+    mInfo: fjXfWyhcsEUIlP8
+  - id: DQZtcVZ
+    name: qnOxwRq7vZiv8ER1p5DpCxgzzVA
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/DQZtcVZ.jpg
+    prevLoc: EMZ1zNo3XKTqx11wyg3WT6Q2Kvl6QWh1DPVyGVq7s2rKlRGxP5HZpRjNZYZ3u7XnrXEZDpFxgZ86wPQquV7XQyEx6vFvDXg9ozJ6HLpnx1K44Ahq9kEV0VD1SzDA88m8VYsV3GlnD6qncYpgnQ27vksKqXzKWQ94TYjXWYy89KFoPPXzAQjvtnXRxkk5A5SB8Xgpynv8f2xXlkzNlltNAJBR6W9pCQLonmDo3qt96P8vAExguNjPE7LEorf2zGklrpvDsLr
+    parentId: 1Ngwx1OW84CXj3jZJwOOs0W1rq3
+    postId: gEAZMDKQ51uBoB857L4MuGgngpxmOyfZMorYmEMQu3vPDB8jzvuDrBLD
+    factor: 1.33
+    portrait: 0
+    mInfo: eUYzO0FcQAM0h5G
+  - id: 62h0KQQ
+    name: W056kOrLDqt85MPn6ZVgu57VlyW
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/62h0KQQ.jpg
+    prevLoc: OnELN1B3XJsOx55DY0pAhz5BYQ4z57s4VjyzBy9xumZ9q5NzQYirP8BnrXrmiD6A46QnLyF6n7KDMw3lhP2kqNBXwNSm28pVVp9ms7K6k5Myygholnw4wgxGSWkOPOk1jZTkQWJzoB8ku9k55JYnoZCoKYwYkg7Bs2EWq2D5R8slGGJL6wQyIo2JAEEG4vflroQWkLX5CZrm5YYJWRtJG5rYDMpruonVrzkmXghAKDL8wQ7LFNL96qxLQ4t3nrmX2mx9IyL
+    parentId: 1Ngwx1OW84CXj3jZJwOOs0W1rq3
+    postId: gEAZMDKQ51uBoB857L4MuGgngpxmOyfZMorYmEMQu3vPDB8jzvuDrBLD
+    factor: 1.33
+    portrait: 0
+    mInfo: 3HryJbhiRoqGqpZ
+  - id: QF4uFVI
+    name: kLGR9Qk8m7SvOKr2njVRhARLQKv
+    description: ""   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/QF4uFVI.jpg
+    prevLoc: lovXBK4rk8CMEOOWGA2osRYQLM8RYPhBKjWGMWE6upW3vjAnOVSDoLjpD0DvTLWO9q4RvZI7oxWXlGBMSY5rJLwjAjsXwRREx6vEuv3QpzB66OCv5km9Lz6rHgrQ3QXxjyCA7zDZv0y6u1g88Y0wxjHK2zBg45xNTOXPoOyzJ2IvBBwQA9jOi5xnz33X1ZU4BqWjo390uxnonJmEy9iyZ5lvL4MZi0lQ4M634gU5LOoREJ4RtVmQLznxqoSgZYGMMwgZU6L
+    parentId: 1Ngwx1OW84CXj3jZJwOOs0W1rq3
+    postId: gEAZMDKQ51uBoB857L4MuGgngpxmOyfZMorYmEMQu3vPDB8jzvuDrBLD
+    factor: 1.78
+    portrait: 0
+    mInfo: JM93sAWw52JzUcS
+message: "恭喜 華東錦鯉協會成立  恭喜 袁建棟 先生當選 第一屆會長    Congratulations !!  Eastern China Koi Associate  ECKA  Chairman Mr. Yuan, Jian Dong"
+---
+
+恭喜 華東錦鯉協會成立  
+恭喜 袁建棟 先生當選 第一屆會長  
+  
+Congratulations !!  
+Eastern China Koi Associate ( ECKA)  
+Chairman Mr. Yuan, Jian Dong
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/1eMCrSF.jpg"><img src="https://i.imgur.com/1eMCrSF.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/DQZtcVZ.jpg"><img src="https://i.imgur.com/DQZtcVZ.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/62h0KQQ.jpg"><img src="https://i.imgur.com/62h0KQQ.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/QF4uFVI.jpg"><img src="https://i.imgur.com/QF4uFVI.jpg" height="168" width="300" /></a> 
+ 
