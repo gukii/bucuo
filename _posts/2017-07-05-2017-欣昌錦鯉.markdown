@@ -1,0 +1,79 @@
+---
+layout: post
+title: "2017 欣昌錦鯉" 
+date: 2017-07-05T02:35:05+0000 
+categories: ["欣昌","Koi ","錦鯉"] 
+media:
+  - id: IfgQIFk
+    name: qnOjkvxKVEuv96vkEMDvs0DAQny
+    description: ""   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/IfgQIFk.jpg
+    prevLoc: yG67V1gLApH4o66GD0rNHXAqnJoXA8TGj86wm6rJc67lw9rk5MHQLPXBQNQ3uz1lOMR5wpF5QGPXjO2qSYoXgkPMMVcEAklr1lMZU32kkMOJ8EfMrWyJpYZLUPvELkGgYkF7MvJrovmvSKQR0gEKogCpLpGnqqLZuW9O8W01KgfvAAwgJxrmip3jEKK5NLs4gnX1gmkEsnY8E8OzAOTGM06mQmMAfLBk6Q84NPimzD59XRGlHm8lMMDo84CGyDG9mlEVuE1
+    parentId: RJZgVx6QMycXKjW4PXvgi3422G3
+    postId: zz1vY45xmVHrkrKNA0O5fG9R951EkVfmEYZ8GRzOSgow9vlgPVtMpJl8
+    factor: 1.78
+    portrait: 0
+    mInfo: ltQmoilQOJucNqL
+  - id: h0S0kN8
+    name: NBVx6qkMErupo5pvWJX2CGpL9D2
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/h0S0kN8.jpg
+    prevLoc: 8voWjwLQzXukqOOm3z6jcpwx4Q7pwrTG4APkgP3xcJA0r2z68wS8wYyv878xI8w2zwKjGQTZgG0VPN8yfOjJn1MJJJhw2Mm7L57nSxVjjZkzMZCwDjK3VrwkFKp7Drk3OJcYQ40NPgRDsoBNBM7wlDtQoj3E6ojXFgzJAg028qfWjjANYgO0tJW1Evvq8GFz8grxKEPEU9yN21NL7XHgM5BP504kT838RPXK5Ei8mvKX993jhR422RJEXQClw3k38G62Hx2
+    parentId: RJZgVx6QMycXKjW4PXvgi3422G3
+    postId: zz1vY45xmVHrkrKNA0O5fG9R951EkVfmEYZ8GRzOSgow9vlgPVtMpJl8
+    factor: 1.33
+    portrait: 0
+    mInfo: SD4CpZK2GkaeEYl
+  - id: MVAU7pj
+    name: 43l8y7x1krTxrAxr3ZoQT1rRKLg
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/MVAU7pj.jpg
+    prevLoc: GOYzBPq3XwU84WWrn01JSq0OX59q0xfRyLZPmZ5pcwOq06RQ1xuEGNDrE0EQTXrgAr5kyluE398yPNKrCVoj3Arw54cR60ym5LQ9iqyLLGNRr3toZQwn2w75SQ423Xm1kwU3lGOjlGgnCNGlErk4XRHPXBlQ3Dj6CO0jxOJ36XIj11A7QXqEhAQx1RRrJBI7m2JL88J5FGJLwo6M31Uxo9lynxY0cJYk4GyPEjT931MKkODytr8W76yzPOfMADZOGyJ3uNO
+    parentId: RJZgVx6QMycXKjW4PXvgi3422G3
+    postId: zz1vY45xmVHrkrKNA0O5fG9R951EkVfmEYZ8GRzOSgow9vlgPVtMpJl8
+    factor: 1.33
+    portrait: 0
+    mInfo: oTagh8CooLHaCvq
+  - id: B9ss2fV
+    name: zz1mwGpWB8hzKNzKL5JlH50Pgk4
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/B9ss2fV.jpg
+    prevLoc: AGQWvJk3X8HROrrx0nN9TjMPwxDjMWskMJ1G91Pzu1E0ROX78WurAYVgrBrMiLXW9E4AwgIDZk6g5PW7Sy35G6ryB8c8rV2YEWrNF6zBBMXGEwIXryG13xwlCqWkr5M9nwF3YD79B4R8HxRjwWgG21HABLlZr9oNu1xB01jEOPINPP6kv97wFvYKDBBr17sNrAvW2q7VTKJjNLm2lkSrQ3Z8nB0LiOx19O7Z55HBrq36WlZETmPB1gj2KBh5OBKORRMlU7Z
+    parentId: RJZgVx6QMycXKjW4PXvgi3422G3
+    postId: zz1vY45xmVHrkrKNA0O5fG9R951EkVfmEYZ8GRzOSgow9vlgPVtMpJl8
+    factor: 1.33
+    portrait: 1
+    mInfo: sQzvCLwiNWSoMAP
+message: "2017 欣昌錦鯉暑期實習  萬中選一開始啦o    Baby koi selection!"
+---
+
+2017 欣昌錦鯉暑期實習  
+萬中選一開始啦*\(^o^)/*  
+  
+Baby koi selection!
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/IfgQIFk.jpg"><img src="https://i.imgur.com/IfgQIFk.jpg" height="168" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/h0S0kN8.jpg"><img src="https://i.imgur.com/h0S0kN8.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/MVAU7pj.jpg"><img src="https://i.imgur.com/MVAU7pj.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/B9ss2fV.jpg"><img src="https://i.imgur.com/B9ss2fV.jpg" height="300" width="225" /></a> 
+ 
