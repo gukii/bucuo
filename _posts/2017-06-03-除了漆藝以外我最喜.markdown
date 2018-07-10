@@ -1,0 +1,205 @@
+---
+layout: post
+title: "除了漆藝以外我最喜" 
+date: 2017-06-03T14:11:58+0000 
+categories: [] 
+media:
+  - id: X42QhWs
+    name: YmjpMl4ymOF9xDAzX1Jwuk88QQJ
+    description: "梅【香盒】尺寸;7X7X1.5cm材料;925銀、鑲金、四分銀、赤銅、紅銅創作年代;2012年〈已被收藏 〉"   
+    height: 720
+    width: 481
+    type: image/jpeg
+    link: https://i.imgur.com/X42QhWs.jpg
+    prevLoc: rxEBLQ4AqgTmZwwyM18AuoN23WnoNAInV48m68MBCjxBWq81Mzt6PK70GGqgCvNzPGM0WMi7W5E5XY20cDK9P5Ggl4HLGJYZL4m1U1gl9nYONPTO6O8nx81RSWJq51ADx0uPzzJZJMmlILXX8gy2LxfkBrzxNWxpfE7JLnyZWWhoMVGoEnAqs1L90oM7B3UVnklJRmkzCoR7Qg9QJAUMNX6Y8yKNUzMKPn67qRtA0yV6VX5BtgNq4DzAPvtlrGZ35Nv3i3yw
+    parentId: 9Nq62LnDNVTOBz29k22Airq33Dy
+    postId: mjKON06MwlUMgMvLrmkOiKj2jqVAo4SlnrpWR0zNCXjEBOKApOfZGn9o
+    factor: 1.50
+    portrait: 1
+    mInfo: mj9Ola9rylUEhGH
+  - id: wgn9ANk
+    name: EpJOPXv9oqtq2V2zLEvrh53E4WY
+    description: "化蛾破繭~橙帶藍尺蛾【香盒】尺寸;7X7X1.5cm材料;黑味銅、赤銅、金、銀創作年代;2013年〈已被收藏 〉"   
+    height: 480
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/wgn9ANk.jpg
+    prevLoc: pvRBJO5yo9uwoQQgkvnzTO26Vn4O2MsGlw0x20O9c1ZXoVD6pzuK7Ej8rr1zFz0DP3npKnUKPGwGNz09skK4Zq7379TmOyXM9M6Pt4659VzEEWcXD69kvDXKiEMgw1LXyYTxKrWr9xYLHkAYY8n7MmtoZg6pLlyDfLgj7Gy4NNi13961jJmqIDRo8Kl1QOCyl9vGNro3uzqvynrQoBsBWAA8o7L8CN95nZ2M58ukWxD9EvRkSnMVmXnnR5twB5zB80NNc4J5
+    parentId: 9Nq62LnDNVTOBz29k22Airq33Dy
+    postId: mjKON06MwlUMgMvLrmkOiKj2jqVAo4SlnrpWR0zNCXjEBOKApOfZGn9o
+    factor: 1.50
+    portrait: 0
+    mInfo: 1PvatqvWs4Q54Ot
+  - id: O4CCVEE
+    name: olMRO7Rp6zFmB04rz3YlcRjz8K4
+    description: "紅運當頭【香盒組】尺寸;香盒8X8X3cm、香則5X10X1.2cm材料;純銀、24K黃金、紅銅、鐵創作年代;2014年〈已被收藏 〉"   
+    height: 473
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/O4CCVEE.jpg
+    prevLoc: 9wpGkxM0A3tOqRRJnMkmhA1nqyvA19t54wDlND8PFjn6xJwEW0tqmYnALLJkIA2QLzw6Pwu4QqkqOx26foRLD4BZlBcjzEEnmK87uEBEmG3pv6FrqRzpogV0TJm8Ovo3xESnxw2ZPoXYtRz2YX4k37uQ52km35wNH564PKpYzzCwxpWw48ARTvMrE2DVyXiLvzXjwnXOCjzMj1NoMBcVg4plY004tlMWlGm3RgIP2053vl70hJXQRNylpoU7LEzLJY57IRjR
+    parentId: 9Nq62LnDNVTOBz29k22Airq33Dy
+    postId: mjKON06MwlUMgMvLrmkOiKj2jqVAo4SlnrpWR0zNCXjEBOKApOfZGn9o
+    factor: 1.52
+    portrait: 0
+    mInfo: fm6dghdJoQkKds7
+  - id: GyEDEQE
+    name: 6Nno0zknLqsWvjvwXPmAcPNJxWK
+    description: "敲敲敲啄木鳥【鐵打出茶則】鐵打出;鐵包銀、高肉鑲嵌、金屬微雕創作年代;2014年〈已被收藏 〉"   
+    height: 720
+    width: 481
+    type: image/jpeg
+    link: https://i.imgur.com/GyEDEQE.jpg
+    prevLoc: GOYzBPq3XwU84WWrn01JSq0OX59q0xfRyLZPmZ5pcwOq06RQ1xuEGNDrAAP6IXR5WzEgKEtEoBxBzX1gIVwAmEl4o8SRnnDjEZO3CNAxzVwMYjhoZYXJzWv4h8npLgW1oVT3LGkXMkjRuNP1KGYNGYCPOK7MxnOpUOQ7XPMMJ9sj58V47DDNcA4W9PAQoVt37y02zWkotypjjkNpOlcxLoYwGjWkh8X21AZk2vsQKGB2jWZAFrOjLgkj8AIMvyQ2NWJ6
+    parentId: 9Nq62LnDNVTOBz29k22Airq33Dy
+    postId: mjKON06MwlUMgMvLrmkOiKj2jqVAo4SlnrpWR0zNCXjEBOKApOfZGn9o
+    factor: 1.50
+    portrait: 1
+    mInfo: mlNHpWMn03FLMeA
+  - id: 4HtIepC
+    name: nkLQz8QnKBHVK1YYRBWDcV3xBjR
+    description: "豐收【香盒】尺寸;8X8X3cm材料;赤銅、24K黃金創作年代;2015年〈已被收藏 〉"   
+    height: 480
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/4HtIepC.jpg
+    prevLoc: OnELN1B3XJsOx55DY0pAhz5BYQ4z57s4VjyzBy9xumZ9q5NzQYirP8BnRRlYiDlQzpEA9EC6Q949BGNySPWAMvXqxMFmyJXAPRN6tB5BOLPGn2coAlElOY0ouDxLjr5y7xHkjElABw0khrZD42Ao0NTo6BNm29Xztnv13ylRKKURBE8R1pN2IKLqwGEmlWilRg9WvN3ECLAxrgWX8NIK3AoEpXl2cDGME116xwfJ5Apnqlm1slWvZOwmoxS9nV5M42AkTLy8
+    parentId: 9Nq62LnDNVTOBz29k22Airq33Dy
+    postId: mjKON06MwlUMgMvLrmkOiKj2jqVAo4SlnrpWR0zNCXjEBOKApOfZGn9o
+    factor: 1.50
+    portrait: 0
+    mInfo: HFSS0HGjyeEt0St
+  - id: BliLD3A
+    name: jKEQnO7Vr4COX495jA4xS6n69m2
+    description: "紅蜻蜓【香盒】尺寸;7X7X1.5cm材料;925銀、鑲金、四分銀、赤銅、紅銅創作年代;2015年〈已被收藏 〉"   
+    height: 720
+    width: 519
+    type: image/jpeg
+    link: https://i.imgur.com/BliLD3A.jpg
+    prevLoc: BJ8OwK03X1TnKPPxqM7VhZ1gPwxZ15hGLp3Ny3E1cRAvlN63MoiOA6J7vvXQIz7L6lVJwDcYOVJDWJz0IE2Avj55QJs81koRl9WlCAYzo9vEp2HrD4DLqAwlT6y7PqMKEEsR10zm4gNLiYlj4wPA0RiyRp3RO01JhgGNWZg1wVUnVopX88m4FyW2Pjwgg6Ip8EAvpER4FAjX9LZkAOC353mPgJvqTADA1QQJXVcYxNlKGjknCLQl977VpJsYROnzQOxMuXmzk1zYoL
+    parentId: 9Nq62LnDNVTOBz29k22Airq33Dy
+    postId: mjKON06MwlUMgMvLrmkOiKj2jqVAo4SlnrpWR0zNCXjEBOKApOfZGn9o
+    factor: 1.39
+    portrait: 1
+    mInfo: XE2kz0o9oqdaXSQ
+  - id: Spd6b58
+    name: JxODPlDYN9coQL2KYPwDuJMVNZR
+    description: "嵐【香爐】尺寸;12X12X7cm材料;銀、陶創作年代;2015年〈已被收藏 〉"   
+    height: 480
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/Spd6b58.jpg
+    prevLoc: OnELN1B3XJsOx55DY0pAhz5BYQ4z57s4VjyzBy9xumZ9q5NzQYirP8BnRRlYiDlQzpEA9EC6Q949BGNySPWAMvBNB3Fmqojo3ggLHB5VG1nRBGUo1VqQWYmNuWYV602Dg4IkND4mN72MT9y8VqrgB9Io65DQMQq7Snv13ylRKKURBE8R1pN2IKLqwGEmlWizxOyNzxMyU0N3rMWqrmcKZZXQVr7rfo6KRG1xvwcj5yjOABvziND2N3gvw4U9nV5JyxgytVp0
+    parentId: 9Nq62LnDNVTOBz29k22Airq33Dy
+    postId: mjKON06MwlUMgMvLrmkOiKj2jqVAo4SlnrpWR0zNCXjEBOKApOfZGn9o
+    factor: 1.50
+    portrait: 0
+    mInfo: OmBKPjaorBB6o1U
+  - id: VXhxoHN
+    name: KyPX677Vn6F1nqkz7OEAUKBKlzN
+    description: "流動‧留動>>系列一【紫砂壺】把水留住，水便枯乾；留住自然流動的水痕，霎那即是永恆。材料;銀創作年代;2013年〈已被收藏 〉"   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/VXhxoHN.jpg
+    prevLoc: AGQWvJk3X8HROrrx0nN9TjMPwxDjMWskMJ1G91Pzu1E0ROX78WurAYVgrBrMiLXOkXz34BuDZk6YznqETy36AjY8ozuEGyrGZjZEUXPk1kZDJkIXMvXO2oBDFqp5VQPLVYF304K112Zqfxr2DmgrR6fAwYkXW7j3I186PANNjrHNgD2Kk33jSvLk0XvkJrtPzOV7YPNGcm57YwxGO5UrZoMp2O80HOrzG34Y3RtwJP2y3wXBfmZPKpgPqMc5rKRwryJG
+    parentId: 9Nq62LnDNVTOBz29k22Airq33Dy
+    postId: mjKON06MwlUMgMvLrmkOiKj2jqVAo4SlnrpWR0zNCXjEBOKApOfZGn9o
+    factor: 1.33
+    portrait: 0
+    mInfo: s6TeNCD17WLdTcE
+  - id: KCpJUnJ
+    name: 8Np89xGBJ2fkR6nMp6pJCP4o6Jn
+    description: "流動‧留動>>系列二【紫砂壺】爍石流金之際，留住自然流動的痕跡，霎那即是永恆。材料;金創作年代;2014年〈已被收藏 〉"   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/KCpJUnJ.jpg
+    prevLoc: jmv5zG4pgAhOmllzE3njhmnqgl0mnvhwnxVKAVNouLjxn1ZOVDiqWxnp66P8ILWr2O1GX1H9lZNZDKq2uWYBjQMyDEs1jrB0QgQZUQYwPvnj8oHMzzPjAKG6SvGwPWyrW2c97XMWjKY7CwDoARlQKXhY4WrwzyEYiJo9EWvjVVfyk2XyVWzZIgN7zZ568GhrXyP4pOVNIwAQLvyNAltqN6J4Rk6YsL2ozBADrgTQvEB42yk1iE98jnpxA2T8yGBxnpwrhx81
+    parentId: 9Nq62LnDNVTOBz29k22Airq33Dy
+    postId: mjKON06MwlUMgMvLrmkOiKj2jqVAo4SlnrpWR0zNCXjEBOKApOfZGn9o
+    factor: 1.33
+    portrait: 0
+    mInfo: LYGiM0Zj4jU7tmr
+  - id: catmLYl
+    name: MARD9o8pZ1iY6l77D3LBt5kWXJQ
+    description: "木趣【茶托】尺寸;8X8X3.8cm材料;木目金、生漆創作年代;2015年〈已被收藏 〉"   
+    height: 720
+    width: 435
+    type: image/jpeg
+    link: https://i.imgur.com/catmLYl.jpg
+    prevLoc: DLY6yMn3ZwIxAjj7pn5Bszk0vGPzkYsmw1ZRGZOYFrLK42NEWRHEGNZmVV2LINJqPA6X1QsmWlABvAZ1T4GEljooQ1SL35JlL2WRSBr2JZ7X9mTXGmnomNAzC03knMBEvqf400vVX3lPuZq7qxOJQWiQjlL6VJABtKmy5nKvPYTrq9P5BBN1CpPxwQORRBFMY6OkMoqqHYoqlBXPVQFWPGlrnGg6h8qnV0yLyQiEWVvGWPG6FWYm0yZED0Hn10MwZ0DRtBjY4XQWz9
+    parentId: 9Nq62LnDNVTOBz29k22Airq33Dy
+    postId: mjKON06MwlUMgMvLrmkOiKj2jqVAo4SlnrpWR0zNCXjEBOKApOfZGn9o
+    factor: 1.66
+    portrait: 1
+    mInfo: HrcyiTivxDPWVXG
+  - id: RmVEKz4
+    name: DoGN02Gkv6IxVjr8DPWEhDvlXnO
+    description: "流動‧留動>>系列【匙置】把水留住，水便枯乾；留住自然流動的水痕，霎那即是永恆。材質;試金石、銀創作年代;2013年~2016〈客製 〉"   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/RmVEKz4.jpg
+    prevLoc: MlENLYz3K7IJ3xxpPRq5uL1XNlvL1rTWjMkKZkD5hgKQXy7jnAcM5gmzM7MDcg2V42oNx8u7PEjyZK9Di87Kzl6BnRSzyGOqrwJnsAWnjjVjMyU2Xk4JQ6O5TjByEoG6yXfR1nO5qN3XiJQ881Vr4gCz3E5pJrQLhKQPYKkgmlFEDDBQzmoLCBk6RAAW00c54WnXnkGOsYAWPGNXOltRJDyVKWA9SyGR6yoPO7iwAnN15xogHy7E6XqA8OiPprVOErZVT5r
+    parentId: 9Nq62LnDNVTOBz29k22Airq33Dy
+    postId: mjKON06MwlUMgMvLrmkOiKj2jqVAo4SlnrpWR0zNCXjEBOKApOfZGn9o
+    factor: 1.33
+    portrait: 0
+    mInfo: 39lnRH23YLElSwx
+  - id: TpIeClQ
+    name: RJZYL0RvPyTOMxZRm4ARu3oK8Kq
+    description: "湯沸了，蝶戀花【銀壺】材料;金、赤銅創作年代;2013年〈已被收藏 〉"   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/TpIeClQ.jpg
+    prevLoc: DLY6yMn3ZwIxAjj7pn5Bszk0vGPzkYsmw1ZRGZOYFrLK42NEWRHEGNZmEnE3TNgmLgq7yOFm7xnNY3RZSWNy92Q35qSLy2GqgX02iBq3L2L7RjTXN3zPVw1ptV0z9p991JtyEq8qK7gPhDkLvzVD00uQqEEANgByck4nYk7mZBHnKKZov3VEhnGKLrrm53cVZOWNNwwgH3qrOMnZVYfVL9WPMLVvcBy549ovRVTnr29PZNK6sm00lMn74vuP78YzDAXKHG6
+    parentId: 9Nq62LnDNVTOBz29k22Airq33Dy
+    postId: mjKON06MwlUMgMvLrmkOiKj2jqVAo4SlnrpWR0zNCXjEBOKApOfZGn9o
+    factor: 1.33
+    portrait: 0
+    mInfo: F26z7YipFjuR2lq
+message: "除了漆藝以外我最喜歡的是金工跟陶藝了_  都是慢功細活的藝術品！"
+---
+
+除了漆藝以外我最喜歡的是金工跟陶藝了^_^  
+都是慢功細活的藝術品！
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/X42QhWs.jpg"><img src="https://i.imgur.com/X42QhWs.jpg" height="300" width="200" /></a> 
+  
+
+<a href="https://i.imgur.com/wgn9ANk.jpg"><img src="https://i.imgur.com/wgn9ANk.jpg" height="200" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/O4CCVEE.jpg"><img src="https://i.imgur.com/O4CCVEE.jpg" height="197" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/GyEDEQE.jpg"><img src="https://i.imgur.com/GyEDEQE.jpg" height="300" width="200" /></a> 
+  
+
+<a href="https://i.imgur.com/4HtIepC.jpg"><img src="https://i.imgur.com/4HtIepC.jpg" height="200" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/BliLD3A.jpg"><img src="https://i.imgur.com/BliLD3A.jpg" height="300" width="216" /></a> 
+  
+
+<a href="https://i.imgur.com/Spd6b58.jpg"><img src="https://i.imgur.com/Spd6b58.jpg" height="200" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/VXhxoHN.jpg"><img src="https://i.imgur.com/VXhxoHN.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/KCpJUnJ.jpg"><img src="https://i.imgur.com/KCpJUnJ.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/catmLYl.jpg"><img src="https://i.imgur.com/catmLYl.jpg" height="300" width="181" /></a> 
+  
+
+<a href="https://i.imgur.com/RmVEKz4.jpg"><img src="https://i.imgur.com/RmVEKz4.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/TpIeClQ.jpg"><img src="https://i.imgur.com/TpIeClQ.jpg" height="225" width="300" /></a> 
+ 
