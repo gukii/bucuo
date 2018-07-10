@@ -1,0 +1,77 @@
+---
+layout: post
+title: "廈門錦鯉愛好家  " 
+date: 2017-06-28T04:43:33+0000 
+categories: ["愛好家","錦鯉"] 
+media:
+  - id: D15AcB2
+    name: PE01Vowln5I6xroWwoBAc2MzE37
+    description: ""   
+    height: 432
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/D15AcB2.jpg
+    prevLoc: 9wpGkxM0A3tOqRRJnMkmhA1nqyvA19t54wDlND8PFjn6xJwEW0tqmYnAqPqMuAGo2Eq18ZS41W0N5ZGwcoNPVVjY48hjK1z5BzmJC8lDRy5qgMhW2Q0LNoB6IGjQvlJA0Qt8PL3yq3mgtRzRnzn6JPFQ10Glj8KncNlMLNZgYmF7GGzZ0YvQH9Pp4DD2jjhY0jzzzRZWCjNXRVv0y6iYNNL9m4MVuo4lOAJqG0HjmLX5wKBJfBWWDN4YLGi2LXzz3pMBsMX
+    parentId: gEA59jqKRQIB2xj0nNZ5h9DNjQR
+    postId: 3XkQVrvKlBf4y4ZYE5Wnc7GlGJ9K0OiLgqK44VwDFxkKBDWp0vi0JXMQ
+    factor: 1.67
+    portrait: 0
+    mInfo: r7MPk1W1RQK5puG
+  - id: 5Fte6km
+    name: ODW70nvkm5fOK90nW1A4HG9MQxn
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/5Fte6km.jpg
+    prevLoc: EMZ1zNo3XKTqx11wyg3WT6Q2Kvl6QWh1DPVyGVq7s2rKlRGxP5HZpRjNZYZ3u7Xgv6D5ALfxgZ8rYLE2cV7XMD24WKhv8q0Z6KKQCLjY9kyPKZhqW0rnrD9jhz04oWDP6Acl288q20xzUYqmoAvQl1c5kJ873lE4FYjXWYy89KFoPPXzAQjvtnXRxkk5PPiB8QGp4NkWt25W7p7DXzTKLzGZww3wiq07PYNx6MiVx0MJKmZVFyYAj01DYEs2zG6oRMBwCLm
+    parentId: gEA59jqKRQIB2xj0nNZ5h9DNjQR
+    postId: 3XkQVrvKlBf4y4ZYE5Wnc7GlGJ9K0OiLgqK44VwDFxkKBDWp0vi0JXMQ
+    factor: 1.33
+    portrait: 1
+    mInfo: ZWZuquSBOIlb5tw
+  - id: 2p2VPrr
+    name: qnOjk0E5gMU25PzZ5nLVsxXQyqB
+    description: ""   
+    height: 501
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/2p2VPrr.jpg
+    prevLoc: BJ8OwK03X1TnKPPxqM7VhZ1gPwxZ15hGLp3Ny3E1cRAvlN63MoiOA6J7ODOjIzM17YR5BOFYn9wNALBGfZX8BG0xMVCnkYGg34LDUA8GpX3mrjir6qWvPNBDf6WXvjzp35FLAZZQ7X41HY8yGPE0pGcXrVO1KV1xIjZVWjAOBNuDxxO06kwEhzYqNvv0m1TDnv1GDW7jf9OjEAvJMOiZJz3qMkVKsAP6DJDkrouq4kPRP6jvfL833L4k16H3vV2q3mRqSxN
+    parentId: gEA59jqKRQIB2xj0nNZ5h9DNjQR
+    postId: 3XkQVrvKlBf4y4ZYE5Wnc7GlGJ9K0OiLgqK44VwDFxkKBDWp0vi0JXMQ
+    factor: 1.44
+    portrait: 0
+    mInfo: B3qGMk1dXY1Yhv6
+  - id: TwkMX1T
+    name: KyPOVjoBg5T1nvB7lQ42H1NZD9J
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/TwkMX1T.jpg
+    prevLoc: 4okV1p0MvWC85YYZPmBJSrMK5nlrMwuJQLxDGxgyF1VqyLJ3pGu06v780R0Efy1YmGZp3ETxAgzYovV9cl5J92ppkltvL0Y9k5lNtvogEQGA3KSKRDrzrpOYTg13oLZ392i5zpAZDMGgcpRvYZy5ypT3OrrwQjlWFpKmNPDDOYfXjlm6N11gS7GxX47rEJsrop5ExBJxsLvr2xZ13NIBM4NW1KxNIZgr5yKGBYI0Y7W9wpDOfozw6mMwW8tLxY3vrV4D
+    parentId: gEA59jqKRQIB2xj0nNZ5h9DNjQR
+    postId: 3XkQVrvKlBf4y4ZYE5Wnc7GlGJ9K0OiLgqK44VwDFxkKBDWp0vi0JXMQ
+    factor: 1.33
+    portrait: 1
+    mInfo: vLy2Nr2gqBrPlyS
+message: "廈門錦鯉愛好家  Xiamen City, China."
+---
+
+廈門錦鯉愛好家  
+Xiamen City, China.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/D15AcB2.jpg"><img src="https://i.imgur.com/D15AcB2.jpg" height="180" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/5Fte6km.jpg"><img src="https://i.imgur.com/5Fte6km.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/2p2VPrr.jpg"><img src="https://i.imgur.com/2p2VPrr.jpg" height="208" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/TwkMX1T.jpg"><img src="https://i.imgur.com/TwkMX1T.jpg" height="300" width="225" /></a> 
+ 
