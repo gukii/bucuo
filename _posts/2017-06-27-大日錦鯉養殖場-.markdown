@@ -1,0 +1,29 @@
+---
+layout: post
+title: "大日錦鯉養殖場  " 
+date: 2017-06-27T01:04:41+0000 
+categories: ["錦鯉養殖場","大日","錦鯉"] 
+media:
+  - id: h2QpdWj
+    name: MARjVlnl6ncJAnyqkwwpS51jp9l
+    description: "大日錦鯉養殖場2017 親鯉介紹 _"   
+    height: 720
+    width: 509
+    type: image/jpeg
+    link: https://i.imgur.com/h2QpdWj.jpg
+    prevLoc: yG67V1gLApH4o66GD0rNHXAqnJoXA8TGj86wm6rJc67lw9rk5MHQLPXBQNQ3uz1lOMR5wpF5QGPXjO2qSYoX5V3X77cXNjlmgX0At3RjNgngGKsMvg0m3rYOcXB0m81XmyT7kQqygGJMSq075279zYFpkn3XYEVZTW9O8W01KgfvAAwgJxrmip3jEKK5N7S6xNwrywV0s7Ppl8KwX4IKZ91MXDB1s07LqlrZy2umBmLgz0XXCA6Wm3YPv1TGy1wyknw7SE7
+    parentId: MARjVlnl6ncJAnyqkwwpS51jp9l
+    postId: QGYngKm51ZCR2R74y5J0H1X4XE5JBGc57YkwjMxVHEAwXOEjJQsY7x7Q
+    factor: 1.41
+    portrait: 1
+    mInfo: c7Mmn5Hu2ZbOvYm
+message: "大日錦鯉養殖場  2017 親鯉介紹 _"
+---
+
+大日錦鯉養殖場  
+2017 親鯉介紹 ^_^
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/h2QpdWj.jpg"><img src="https://i.imgur.com/h2QpdWj.jpg" height="300" width="212" /></a> 
+ 
