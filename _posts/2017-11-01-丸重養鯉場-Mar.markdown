@@ -1,81 +1,29 @@
 ---
 layout: post
 title: "丸重養鯉場 Mar" 
-date: 2017-11-01T13:36:30+0000 
+date: 2017-11-01T02:47:00+0000 
 categories: ["Marujyu","丸重","Koi "] 
 media:
-  - id: lniqPFT
-    name: olMQjM0v4DFmKZ3m33MmTRE18qY
+  - id: kqKTdLB
+    name: EpJ90J2Z0EUjBBzL3vR4h536MLX
     description: ""   
-    height: 720
-    width: 540
-    type: image/jpeg
-    link: https://i.imgur.com/lniqPFT.jpg
-    prevLoc: q0V6KP4zpAI2NLLgBz8OuKr4YGkKrAHVOW6YK6wMHzy7XQ18AWinwryAnYn6h5LO024PMKhyj9MZ6JWAtGBM6Wv4AxfvrDZ58G7jFV6OK58N3EIOAAxPW2qAcjvL21mDkQfyrlRz26O7frEkYZYgL4c54xJyVp3xuKMnrKXGzAFVkkNvjn4zU56KXQQzNzfZKwnGE06RCrDQrYKOAjs4lMrQ21Zyfgp2NzkAmrcD3xKmK3AvFR2XDwZYDQCXYVALKnqmuGV
-    parentId: 6NnRBnvmJgsJGOx6z28GCP4GP3p
-    postId: Vj4An2r0mgUZWZMjRDzGi1wvwKN3XrclQQKq7DYNTBl5y0yPwmInxl06
-    factor: 1.33
-    portrait: 1
-    mInfo: Kl0eYJKM3DIDN8b
-  - id: QlF29Si
-    name: vvWo8WzY4NcZyKzx2xMmskWQqRR
-    description: ""   
-    height: 540
+    height: 405
     width: 720
     type: image/jpeg
-    link: https://i.imgur.com/QlF29Si.jpg
-    prevLoc: 1lYEXmAJpVIZGnnrgkMph91EWgv91xugB2XkpXP0srwjYE0R3BHM46pAMNMRcE0rG0KM7pfYwn2DZLo8f1BlXw2xvBC8K1JglXvWuBwv1LgyEMt5qq4zlGpqum0815QjvQC2x5yB6NnVupLJ5kRWQAijD8z9rJq5TrpBVrnoR6Ix44LGME3qFYoX0ggEyniDxG07kwVvcrYAK1Mo70tXPmBvnZNoIlKlQEQB0Pcvlq8KOJl0C4kVBzRloXiNW9j2DyMpIm8
-    parentId: 6NnRBnvmJgsJGOx6z28GCP4GP3p
-    postId: Vj4An2r0mgUZWZMjRDzGi1wvwKN3XrclQQKq7DYNTBl5y0yPwmInxl06
-    factor: 1.33
+    link: https://i.imgur.com/kqKTdLB.jpg
+    prevLoc: 3njEZoDLrYs4K77j3GpmHMv6jG3MvkTjMX6PZ6YWhnoOAgWGYBSXEKYxXLKjIkOljpL7MMIlZ02kwWWAu3G31XKlRLc9NoRgX36mtwWWqpAyLLIxV0opQ1xRsErL2gJB5AF0pKqq5gWBFRJ7W55DBkSklEg7DZr3iBxq259mmLS1qPpMLVNZtDVEO6AN6ns3l2o3EmzMu4D3lQN6rBi94jzXZmg6u7QEYZGL6jsRDpBkEzyoTEQVE2kMAWUp2zj0QMq2HywMrJ
+    parentId: EpJ90J2Z0EUjBBzL3vR4h536MLX
+    postId: KyP197B5OKI1X1LxGjZVtlD5DKrE92UNgg1Kp9mmSPm01V3qj4F3OJx9
+    factor: 1.78
     portrait: 0
-    mInfo: Z8DR0smWK1uOCU6
-  - id: MEw5FAw
-    name: 54m9RmrlG6u1W4LD6kR5T181nrx
-    description: ""   
-    height: 540
-    width: 720
-    type: image/jpeg
-    link: https://i.imgur.com/MEw5FAw.jpg
-    prevLoc: 9wpGkxM0A3tOqRRJnMkmhA1nqyvA19t54wDlND8PFjn6xJwEW0tqmYnAqPqMuAG6mGQMqyI41W0rLMvzForzNMZJQksj137Jp6Bzc8lD3xKOJGSrNNXkzGxVfJGwQyZ42VF83qZ3ZW63s020mQw8GXTQjZ8nklYycNlMLNZgYmF7GGzZ0YvQH9Pp4DD2jjhYq8zP4nxKcvklj6RjQPcKpA9Yr6P0hoYVmOqoOBIPBLO6oPN5SJlyRO4OpGH2LXMlXXRQCM5
-    parentId: 6NnRBnvmJgsJGOx6z28GCP4GP3p
-    postId: Vj4An2r0mgUZWZMjRDzGi1wvwKN3XrclQQKq7DYNTBl5y0yPwmInxl06
-    factor: 1.33
-    portrait: 0
-    mInfo: rolnZw1pAypL6lG
-  - id: zPHnLb6
-    name: olMQjM0v4DFmKZYP2qgYTRoR8xz
-    description: ""   
-    height: 540
-    width: 720
-    type: image/jpeg
-    link: https://i.imgur.com/zPHnLb6.jpg
-    prevLoc: 8voWjwLQzXukqOOm3z6jcpwx4Q7pwrTG4APkgP3xcJA0r2z68wS8wYyv878xI8w2zwKjGQTZgG0VPN8yfOXqR2D4O6tJkOyYOZ1Xcx0YNXwj8msPkkKRY1yZuGAg7kWGkVFYQPymNZv0sM1EnVzwzGcQozzq41WLsgzJAg028qfWjjANYgO0tJW1Evvq80HzkzGvOAq6U5QPlLL8mNCyjyXlLEMLiy4KYPgpwyTgXYJz6lyBcrg6MQVkByHlw5lpAYQQfx3
-    parentId: 6NnRBnvmJgsJGOx6z28GCP4GP3p
-    postId: Vj4An2r0mgUZWZMjRDzGi1wvwKN3XrclQQKq7DYNTBl5y0yPwmInxl06
-    factor: 1.33
-    portrait: 0
-    mInfo: hPwsfHDBpXdEipZ
-message: "丸重養鯉場 Marujyu Koi Farm  池揚客戶寄養魚o    Marujyu Koi Farm  Customer’s Koi  Super beautiful! 🎉🎉🎉"
+    mInfo: BjBR1OTD63mxPVO
+message: "丸重養鯉場 Marujyu Koi Farm  三～五歲池揚 o"
 ---
 
 丸重養鯉場 Marujyu Koi Farm  
-池揚客戶寄養魚*\(^o^)/*  
-  
-Marujyu Koi Farm  
-Customer’s Koi  
-Super beautiful! 🎉🎉🎉
+三～五歲池揚 *\(^o^)/*
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/lniqPFT.jpg"><img src="https://i.imgur.com/lniqPFT.jpg" height="300" width="225" /></a> 
-  
-
-<a href="https://i.imgur.com/QlF29Si.jpg"><img src="https://i.imgur.com/QlF29Si.jpg" height="225" width="300" /></a> 
-  
-
-<a href="https://i.imgur.com/MEw5FAw.jpg"><img src="https://i.imgur.com/MEw5FAw.jpg" height="225" width="300" /></a> 
-  
-
-<a href="https://i.imgur.com/zPHnLb6.jpg"><img src="https://i.imgur.com/zPHnLb6.jpg" height="225" width="300" /></a> 
+<a href="https://i.imgur.com/kqKTdLB.jpg"><img src="https://i.imgur.com/kqKTdLB.jpg" height="168" width="300" /></a> 
  
