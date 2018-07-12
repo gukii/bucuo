@@ -1,0 +1,113 @@
+---
+layout: post
+title: "愛鱗會台灣楊梅支部" 
+date: 2017-04-29T08:09:07+0000 
+categories: ["錦鯉"] 
+media:
+  - id: jdRKLOy
+    name: BmDBloM9D5cNlJmqgA3qiRBAoAq
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/jdRKLOy.jpg
+    prevLoc: xEV8RZ4KzohXvmmp891Ji6WmxKr6W1h1pWnLEnJZsBlV7O5mYxiGA217GoGnIgNY9Nn4ELu23mkxDPBZuBJPw8gj7jSZR6v9q0mJU2rK9z9gp0Uw7P1X1nBRUO4Qo3g03BUz6LANjRL8CYMynXqGK9ILEZ8PLJ7XSQZ2Xo88GwhPEJ41kXXmUWX4RBW6kKs3z26kwVwViRW2XBZVjRcr75B2W5NNFJog68Z1MOIGgoWgzjgwCovVjEYV1kto920JKmBY
+    parentId: GrL6ynkWLji9LyvgpnZpsGyKDKo
+    postId: xxYnLz57GOfX7XZq32PYs9KoKp0GjAsBM807qoWWH7VOB9MjgVS51VxE
+    factor: 1.33
+    portrait: 0
+    mInfo: t1LjJiGuN9eWskR
+  - id: F1vr8Yd
+    name: PE0NXmwW0vFn5Amjr7o5s2rgwky
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/F1vr8Yd.jpg
+    prevLoc: rxEBLQ4AqgTmZwwyM18AuoN23WnoNAInV48m68MBCjxBWq81Mzt6PK706j65uvO0oOz1QEs769yMDgzoiDlQoEpYMRto85nQxwOKcyBWMNM7VmtLnRmYWo9oSW4720PojwupV7x9PrnZHLXwAqB6XVCkgJMw8N4QsOlwBORjZgIR11jOr67PHknOwMMoDQI3Kjmx9E2DsoDXDWAg7Ph67qWM7oKwSK5q5pZ2xNhqpGXrA4wPfkxgVvKB25UnroELDAqXur9
+    parentId: GrL6ynkWLji9LyvgpnZpsGyKDKo
+    postId: xxYnLz57GOfX7XZq32PYs9KoKp0GjAsBM807qoWWH7VOB9MjgVS51VxE
+    factor: 1.33
+    portrait: 0
+    mInfo: UoNjxUVQMgbgg4M
+  - id: 33F6jkk
+    name: NBVkQDrWVqSpMnnqrpnxhG0v5XA
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/33F6jkk.jpg
+    prevLoc: BJ8OwK03X1TnKPPxqM7VhZ1gPwxZ15hGLp3Ny3E1cRAvlN63MoiOA6J7ODOjIzMWkMLyRAcYn9w12E7zfZX831BQYqu81kXYn4VXIA86KyKQpXSrD4lvNVyVIovPXKKRZWCLE01mkrAncYq6VrAW58uXKwxAEDykijZVWjAOBNuDxxO06kwEhzYqNvv0m1TWvwNn17W8f9DXgRJ3lVsZWn1Q6jWQf5y5y8El3Etmv36yLmRlcNl0D52XDMS3vV21YNAwhmW
+    parentId: GrL6ynkWLji9LyvgpnZpsGyKDKo
+    postId: xxYnLz57GOfX7XZq32PYs9KoKp0GjAsBM807qoWWH7VOB9MjgVS51VxE
+    factor: 1.33
+    portrait: 0
+    mInfo: bW7IcSN21JDW5zB
+  - id: YMb70eG
+    name: vvW2KqMLWAHZy0gYW5AjCkvQ6Yj
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/YMb70eG.jpg
+    prevLoc: 7rnYgvKPyDIRNEErMQAmTJRGrgwJRDhlErDX3Dzvcw4n18lzL5uX4j2xXlXnIREZQE8jyBIZO4KoBNR0f4lRznEq0qt1JqB4nELJcBY32G2VN9ug5r1r6R2jTkWvroklBLuABlV91XyqUv08nOLZxpHXZg9VNAJgHLKmyL65QosVQQqwj7mzURlZQPP4v9fw6jOyZvvPHYmvpw8m5MHgOEp3V4rocALllYX90oSDVXVW5ZZQi1PoElBOEyujZkXRB86pUAX
+    parentId: GrL6ynkWLji9LyvgpnZpsGyKDKo
+    postId: xxYnLz57GOfX7XZq32PYs9KoKp0GjAsBM807qoWWH7VOB9MjgVS51VxE
+    factor: 1.33
+    portrait: 0
+    mInfo: NW4c75Z73kPDXIu
+  - id: qO02sag
+    name: pmNYrwDLN0cZxll4VpKkuoAXrZP
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/qO02sag.jpg
+    prevLoc: gjx8wB4mD7hByPPv6mAlfD74JgRD70hNDYpwkp54Cm6AOM2rjvipZ40qpVpWhRy73yz25rIOLNJ7YqR2SPn08DGgxDF96kJNnjgBs70wznzRVPiVQvwyw8RzHKOmQMqymrTvoAnlEo87h6g8xq4DjKTNG8Y5GxXquqgp8qm57xtX116r7VpBsBYqJyywPZfyqjpD2JVZCPKQ9Q4Y3Ph2lZo5x93qIAyqP5PYgRTD3m451KXLCx9P5MrzWKUQwOp3pAx6IAk
+    parentId: GrL6ynkWLji9LyvgpnZpsGyKDKo
+    postId: xxYnLz57GOfX7XZq32PYs9KoKp0GjAsBM807qoWWH7VOB9MjgVS51VxE
+    factor: 1.33
+    portrait: 0
+    mInfo: dL0FTzIU4oUxJSZ
+  - id: LcCToPc
+    name: JxO6GDnWOmfoQLzN6AgyUJZoQoZ
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/LcCToPc.jpg
+    prevLoc: gjx8wB4mD7hByPPv6mAlfD74JgRD70hNDYpwkp54Cm6AOM2rjvipZ40qpVpWhRy73yz25rIOLNJ7YqR2SPn08DNvBGH9ZDo5JAn7u70wznzRB5hVQvwyw8R6IK85ONAOLvivA6z8E5PDH6rYAxYoj2uN1VjzNRgOIqgp8qm57xtX116r7VpBsBYqJyywPPiWO2P8l1A7UO85xDJW1WTLA7MXL9MKhNx02j4vWDt9MvPORoKRHx15YKOzkqfQwOoJmMVXtAB
+    parentId: GrL6ynkWLji9LyvgpnZpsGyKDKo
+    postId: xxYnLz57GOfX7XZq32PYs9KoKp0GjAsBM807qoWWH7VOB9MjgVS51VxE
+    factor: 1.33
+    portrait: 0
+    mInfo: AxY4ggSwI5Gf4Ui
+message: "愛鱗會台灣楊梅支部研習會  日期;2017年4月30日  地點;蘇州 蘇信錦鯉  內容;紅白當歲、大當歲、2歲審查研習    審查員審查會議進行中_"
+---
+
+愛鱗會台灣楊梅支部研習會  
+日期：2017年4月30日  
+地點：蘇州 蘇信錦鯉  
+內容：紅白當歲、大當歲、2歲審查研習  
+  
+審查員審查會議進行中^_^
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/jdRKLOy.jpg"><img src="https://i.imgur.com/jdRKLOy.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/F1vr8Yd.jpg"><img src="https://i.imgur.com/F1vr8Yd.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/33F6jkk.jpg"><img src="https://i.imgur.com/33F6jkk.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/YMb70eG.jpg"><img src="https://i.imgur.com/YMb70eG.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/qO02sag.jpg"><img src="https://i.imgur.com/qO02sag.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/LcCToPc.jpg"><img src="https://i.imgur.com/LcCToPc.jpg" height="225" width="300" /></a> 
+ 
