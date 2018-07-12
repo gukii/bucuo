@@ -69,6 +69,84 @@ media:
     factor: 1.33
     portrait: 1
     mInfo: wDcw06xX4uy9Ank
+  - id: eHJcIJe
+    name: 075RvqBxKWsz8r8WlwDGCM0QxMK
+    description: "第18回大日拍賣會標王！"   
+    height: 480
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/eHJcIJe.jpg
+    prevLoc: nqY7EM4wmGiWDll4wK7Gs8EjKQD8ExsM3EvmQvXgFBv10RGkYOiZY2wKZRZguonrRnL887tlWJjMA4LluA2z0OO5Pmc6Nzg3vPGOUy6QOmX3wpHEKrwDjrrKSKvMBR3ynJI6NpYwJ0ROUj399w118kSKnLwExjxAIoxA7oBYKguLXXD43m18t91zlQQOxrIQ4x8KLkmZSVXOjYVZWZi3O6Z8Eq1qUXBWxoMYmMhLV0G0llO2UJr1K5vE46UMxX97j5EjSx2
+    parentId: 1Ngwx1DyXvFXMVD7x6MZT0jB9wP
+    postId: 9Nq1YABL8RfOlO8Vp5rGHYyly6B85Gs21LRENJPYHxRB7wpVZ7tKRR3y
+    factor: 1.50
+    portrait: 0
+    mInfo: C3WJp8ej2XVso3c
+  - id: f7mCh92
+    name: nkL5nQP3EkcWPzoLxqGAcV3xnZn
+    description: "謝謝 間野 茂 先生！ 謝謝大日養鯉場！Thank you very much Shigeru Mano San!"   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/f7mCh92.jpg
+    prevLoc: Vx5oX8M32JTZy00VB5xlhPkoxwBPkYFR5qK4rK83c5xVBj6n8vI6Yjxq656Du2n0QnyEjKFy3RL4PM9wtWXNPRxJz0TGOn33POnrIrAp4KglVkCvwJ769lxGhJRDO810LPIVZogp4L17sBQ6KEqKz0HRvNwq6Yr3C0kOM0mAY4sv88W9NVMliEBmKyy1p1TgpAwVznXntp4p4OK1DRTYr98mAGo0tXwg9W9AKmcqm51qJ7oPCrX604oDN6fK8xKoG93zHG1
+    parentId: 1Ngwx1DyXvFXMVD7x6MZT0jB9wP
+    postId: 9Nq1YABL8RfOlO8Vp5rGHYyly6B85Gs21LRENJPYHxRB7wpVZ7tKRR3y
+    factor: 1.33
+    portrait: 0
+    mInfo: SYECTztt209CaqE
+  - id: oLbZIu9
+    name: zz1pVPo3kMCzKKy6G05XhLkZzYz
+    description: "Super Monster 的家族歷史！"   
+    height: 720
+    width: 405
+    type: image/jpeg
+    link: https://i.imgur.com/oLbZIu9.jpg
+    prevLoc: gjx8wB4mD7hByPPv6mAlfD74JgRD70hNDYpwkp54Cm6AOM2rjvipZ40qpVpWhRyQMV5AKPuOLNJz1K3GiPn08DGgxpupPKBmKzkKIlXnzkj1JoSYzkqN7ppGfK85OG20NxTpxYlJw0ygFo7QV6pR46hpKpLDY1Ortq6QxOGGmyuXzKRwrZZGSBW5pnBz0XhqLYXBkz5luLK6q96JpRi2WVgNBZyXIQWYV8zwG6U9pKV2MXrAImk5Wj35p2cQE17GLzNo
+    parentId: 1Ngwx1DyXvFXMVD7x6MZT0jB9wP
+    postId: 9Nq1YABL8RfOlO8Vp5rGHYyly6B85Gs21LRENJPYHxRB7wpVZ7tKRR3y
+    factor: 1.78
+    portrait: 1
+    mInfo: HgfG1pHFT6yoUSp
+  - id: LpR7kz7
+    name: 8Np2P8lJVQig9xJAmMj9hPLAXQp
+    description: "間 野茂 先生 詳細的跟我分享Super Monster 的血統"   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/LpR7kz7.jpg
+    prevLoc: vBYRPX4GxmIl8OOJ127Wf45VWGm45xsry9RjlRVnS3EropJAjMuXLjD6XnXvIzB4WXRMj1FXkDLYQ9Gqf7QlD3BgPRTkJvkALAn9IDjP7NJgqJI0gzOmxx49spJWXx0zwRhLyNvXoNOmiwBLmmmyJ2CYp03oQB2MFzvV8zqw9YT0VVWEM4xpuAL2NDD7JzckgQY39ok0T9B6J4O8LLf5JZ38O4BQhPqnmXZxMkF063zlzxQvi0A9KKv4AkH8V3mmMMmLcmL
+    parentId: 1Ngwx1DyXvFXMVD7x6MZT0jB9wP
+    postId: 9Nq1YABL8RfOlO8Vp5rGHYyly6B85Gs21LRENJPYHxRB7wpVZ7tKRR3y
+    factor: 1.33
+    portrait: 1
+    mInfo: wDcw06xX4uy9Ank
+  - id: 3a9SPNo
+    name: BmDBloyWq3SNv3E3l4MmcRP6n33
+    description: "間野 太 社長 Dainichi President; Futoshi Mano"   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/3a9SPNo.jpg
+    prevLoc: pvRBJO5yo9uwoQQgkvnzTO26Vn4O2MsGlw0x20O9c1ZXoVD6pzuK7Ej8K0KDczko0NGwjBFKRy83MAlLSkwgGMyPL0fmLqJg2GMmTw50p69EYPfXOERNKOnMuxRX4pErZ4iR0jqw88lmikAYY4nyLJFryA1JpWA4fmkrEmOp4zI7NNO50Q4BH9gEZllK0xHJmKgDMMN0uBLX76JDBjuA5y6YPr4EuNjZGwYXzQHkWVolE7DzCnxBYk4zWVS9BQZBRylwc9n
+    parentId: 1Ngwx1DyXvFXMVD7x6MZT0jB9wP
+    postId: 9Nq1YABL8RfOlO8Vp5rGHYyly6B85Gs21LRENJPYHxRB7wpVZ7tKRR3y
+    factor: 1.33
+    portrait: 1
+    mInfo: 14gmeP2RhZ8aEsG
+  - id: 0VIXprJ
+    name: JxO6GDRoB3toxx2499E0sJ2oBjZ
+    description: "第18回大日拍賣會 The 18th Dainichi Auction!"   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/0VIXprJ.jpg
+    prevLoc: 8voWjwLQzXukqOOm3z6jcpwx4Q7pwrTG4APkgP3xcJA0r2z68wS8wYyv878xI8w2zwKjGQTZgG0VPN8yfOjJRqy5BkHwrp8XpO72ckNgyAoX9MtwDOElqqkRsG6jVK0WOWsD4kY5Z6OYHM188Lrw3ycQ448ExnjXcgzJAg028qfWjjANYgO0tJW1Evvq80Hz0Lrgxx2XS6QEj89xERhZ6pO0NX4pCyrPZQ1z6lF7oV5LoO1yupBWRzPrxMHlw3QZzL0Nfx4
+    parentId: 1Ngwx1DyXvFXMVD7x6MZT0jB9wP
+    postId: 9Nq1YABL8RfOlO8Vp5rGHYyly6B85Gs21LRENJPYHxRB7wpVZ7tKRR3y
+    factor: 1.33
+    portrait: 0
+    mInfo: C7t8D8TWjvivZjI
 message: "抱得美人歸o  恭喜蘇州蘇信！    第18回大日拍賣會  標王 ;  No.01   品種;昭和 Showa  血統;Super Monster   尺寸;59公分  年齡;2歲 2015年6月誕生  得標;1,500萬日幣 台幣約413萬    在拍賣會之前的迎賓晚宴上，間野 太社長、間野 茂 先生與我分享了更多關於Super Monster 的家族歷史，讓我學習到更多的血統配對知識。  每一個錦鯉業者都是一名藝術家，在創作的過程不斷的挑戰自己突破困難，日積月累一代代傳承才能有今天的成就！    Got this beautiful Showa!  Super Happy!!!   Congratulations to my customer "Suzhou Suxin"    The 18th Dainichi Auction  No.01  Variety;Showa  Offspring of;Super Monster   Size;59cm  Age;2y  2015.06    Auction Price;  JPY 1,500,000-  CNY 940,000  USD 137,000-  EUR 126,000-"
 ---
 
@@ -118,4 +196,22 @@ EUR 126,000-
   
 
 <a href="https://i.imgur.com/LpR7kz7.jpg"><img src="https://i.imgur.com/LpR7kz7.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/eHJcIJe.jpg"><img src="https://i.imgur.com/eHJcIJe.jpg" height="200" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/f7mCh92.jpg"><img src="https://i.imgur.com/f7mCh92.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/oLbZIu9.jpg"><img src="https://i.imgur.com/oLbZIu9.jpg" height="300" width="168" /></a> 
+  
+
+<a href="https://i.imgur.com/LpR7kz7.jpg"><img src="https://i.imgur.com/LpR7kz7.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/3a9SPNo.jpg"><img src="https://i.imgur.com/3a9SPNo.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/0VIXprJ.jpg"><img src="https://i.imgur.com/0VIXprJ.jpg" height="225" width="300" /></a> 
  
