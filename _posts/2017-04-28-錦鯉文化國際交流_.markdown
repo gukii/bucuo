@@ -1,0 +1,77 @@
+---
+layout: post
+title: "錦鯉文化國際交流_" 
+date: 2017-04-28T10:17:55+0000 
+categories: ["錦鯉"] 
+media:
+  - id: 5jBBVGz
+    name: MAR8ODnnjXuYo8Q6JJ0qU540lEw
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/5jBBVGz.jpg
+    prevLoc: RqMkQ4G3K8iOWnnwYRvrh8ojExD8o5sqPzYx6YopTgwvEK207Wc83zgO8V86Ijyzqy0wP7FRyGXQjgAPF785zLpjqLT1Jv1PKZX8snmqOwYkgQIXJnkZ0woLF3GJLBnmYzCxL7Q8DwpPcRAND4xWrNSp5rJJA979fDolmDExA2FqKK6oRBkjfR3Qw99gB0f1X883qMZzU2M2l3jQM6HVjkDpnY62URV6327gyjcEB4JNk3M5HAO1xZm3nPH5wKWgkoKwSKo
+    parentId: 075RvqjjgMizEWRn7XyBhK6wYgX
+    postId: vvWlLx59gKClYlv03DrQcqGKGOg1pwT0Dz42N5OyioJ1j9PlMAU5WXP3
+    factor: 1.33
+    portrait: 0
+    mInfo: OVqJiMklSplvzpL
+  - id: uZdkLZJ
+    name: pmNYrwWWgntZlLjx42YrtoOPyrw
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/uZdkLZJ.jpg
+    prevLoc: 4okV1p0MvWC85YYZPmBJSrMK5nlrMwuJQLxDGxgyF1VqyLJ3pGu06v780R0Efy1K81ArZXtxAgz2q3jrul5JrK9koqIp0zLklYNNuvZ05VBj67FKOBAGKDq0FOBKqGgR06f5QVEqpD9zHp0BoGJ8xgCQjlKEARVVspKmNPDDOYfXjlm6N11gS7GxX47rGAc65roMZjJYfxXxPXLzRGHXkYP64X56FZg9BqZpwZHwKzYywRKpCozw6mMwW8tLxglZVqGO
+    parentId: 075RvqjjgMizEWRn7XyBhK6wYgX
+    postId: vvWlLx59gKClYlv03DrQcqGKGOg1pwT0Dz42N5OyioJ1j9PlMAU5WXP3
+    factor: 1.33
+    portrait: 0
+    mInfo: X0gbeKjX2JfOFZq
+  - id: ZV3JK6h
+    name: ODWYVlpp7GikPXJVQBLqFGvkOAk
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/ZV3JK6h.jpg
+    prevLoc: WywpYgN3KWS4qzz13P5jH7plr437pGSVAjrxkrn8HN2V91DAg3tlLKJrl0l1tqX1BXkPjVfRwGkyXoQVFw5LW6VP2QTRlWzq7YOGikL16DpEzkfprj5DvgQDCQ9qQw61B9f6v2wAQ1DMtv09YQjJvqCKjqGwWkz4FkMWDkZJj7HEJJomNQLvCZvnV99B8XiR82YDl9R0tLqG0X4DJxs9AMqNggQjsmlJo6JNZ3IE1WVOzl35ckE7ZN9lEwsjQ43gwqyDCxO
+    parentId: 075RvqjjgMizEWRn7XyBhK6wYgX
+    postId: vvWlLx59gKClYlv03DrQcqGKGOg1pwT0Dz42N5OyioJ1j9PlMAU5WXP3
+    factor: 1.33
+    portrait: 0
+    mInfo: RLSjAe3lcTdF670
+  - id: HC3h648
+    name: Vj4OgpzzmWi84KDxkGYySpzyvWz
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/HC3h648.jpg
+    prevLoc: OnELN1B3XJsOx55DY0pAhz5BYQ4z57s4VjyzBy9xumZ9q5NzQYirP8BnrXrmiD6KlBLZG0c6n7K5AJEOTP2kqzJ4Y0cvXplA5vV9h7O4qpGPVgto1Vqw36JwfDjNOLvO03CwV6kQwVo1trVO7xmwYkFo6pp60L44u2EWq2D5R8slGGJL6wQyIo2JAEEG4GcNZjzqpY4gi0NpljmlXOUgjqPlw5Aji24r8xNRz3SjwlM5zvvKTQjEv2wvMZs3nrmm1EDwhqm
+    parentId: 075RvqjjgMizEWRn7XyBhK6wYgX
+    postId: vvWlLx59gKClYlv03DrQcqGKGOg1pwT0Dz42N5OyioJ1j9PlMAU5WXP3
+    factor: 1.33
+    portrait: 1
+    mInfo: 1Fs2YQUPsErTLMB
+message: "錦鯉文化國際交流_  華東錦鯉協會成立、邀請愛鱗會 公認審查員蒞臨指導。"
+---
+
+錦鯉文化國際交流^_^  
+華東錦鯉協會成立、邀請愛鱗會 公認審查員蒞臨指導。
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/5jBBVGz.jpg"><img src="https://i.imgur.com/5jBBVGz.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/uZdkLZJ.jpg"><img src="https://i.imgur.com/uZdkLZJ.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/ZV3JK6h.jpg"><img src="https://i.imgur.com/ZV3JK6h.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/HC3h648.jpg"><img src="https://i.imgur.com/HC3h648.jpg" height="300" width="225" /></a> 
+ 
