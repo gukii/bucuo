@@ -1,68 +1,77 @@
 ---
 layout: post
 title: "第十屆亞洲盃錦鯉大" 
-date: 2017-05-27T04:34:45+0000 
-categories: ["Champion","Sakai","Koi ","錦鯉"] 
+date: 2017-05-27T02:11:32+0000 
+categories: ["Koi ","錦鯉"] 
 media:
-  - id: NeNZz1U
-    name: 3XklxJ6YkDiv86MXzYqvUZrDN8g
+  - id: 0GquG4q
+    name: QGY18LkAwYcR2xokrl4OHDV7PAn
     description: ""   
     height: 720
-    width: 540
+    width: 529
     type: image/jpeg
-    link: https://i.imgur.com/NeNZz1U.jpg
-    prevLoc: orv8GN4xnAIwYllA9BrXTXoMEx4XowT9KwvWqvPnc05YNk3x9MS8JX0m8Z8BIzwkGY3qmnFry1M9Rp0QsAz9GEjApWhKj67JP0opiyQ2kEZqmktNB93lP2gwikGNZOOQYMcy8pnNAYpGIrlz4ABQrrck7DwDV8Y5c7qME7lB2JiEKKNk2GMZC6MEX33jBjC1GWkp3jkWczZ72vnw38UlKo3MZzqmhGpGqlOAQGCNqoY5z4NksPWg9kKDloi40j7nr5pyhjQ
-    parentId: GrLZVKRwLqi96rv3EQ4GiG0jMyk
-    postId: wwXV7y5RjMCNqNoZWDgBFkMnMw4J6RCJA498pBV5UkxOO81VKLulwmvq
-    factor: 1.33
+    link: https://i.imgur.com/0GquG4q.jpg
+    prevLoc: mp28DL4v07TMl11VXAj5s1Dkwj81D6C42orB8rNZu8lwXmgOzWHLDxVqLJLEcOm27Dw54Mhx5wlOM1z9cJ3ZA4N9D2Ur3l9yzokYC71vBOGANVfNr1nn3GmlhBpnok6RnOhD87nKoEYmI5V0LWmYO9HA6gOJGlmvc9NDm9Yj7lCOkk34QlLptZw0q33DkYcZ2GMGBKo9U7Jjgp0K4OhXz7EJWLoKUwqNPZPJAVhrRjgyGAkGf7Y0xyk1D9sqrZ18Wl0NUyB
+    parentId: xxYGrj6oDYiX7Oo0YPAlfk68AOR
+    postId: vvWlLx59gKClYlv03DrQcqGKGOg1pwT0PRNYl8BVC6MQl2Mj37H57Zv7
+    factor: 1.36
     portrait: 1
-    mInfo: 10ZAcAvov28lY0t
-  - id: KDFaF7t
-    name: ODW709gJWBUkPzxyyj46iG5ozok
-    description: ""   
-    height: 405
-    width: 720
-    type: image/jpeg
-    link: https://i.imgur.com/KDFaF7t.jpg
-    prevLoc: LkY0KXy31AC39NN0qmRPuvgJAQRvgpT0xB9MD9oVtlQM4YrEROijwl4kj9loiJwoXlkD11imEroDjwwRc3G320BxpMswVrKR4z5gCGJ52D9690C1MlxqANWEu76rVAwE81t3lD7LBK95UqnrZrQmL7Fx7yAWWN9Mu7REGnOoovUYlWAE2xNJUYvPzoKQoNsZz6Ojnw1rh4RZ5W8W0wcjE9W3vjJPcN8BMBlPD4cDLN46onjZigGRxROQXMujg1DqwZPMf4K3Qy
-    parentId: GrLZVKRwLqi96rv3EQ4GiG0jMyk
-    postId: wwXV7y5RjMCNqNoZWDgBFkMnMw4J6RCJA498pBV5UkxOO81VKLulwmvq
-    factor: 1.78
-    portrait: 0
-    mInfo: afzdDVG0sj91Mwc
-  - id: J7Xs6HV
-    name: EpJlVQqKJoHjAVGgOAllh8zGk1o
+    mInfo: gROo6na4gZWJh3v
+  - id: ihvNaOU
+    name: 3XklxJ6Y5kU4yBz9Jw15CZ5Rqv9
     description: ""   
     height: 540
     width: 720
     type: image/jpeg
-    link: https://i.imgur.com/J7Xs6HV.jpg
-    prevLoc: DLY6yMn3ZwIxAjj7pn5Bszk0vGPzkYsmw1ZRGZOYFrLK42NEWRHEGNZmEnE3TNgmLgq7yOFm7xnNY3RZSWNLnvP515SL3ExwMlDjuBq3GDMXZgsXNE8Nyxk4I0pRExDQWqC2vVPgvkxgCZqVoDDA3ysQjg148XqGck4nYk7mZBHnKKZov3VEhnGKLrrmMYHVrR5pqyWLsY9VDMLDzguMqPRqnEWNu6JlDnZZgmunL4BDYym7SW4jrk6qVwuP7BR1v1kzTjN
-    parentId: GrLZVKRwLqi96rv3EQ4GiG0jMyk
-    postId: wwXV7y5RjMCNqNoZWDgBFkMnMw4J6RCJA498pBV5UkxOO81VKLulwmvq
+    link: https://i.imgur.com/ihvNaOU.jpg
+    prevLoc: 4okV1p0MvWC85YYZPmBJSrMK5nlrMwuJQLxDGxgyF1VqyLJ3pGu06v780R0Efy1K81ArZXtxAgz2q3jrul5J1ojAz4upw0PAjn3kuvWmY7XG03ulwZMMNkx6HgvqB950D2i5RoOXP702Cp4PPjpmMpc3Or6VXk5wTpz5BpOyoNTXvvyNMJnOs7QY9553pRunQgy8j4w5Hxwq4lKAM7IkZ5GL6KooFQYD02Y1rZtkg8m1O0LvuoW3N1EOlzHL14w6ymJZtN8
+    parentId: xxYGrj6oDYiX7Oo0YPAlfk68AOR
+    postId: vvWlLx59gKClYlv03DrQcqGKGOg1pwT0PRNYl8BVC6MQl2Mj37H57Zv7
     factor: 1.33
     portrait: 0
-    mInfo: uBocZIQak194kNt
-message: "第十屆亞洲盃錦鯉大賽  全體綜合冠軍  魚主;陳昌 廣東  漁場;阪井養魚場     The 10th Asia Cup Koi Show  Grand Champion   Mr. Chen Chang  Breed by Sakai Fish Farm"
+    mInfo: PE1w8nL1GG9qpGk
+  - id: Z1Z49Xg
+    name: gEA59Xp7gAHBokZrDpGyI9DNyWK
+    description: ""   
+    height: 525
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/Z1Z49Xg.jpg
+    prevLoc: LkY0KXy31AC39NN0qmRPuvgJAQRvgpT0xB9MD9oVtlQM4YrEROijwl4kjojViJy7wG1x3MF05RDg9kNvS31o70N9YmTvARBKlBV9CGnqPrwJx3TlXgR0n6xQUM05lWPBKjF369PBGEyJC2m2rxAygDFMWPpOmMgOT7BqX725JNiYZZ5GmA7niXBAWNNvpOfogjErAWmlH5qL9rWynMhxz5Wz3BQJIJj38VR0YMTq2ABK249KHoZ19WJZ4MhR97RZKkowhw9
+    parentId: xxYGrj6oDYiX7Oo0YPAlfk68AOR
+    postId: vvWlLx59gKClYlv03DrQcqGKGOg1pwT0PRNYl8BVC6MQl2Mj37H57Zv7
+    factor: 1.37
+    portrait: 0
+    mInfo: 0AOlBn2Qhx8mE7v
+  - id: gdmQy1Y
+    name: GrLZVKRwjLt8Dg5m9522i2nARz5
+    description: ""   
+    height: 445
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/gdmQy1Y.jpg
+    prevLoc: QpNjP3E9KATRPBBnV3k6TZA2vXzZANhxXJym9yNAhjw1Erq9LRt9PwVz9o97szyEO7X9YKF7VRowQEZPSrXEYwlrpkU6PNOkkO0WuW705OVx1QIqBAZLmKo6Un2w5Qj3JkFrkjjR5YQJTYq4YGjjvnCpOZozyEZoI6AmD6zG1jFEVV6YyOlgCDzkXNNYB7Ux8Qz94pA6CMJLAl51xxtwXW1ZwYrnCBqyj1QGRltPQwM0LD2OUXRVVXn0WmHxMA126xKXC5D
+    parentId: xxYGrj6oDYiX7Oo0YPAlfk68AOR
+    postId: vvWlLx59gKClYlv03DrQcqGKGOg1pwT0PRNYl8BVC6MQl2Mj37H57Zv7
+    factor: 1.62
+    portrait: 0
+    mInfo: uVqrFL08RHUtdC6
+message: "第十屆亞洲盃錦鯉大賽  The 10th Asia Cup Koi Show"
 ---
 
 第十屆亞洲盃錦鯉大賽  
-全體綜合冠軍  
-魚主：陳昌 廣東  
-漁場：阪井養魚場   
-  
-The 10th Asia Cup Koi Show  
-Grand Champion   
-Mr. Chen Chang  
-Breed by Sakai Fish Farm
+The 10th Asia Cup Koi Show
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/NeNZz1U.jpg"><img src="https://i.imgur.com/NeNZz1U.jpg" height="300" width="225" /></a> 
+<a href="https://i.imgur.com/0GquG4q.jpg"><img src="https://i.imgur.com/0GquG4q.jpg" height="300" width="220" /></a> 
   
 
-<a href="https://i.imgur.com/KDFaF7t.jpg"><img src="https://i.imgur.com/KDFaF7t.jpg" height="168" width="300" /></a> 
+<a href="https://i.imgur.com/ihvNaOU.jpg"><img src="https://i.imgur.com/ihvNaOU.jpg" height="225" width="300" /></a> 
   
 
-<a href="https://i.imgur.com/J7Xs6HV.jpg"><img src="https://i.imgur.com/J7Xs6HV.jpg" height="225" width="300" /></a> 
+<a href="https://i.imgur.com/Z1Z49Xg.jpg"><img src="https://i.imgur.com/Z1Z49Xg.jpg" height="218" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/gdmQy1Y.jpg"><img src="https://i.imgur.com/gdmQy1Y.jpg" height="185" width="300" /></a> 
  
