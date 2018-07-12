@@ -1,0 +1,37 @@
+---
+layout: post
+title: "有人評價我，作為女" 
+date: 2017-05-05T08:12:16+0000 
+categories: [] 
+media:
+  - id: 4hEsM6S
+    name: nkL5nRQn4OsWPV5NKv6QfV3xB19
+    description: "有人評價我，作為女人太強勢不好⋯⋯⋯難怪嫁不出去⋯⋯⋯果然我爺爺感嘆的正確，可惜我四肢健全但少一支⋯⋯如果我生為男兒身，商場上強勢倒是霸氣有主見了吧！哈哈哈哈哈⋯⋯⋯樹大必有枯枝怕熱就不要進廚房溫柔婉約是對人不對事"   
+    height: 720
+    width: 500
+    type: image/jpeg
+    link: https://i.imgur.com/4hEsM6S.jpg
+    prevLoc: xEV8RZ4KzohXvmmp891Ji6WmxKr6W1h1pWnLEnJZsBlV7O5mYxiGA217GoGnIgN5OBE3Dpi23mkMy4LpuBJPw8gjrYIZ829WXpwks2orMXrwljcw853388pXSOv9RqBPALCzQjj1zkEOfJX0yyEwlMSDk80GjZk8tQBpKQGVnXiP55VkoOrjuWZ0NwwMOXC39AXM6JRnURoEJ7vGARcrXPQRWzAQI730lQ3JyzCGO42DnGl3HGv3qnLKWMTov5Ev3Yp2IW5
+    parentId: nkL5nRQn4OsWPV5NKv6QfV3xB19
+    postId: yyZo2A5J8QI484YmRlAxc5J9JmgVWxckKjpoE77NSwLkYV46G8H808VE
+    factor: 1.44
+    portrait: 1
+    mInfo: K2QNPrhpeeoOYw4
+message: "有人評價我，作為女人太強勢不好⋯⋯⋯  難怪嫁不出去⋯⋯⋯    果然我爺爺感嘆的正確，可惜我四肢健全但少一支⋯⋯    如果我生為男兒身，商場上強勢倒是霸氣有主見了吧！哈哈哈哈哈⋯⋯⋯    樹大必有枯枝  怕熱就不要進廚房  溫柔婉約是對人不對事"
+---
+
+有人評價我，作為女人太強勢不好⋯⋯⋯  
+難怪嫁不出去⋯⋯⋯  
+  
+果然我爺爺感嘆的正確，可惜我四肢健全但少一支⋯⋯  
+  
+如果我生為男兒身，商場上強勢倒是霸氣有主見了吧！哈哈哈哈哈⋯⋯⋯  
+  
+#樹大必有枯枝  
+#怕熱就不要進廚房  
+#溫柔婉約是對人不對事
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/4hEsM6S.jpg"><img src="https://i.imgur.com/4hEsM6S.jpg" height="300" width="208" /></a> 
+ 
