@@ -1,0 +1,77 @@
+---
+layout: post
+title: "工作不忘娛樂～～ " 
+date: 2017-04-18T10:19:04+0000 
+categories: ["Auction","Sakai"] 
+media:
+  - id: ImN2Bae
+    name: xxYkZPvvJBTjQMqmYZ2nHkOEzRG
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/ImN2Bae.jpg
+    prevLoc: yG67V1gLApH4o66GD0rNHXAqnJoXA8TGj86wm6rJc67lw9rk5MHQLPXBQYPNszOnXPyqRwc5qKAwM8DQsYOYKj7QEoTEAkkPQPwkf3BNJKnwRoF81MExo55DiXyMmZgXQRfWx57oLo6BCqPzvgPGqLu74V6V2AqYHWLYp2VqqysvW7xP2Z4Eh25oByMQyKuW3AMY3ko3ur0GY9BKEmIKXgr3Z0RvhLVgK9gZBncm9PP1OYPOhPMpX2PmggHk9Yv6oB82fgm3YW
+    parentId: 6Nn8rgRRPvTJ1kZk9278uP4MnP1
+    postId: yyZo2A5J8QI484YmRlAxc5J9JmgVWxckKWr21oE7SwZV5YK7wXs86l1n
+    factor: 1.33
+    portrait: 0
+    mInfo: 6eHTU4IPdom7l1z
+  - id: 30mJywO
+    name: 075Rl1VVJmczroOm7y3ZIKgPKB3
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/30mJywO.jpg
+    prevLoc: jmv5zG4pgAhOmllzE3njhmnqgl0mnvhwnxVKAVNouLjxn1ZOVDiqWxnpqAqkuLPGqPrzxDu9A6zROyL7tWNXp34ZgRs1j9QjxVDNCQYx2ODxZXcMEMVvprNWS9rDAj3AWPi9GpDy3R5NIw71PnyB9wfqL8Agz12jsOBy8OrDjPIQPPR149pLS0oPD55Z9XH01nNQyVLBuVDrrjDYKMSq2YQ1wvoNIwNxkMP5mNiQwoP37zqjUE3ZXV9JXltqyQnr05PEhP9
+    parentId: 6Nn8rgRRPvTJ1kZk9278uP4MnP1
+    postId: yyZo2A5J8QI484YmRlAxc5J9JmgVWxckKWr21oE7SwZV5YK7wXs86l1n
+    factor: 1.33
+    portrait: 0
+    mInfo: LiaK6YphV00SVm7
+  - id: XbFF7Ff
+    name: XlgDj1ooN0TZM5vZKLyqtNJBq3V
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/XbFF7Ff.jpg
+    prevLoc: 9wpGkxM0A3tOqRRJnMkmhA1nqyvA19t54wDlND8PFjn6xJwEW0tqmYnAqPqMuAG6mGQMqyI41W0rLMvzFoNPZYMWV9tj40lk6PMLc82lVgMlRRfWjkQAPDq0hGz6ZJQ9wYS8y1MRGnjkU0x9OlJnxZcv4X40NlGnHNlMLNZgYmF7GGzZ0YvQH9Pp4DD2j0iY0AjAgzokujY45jK2KVSKXDL9QYvGIlEQvkZY4nh2Yznjpq3qHBWWDN4YLGi2LZ2gLGYmsM9
+    parentId: 6Nn8rgRRPvTJ1kZk9278uP4MnP1
+    postId: yyZo2A5J8QI484YmRlAxc5J9JmgVWxckKWr21oE7SwZV5YK7wXs86l1n
+    factor: 1.33
+    portrait: 0
+    mInfo: sSzVg9qkCqc6CBB
+  - id: dZluh58
+    name: NBVkZN99z2cpMR2g8jnViGkYnnx
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/dZluh58.jpg
+    prevLoc: 0k2EWlzGoACyBJJnvMG2I63VpEG63mhr8kJ9PJM2S6Xyzw0n7pHzZBX7z4z5cmL4qLOZyPHqxL2lKr16SW17KpkDRrfoARn0RzlYiEnWoOzW40IKwWNj5VXvS49k880rmWu1DZnkzw92F8Y8JYzgj1CG7RpyDX0kFAZQoAODWpfKEE8Q9ND0iL143yyZ7GhYBYO5Y42Of9A2MyPjYgToB30Brmvxsy6ODVRLkGS6OqwzENM0IEwl927V9xtgJpg5K1w0I9l
+    parentId: 6Nn8rgRRPvTJ1kZk9278uP4MnP1
+    postId: yyZo2A5J8QI484YmRlAxc5J9JmgVWxckKWr21oE7SwZV5YK7wXs86l1n
+    factor: 1.33
+    portrait: 0
+    mInfo: sneaOi5bCVaKTYg
+message: "工作不忘娛樂～～  It's Sakai Auction Party!!"
+---
+
+工作不忘娛樂～～  
+It's Sakai Auction Party!!
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/ImN2Bae.jpg"><img src="https://i.imgur.com/ImN2Bae.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/30mJywO.jpg"><img src="https://i.imgur.com/30mJywO.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/XbFF7Ff.jpg"><img src="https://i.imgur.com/XbFF7Ff.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/dZluh58.jpg"><img src="https://i.imgur.com/dZluh58.jpg" height="225" width="300" /></a> 
+ 
