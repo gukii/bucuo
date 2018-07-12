@@ -1,0 +1,31 @@
+---
+layout: post
+title: "小拇指要放在大拇指" 
+date: 2018-07-10T13:03:53+0000 
+categories: [] 
+media:
+  - id: b4pmirZ
+    name: xxYnPJVlwZsjGk67NELlSkXnzRG
+    description: "小拇指要放在大拇指上面，其餘三個指頭要伸直靠在一起喔！⋯⋯⋯⋯差點抽筋啦≧∇≦"   
+    height: 720
+    width: 507
+    type: image/jpeg
+    link: https://i.imgur.com/b4pmirZ.jpg
+    prevLoc: wDE2QY4JynINx0056AGLU78gXMW78jS3xM4kG4D7F659koQgVNHvz4Kov0vGf14ExLwZRMiAm0OkqMg2SQgRjqv5V9FRByOBJMXXH4wgrPjW8psqzOE015gZuxjAky4kWWC4pAW99VMRhXJ99W38YPu7nZL60Dypsn2EDN33ORfXBgEovllwS5XRwo5ZNGFrYR30k8VKsQMQKn0lRrf3jp6REmoQTxVyDQWLQlUrPOXjkpJ6fVNr9p6rqZTp8WWL52Vo
+    parentId: xxYnPJVlwZsjGk67NELlSkXnzRG
+    postId: EpJ8WXv6lrCqvqBoNQkESRvEv5kg7ySkJZRkNr30SAWAXgRqwpIgjnGx
+    factor: 1.42
+    portrait: 1
+    mInfo: 9bhrUajmYYVAbbc
+message: "小拇指要放在大拇指上面，其餘三個指頭要伸直靠在一起喔！    ⋯⋯⋯⋯差點抽筋啦≧∇≦  要不你試試吧！拍照片放上來！"
+---
+
+小拇指要放在大拇指上面，其餘三個指頭要伸直靠在一起喔！  
+  
+⋯⋯⋯⋯差點抽筋啦(≧∇≦)  
+要不你試試吧！拍照片放上來！
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/b4pmirZ.jpg"><img src="https://i.imgur.com/b4pmirZ.jpg" height="300" width="211" /></a> 
+ 
