@@ -1,80 +1,79 @@
 ---
 layout: post
 title: "2014.04.3" 
-date: 2017-04-29T04:11:00+0000 
+date: 2017-04-29T04:13:23+0000 
 categories: [] 
 media:
-  - id: 1u6RVMT
-    name: zz1pVPg8v0HrkrAwZVpJULXBypM
+  - id: 6T4VRoS
+    name: EpJRrOLg8Dij6oGj1LYXt8V0JPM
     description: ""   
     height: 720
     width: 508
     type: image/jpeg
-    link: https://i.imgur.com/1u6RVMT.jpg
-    prevLoc: Xz7qZjO8XYT9KBBlAqXnTY9gx1jY9OHwNg0kL0B1uMQ5NvRP74HAr3VLAWAvILn2mlOQzyIRo7A4P193U3M7ogKNW8s8W1ZGKVDOtA6ZxlK3JrcYJEw7BYl7Uo510VYKVgug3gL0B8VqHYWWyn80EyijKxZL54E2FYVJm8ggRxfNMrx6J00wSgv7pGg77jfNyAXEA81nuJMkmr750nUmDZYzkvZ9f5xnJJryR0c3EYQ79KlqixpVqPQV1AFzDX5J5Bl6
-    parentId: 6Nn8LopwXkfJrBjqwv8EtP6L7JE
-    postId: wwXV7y5RjMCNqNoZWDgBFkMnMw4J6RCJ0WjNWOqksZgy3oZJGqHlMlLp
+    link: https://i.imgur.com/6T4VRoS.jpg
+    prevLoc: PoMgO2D3K6C6XvvBgoK4CMrpQOKMr5TpwBv2lvK5ImPnkYzJ6Zi2Jr7j2p28ulpOR069MqIMNRWJq5j9trYmXk492nuE09gBvXmZTwDPoR3XY8UzgANr51pPSGxzAgOAKKUnzLrND02xFlZ2rJRkjBc9386141M6cryL2rmO51IkYYoZ0yVAtk7BO55mLLtMkXxnKpBOCE0BB6qw0WIJAmlP4gwgcVWQJrBE4EuDMwLlpRm0fjQo7GBGwMiE4rGD2nP7TD1
+    parentId: QGYWZJrxnVfLNDDr6MR6UDmwnq8
+    postId: YmjWqYxl6os9n95o4zjriPmymvrEp2CqDBYXBMvnI743N7PY5QHnD8g4
     factor: 1.42
     portrait: 1
-    mInfo: a05vJlDfDK0ZJh1
-  - id: v1cLl2h
-    name: jKER7QWwZyUOBOvGmzP4F6yq7ML
+    mInfo: Rj6XDoneMYDTebo
+  - id: biqFwwf
+    name: 3Xk1BRmqQ7UvRYMv9KRwIZqQKlQ
     description: ""   
     height: 720
     width: 508
     type: image/jpeg
-    link: https://i.imgur.com/v1cLl2h.jpg
-    prevLoc: jmv5zG4pgAhOmllzE3njhmnqgl0mnvhwnxVKAVNouLjxn1ZOVDiqWxnpqAqkuLPNWVxYy5I9A6zJvWrQtWNXp9AmRgH1myJERyR9sQ9Zq0OJEGUMnLZO8oAvfvRGy3RBzKU9Gvl3ZmwQCwpExJ1r2XFqzrq0DODVsOBy8OrDjPIQPPR149pLS0oPD55Zkjf03ByEjkwqHwNyRDVDyDuZPOyP5x9XuLqK1xWwN2fQWr88mm8YUMyygOAB92tqy7xvY2D2TP4
-    parentId: 6Nn8LopwXkfJrBjqwv8EtP6L7JE
-    postId: wwXV7y5RjMCNqNoZWDgBFkMnMw4J6RCJ0WjNWOqksZgy3oZJGqHlMlLp
+    link: https://i.imgur.com/biqFwwf.jpg
+    prevLoc: 7rnYgvKPyDIRNEErMQAmTJRGrgwJRDhlErDX3Dzvcw4n18lzL5uX4j2xXlXnIREAGqyY1VuZO4KXAvJph4lRznEqZJC1MyQ1vJrZFB8yAXn4PZugm9l46g9Rhl28VXZw2zuAB7j42lgYcvMZMjP1vQiL7665lz83ULKmyL65QosVQQqwj7mzURlZQPP4vvhw66rQAmpnuP2N5kg63mHgrDxRzkPJfA3Dm5zrZZTrENXokN1vFzRQG5MKEgUjZJjBJkJLhAX
+    parentId: QGYWZJrxnVfLNDDr6MR6UDmwnq8
+    postId: YmjWqYxl6os9n95o4zjriPmymvrEp2CqDBYXBMvnI743N7PY5QHnD8g4
     factor: 1.42
     portrait: 1
-    mInfo: aKqwYpcVbhtRGAd
-  - id: P6KJ3pc
-    name: 075RvqjnY4hy7z85BPNYcKQVWoy
+    mInfo: 7nvZr6OUr6awtfk
+  - id: ksKOry9
+    name: zz1pVPg8v0HzmNBBpE9rFLNmkkN
     description: ""   
     height: 720
     width: 508
     type: image/jpeg
-    link: https://i.imgur.com/P6KJ3pc.jpg
-    prevLoc: ZBwv2lQ7GZIjgPP1vD5MuOP6m45OPWsGLxqNVq64cR9vZK8VYmiDAgNwDBDZTQxZKpWJGMU4WrzJjQD1cVAzlYxy92IXmRzGJQ0NSmPjg60Nx9uYN1JDvK9pfLRjYPj9E0H4G12G1KEJTDARqnlmvQF7rqLAzp3LhM3QpMOKvkh855q1zGQLc6AErNNDB9CG0Q9L4RjXFvl8oO6YR9FJ9nmzkW68HpNr42053KSR01mMo0OnhlZQE7mJxkH8YL1EQjlZSy8
-    parentId: 6Nn8LopwXkfJrBjqwv8EtP6L7JE
-    postId: wwXV7y5RjMCNqNoZWDgBFkMnMw4J6RCJ0WjNWOqksZgy3oZJGqHlMlLp
+    link: https://i.imgur.com/ksKOry9.jpg
+    prevLoc: mp28DL4v07TMl11VXAj5s1Dkwj81D6C42orB8rNZu8lwXmgOzWHLDxVqLJLEcOm27Dw54Mhx5wlOM1z9cJ3ZAXyO1Zcr9pw4LzyRS76Qg2PkR6CNrqkJylLRhBLWZgPPyPUR2gPJyQJMCqEz92OVGOCAQAN4Y2wKs9NDm9Yj7lCOkk34QlLptZw0q33DkOHRYDX2zMpwS7QwRBY1nWuG3oBW2Y2KC1NOXMmBvphwY084AAxpHvomNGOR5YSqrZpXvnl3Hyk
+    parentId: QGYWZJrxnVfLNDDr6MR6UDmwnq8
+    postId: YmjWqYxl6os9n95o4zjriPmymvrEp2CqDBYXBMvnI743N7PY5QHnD8g4
     factor: 1.42
     portrait: 1
-    mInfo: uE3r0qUBqZfAbXc
-  - id: so4iokb
-    name: 8Np2P8ry1mfk2glvgOwkUPlGG5g
+    mInfo: nx0ColXiYpdUp8l
+  - id: SiTjrg1
+    name: roPkyZWG8KHOD3jPQy9AIMpD0yp
     description: ""   
     height: 720
     width: 508
     type: image/jpeg
-    link: https://i.imgur.com/so4iokb.jpg
-    prevLoc: 6qmG3rJOxYiWmVVRk1rosAL3vKoAL7tzAP4G74n6C3LXjw0rOGuRNQ7vRDR4tOx89RWorNhqAGMPVR6ES8NxZ6kRYwuPxAjMY6oJhvljm5PzE7fRLOBQzK78TvX9xKvwDZhQW1oo55X6fDqV2VlOmWfVyOPwMnzDfyx50N1DmWF5QyR0x526TzpY9Q7mNgUNgMKKN0MPCjMBkBg86ZtB0zlJKnVAHXzGrlO9G0FOPxjgM9rruOVp1jol0ZHo16W5E4N
-    parentId: 6Nn8LopwXkfJrBjqwv8EtP6L7JE
-    postId: wwXV7y5RjMCNqNoZWDgBFkMnMw4J6RCJ0WjNWOqksZgy3oZJGqHlMlLp
+    link: https://i.imgur.com/SiTjrg1.jpg
+    prevLoc: GOYzBPq3XwU84WWrn01JSq0OX59q0xfRyLZPmZ5pcwOq06RQ1xuEGNDrE0EQTXrpRqy1QJFE398Zpq0vSVojQMkw3gIR6M30kBnRfq3GA9pEBMcoZmO74xqvt8nzOqpEjWS3LLD7KqjjIN46kpzAg8sPJ3rW4qM6fO0jxOJ36XIj11A7QXqEhAQx1RRrJDCn4RRPO2K1ImlzRrREB5f47BEKx6LACJYEvGr2wphQlNkr2rp7Cr8W76yzPOfMADZk2BLAUNq
+    parentId: QGYWZJrxnVfLNDDr6MR6UDmwnq8
+    postId: YmjWqYxl6os9n95o4zjriPmymvrEp2CqDBYXBMvnI743N7PY5QHnD8g4
     factor: 1.42
     portrait: 1
-    mInfo: 9LgtOUiBIyQLG9F
-  - id: qCd5o0i
-    name: EpJRrOLg8DiqvjPrB51RT8wBjk2
+    mInfo: 03gk5pvIJ0Taj9c
+  - id: GbI003S
+    name: xxYkOqW0nQSjQqgJj2oZikvRGoM
     description: ""   
     height: 720
     width: 508
     type: image/jpeg
-    link: https://i.imgur.com/qCd5o0i.jpg
-    prevLoc: lovXBK4rk8CMEOOWGA2osRYQLM8RYPhBKjWGMWE6upW3vjAnOVSDoLjpD0DvTLWO9q4RvZI7oxWXlGBMSY5rJLDy9NsRpPNYXGjKTvXMz8BNAGIoYqM68og2F5GOK8NrQ2CA70QNQxV8c1E5LqoqwACK2YYjnnXvsOXPoOyzJ2IvBBwQA9jOi5xnz33X1Xcl53QZDgNKirAjEL879YT73833y3zWu0E7rEjZlmiA4rD0rBZBcPXj60OZgwHgZAgmlX3RT6x
-    parentId: 6Nn8LopwXkfJrBjqwv8EtP6L7JE
-    postId: wwXV7y5RjMCNqNoZWDgBFkMnMw4J6RCJ0WjNWOqksZgy3oZJGqHlMlLp
+    link: https://i.imgur.com/GbI003S.jpg
+    prevLoc: WywpYgN3KWS4qzz13P5jH7plr437pGSVAjrxkrn8HN2V91DAg3tlLKJrl0l1tqXJ0Yj97DtRwGk47rqLUw5LW6MgzzFn977O79oRfkLgRAjWXOIprjmzNpjvSlA2Ejm0ZPFo8KqKY62YFv0GGGwJm6fK7knmBWkvIkMWDkZJj7HEJJomNQLvCZvnV99B8jsLXONyrjW2tmGR8XPgO7S1rZRyEW3Ef7Xoj59Jn8hGz6Ko8Rp9FyZPw38wRXcjQExxKKn8sxy
+    parentId: QGYWZJrxnVfLNDDr6MR6UDmwnq8
+    postId: YmjWqYxl6os9n95o4zjriPmymvrEp2CqDBYXBMvnI743N7PY5QHnD8g4
     factor: 1.42
     portrait: 1
-    mInfo: 7Vk1p90fMdSVB1o
-message: "2014.04.30  愛鱗會台灣楊梅支部即將在蘇州舉辦的研習活動。  2歲魚共有5隻，分別編號ABCDE，有興趣的魚友可以練習看照片評選一下心目中的1-5名。  比如;CDABE    歡迎大家留言在下面，活動當天我會把結果跟大家分享_   Ps. 如果可能我會直播，來不及就拍影片後續補上囉_"
+    mInfo: gdzN0Ml9MVokmfM
+message: "2014.04.30  愛鱗會台灣楊梅支部即將在蘇州舉辦的研習活動。大當歲共有5隻，分別編號ABCDE，有興趣的魚友可以練習看照片評選一下心目中的1-5名。  比如;CDABE    歡迎大家留言在下面，活動當天我會把結果跟大家分享_   Ps. 如果可能我會直播，來不及就拍影片後續補上囉_"
 ---
 
 2014.04.30  
-愛鱗會台灣楊梅支部即將在蘇州舉辦的研習活動。  
-2歲魚共有5隻，分別編號ABCDE，有興趣的魚友可以練習看照片評選一下心目中的1-5名。  
+愛鱗會台灣楊梅支部即將在蘇州舉辦的研習活動。大當歲共有5隻，分別編號ABCDE，有興趣的魚友可以練習看照片評選一下心目中的1-5名。  
 比如：CDABE  
   
 歡迎大家留言在下面，活動當天我會把結果跟大家分享^_^   
@@ -82,17 +81,17 @@ Ps. 如果可能我會直播，來不及就拍影片後續補上囉^_^
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/1u6RVMT.jpg"><img src="https://i.imgur.com/1u6RVMT.jpg" height="300" width="211" /></a> 
+<a href="https://i.imgur.com/6T4VRoS.jpg"><img src="https://i.imgur.com/6T4VRoS.jpg" height="300" width="211" /></a> 
   
 
-<a href="https://i.imgur.com/v1cLl2h.jpg"><img src="https://i.imgur.com/v1cLl2h.jpg" height="300" width="211" /></a> 
+<a href="https://i.imgur.com/biqFwwf.jpg"><img src="https://i.imgur.com/biqFwwf.jpg" height="300" width="211" /></a> 
   
 
-<a href="https://i.imgur.com/P6KJ3pc.jpg"><img src="https://i.imgur.com/P6KJ3pc.jpg" height="300" width="211" /></a> 
+<a href="https://i.imgur.com/ksKOry9.jpg"><img src="https://i.imgur.com/ksKOry9.jpg" height="300" width="211" /></a> 
   
 
-<a href="https://i.imgur.com/so4iokb.jpg"><img src="https://i.imgur.com/so4iokb.jpg" height="300" width="211" /></a> 
+<a href="https://i.imgur.com/SiTjrg1.jpg"><img src="https://i.imgur.com/SiTjrg1.jpg" height="300" width="211" /></a> 
   
 
-<a href="https://i.imgur.com/qCd5o0i.jpg"><img src="https://i.imgur.com/qCd5o0i.jpg" height="300" width="211" /></a> 
+<a href="https://i.imgur.com/GbI003S.jpg"><img src="https://i.imgur.com/GbI003S.jpg" height="300" width="211" /></a> 
  
