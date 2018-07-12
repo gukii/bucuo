@@ -1,0 +1,123 @@
+---
+layout: post
+title: "這次在大日拍賣會的" 
+date: 2017-04-24T05:24:36+0000 
+categories: ["大日"] 
+media:
+  - id: 7vQlMo6
+    name: jKER7QP3nPUOXKA1rmGlI6NX2nK
+    description: "大日Monster 是跟獅女王同一血緣的同胞姐妹"   
+    height: 720
+    width: 480
+    type: image/jpeg
+    link: https://i.imgur.com/7vQlMo6.jpg
+    prevLoc: KjYzJWx37Ah1W88QKB2qugG8kDRgG0hmJK1wB15VFYMmPJvBLkfk1wWKkZkOIBG6EGq22DFvVJKOPLAvCJlVvQQ4AmtKBj4V6NXxI4lJ2ZznKJHgQ9D2Po5xuLpBZokPEzI45A2gO8yQFY00W93P4gt7p6XDVN1rFRqV3xEEL2fO0r2pN66MhXyvWJXvVgULDpm66m0Bu21xZgvyrRhLMy6m7NR3Tx98ZQqNjlIPjMn1RO69hxgML8WMZ0FA69gJOEmN
+    parentId: 54myJngDWgtlXoGv8xmji18k8z5
+    postId: xxYnLz57GOfX7XZq32PYs9KoKp0GjAsBM82k9M4QI7VxGmvOy2S5V87L
+    factor: 1.50
+    portrait: 1
+    mInfo: V30GZ68kle3BEX9
+  - id: yduYQew
+    name: zz1pVPo3noHrZQn5B7KRTLwDAvG
+    description: "獅女王的成長過程"   
+    height: 426
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/yduYQew.jpg
+    prevLoc: 0k2EWlzGoACyBJJnvMG2I63VpEG63mhr8kJ9PJM2S6Xyzw0n7pHzZBX7z4z5cmLEXgyRNKUqxL2y4EgXSW17KpK4PnCoARvrEk0JuGx83wRMNYHr8VxYXm21s4AWwG6q4GSlp1VqvR3GFQG8xVnz4lI1yLZJ72MAsAZQoAODWpfKEE8Q9ND0iL143yyZEVcDLRLQgDOzF7Z5mmAD1zHoE9Qk5rvRi7yJnxP0N8Hq4ADAlApQhmPk34JpokhgJP7GlX1LS1P
+    parentId: 54myJngDWgtlXoGv8xmji18k8z5
+    postId: xxYnLz57GOfX7XZq32PYs9KoKp0GjAsBM82k9M4QI7VxGmvOy2S5V87L
+    factor: 1.69
+    portrait: 0
+    mInfo: 9f5V2qGIRoFyvNI
+  - id: 7xWze5m
+    name: RJZ62Y7zL7iO1jQym6YxF3ogmJv
+    description: ""   
+    height: 700
+    width: 524
+    type: image/jpeg
+    link: https://i.imgur.com/7xWze5m.jpg
+    prevLoc: LkY0KXy31AC39NN0qmRPuvgJAQRvgpT0xB9MD9oVtlQM4YrEROijwl4kjojViJy7wz5LmzUmRmjnEM6nC31P0lnMjnTvmnlEY4pqHmQK0PPAXXtl0oY3lZpQUMr15pjm0MT35pMrmV52cxjwE49w9xCx2yEDoDPKCjRLQgEpRKtwzL8EEWpphLMoBZjrX8io8vgmP60Rs4j4jvQpg8tjmyzjjr85hJZor3LL9ltMzkJQQ6P9fDMoMGE
+    parentId: 54myJngDWgtlXoGv8xmji18k8z5
+    postId: xxYnLz57GOfX7XZq32PYs9KoKp0GjAsBM82k9M4QI7VxGmvOy2S5V87L
+    factor: 1.34
+    portrait: 1
+    mInfo: fdKGl3R7dLq2DhB
+  - id: HUpOjwc
+    name: jKER7QP3nPUOXKZjGPoKc6NX2Wj
+    description: "三好養魚場 最迷人的雪兔，白質地晶瑩剔透體型豐滿流暢。"   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/HUpOjwc.jpg
+    prevLoc: RqMkQ4G3K8iOWnnwYRvrh8ojExD8o5sqPzYx6YopTgwvEK207Wc83zgO8V86IjyKoWPLkDTRyGXlvm9ZU785zLxo6Zh1X3q6PrDqIlXo9YWOm1cXJPx3zvRnt3ONZVJmvVunk11pjxrKI30xmrKoMxupg41AGvDPCDolmDExA2FqKK6oRBkjfR3Qw99g7puQOZ87gq02hByXONV4BGFBlrkrVM79CRvY22EBx5cELGNoZNMMtgr8YxWqZMI5wAQrk50ytKz
+    parentId: 54myJngDWgtlXoGv8xmji18k8z5
+    postId: xxYnLz57GOfX7XZq32PYs9KoKp0GjAsBM82k9M4QI7VxGmvOy2S5V87L
+    factor: 1.33
+    portrait: 1
+    mInfo: LOmT7MFIhwmPcOc
+message: "這次在大日拍賣會的兩歲5星昭和，是各家代理注目的焦點！  體型流暢、頭型比例恰當，目前2歲達59公分，質地光彩潤澤，模樣花紋是大墨昭和，紅白黑三色互相呼應得當，頭部到肩部的紅黑對比強烈是視線焦點，整體完成度很高，已經是很迷人的小美人了！  Super Monster 是大日近年來全新的血統，2年前開始產出，這次拍賣會推出的就是第一代Super Monster 的兩歲魚，榮獲大日推薦5顆星的最高評價。    但現在她才兩歲啊，到底未來可能會如何發展呢？2年後、4年後，又可能是如何發展呢？沒有3-6歲的哥哥姐姐可以參考，那就要仔細研究一下她的血統了;    外公;大日昭和 秘密武器不公開）  外婆;桃太郎昭和Monster 桃太郎獅女王同胞姐妹  媽媽;大日昭和 Monster 1   爸爸;大日Gacha X （Gacha昭和+XJ 紅白）  奶奶;大日昭和 （秘密武器不公開）  爺爺;大日紅白X Jr  三好三段雪兔同胞弟弟    所以媽媽是一半大日昭和血統，一半桃太郎獅女王同原血統。  爸爸呢，是一半大日昭和血統，一半大日紅白血統。  相加下來，25%桃太郎獅女王同源血統，25%大日紅白血統，50% 大日昭和血統。    結果呢？在爺爺奶奶爸爸媽媽的所有基因組合中，她繼承了所有的優點！（當然她的兄弟姐妹也都在這次的拍賣會上可以看見，但各自繼承的優點不同，例如;  A體型;  A1立體的體型線條、A2頭型、A3手鰭等  B質地;  B1墨質、B2緋盤、B3白地  C模樣;  C1墨的完整、C2緋盤厚度、C3邊際明快  D 完成度藝術性;  D1品系特色、D2特殊涵義、D3節奏感    那以正負遺傳來說明，要遺傳父母雙方的優點，還有爺爺奶奶外公外婆曾祖父母等等的隔代基因⋯⋯  優點+，一般，缺點-  A1+, A1, A1-  A2+, A2, A2-  A3+, A3, A3-  B1+, B1, B1-  B2+, B2, B2-  B3+, B3, B3-  C1+, C1, C1-  C2+, C2, C2-  C3+, C3, C3-  D1+, D1, D1-  D2+, D2, D2-  D3+, D3, D3-    ≧∇≦ .........  所以，能看到幾乎遺傳整個血統樹狀圖裡的優點，那是多麼難得啊⋯⋯⋯    不是說有千年一遇的美人嗎？≧∇≦    ps. 有誰能幫我算出來A-D全部拿到+ 的機率是多少？≧∇≦"
+---
+
+這次在大日拍賣會的兩歲5星昭和，是各家代理注目的焦點！  
+體型流暢、頭型比例恰當，目前2歲達59公分，質地光彩潤澤，模樣花紋是大墨昭和，紅白黑三色互相呼應得當，頭部到肩部的紅黑對比強烈是視線焦點，整體完成度很高，已經是很迷人的小美人了！  
+Super Monster 是大日近年來全新的血統，2年前開始產出，這次拍賣會推出的就是第一代Super Monster 的兩歲魚，榮獲大日推薦5顆星的最高評價。  
+  
+但現在她才兩歲啊，到底未來可能會如何發展呢？2年後、4年後，又可能是如何發展呢？沒有3-6歲的哥哥姐姐可以參考，那就要仔細研究一下她的血統了：  
+  
+外公：大日昭和 (秘密武器不公開）  
+外婆：桃太郎昭和Monster (桃太郎獅女王同胞姐妹)  
+媽媽：大日昭和 Monster 1   
+爸爸：大日Gacha X （Gacha昭和+XJ 紅白）  
+奶奶：大日昭和 （秘密武器不公開）  
+爺爺：大日紅白X Jr ( 三好三段雪兔同胞弟弟)  
+  
+所以媽媽是一半大日昭和血統，一半桃太郎獅女王同原血統。  
+爸爸呢，是一半大日昭和血統，一半大日紅白血統。  
+相加下來，25%桃太郎獅女王同源血統，25%大日紅白血統，50% 大日昭和血統。  
+  
+結果呢？在爺爺奶奶爸爸媽媽的所有基因組合中，她繼承了所有的優點！（當然她的兄弟姐妹也都在這次的拍賣會上可以看見，但各自繼承的優點不同，例如：  
+A體型：  
+A1立體的體型線條、A2頭型、A3手鰭等  
+B質地：  
+B1墨質、B2緋盤、B3白地  
+C模樣：  
+C1墨的完整、C2緋盤厚度、C3邊際明快  
+D 完成度藝術性：  
+D1品系特色、D2特殊涵義、D3節奏感  
+  
+那以正負遺傳來說明，要遺傳父母雙方的優點，還有爺爺奶奶外公外婆曾祖父母等等的隔代基因⋯⋯  
+優點+，一般，缺點-  
+A1+, A1, A1-  
+A2+, A2, A2-  
+A3+, A3, A3-  
+B1+, B1, B1-  
+B2+, B2, B2-  
+B3+, B3, B3-  
+C1+, C1, C1-  
+C2+, C2, C2-  
+C3+, C3, C3-  
+D1+, D1, D1-  
+D2+, D2, D2-  
+D3+, D3, D3-  
+  
+(≧∇≦) .........  
+所以，能看到幾乎遺傳整個血統樹狀圖裡的優點，那是多麼難得啊⋯⋯⋯  
+  
+不是說有千年一遇的美人嗎？(≧∇≦)  
+  
+ps. 有誰能幫我算出來A-D全部拿到+ 的機率是多少？(≧∇≦)
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/7vQlMo6.jpg"><img src="https://i.imgur.com/7vQlMo6.jpg" height="300" width="200" /></a> 
+  
+
+<a href="https://i.imgur.com/yduYQew.jpg"><img src="https://i.imgur.com/yduYQew.jpg" height="177" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/7xWze5m.jpg"><img src="https://i.imgur.com/7xWze5m.jpg" height="300" width="224" /></a> 
+  
+
+<a href="https://i.imgur.com/HUpOjwc.jpg"><img src="https://i.imgur.com/HUpOjwc.jpg" height="300" width="225" /></a> 
+ 
