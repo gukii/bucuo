@@ -1,94 +1,68 @@
 ---
 layout: post
 title: "第十屆亞洲盃錦鯉大" 
-date: 2017-05-27T04:25:04+0000 
-categories: ["Koi ","錦鯉"] 
+date: 2017-05-27T04:34:45+0000 
+categories: ["Champion","Sakai","Koi ","錦鯉"] 
 media:
-  - id: ZRBXxcK
-    name: 3XklxJ6YkDi4ywQBQ4JpsZvJx4l
+  - id: NeNZz1U
+    name: 3XklxJ6YkDiv86MXzYqvUZrDN8g
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/NeNZz1U.jpg
+    prevLoc: orv8GN4xnAIwYllA9BrXTXoMEx4XowT9KwvWqvPnc05YNk3x9MS8JX0m8Z8BIzwkGY3qmnFry1M9Rp0QsAz9GEjApWhKj67JP0opiyQ2kEZqmktNB93lP2gwikGNZOOQYMcy8pnNAYpGIrlz4ABQrrck7DwDV8Y5c7qME7lB2JiEKKNk2GMZC6MEX33jBjC1GWkp3jkWczZ72vnw38UlKo3MZzqmhGpGqlOAQGCNqoY5z4NksPWg9kKDloi40j7nr5pyhjQ
+    parentId: GrLZVKRwLqi96rv3EQ4GiG0jMyk
+    postId: wwXV7y5RjMCNqNoZWDgBFkMnMw4J6RCJA498pBV5UkxOO81VKLulwmvq
+    factor: 1.33
+    portrait: 1
+    mInfo: 10ZAcAvov28lY0t
+  - id: KDFaF7t
+    name: ODW709gJWBUkPzxyyj46iG5ozok
+    description: ""   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/KDFaF7t.jpg
+    prevLoc: LkY0KXy31AC39NN0qmRPuvgJAQRvgpT0xB9MD9oVtlQM4YrEROijwl4kj9loiJwoXlkD11imEroDjwwRc3G320BxpMswVrKR4z5gCGJ52D9690C1MlxqANWEu76rVAwE81t3lD7LBK95UqnrZrQmL7Fx7yAWWN9Mu7REGnOoovUYlWAE2xNJUYvPzoKQoNsZz6Ojnw1rh4RZ5W8W0wcjE9W3vjJPcN8BMBlPD4cDLN46onjZigGRxROQXMujg1DqwZPMf4K3Qy
+    parentId: GrLZVKRwLqi96rv3EQ4GiG0jMyk
+    postId: wwXV7y5RjMCNqNoZWDgBFkMnMw4J6RCJA498pBV5UkxOO81VKLulwmvq
+    factor: 1.78
+    portrait: 0
+    mInfo: afzdDVG0sj91Mwc
+  - id: J7Xs6HV
+    name: EpJlVQqKJoHjAVGgOAllh8zGk1o
     description: ""   
     height: 540
     width: 720
     type: image/jpeg
-    link: https://i.imgur.com/ZRBXxcK.jpg
-    prevLoc: 6qmG3rJOxYiWmVVRk1rosAL3vKoAL7tzAP4G74n6C3LXjw0rOGuRNQ7vRDR4tOxL1xykWmsqAGMWrg4NS8NxZGXEL6c13zJx2NrDUv1GAW0ZXnFm9lWOx554f7w6LAn186hQ33KzyzzDtDnwDPPozQiPQPnAyl0kSy35RyzxW9C5QQJE2DXrSV10MLL2GGUorJpYZx1MIMJKg54AyKT1LXD2EoZqh0nXZX4oA1cOZRKk6X6kI7Ooyr3gGxf9N49K4x9phmJ
-    parentId: yyZ8vkwpZgH48llVGxy0S3B0pDL
-    postId: QGYngKm51ZCR2R74y5J0H1X4XE5JBGc57y0VK4OPuEyk36qDyxFYDBYW
+    link: https://i.imgur.com/J7Xs6HV.jpg
+    prevLoc: DLY6yMn3ZwIxAjj7pn5Bszk0vGPzkYsmw1ZRGZOYFrLK42NEWRHEGNZmEnE3TNgmLgq7yOFm7xnNY3RZSWNLnvP515SL3ExwMlDjuBq3GDMXZgsXNE8Nyxk4I0pRExDQWqC2vVPgvkxgCZqVoDDA3ysQjg148XqGck4nYk7mZBHnKKZov3VEhnGKLrrmMYHVrR5pqyWLsY9VDMLDzguMqPRqnEWNu6JlDnZZgmunL4BDYym7SW4jrk6qVwuP7BR1v1kzTjN
+    parentId: GrLZVKRwLqi96rv3EQ4GiG0jMyk
+    postId: wwXV7y5RjMCNqNoZWDgBFkMnMw4J6RCJA498pBV5UkxOO81VKLulwmvq
     factor: 1.33
     portrait: 0
-    mInfo: cdOevuhG4Dm5cgR
-  - id: rZvZOPE
-    name: RJZgVBl8ZGfOMJLVYR9OU3k1qVr
-    description: ""   
-    height: 540
-    width: 720
-    type: image/jpeg
-    link: https://i.imgur.com/rZvZOPE.jpg
-    prevLoc: rxEBLQ4AqgTmZwwyM18AuoN23WnoNAInV48m68MBCjxBWq81Mzt6PK706j65uvO0oOz1QEs769yMDgzoiDlQo2mR9PsolB7pjXlnSyKxMpDVqktLvjKvO5xVhW1DOl6oRmhpVGJ7rvrJtLXwjgrNW9skBK70lJMEIOlwBORjZgIR11jOr67PHknOwMMoDzF3KDzLN76ltoAMYwOmNZi6BQ0KXvBKU93z8joQkEsqpGXKvWl5Ig283RKOV5FnroEjlvGBFrZ
-    parentId: yyZ8vkwpZgH48llVGxy0S3B0pDL
-    postId: QGYngKm51ZCR2R74y5J0H1X4XE5JBGc57y0VK4OPuEyk36qDyxFYDBYW
-    factor: 1.33
-    portrait: 0
-    mInfo: uZkYYIvhzgBaqZl
-  - id: Zig8RMm
-    name: mjKw9Xq7K4fMgZng6g90iJgpQ03
-    description: ""   
-    height: 540
-    width: 720
-    type: image/jpeg
-    link: https://i.imgur.com/Zig8RMm.jpg
-    prevLoc: AGQWvJk3X8HROrrx0nN9TjMPwxDjMWskMJ1G91Pzu1E0ROX78WurAYVgrBrMiLXOkXz34BuDZk6YznqETy35zBjXMru82vz9vgABi6gGoKAO32UXp7GpKkRvcWNk0kqn95c30zv3w7M4SxqBxmvjKoIAyBZgJK7Xc1xB01jEOPINPP6kv97wFvYKDBBr1MhxWn2KgWnEhK7L9K53gkUrkNoY3Nn7cBn11oKMgxCwKLj3Qn2vtGZzql52ZLH5O35lwBgOC7z
-    parentId: yyZ8vkwpZgH48llVGxy0S3B0pDL
-    postId: QGYngKm51ZCR2R74y5J0H1X4XE5JBGc57y0VK4OPuEyk36qDyxFYDBYW
-    factor: 1.33
-    portrait: 0
-    mInfo: 5nM8xucbiy5nW5h
-  - id: 01NqqTX
-    name: 70o6BJ9DoKiR8vk4NmLEspXlvpP
-    description: ""   
-    height: 540
-    width: 720
-    type: image/jpeg
-    link: https://i.imgur.com/01NqqTX.jpg
-    prevLoc: 2mg2YnBKqGhm3KKLrRpkuJMEpwRJMkhK4pqx3qOncknMv4gQoKcKBPEGK9KQcpnzQnw381hvM1N25qzxHkKVnyJLpnh9WXk5jr2QH2OYZDG1mlsQqNvXLwDqtwr7YxjoxoH5jZZ67glRuwXzDWLY99T7v8NqJYEBT54wp5nBLjUKkkpBPy9Vi3jZ5nnkogFW97EWr3JBupQo1Ygz5ZI0DK5Nn5Yoix6WnE8ppGckXQYMkM3jf9A52VYOR5SzmPZ8J59PcnJ
-    parentId: yyZ8vkwpZgH48llVGxy0S3B0pDL
-    postId: QGYngKm51ZCR2R74y5J0H1X4XE5JBGc57y0VK4OPuEyk36qDyxFYDBYW
-    factor: 1.33
-    portrait: 0
-    mInfo: YCdg45DEF7SwdJT
-  - id: u7o1YLO
-    name: Ymj69X7VjPT9nQx8vA8Guk8lBkx
-    description: ""   
-    height: 540
-    width: 720
-    type: image/jpeg
-    link: https://i.imgur.com/u7o1YLO.jpg
-    prevLoc: yG67V1gLApH4o66GD0rNHXAqnJoXA8TGj86wm6rJc67lw9rk5MHQLPXBQNQ3uz1Gk1nqRjc5QGPMnWJBSYoX4wJ6OZiE93BkAPV2f3BJV9P5noH8y6KRZ3zyFPjBomkpxji7zolA9EyOSq0qmv7jXJc7DMMjRzLJuW9O8W01KgfvAAwgJxrmip3jEKK5Nqu6gB8gnWJBhrVZ2mjPlvhG4Oj9QkOLT4AKYL006MTm7mJBvwBpfPnmv49yADiGy178R4RQiPr
-    parentId: yyZ8vkwpZgH48llVGxy0S3B0pDL
-    postId: QGYngKm51ZCR2R74y5J0H1X4XE5JBGc57y0VK4OPuEyk36qDyxFYDBYW
-    factor: 1.33
-    portrait: 0
-    mInfo: Yc71SbkKNWsPKwI
-message: "第十屆亞洲盃錦鯉大賽  The 10th Asia Koi Show  Jinan City, Shangdong, China."
+    mInfo: uBocZIQak194kNt
+message: "第十屆亞洲盃錦鯉大賽  全體綜合冠軍  魚主;陳昌 廣東  漁場;阪井養魚場     The 10th Asia Cup Koi Show  Grand Champion   Mr. Chen Chang  Breed by Sakai Fish Farm"
 ---
 
 第十屆亞洲盃錦鯉大賽  
-The 10th Asia Koi Show  
-Jinan City, Shangdong, China.
+全體綜合冠軍  
+魚主：陳昌 廣東  
+漁場：阪井養魚場   
+  
+The 10th Asia Cup Koi Show  
+Grand Champion   
+Mr. Chen Chang  
+Breed by Sakai Fish Farm
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/ZRBXxcK.jpg"><img src="https://i.imgur.com/ZRBXxcK.jpg" height="225" width="300" /></a> 
+<a href="https://i.imgur.com/NeNZz1U.jpg"><img src="https://i.imgur.com/NeNZz1U.jpg" height="300" width="225" /></a> 
   
 
-<a href="https://i.imgur.com/rZvZOPE.jpg"><img src="https://i.imgur.com/rZvZOPE.jpg" height="225" width="300" /></a> 
+<a href="https://i.imgur.com/KDFaF7t.jpg"><img src="https://i.imgur.com/KDFaF7t.jpg" height="168" width="300" /></a> 
   
 
-<a href="https://i.imgur.com/Zig8RMm.jpg"><img src="https://i.imgur.com/Zig8RMm.jpg" height="225" width="300" /></a> 
-  
-
-<a href="https://i.imgur.com/01NqqTX.jpg"><img src="https://i.imgur.com/01NqqTX.jpg" height="225" width="300" /></a> 
-  
-
-<a href="https://i.imgur.com/u7o1YLO.jpg"><img src="https://i.imgur.com/u7o1YLO.jpg" height="225" width="300" /></a> 
+<a href="https://i.imgur.com/J7Xs6HV.jpg"><img src="https://i.imgur.com/J7Xs6HV.jpg" height="225" width="300" /></a> 
  
