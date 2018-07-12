@@ -1,0 +1,87 @@
+---
+layout: post
+title: "國際錦鯉幼魚品評會" 
+date: 2017-04-22T07:48:52+0000 
+categories: ["Champion","Sakai","Koi ","錦鯉"] 
+media:
+  - id: DXphQHg
+    name: 2Njkn373ZOTmX2vJDGr6iKp2r53
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/DXphQHg.jpg
+    prevLoc: 2mg2YnBKqGhm3KKLrRpkuJMEpwRJMkhK4pqx3qOncknMv4gQoKcKBPEGK9KQcpnJjZ8W6XhvM1NWnBP9FkKVzgg3EqT9rv3kJNQAS2nLX17Az7ijZX5517zBCpNBw9PRkPf5oVMvqPoGiwyPqRRnr7hVn7r7kBJJS54wp5nBLjUKkkpBPy9Vi3jZ5nnkogF39lV0AkNoS782v9NkOKtjAGKxWOw5C5vnDvBrDxhk3Am5G9mNf0yk4mwmJMfzmPZKG9NQCqp
+    parentId: LzQ9XLvLrnu3r0RyzqpqfVAmLAE
+    postId: MARwWKg5jOhJwJjVAQvNtMlZlx9zEOHrRgDwBrDQTXmkK3O20pHYEBo9
+    factor: 1.33
+    portrait: 1
+    mInfo: rKWnB7scOWCvDa8
+  - id: X5oVkfx
+    name: DoGkMzQzjPTxz75wj560hDvZ3Xo
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/X5oVkfx.jpg
+    prevLoc: 5plV2qGNwATl9ggy8xZ0fK8LjrXK8gH31MOBqOnmFomzOxQ9KLhj9Y1JjxjEiR7N31nwMXumLEJk7qBPi9EpjLn3RGHxL0j5ROvnuWlvgGpNj2FqLZPPQgy7UyNGWy1yzpsqr16VOAjkHB6poD7yJgCVqVZM6wO5FkN2KkE1GVHMRR13qv9BtpVJ300RWRCVQpwyEZ5msDAEKw7xRlSYm50EDxzRSmBK7jWVNmu73ln6o4Dmc2JxK5PwXMfGw8GrryKOiDW
+    parentId: LzQ9XLvLrnu3r0RyzqpqfVAmLAE
+    postId: MARwWKg5jOhJwJjVAQvNtMlZlx9zEOHrRgDwBrDQTXmkK3O20pHYEBo9
+    factor: 1.33
+    portrait: 1
+    mInfo: 07sxL6Q8mshLHMS
+  - id: JFdgDaq
+    name: W056gZQZJmu4K15DOGl7C5XE4nv
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/JFdgDaq.jpg
+    prevLoc: ZBwv2lQ7GZIjgPP1vD5MuOP6m45OPWsGLxqNVq64cR9vZK8VYmiDAgNwDBDZTQxZKpWJGMU4WrzJjQD1cVAzl44mLzFX3n4Z2o7KumzX78jDgkfYLoXgkWNoFqKxqZ2AqLh4G2WRB5vZIDB6mvkgVRil1RVAW3ApCM3QpMOKvkh855q1zGQLc6AErNND7BIzpG6PJZqKHwJZx0zjZBFn1wpXw7vPtWPOB7jzQ7fEwMXkXl8BiEVVqWNvX1I8Y48AAQDWf7L
+    parentId: LzQ9XLvLrnu3r0RyzqpqfVAmLAE
+    postId: MARwWKg5jOhJwJjVAQvNtMlZlx9zEOHrRgDwBrDQTXmkK3O20pHYEBo9
+    factor: 1.33
+    portrait: 1
+    mInfo: TOlBB1awSbzrEJX
+  - id: 0AfW3Zb
+    name: Znk6l3z3MpujL15A5920c1pv0XR
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/0AfW3Zb.jpg
+    prevLoc: pvRBJO5yo9uwoQQgkvnzTO26Vn4O2MsGlw0x20O9c1ZXoVD6pzuK7Ej8K0KDczko0NGwjBFKRy83MAlLSkwgGQQKZmsmBnAx18g4t4LwoylYJPfrpOW7APWZTxOwLP0REAHR7JDJVEADCkAKWAEYlZUr8wJJnG5MumkrEmOp4zI7NNO50Q4BH9gEZllK00hJmZVxElX7SQkp0n3ZrxtDXBrwPN45FQA7lXqjrlukwWxN9g7NtnNpAjrzv5C9BD0rGVwZU13
+    parentId: LzQ9XLvLrnu3r0RyzqpqfVAmLAE
+    postId: MARwWKg5jOhJwJjVAQvNtMlZlx9zEOHrRgDwBrDQTXmkK3O20pHYEBo9
+    factor: 1.33
+    portrait: 1
+    mInfo: dNoEMrdAUVUGX6j
+message: "國際錦鯉幼魚品評會  縂合大賞 大正36部  生產漁場;阪井養魚場  取扱代理;成田養魚園  恭喜得主 陳昌 - 中國     The 5th International Junior Koi Show  Grand Champion; Sanke 36 Bu  Breeder; Sakai Fish Farm  Handle by; Narita Koi Farm  Owner; Mr. Chen, Chang China  Congratulations!!!!"
+---
+
+國際錦鯉幼魚品評會  
+縂合大賞 大正36部  
+生產漁場：阪井養魚場  
+取扱代理：成田養魚園  
+恭喜得主 陳昌 - 中國   
+  
+The 5th International Junior Koi Show  
+Grand Champion: Sanke 36 Bu  
+Breeder: Sakai Fish Farm  
+Handle by: Narita Koi Farm  
+Owner: Mr. Chen, Chang (China)  
+Congratulations!!!!
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/DXphQHg.jpg"><img src="https://i.imgur.com/DXphQHg.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/X5oVkfx.jpg"><img src="https://i.imgur.com/X5oVkfx.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/JFdgDaq.jpg"><img src="https://i.imgur.com/JFdgDaq.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/0AfW3Zb.jpg"><img src="https://i.imgur.com/0AfW3Zb.jpg" height="300" width="225" /></a> 
+ 
