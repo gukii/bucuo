@@ -1,0 +1,32 @@
+---
+layout: post
+title: "中國自家產  郭斌" 
+date: 2017-02-28T09:29:43+0000 
+categories: ["Koi "] 
+media:
+  - id: ehSyVdt
+    name: 8Np2wgv4A8sgwv8ZrgzvcPqO4yo
+    description: ""   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/ehSyVdt.jpg
+    prevLoc: yG67V1gLApH4o66GD0rNHXAqnJoXA8TGj86wm6rJc67lw9rk5MHQLPXBQYPNszOnXPyqRRiM74DPk99GFYOYKjJBKrtEv9vqZBQ2t3B11pWKYnUMmZGgQz1PCXyxvMYpP9i7zxMGmgllhKoDOkPMJyH702AvDKgMfWLYp2VqqysvW7xP2Z4Eh25oByMQyKuW312yQZVEsnzRRpPD0mhXxYEWqDKRHLv3QPO1vpSn5QJ8wGgofPDwGBV3v1tk9Yv6oBZ9Ig608O
+    parentId: 8Np2wgv4A8sgwv8ZrgzvcPqO4yo
+    postId: olMVXnK6YpHwgwkp076OH8xGxlNkY2CDBmmQW83gUjPN3mL0DlI2vowo
+    factor: 1.78
+    portrait: 0
+    mInfo: epvx5wASAa1EEUc
+message: "中國自家產  郭斌養鯉場 - 寧波    China Koi  Guobin Koi Farm"
+---
+
+中國自家產  
+郭斌養鯉場 - 寧波  
+  
+China Koi  
+Guobin Koi Farm
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/ehSyVdt.jpg"><img src="https://i.imgur.com/ehSyVdt.jpg" height="168" width="300" /></a> 
+ 
