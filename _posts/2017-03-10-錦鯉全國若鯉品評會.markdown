@@ -1,64 +1,64 @@
 ---
 layout: post
 title: "錦鯉全國若鯉品評會" 
-date: 2017-03-10T07:41:25+0000 
-categories: ["Sakai","IKI","Koi ","錦鯉"] 
+date: 2017-03-10T02:45:37+0000 
+categories: ["IKI","愛好家","Koi ","錦鯉"] 
 media:
-  - id: 4YV5n9W
-    name: jKERGNY3wRf0y51kqBnLc6R1rN1
+  - id: jaPYkyK
+    name: zz1p2y63EPIrAjYX5114h50LW2k
     description: ""   
-    height: 720
-    width: 540
-    type: image/jpeg
-    link: https://i.imgur.com/4YV5n9W.jpg
-    prevLoc: 2mg2YnBKqGhm3KKLrRpkuJMEpwRJMkhK4pqx3qOncknMv4gQoKcKBPEGK9KQcpnJjZ8W6XhvM1NWnBP9FkKy34A6x4i9OxjzZ6vMtL4mnq9vvXSjkGWVxvByIwYkQ8J3BEi5xJj0j52jiw54WGgX18i70EW6nKnEF54wp5nBLjUKkkpBPy9Vi3jZ5nnkozul4EjEwM5lhGBJxmy8JKtJ3JA16MolIxZgWAlyBlikow06ENyyC0kArxMX3YUzmPzELYKvCnv
-    parentId: 3Xk1oP6Aq1fvGMNgZYVjSZ5mQvx
-    postId: BmDN9XpRglsnwnvJOgzYhAw4wop3L7FD2r5R4L8vcX3E0mpQjgI1B351
-    factor: 1.33
-    portrait: 1
-    mInfo: rwTJqXHSvP5MbXS
-  - id: GOnHxis
-    name: GrL6PoRlk6U9LYxJjzLxTG7knGM
-    description: ""   
-    height: 405
+    height: 540
     width: 720
     type: image/jpeg
-    link: https://i.imgur.com/GOnHxis.jpg
-    prevLoc: ZBwv2lQ7GZIjgPP1vD5MuOP6m45OPWsGLxqNVq64cR9vZK8VYmiDAgNwD9gBFQKmP8oqWWHNYMpzyPPrSVqVYZ05EJtXQ0xoOpJptmxWQBk5JjhqKqlXLJgrSq8yyV90Vxf4G2Wjyr16CDVX1w6vEAtlEpR9RLYQTMg0xPGBBrT89jG7rKMnhPDzoK51KNFzrPpkLNjLcrp1JLYyv3ho4jMpDlLmTWPAkyL82NSpgV8G61VGIE29q8xYEMc7D1jE6R0QSoOyYE
-    parentId: 3Xk1oP6Aq1fvGMNgZYVjSZ5mQvx
-    postId: BmDN9XpRglsnwnvJOgzYhAw4wop3L7FD2r5R4L8vcX3E0mpQjgI1B351
-    factor: 1.78
-    portrait: 0
-    mInfo: 8h7jdIdcF3dhFbs
-  - id: SV01ziA
-    name: XlgDj2QJGDfZM5738jLRcNWvmRk
-    description: ""   
-    height: 720
-    width: 540
-    type: image/jpeg
-    link: https://i.imgur.com/SV01ziA.jpg
-    prevLoc: 3njEZoDLrYs4K77j3GpmHMv6jG3MvkTjMX6PZ6YWhnoOAgWGYBSXEKYxXjXRIkXVOmMq2rSMXAk8RzG4t3ZKDV3Pk1H9NWZRgBryi39QM5y441ixBWQ5DPwkfEolQ51Q4jf0KM4Gwpn7sBVj0vWoMgSk5joxmjoBIBrVpB748vI166o02pQWH0q8XnnVJVt658QJm7q9U4q92AjmA7hZvm9NNw2vh7WpQM4JRvsYn0lZ4DKEiEQromj8A2snGqjDKJxmcjY
-    parentId: 3Xk1oP6Aq1fvGMNgZYVjSZ5mQvx
-    postId: BmDN9XpRglsnwnvJOgzYhAw4wop3L7FD2r5R4L8vcX3E0mpQjgI1B351
+    link: https://i.imgur.com/jaPYkyK.jpg
+    prevLoc: 2mg2YnBKqGhm3KKLrRpkuJMEpwRJMkhK4pqx3qOncknMv4gQoKcKBPEGK9KQcpnzQnw381hvM1N25qzxHkKy3kzKgEF9LMXEoMwECL4y3RQqjYTjkGWYE2y7FwoJ0jNx9ZCPlDD9JwAQIWowQW309EHVxg9Vw19Bh54wp5nBLjUKkkpBPy9Vi3jZ5nnkgKsW9w83OOjJhpY6ygWG1AUjYg582M3rf5GwOOQj1wikRv3KWnpDTp3K1W50qrHzmq36AgZOSn1
+    parentId: AlBDJg6V2qFRWZE7w9JwUloNj9W
+    postId: mjKON06MwlUMgMvLrmkOiKj2jqVAo4SlL7k1zZlKhX7ZOKPgPWHZVGA8
     factor: 1.33
-    portrait: 1
-    mInfo: mKTGzkApqDcIO7j
-message: "錦鯉全國若鯉品評會  Nishikigoi All Japan Young Koi Show    阪井大正，拭目以待！  Sakai Sanke!!"
+    portrait: 0
+    mInfo: jwrAqufzKxrGcJe
+  - id: K0Mme56
+    name: NBVkZyOv2Dh6BrEPAOZlT2ZG3lz
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/K0Mme56.jpg
+    prevLoc: Vx5oX8M32JTZy00VB5xlhPkoxwBPkYFR5qK4rK83c5xVBj6n8vI6Yjxq656Du2n0QnyEjKFy3RL4PM9wtWXzYv27NvsGXr3ADWKASr0MAmV7qGSXVkpNYoZqCJlRrxPYx9Iv86GEDrxxhBNEvPOP6DTR4jkAG4gBH0Vj4w33mqCvJGKr977RFEVAxkEBArcw59J5w4gjupoLJ8Yq2VUArk90BqzZsvo6V0B7oDcZGzxW4AYAhr1XNV4XRKIKOG2p3x4w
+    parentId: AlBDJg6V2qFRWZE7w9JwUloNj9W
+    postId: mjKON06MwlUMgMvLrmkOiKj2jqVAo4SlL7k1zZlKhX7ZOKPgPWHZVGA8
+    factor: 1.33
+    portrait: 0
+    mInfo: aPYF0EJl0sJQORE
+  - id: tabRs0o
+    name: 075RlP8xmqFyLAXB6K9XTKzY6mA
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/tabRs0o.jpg
+    prevLoc: 1lYEXmAJpVIZGnnrgkMph91EWgv91xugB2XkpXP0srwjYE0R3BHM46pAMNMRcE0rG0KM7pfYwn2DZLo8f1Jpo7wAAxS4QMVQw77ncpkz1VKQWwf9B5l2vL6jf9gBPPZMnDT21yRqRDKzIp2yQ0PokkfjorPmVK9mhrpBVrnoR6Ix44LGME3qFYoX0ggEyRTvzJ03Yv0rSrBJ622mZ8h5rL8o4NN7Hkx84kDvJYcvQDyGll1pcVmggVG93DfNW49RZ1DRSVy
+    parentId: AlBDJg6V2qFRWZE7w9JwUloNj9W
+    postId: mjKON06MwlUMgMvLrmkOiKj2jqVAo4SlL7k1zZlKhX7ZOKPgPWHZVGA8
+    factor: 1.33
+    portrait: 0
+    mInfo: P5AVXAX6OtnnWA5
+message: "錦鯉全國若鯉品評會  Nishikigoi All Japan Young Koi Show    幼稚園安排校外教學_  從小培養喜歡錦鯉的小小愛好家！"
 ---
 
 錦鯉全國若鯉品評會  
 Nishikigoi All Japan Young Koi Show  
   
-阪井大正，拭目以待！  
-Sakai Sanke!!
+幼稚園安排校外教學^_^  
+從小培養喜歡錦鯉的小小愛好家！
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/4YV5n9W.jpg"><img src="https://i.imgur.com/4YV5n9W.jpg" height="300" width="225" /></a> 
+<a href="https://i.imgur.com/jaPYkyK.jpg"><img src="https://i.imgur.com/jaPYkyK.jpg" height="225" width="300" /></a> 
   
 
-<a href="https://i.imgur.com/GOnHxis.jpg"><img src="https://i.imgur.com/GOnHxis.jpg" height="168" width="300" /></a> 
+<a href="https://i.imgur.com/K0Mme56.jpg"><img src="https://i.imgur.com/K0Mme56.jpg" height="225" width="300" /></a> 
   
 
-<a href="https://i.imgur.com/SV01ziA.jpg"><img src="https://i.imgur.com/SV01ziA.jpg" height="300" width="225" /></a> 
+<a href="https://i.imgur.com/tabRs0o.jpg"><img src="https://i.imgur.com/tabRs0o.jpg" height="225" width="300" /></a> 
  
