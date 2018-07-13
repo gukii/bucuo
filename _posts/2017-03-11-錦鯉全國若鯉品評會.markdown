@@ -1,88 +1,88 @@
 ---
 layout: post
 title: "錦鯉全國若鯉品評會" 
-date: 2017-03-11T03:34:29+0000 
-categories: ["Champion","IKI","Koi ","錦鯉"] 
+date: 2017-03-11T03:28:31+0000 
+categories: ["Champion","Sakai","IKI","Koi ","錦鯉"] 
 media:
-  - id: NPhpEWB
-    name: BmDBKjPjO0iN7Y9Lx753CRBgNgW
+  - id: cRpdDOY
+    name: vvW2Xr8rRBFZXApX60xwUkXEJrZ
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/cRpdDOY.jpg
+    prevLoc: 1lYEXmAJpVIZGnnrgkMph91EWgv91xugB2XkpXP0srwjYE0R3BHM46pAMNMRcE0rG0KM7pfYwn2DZLo8f1Jpo1XJmgh4J9Ao1kD0CBoO27EVokI5YARPmLLySmqAZrMrp7f2kMpwo0ZNhp9pYVOzqoIjZl4okKkEfrpBVrnoR6Ix44LGME3qFYoX0ggEyRTvknXW0O4oCjB9Z0QnRBc4V5GPnP0BIlKAX0R20vhvQZ4lQlAOfMO87ypmP8fNW9jK4vm1um8
+    parentId: ODWY1zPzLnckGZwyK0A1tGym6VR
+    postId: xxYnLz57GOfX7XZq32PYs9KoKp0GjAsBM7VkDloWu7N80jJPE6h5vw3y
+    factor: 1.33
+    portrait: 0
+    mInfo: ukG8s3ZzsW0NtLV
+  - id: pMbHnJu
+    name: kLGRJNrNBnTvN58oxWElSoVDgY4
     description: ""   
     height: 720
     width: 540
     type: image/jpeg
-    link: https://i.imgur.com/NPhpEWB.jpg
-    prevLoc: Xz7qZjO8XYT9KBBlAqXnTY9gx1jY9OHwNg0kL0B1uMQ5NvRP74HAr3VLAWAvILn2mlOQzyIRo7A4P193U3M0z3oxOph86j2rlpWASAjE7pRPg2iVjYA0Mp9gIgo1APopyvIRNlDvQvnBHvxYVBgr0yF8Zy5WLgP2IYW2zYRqEmFNPPDJXlz2FgYMWzz3KqfN0QjNv8LKHJMN5oQN3NumD0W6MOG0UDO3GyRBkncrDP35zVL5hj3zVZvGqRUzLK9GkknOT5E
-    parentId: EpJRNm0m1oCj3E8x1W2KF8V2p0g
-    postId: AlBNKXo9njHRwRjJzvGkH4xoxVJ3rBi8x4AYL6kXhRx7BqKXZRTWEJWK
+    link: https://i.imgur.com/pMbHnJu.jpg
+    prevLoc: JgYz0Vw3KEunwppkO1q8hMO9njxMOrTK7OL93Lkjcp4LQYAxkrSwxrVlw3wXIwyBzK1LJQF1E9J3Nm56tvgWRv2q6GtNkYvzlyDDSrNGPnB7NGTzLqZk8PPwsLZOGpW1BLIv6RgA2vxvTYD1BXEyj1iJvMjXp9Pnhp74ZpgM9yTX22104KMBsYpqQzzl0Js59ymrOlX2TJ1ZNwkONpCOL2rn0QKpH2B31G4PQBCQxg6QyjGGslWGGlxMB3fr7MW69pnOuk3
+    parentId: ODWY1zPzLnckGZwyK0A1tGym6VR
+    postId: xxYnLz57GOfX7XZq32PYs9KoKp0GjAsBM7VkDloWu7N80jJPE6h5vw3y
     factor: 1.33
     portrait: 1
-    mInfo: pNkTPYWk7cn7tEq
-  - id: XL8ZUwj
-    name: KyPrWvLvzxtk2VvR5OQ8F1NqzDM
-    description: ""   
-    height: 540
-    width: 720
-    type: image/jpeg
-    link: https://i.imgur.com/XL8ZUwj.jpg
-    prevLoc: vBYRPX4GxmIl8OOJ127Wf45VWGm45xsry9RjlRVnS3EropJAjMuXLjD6XnXvIzBZoBKJRNcXkDLr8z7Nh7QxzvGLLltkJ2EBPLwWiQN4XywKRLcq44mqDmVRh0MBp6q973ILyq6ZopxAC59vqm5GjoIYonmvrB8VuzvV8zqw9YT0VVWEM4xpuAL2NDD7JEInmrGvZL0pcAY95xWxXVf5GBMy9ZQOij42Pn13lLIl23l42mDmCp130JzNRXH8V3kZ2mqGim2
-    parentId: EpJRNm0m1oCj3E8x1W2KF8V2p0g
-    postId: AlBNKXo9njHRwRjJzvGkH4xoxVJ3rBi8x4AYL6kXhRx7BqKXZRTWEJWK
-    factor: 1.33
-    portrait: 0
-    mInfo: dMnwlGjmd9dVPyi
-  - id: 76DeXQ5
-    name: JxO6VrNrzwfoqNqpBjkZiJZ9z9L
-    description: ""   
-    height: 540
-    width: 720
-    type: image/jpeg
-    link: https://i.imgur.com/76DeXQ5.jpg
-    prevLoc: yG67V1gLApH4o66GD0rNHXAqnJoXA8TGj86wm6rJc67lw9rk5MHQLPXBQNQ3uz1Gk1nqRjc5QGPMnWJBSYowWYnoXrIE74n7v5pzU3QY9E2JLgs81MEoYKmPcX75p4pGYjf7MmAyvA1viq6XJgWpAKI74AZMLGKZuW9O8W01KgfvAAwgJxrmip3jEKK5NquWkLorxwmkhnzRPlogPOsKA2Q7rQMoT01zoX97O8TQznWr9o1wtm8lMMDo84CGy1YKGv35cEg
-    parentId: EpJRNm0m1oCj3E8x1W2KF8V2p0g
-    postId: AlBNKXo9njHRwRjJzvGkH4xoxVJ3rBi8x4AYL6kXhRx7BqKXZRTWEJWK
-    factor: 1.33
-    portrait: 0
-    mInfo: lqT3s2DTwTtmgxG
-  - id: DbSt4D7
-    name: 6Nn8r4B4GJtJr5rVyxLLsP6L75p
+    mInfo: YX3gEpuleF00sPp
+  - id: hREYTVp
+    name: mjKZLgYg8pIq2WB2XKNzSJvWnqx
     description: ""   
     height: 720
     width: 720
     type: image/jpeg
-    link: https://i.imgur.com/DbSt4D7.jpg
-    prevLoc: zJBQW2jM4qTrq88XDxMRTzwrJ93zwPsZKMAz7ANlcVLvw31oxkHWo06gW9WZFR7L58AK0Vs68m7KOYxnTp4QWkYLzvtDzn3JEDgjU3QxZm0l5qsN4ZQBDzxof4lDB7mkAjIZ493oJMk0uERojq8QNAtxLrwymkYEiXGRkXo0Eyu3RRmE1MP9UlVwLzzZ0ZSAo003yVXzTrA13vz9nEUzPw2m1JARcqGk4N5VV9HmN24X2J7VHG7Bzv47PpiPoKALVYGQCEV
-    parentId: EpJRNm0m1oCj3E8x1W2KF8V2p0g
-    postId: AlBNKXo9njHRwRjJzvGkH4xoxVJ3rBi8x4AYL6kXhRx7BqKXZRTWEJWK
+    link: https://i.imgur.com/hREYTVp.jpg
+    prevLoc: 0k2EWlzGoACyBJJnvMG2I63VpEG63mhr8kJ9PJM2S6Xyzw0n7pHzZBX7z4z5cmLEXgr3ZkUqxL2y4EgXSW17oWQ1J4foxwA7kM8vUE879RqM8miKkr4XPl6zf4Vl3yZ0n4u1DrrNn2jpTQrvj56WQNIGz8r6DGzXsAZQoAODWpfKEE8Q9ND0iL143yyZ7GhE8W6LZpvQs7Zwp9voM0toj7AgzxKNSmZnMlPvA2HqOVqOM1NXcEwl927V9xtgJP70m67NT9q
+    parentId: ODWY1zPzLnckGZwyK0A1tGym6VR
+    postId: xxYnLz57GOfX7XZq32PYs9KoKp0GjAsBM7VkDloWu7N80jJPE6h5vw3y
     factor: 1.00
     portrait: 0
-    mInfo: 41pMpu3YTGQeNF5
-message: "錦鯉全國若鯉品評會  成魚部総合優勝  第63部 昭和三色  魚主;外山 隆寬 日本  業者;伊佐養魚場  代理;成田養魚園    Nishikigoi All Japan Young Koi Show  Adult Champion  Sanke 63 Bu  Owner; Mr. Sotoyama Takahiro  Bred by; Isa Koi Farm  Handling by; Narita Koi Farm"
+    mInfo: dzkNpdGSigoRT7x
+  - id: LwYLniv
+    name: 9NqrxPDPGwsj12LZomXPCrmWMvk
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/LwYLniv.jpg
+    prevLoc: AGQWvJk3X8HROrrx0nN9TjMPwxDjMWskMJ1G91Pzu1E0ROX78WurAYVgrBrMiLXOkXz34BuDZk6YznqETy3OgkqRRoT82oB5rjpGS6Q8KEPqQNSKEX8JxBZRhWNk0LWMG0U3NO2n8AnvFZ2rGj7Z0pcAj45OMr3xs1xB01jEOPINPP6kv97wFvYKDBBr71UPryVJwO9nfB7vX1zRZ9SrEJR5w22BH8P0prOgpBFBgWY56Oo2u82yy8WLY3U5O35l3ZAOU7z
+    parentId: ODWY1zPzLnckGZwyK0A1tGym6VR
+    postId: xxYnLz57GOfX7XZq32PYs9KoKp0GjAsBM7VkDloWu7N80jJPE6h5vw3y
+    factor: 1.33
+    portrait: 0
+    mInfo: Zq2OnC94gVbna0d
+message: "錦鯉全國若鯉品評會  大會総合優勝  第63部 大正三色  魚主;陳昌 中國  業者;阪井養魚場  代理;成田養魚園    Nishikigoi All Japan Young Koi Show  The Grand Champion  Sanke 63 Bu  Owner; Mr. Chen, Chang - China  Bred by; Sakai Fish Farm  Handling by; Narita Koi Farm"
 ---
 
 錦鯉全國若鯉品評會  
-成魚部総合優勝  
-第63部 昭和三色  
-魚主：外山 隆寬 日本  
-業者：伊佐養魚場  
+大會総合優勝  
+第63部 大正三色  
+魚主：陳昌 中國  
+業者：阪井養魚場  
 代理：成田養魚園  
   
 Nishikigoi All Japan Young Koi Show  
-Adult Champion  
+The Grand Champion  
 Sanke 63 Bu  
-Owner: Mr. Sotoyama Takahiro  
-Bred by: Isa Koi Farm  
+Owner: Mr. Chen, Chang - China  
+Bred by: Sakai Fish Farm  
 Handling by: Narita Koi Farm
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/NPhpEWB.jpg"><img src="https://i.imgur.com/NPhpEWB.jpg" height="300" width="225" /></a> 
+<a href="https://i.imgur.com/cRpdDOY.jpg"><img src="https://i.imgur.com/cRpdDOY.jpg" height="225" width="300" /></a> 
   
 
-<a href="https://i.imgur.com/XL8ZUwj.jpg"><img src="https://i.imgur.com/XL8ZUwj.jpg" height="225" width="300" /></a> 
+<a href="https://i.imgur.com/pMbHnJu.jpg"><img src="https://i.imgur.com/pMbHnJu.jpg" height="300" width="225" /></a> 
   
 
-<a href="https://i.imgur.com/76DeXQ5.jpg"><img src="https://i.imgur.com/76DeXQ5.jpg" height="225" width="300" /></a> 
+<a href="https://i.imgur.com/hREYTVp.jpg"><img src="https://i.imgur.com/hREYTVp.jpg" height="300" width="300" /></a> 
   
 
-<a href="https://i.imgur.com/DbSt4D7.jpg"><img src="https://i.imgur.com/DbSt4D7.jpg" height="300" width="300" /></a> 
+<a href="https://i.imgur.com/LwYLniv.jpg"><img src="https://i.imgur.com/LwYLniv.jpg" height="225" width="300" /></a> 
  
