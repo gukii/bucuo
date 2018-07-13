@@ -1,0 +1,44 @@
+---
+layout: post
+title: "猜猜看我烤了什麼？" 
+date: 2017-03-30T09:26:55+0000 
+categories: [] 
+media:
+  - id: M8SIDTr
+    name: kLGRJ1Zn0PivNq72nArptoqjpEQ
+    description: "猜猜看我烤了什麼？。。。。。。。。。。。登登⋯⋯公佈答案，奶油口味的乖乖無誤！昨天吃半包，忘了封好口，今天要吃的時候就潤掉了⋯⋯傷心沮喪之餘，想說烤一下把水氣烤乾應該會一樣吧！結果⋯⋯有點焦焦的表面竟然有起司的FU.... 好吃ㄟ！家裏有烤箱的可以試試喔～～～"   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/M8SIDTr.jpg
+    prevLoc: jmv5zG4pgAhOmllzE3njhmnqgl0mnvhwnxVKAVNouLjxn1ZOVDiqWxnpqAqkuLPGqPrzxDu9A6zROyL7tWNQYkoVBNf104XADjV2Cgqk1M3YVWIMnN16EDyrTvDzj4V637U953BpvwmvtwxnVkVP5jIq6yRl3J9EsOBy8OrDjPIQPPR149pLS0oPD55ZkkFj54mg2345HwMmvrG2pLh9PLBxD6kxSL56BnEQ7QuQ3Rn6L6Y8FMDrRXZB49sqyRqjRGq0TPJ
+    parentId: kLGRJ1Zn0PivNq72nArptoqjpEQ
+    postId: vvWlLx59gKClYlv03DrQcqGKGOg1pwT0D6D3ZW5ZTorp3WEGoKT5vrjz
+    factor: 1.33
+    portrait: 0
+    mInfo: 1Ikg9YAqEs9w1R1
+message: "猜猜看我烤了什麼？  。  。  。  。  。  。  。  。  。  。  。  登登⋯⋯  公佈答案，奶油口味的乖乖無誤！    昨天吃半包，忘了封好口，今天要吃的時候就潤掉了⋯⋯傷心沮喪之餘，想說烤一下把水氣烤乾應該會一樣吧！  結果⋯⋯有點焦焦的表面竟然有起司的FU.... 好吃ㄟ！家裏有烤箱的可以試試喔～～～"
+---
+
+猜猜看我烤了什麼？  
+。  
+。  
+。  
+。  
+。  
+。  
+。  
+。  
+。  
+。  
+。  
+登登⋯⋯  
+公佈答案，奶油口味的乖乖無誤！  
+  
+昨天吃半包，忘了封好口，今天要吃的時候就潤掉了⋯⋯傷心沮喪之餘，想說烤一下把水氣烤乾應該會一樣吧！  
+結果⋯⋯有點焦焦的表面竟然有起司的FU.... 好吃ㄟ！家裏有烤箱的可以試試喔～～～
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/M8SIDTr.jpg"><img src="https://i.imgur.com/M8SIDTr.jpg" height="225" width="300" /></a> 
+ 
