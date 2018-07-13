@@ -1,0 +1,67 @@
+---
+layout: post
+title: "中國錦鯉愛好家 -" 
+date: 2017-02-25T12:29:58+0000 
+categories: ["錦鯉展會","Hobby","愛好家","Koi ","錦鯉"] 
+media:
+  - id: hmZgioO
+    name: BmDBKOO8qETNlB8o9NggFRE80qM
+    description: ""   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/hmZgioO.jpg
+    prevLoc: WywpYgN3KWS4qzz13P5jH7plr437pGSVAjrxkrn8HN2V91DAg3tlLKJrlMK0hq0kz8gPjjSyzgYk8mmGFwKw60nZKoSRzVZAozYVUko3X8x3pJupvlB6DB7LTQpmvy0ZJlhoQNW6w8QDSvBwq5Qp9wf6QKN9x5j9SkLGwRzQQ1SEpDQZ0PwqCgBK4mMDm9tMpr51mX8os5Do9280x3TxBZAqplYDCQP3myAGVoCE1BDQk6N4h49D30Dx4KHq7xYnoG1lt6lXzK
+    parentId: pmNYOBBR1oUZ5pKRzDr2hoE1k5k
+    postId: PE07WKl51Xu6j6QAk7JphxOnO3RD4mfjoKv7wKpGC8oVV428kYsl30m6
+    factor: 1.78
+    portrait: 0
+    mInfo: NaueF8x96cKK8Ku
+  - id: lmWnRA9
+    name: nkL5M77Y1JtV6OQ2WPNqIyR68M2
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/lmWnRA9.jpg
+    prevLoc: vBYRPX4GxmIl8OOJ127Wf45VWGm45xsry9RjlRVnS3EropJAjMuXLjD6XnXvIzBZoBKJRNcXkDLr8z7Nh7Qx4NrG5rTXPz6n4j0nfQGrx9Dyp3UqWBOnqPqmu0APgo8YzrUADnzPr7xlh5LXjR2GYATYKBQxBlvxuzvV8zqw9YT0VVWEM4xpuAL2NDD7JzczxEDNEpLOt9BnAp5B8JsNLP1Ag63ofPqYr6EJZAf0jW1QnAJYc0GGBEZ4vYU8V39p947ZfmK
+    parentId: pmNYOBBR1oUZ5pKRzDr2hoE1k5k
+    postId: PE07WKl51Xu6j6QAk7JphxOnO3RD4mfjoKv7wKpGC8oVV428kYsl30m6
+    factor: 1.33
+    portrait: 0
+    mInfo: qshE8rAKOG5Ov5t
+  - id: 1MuB0Cj
+    name: 075RlEE2KoUzjYZ9JzJJfKg1r89
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/1MuB0Cj.jpg
+    prevLoc: pvRBJO5yo9uwoQQgkvnzTO26Vn4O2MsGlw0x20O9c1ZXoVD6pzuK7Ej8K0KDczkpvkDgGAcKRy8BZEO1ikwvlgRDrotD4qK46Ev8c4LZyD637ZuXyKvzrBO6IEZ6jQkwJ7HxXQAxwyvoikYmBjQLywFoZDD0j55WFmkrEmOp4zI7NNO50Q4BH9gEZllKV0UYEZvknEk6CBZkEy0OG7uA7z0rGqDzI1mV9LBZXnSl7mY9vr7ZtnJLB1DzRkt9BDz1XxG8I90
+    parentId: pmNYOBBR1oUZ5pKRzDr2hoE1k5k
+    postId: PE07WKl51Xu6j6QAk7JphxOnO3RD4mfjoKv7wKpGC8oVV428kYsl30m6
+    factor: 1.33
+    portrait: 0
+    mInfo: jGMSbKSGcW5M0jc
+message: "中國錦鯉愛好家 - 潘志成 先生  在中國錦鯉愛好家中享有盛名，他所收藏的錦鯉在歷屆東京大賽屢獲大獎，對錦鯉的愛好與熱情幾十年來有增無減。    潘先生為人溫文儒雅、待人謙和熱情，喜愛錦鯉、松柏、鸚鵡、中國古董文物。在推廣及支持錦鯉文化及錦鯉展會上不遺餘力。    「長龍農莊」是他私人的場所，平時作為自己收藏錦鯉、松柏盆栽、古董文物的地方，也有自己的接待會館、餐廳，在接待朋友的同時也促進了更多錦鯉愛好家的誕生_     China koi hobby Mr. Pan, Zhi Chen."
+---
+
+中國錦鯉愛好家 - 潘志成 先生  
+在中國錦鯉愛好家中享有盛名，他所收藏的錦鯉在歷屆東京大賽屢獲大獎，對錦鯉的愛好與熱情幾十年來有增無減。  
+  
+潘先生為人溫文儒雅、待人謙和熱情，喜愛錦鯉、松柏、鸚鵡、中國古董文物。在推廣及支持錦鯉文化及錦鯉展會上不遺餘力。  
+  
+「長龍農莊」是他私人的場所，平時作為自己收藏錦鯉、松柏盆栽、古董文物的地方，也有自己的接待會館、餐廳，在接待朋友的同時也促進了更多錦鯉愛好家的誕生^_^   
+  
+China koi hobby Mr. Pan, Zhi Chen.
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/hmZgioO.jpg"><img src="https://i.imgur.com/hmZgioO.jpg" height="168" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/lmWnRA9.jpg"><img src="https://i.imgur.com/lmWnRA9.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/1MuB0Cj.jpg"><img src="https://i.imgur.com/1MuB0Cj.jpg" height="225" width="300" /></a> 
+ 
