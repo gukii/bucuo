@@ -1,0 +1,67 @@
+---
+layout: post
+title: "阪井大當歲拍賣會 " 
+date: 2017-04-10T11:14:18+0000 
+categories: ["Auction","Sakai"] 
+media:
+  - id: 1rzgSIe
+    name: qnOxPzEGx7cv8qg4PLlnHxYrDAL
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/1rzgSIe.jpg
+    prevLoc: 3njEZoDLrYs4K77j3GpmHMv6jG3MvkTjMX6PZ6YWhnoOAgWGYBSXEKYxXjXRIkXVOmMq2rSMXAk8RzG4t3ZKnmVnGnC9Z1XRL6KJuwDrOG1MZntx212MRgMyU7QglEn2Lls0JB7or3G0cBz8WY64RZckmPvLxXNqIBrVpB748vI166o02pQWH0q8XnnVJMhWoAY0J2oRh2BwOpGVYoFLYgwrvMgZiPMn15QkjYURVNlP7mZlTEp7VQvGpxhnGXY0DM1qUjX
+    parentId: 70o3vPxj31hYA8yzpKR3InvJjOW
+    postId: wwXV7y5RjMCNqNoZWDgBFkMnMw4J6RCJ0ZOvvRzrHk221mO35KHlMkQY
+    factor: 1.33
+    portrait: 1
+    mInfo: aAOPAZzedX5nVk7
+  - id: hmF6vtW
+    name: vvW2XGMN2lsZ7Y2xRk1mUO249M5
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/hmF6vtW.jpg
+    prevLoc: knwBAJ4qj6swBYYDlrOnTW8xyMmW8LCPJ6V5nVWBcxkBy95OY4fPEj4APWP8cgNG3r1Bkvi4EMyYKW9xc1DKZ4x3WmuwjrA4mM98TvDOzP5X8EFgl6DrlN0lC1xq8Q9DovUO3ymJz8DzTz3RVwmnqZtNOERnz8B9uxQqgx9wjosmVV3G9xy5S32JowwxnkCVvv1gPjPxC9jk2YZJ1Ycxk0rLKZnBHlJEQg5nP5h4YBW0ElE9u300j1Lz8GtNZpkJy35oU5K
+    parentId: 70o3vPxj31hYA8yzpKR3InvJjOW
+    postId: wwXV7y5RjMCNqNoZWDgBFkMnMw4J6RCJ0ZOvvRzrHk221mO35KHlMkQY
+    factor: 1.33
+    portrait: 1
+    mInfo: U5TA1wvKg1oR9jY
+  - id: DYj2l0h
+    name: lgJYKryzYxul2VARXxVJhnOz1vM
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/DYj2l0h.jpg
+    prevLoc: OnELN1B3XJsOx55DY0pAhz5BYQ4z57s4VjyzBy9xumZ9q5NzQYirP8BnrXrmiD6KlBLZG0c6n7K5AJEOTP2y4MXx9gHm0XMm5qvGI7YMjDXBnNuoqmK0RNYqIDOq6DjDyKFkGMXAM41nfr72J5nnW2IoDVQAwoDBu2EWq2D5R8slGGJL6wQyIo2JAEEG4kSlKG1xYymvi0VELJn3qzHKAmj231PlHo61BGDxABFJ5x3XzPOjSBz9y4r4xwt3nkJnzzKqUqr
+    parentId: 70o3vPxj31hYA8yzpKR3InvJjOW
+    postId: wwXV7y5RjMCNqNoZWDgBFkMnMw4J6RCJ0ZOvvRzrHk221mO35KHlMkQY
+    factor: 1.33
+    portrait: 1
+    mInfo: XzcqC46p484eCfr
+message: "阪井大當歲拍賣會  日期;2017年4月18日  官網;http;sff-koi.comcarp  照片陸續上傳中，有興趣的魚友請於416日前私訊我喔_    Sakai Jumbo Tosai Auction  Date; April 18th, 2017  http;sff-koi.comcarp"
+---
+
+阪井大當歲拍賣會  
+日期：2017年4月18日  
+官網：http://sff-koi.com/carp/  
+照片陸續上傳中，有興趣的魚友請於4/16日前私訊我喔^_^  
+  
+Sakai Jumbo Tosai Auction  
+Date: April 18th, 2017  
+http://sff-koi.com/carp/
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/1rzgSIe.jpg"><img src="https://i.imgur.com/1rzgSIe.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/hmF6vtW.jpg"><img src="https://i.imgur.com/hmF6vtW.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/DYj2l0h.jpg"><img src="https://i.imgur.com/DYj2l0h.jpg" height="300" width="225" /></a> 
+ 
