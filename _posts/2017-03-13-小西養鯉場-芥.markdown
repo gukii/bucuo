@@ -1,0 +1,65 @@
+---
+layout: post
+title: "小西養鯉場   芥" 
+date: 2017-03-13T11:22:38+0000 
+categories: ["Konishi","小西","Koi "] 
+media:
+  - id: uqFo8vF
+    name: LzQ9XwP32wT3r2K1oXYXCVqgVwk
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/uqFo8vF.jpg
+    prevLoc: LkY0KXy31AC39NN0qmRPuvgJAQRvgpT0xB9MD9oVtlQM4YrEROijwl4kjojViJy7wG1x3MF05RDg9kNvS31LM3RKgBhw173k8qG1HG2xANnZ7YTlGp5627GzSMyZ2z6rGkh3VnK3xmGNUqnrZMwk6PSx7qqZXQr9h7BqX725JNiYZZ5GmA7niXBAWNNvp5FZnRDzX5y3u4R6gkVx9XtjVANrXJERHJZj9K03GrtDrB521jDWi4ZGG4zlnECR92EVv7P8cpQ
+    parentId: Vj4O8KN3kKhZ6VxKvzo0Up59nxK
+    postId: DoG1WZrJRpHxExXrkRD4uoGQGgLMV8IQy3XGL91ph4Om63j3A4sjgDAP
+    factor: 1.33
+    portrait: 1
+    mInfo: fIhVIC4WYzx8A5J
+  - id: F47D84k
+    name: QGYW3BO92BiRpvgnQJ99SDPADz7
+    description: ""   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/F47D84k.jpg
+    prevLoc: EMZ1zNo3XKTqx11wyg3WT6Q2Kvl6QWh1DPVyGVq7s2rKlRGxP5HZpRjNZvRYt7vEJBQZDDC61Km8BllZTVzVyPBLwYhvGyyGWlVmtLNj12lO8qFqVQQY7O19CwP2vA8GozCVMqRqqNB4ckWyY0vYkPtKqx9W9y2GUYRw62l44puo4BQOm6r1Um5l78DK8kTXo85WzNpMTJy2ZWzjODTp1VE1v6RNCQVMxp61qRT9Zr5mOAQ4CqJ89oj07ZfNw73gMLDAsnXQrl
+    parentId: Vj4O8KN3kKhZ6VxKvzo0Up59nxK
+    postId: DoG1WZrJRpHxExXrkRD4uoGQGgLMV8IQy3XGL91ph4Om63j3A4sjgDAP
+    factor: 1.78
+    portrait: 0
+    mInfo: 7pgjIABEYaqssZg
+  - id: kgGzsSg
+    name: QGYW3BO92BiRpvgNroO5tDm2Mw3
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/kgGzsSg.jpg
+    prevLoc: mp28DL4v07TMl11VXAj5s1Dkwj81D6C42orB8rNZu8lwXmgOzWHLDxVqLJLEcOm27Dw54Mhx5wlOM1z9cJ3Qql1yVOIrvvv7LN2mH76V5N1YpwhjPyvOKwJOto5vRr2O7zhRz8Xklk3gfqB5y7J7n7tLRoYzEzY0u9NDm9Yj7lCOkk34QlLptZw0q33DkYcZKM3zlgo5Cqp8E9vm2LiG3oolA6MlsjwlnGlGKkFwG2nygJg4fg2yKqwXMycqrZpx9E21iyZ
+    parentId: Vj4O8KN3kKhZ6VxKvzo0Up59nxK
+    postId: DoG1WZrJRpHxExXrkRD4uoGQGgLMV8IQy3XGL91ph4Om63j3A4sjgDAP
+    factor: 1.33
+    portrait: 1
+    mInfo: PWNmwx0pszYMPUu
+message: "小西養鯉場   芥子鯉 98公分，6歲！    Konishi Koi Farm  Super Konishi Karashi!!  6 years 98cm"
+---
+
+小西養鯉場   
+芥子鯉 98公分，6歲！  
+  
+Konishi Koi Farm  
+Super Konishi Karashi!!  
+6 years 98cm
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/uqFo8vF.jpg"><img src="https://i.imgur.com/uqFo8vF.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/F47D84k.jpg"><img src="https://i.imgur.com/F47D84k.jpg" height="168" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/kgGzsSg.jpg"><img src="https://i.imgur.com/kgGzsSg.jpg" height="300" width="225" /></a> 
+ 
