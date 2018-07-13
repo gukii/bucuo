@@ -1,0 +1,28 @@
+---
+layout: post
+title: "這個側面很帥啊⋯⋯" 
+date: 2018-02-19T12:16:11+0000 
+categories: [] 
+media:
+  - id: Fg2uaNj
+    name: RJZox6pvzWUO1wvj2x2oH3j1RK4
+    description: "這個側面很帥啊⋯⋯≧∇≦"   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/Fg2uaNj.jpg
+    prevLoc: YAQr1kP3YVc9lkkKYNL3ToZWQmNoZ5IPrwoZJoK0cvnzol3MRmHgP3OZgrgLTPGA5G1j0BIWMK87JpOgt898kLJOkBcoXGy0mnZ2HLA2jYzOJ3iQ1rojGXprC28Lg40QjmINnN1gV9gQT9EPLj4APGSYrkx1qOr8u4pXY4VLv9s7RR1qvw4NH74PDrrw0VsX3R5KlqQNi7zQm2MOQ4FKqAwK2LmLHQ0OMxBJygCgxq4rOJzphnr88nVLQpf4k8J8n79Bu4A
+    parentId: RJZox6pvzWUO1wvj2x2oH3j1RK4
+    postId: xxYnLz57GOfX7XZq32PYs9KoKp0GjAsB7k23Gln0I7N4GxpxrnT5jYQp
+    factor: 1.33
+    portrait: 0
+    mInfo: eITMcXQsoDspIwi
+message: "這個側面很帥啊⋯⋯≧∇≦"
+---
+
+這個側面很帥啊⋯⋯(≧∇≦)
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/Fg2uaNj.jpg"><img src="https://i.imgur.com/Fg2uaNj.jpg" height="225" width="300" /></a> 
+ 
