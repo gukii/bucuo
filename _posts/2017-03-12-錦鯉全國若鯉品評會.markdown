@@ -1,0 +1,54 @@
+---
+layout: post
+title: "錦鯉全國若鯉品評會" 
+date: 2017-03-12T02:44:15+0000 
+categories: ["IKI","華錦","Dainichi","大日","Koi ","錦鯉"] 
+media:
+  - id: kC6YJQI
+    name: AlBDJg1AoYu51Jo5EVZXUlwMA3G
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/kC6YJQI.jpg
+    prevLoc: LkY0KXy31AC39NN0qmRPuvgJAQRvgpT0xB9MD9oVtlQM4YrEROijwl4kjojViJy7wG1x3MF05RDg9kNvS31LMQAX94Swq6pJN71oHGnynW52ygSl00XEXXZkTM7AE8l69xHNoR0rxkQgF2Q0NJGwZlSxQvLW66BPC7BqX725JNiYZZ5GmA7niXBAWNNvp9IZnP8BqGP0U5qqJVm5JVirLjvXnVZKS8QEoL87PAsDrrx03mY5C0kQmVqZkltR92oOJGKwFpn
+    parentId: 075RlPLOprszr0WvpB3DSM065KK
+    postId: 70o1VyzW6NiR8RLjJOnDHzg9gnPmZACM2VA9nwwwsR5P11nYLBTo2NYO
+    factor: 1.33
+    portrait: 1
+    mInfo: O3MDaRg4z3QzoR4
+  - id: eL5wTSF
+    name: gEAJBN26K9CJY5WJq2YXFpvDr9w
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/eL5wTSF.jpg
+    prevLoc: YAQr1kP3YVc9lkkKYNL3ToZWQmNoZ5IPrwoZJoK0cvnzol3MRmHgP3OZgrgLTPGLRq07M4uWMK85mzVQf8DXV8LD5jFomyLLvmyOiLKvKARDvnc9JkjOLERNu2rv8BXRYoSNxm7PW7zKCk57MNyjqBsxwXGPK4oRu4pXY4VLv9s7RR1qvw4NH74PDrrwyohjpy1Yz97NUQNAWlLMBLCVOn1A22NEs9zVY7lnXmcJg4PrPXAMiYEXM2Jrwqt4k8GDlD1gF4Y
+    parentId: 075RlPLOprszr0WvpB3DSM065KK
+    postId: 70o1VyzW6NiR8RLjJOnDHzg9gnPmZACM2VA9nwwwsR5P11nYLBTo2NYO
+    factor: 1.33
+    portrait: 1
+    mInfo: vpVN28Gws0ufiaj
+message: "錦鯉全國若鯉品評會  第58部 丹頂類 優勝次席  魚主;袁建棟 中國  業者;大日養鯉場  代理;華錦顧問股份有限公司    Nishikigoi All Japan Young Koi Show  2nd Prize - Tancho 58 Bu  Owner; Mr. Yuan, Jian Dong - China  Bred by; Dainichi Koi Farm  Handling by; IKI TAIWAN"
+---
+
+錦鯉全國若鯉品評會  
+第58部 丹頂類 優勝次席  
+魚主：袁建棟 中國  
+業者：大日養鯉場  
+代理：華錦顧問股份有限公司  
+  
+Nishikigoi All Japan Young Koi Show  
+2nd Prize - Tancho 58 Bu  
+Owner: Mr. Yuan, Jian Dong - China  
+Bred by: Dainichi Koi Farm  
+Handling by: IKI TAIWAN
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/kC6YJQI.jpg"><img src="https://i.imgur.com/kC6YJQI.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/eL5wTSF.jpg"><img src="https://i.imgur.com/eL5wTSF.jpg" height="300" width="225" /></a> 
+ 
