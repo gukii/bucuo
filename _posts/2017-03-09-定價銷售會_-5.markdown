@@ -1,0 +1,62 @@
+---
+layout: post
+title: "定價銷售會_  5" 
+date: 2017-03-09T01:59:34+0000 
+categories: [] 
+media:
+  - id: dNw2cl7
+    name: roPkQn8QEYCO8GE0BZoxcMBPVLy
+    description: ""   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/dNw2cl7.jpg
+    prevLoc: Vx5oX8M32JTZy00VB5xlhPkoxwBPkYFR5qK4rK83c5xVBj6n8vI6Yjxq6pj5H2ZyDwzEjjS4QBYLrooRCW7WRVJoYzfG4069QVxJHqLWOrE5QphX9m2g3LXmSJq7oBylwMUVwl7vwOGzf5k3DvG5zVcR856RgOx1u0WNGnwXXyCvJOVPEQZwhD1wkMJoMyswm0O7qgLMcNjgwnLvq6HAKEXMJO77HzlJjYmVOgHZVZvn1gBDiB2LN3gK9lf5PwYDpxJWuqxglK
+    parentId: EpJRNm8NZPcjP6mW8Mj6c8Q6yYr
+    postId: olMVXnK6YpHwgwkp076OH8xGxlNkY2CDBmJO4YxkhjPWMnKEmwF2PwKX
+    factor: 1.78
+    portrait: 0
+    mInfo: OsaLYclgJq2bpBt
+  - id: ZrCa0d3
+    name: vvW2XrlXYjTZ76rpk5ZmCklqBzn
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/ZrCa0d3.jpg
+    prevLoc: 2mg2YnBKqGhm3KKLrRpkuJMEpwRJMkhK4pqx3qOncknMv4gQoKcKBPEGK9KQcpnzQnw381hvM1N25qzxHkKy3XR0V5C9XKK45lxAULMvGjvlAlIjkGEK0Rk1FpL0oG2xQ9tPm5n1R0Z7cwyPxEDKB1S73lkyWZ3KF54wp5nBLjUKkkpBPy9Vi3jZ5nnkgmfWrXAojmkxtpjZAJ0q7xt0DwvK06pYU5Jmkq2g3oIk3K74XpG2H1YYVOwPZMczmqr1KRRJhnJ
+    parentId: EpJRNm8NZPcjP6mW8Mj6c8Q6yYr
+    postId: olMVXnK6YpHwgwkp076OH8xGxlNkY2CDBmJO4YxkhjPWMnKEmwF2PwKX
+    factor: 1.33
+    portrait: 0
+    mInfo: kOZ8cpJW7tp40Fm
+  - id: dvyzb5Z
+    name: 9NqrxP1xp2FjkBAmnP85crqExQr
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/dvyzb5Z.jpg
+    prevLoc: Vx5oX8M32JTZy00VB5xlhPkoxwBPkYFR5qK4rK83c5xVBj6n8vI6Yjxq656Du2n0QnyEjKFy3RL4PM9wtWXzYWPXNqioEpJB5XloirXx8Jxv8NcvL85v2rW9IJlRrwzz7RFvnJQ6O8vGcBN4Lr1VQRfRyzJ5rjXVt0Vj4w33mqCvJGKr977RFEVAxkEA9rTgQLWxWREVtNqJzRnNxwcZQqxDWmvltzlLEMP33gCZkAwRG97jSr1XNV4XRKIKOYjpq5RJ
+    parentId: EpJRNm8NZPcjP6mW8Mj6c8Q6yYr
+    postId: olMVXnK6YpHwgwkp076OH8xGxlNkY2CDBmJO4YxkhjPWMnKEmwF2PwKX
+    factor: 1.33
+    portrait: 0
+    mInfo: G4qzfAPEyp2i6qj
+message: "定價銷售會_  500多隻大當歲，每次10隻放小桶裡，讓代理們自由挑選。選得越多打折越多喔！  OGATA Opensale, jumbo Tosai!"
+---
+
+定價銷售會^_^  
+500多隻大當歲，每次10隻放小桶裡，讓代理們自由挑選。選得越多打折越多喔！  
+OGATA Opensale, jumbo Tosai!
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/dNw2cl7.jpg"><img src="https://i.imgur.com/dNw2cl7.jpg" height="168" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/ZrCa0d3.jpg"><img src="https://i.imgur.com/ZrCa0d3.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/dvyzb5Z.jpg"><img src="https://i.imgur.com/dvyzb5Z.jpg" height="225" width="300" /></a> 
+ 
