@@ -1,0 +1,154 @@
+---
+layout: post
+title: "日幣1000萬，買" 
+date: 2017-04-20T14:57:13+0000 
+categories: ["愛好家","錦鯉"] 
+media:
+  - id: Gx0oiXm
+    name: roPkQJ8xVXcmYQMBrv7zFM3yvPY
+    description: "媽媽是First Love 初戀，往上朔源的外婆及曾祖外婆們，都是大美人～～源頭是Rose 玫瑰。"   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/Gx0oiXm.jpg
+    prevLoc: YAQr1kP3YVc9lkkKYNL3ToZWQmNoZ5IPrwoZJoK0cvnzol3MRmHgP3OZgrgLTPGLRq07M4uWMK85mzVQf8DX6WJMRJuokym3ANk2CLDoLDopm8S9lL55Mo2OT2X3YWrwmGsz7MmQZzMgukQRDJR76vtYg0r09KXEc4pXY4VLv9s7RR1qvw4NH74PDrrw00tjLo52z282cnm7m8oz7yuKRxx1M5gnS9OE62LPjYfWrjpOrxG1tnO6YY1LOAH4k8Qkv224t1O
+    parentId: 075Rl1YkDOiy5nGEpVNyHM07Kw6
+    postId: W05LoKvjnki4M40wWANJcv4A4QzgDOf3DBnoKwp4I9y71pVkJ6S6Yx9V
+    factor: 1.78
+    portrait: 0
+    mInfo: JhJRiCuEoMf8ofJ
+  - id: EieZjfs
+    name: XlgDj1Lzpnu9RPJ54KVRHl5wN72
+    description: "爸爸是Neo Universe 的孩子，也是2017年東京總冠軍S傳說的同胞兄弟，所以雪姬要叫S傳說姑姑的。"   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/EieZjfs.jpg
+    prevLoc: yG67V1gLApH4o66GD0rNHXAqnJoXA8TGj86wm6rJc67lw9rk5MHQLPXBQNQ3uz1lOMR5wpF5QGPXjO2qSYowNqNrLECEoqNpWl2rt3RJ3RJ3Q5s87pyMGlOBSX75G9NOWlc7g7moy7Wkfq6Qjk18qBT7JQ4P86xJTW9O8W01KgfvAAwgJxrmip3jEKK5NlFWzm7BXmQWcrXERQPPWJcKOEPMZQODfLBJN3LN2GSmA73xvo0jcmx1o8QoYgsGy1wllmXNIEG
+    parentId: 075Rl1YkDOiy5nGEpVNyHM07Kw6
+    postId: W05LoKvjnki4M40wWANJcv4A4QzgDOf3DBnoKwp4I9y71pVkJ6S6Yx9V
+    factor: 1.78
+    portrait: 0
+    mInfo: oI6AUWe22Q0j1vq
+  - id: 32SOd6f
+    name: YmjEk27ZNJHXNYmVD7ZNckJWR6K
+    description: "2016年阪井出版的種魚配對紀錄手冊，First Love 初戀跟配對的公魚（Neo Universe 的小孩，這個組合產出的小魚白質地非常好，所以之前連續幾年都有這樣的配對生產。"   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/32SOd6f.jpg
+    prevLoc: 1lYEXmAJpVIZGnnrgkMph91EWgv91xugB2XkpXP0srwjYE0R3BHM46pAMNMRcE0LxR73BwcYwn2m0ABqf1JmXj4YE7f4mW8kWB2nFBwrlXJY33t5DnW65N2NF9gBPQ7r7Ys2kZJRv7pGipxNnQ9gkmUj044QwJ4zUrpBVrnoR6Ix44LGME3qFYoX0ggEvmuvk4moKEwgHgPEmBr1PrUX0ljN0kqoSkxNjKMO24ivzKgyGM83H4Xkz8vl2JfNW9QvWApDsm8
+    parentId: 075Rl1YkDOiy5nGEpVNyHM07Kw6
+    postId: W05LoKvjnki4M40wWANJcv4A4QzgDOf3DBnoKwp4I9y71pVkJ6S6Yx9V
+    factor: 1.33
+    portrait: 1
+    mInfo: FTxW8BK2MhhejpP
+  - id: 1OYVsDY
+    name: AlBDJw6rgLc5n0QXZgG3sl82y9J
+    description: "雪姬的姐姐，體型已經開始展開了，很流暢，質地維持的非常好，再過幾年會更豐滿_ 雪姬未來也是這樣的成長模式_"   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/1OYVsDY.jpg
+    prevLoc: rxEBLQ4AqgTmZwwyM18AuoN23WnoNAInV48m68MBCjxBWq81Mzt6PK706j65uvOLNyQqAlT769yJK4k8SDlQoXx5nYsLx097zmVGcyBAJ4XNm4TO6gVkz6Z4cV6A02jgJ1fPmjPRwDX7cLkZM4AV18UkX13XO2PoIOlwBORjZgIR11jOr67PHknOwMMoDDhmozy8WjZ9U6AxoPGn0PU6x00JvZrESzMKvv67rncqJk7zrROzsg283RKOV5FnrxBroQGOhrw
+    parentId: 075Rl1YkDOiy5nGEpVNyHM07Kw6
+    postId: W05LoKvjnki4M40wWANJcv4A4QzgDOf3DBnoKwp4I9y71pVkJ6S6Yx9V
+    factor: 1.33
+    portrait: 1
+    mInfo: g6a5cPZKp3AlMHr
+  - id: LnkAt5t
+    name: 6Nn8rgXqK2uWv6EA4gVBIPv5J1R
+    description: "這是媽媽跟阿姨們⋯⋯都是大美人～～"   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/LnkAt5t.jpg
+    prevLoc: 1lYEXmAJpVIZGnnrgkMph91EWgv91xugB2XkpXP0srwjYE0R3BHM46pAMNMRcE0LxR73BwcYwn2m0ABqf1JmXjjoqns8x2kM49kpsBLPBLPBo3H54PkkxG8lC9xKmjvJ8Gt2k0R623Z7HjVPR4XV46tqJlPRppREsrpBVrnoR6Ix44LGME3qFYoX0ggEyBSD8WEO5LxqUr4D8PKEJWcX0ygRQgVQhlKvjq1Ez8cnoz8pgl1muVY190598pfNW9jzPNVRtmv
+    parentId: 075Rl1YkDOiy5nGEpVNyHM07Kw6
+    postId: W05LoKvjnki4M40wWANJcv4A4QzgDOf3DBnoKwp4I9y71pVkJ6S6Yx9V
+    factor: 1.78
+    portrait: 0
+    mInfo: 5FnZig8d4Sgs1kd
+  - id: 1slYTdq
+    name: EpJRNA8MWGFq24y0o4NGU81YvDQ
+    description: "血統證明書，產自2016年的First Love 初戀。The parent koi is " First Love""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/1slYTdq.jpg
+    prevLoc: 0k2EWlzGoACyBJJnvMG2I63VpEG63mhr8kJ9PJM2S6Xyzw0n7pHzZBX7z4z5cmL4qLOZyPHqxL2lKr16SW17ok89jqfoApm4gGL7CENQENQGxvsrRgPwvlJVT4Wj1LMqwPC1nZXzlrgJhQrYxvq985IGmvGl7DG0FAZQoAODWpfKEE8Q9ND0iL143yyZ7GhYnPMqX7QWt7KGlr1BwXs8LYq5ENj5tmwMWLnQOJH6AnlB0pNLFmPk34JpokhgJPKKKLvDT1A
+    parentId: 075Rl1YkDOiy5nGEpVNyHM07Kw6
+    postId: W05LoKvjnki4M40wWANJcv4A4QzgDOf3DBnoKwp4I9y71pVkJ6S6Yx9V
+    factor: 1.33
+    portrait: 0
+    mInfo: 5wvUHOXorON6gxR
+  - id: gIN9F32
+    name: zz1p2RvJY9IrZWDJwDZoC50DLx1
+    description: "修長纖細的體型，但白質地已經很耀眼了，是冷豔的雪白，紅質地也是綿密，邊際很明快。我給她先取個小名是「雪姬」"   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/gIN9F32.jpg
+    prevLoc: NmEXMZA3K7h63VVYLE0NC60W9MK60ohZxjgD2gnPczw1rPn0KmiBrQyNBnB4CoRNpqgx5wC3ARx6K9qMflAOEDBy9rhWxj0MqzzyUkJDkJDwpYiPnY3JpMWyfyW36AgWJ6i8M670nE0LTv6EoAMmgrIDwGwEED4rCQZwXQVDvOioKK0NxRWOtOzM9KKYnEC2YgyOzKEMsqWJO8LDMnSGmBG4Xjnyhyx4nVPoNKH29JgzDMlRfn4Mkk3v4ZHZ6XJ8GmPZcwA
+    parentId: 075Rl1YkDOiy5nGEpVNyHM07Kw6
+    postId: W05LoKvjnki4M40wWANJcv4A4QzgDOf3DBnoKwp4I9y71pVkJ6S6Yx9V
+    factor: 1.33
+    portrait: 1
+    mInfo: I6wmkogBaBKfKb9
+message: "日幣1000萬，買的是血統啊～～  很多人問我，為什麼有人這麼瘋狂，花這麼高的價錢買一隻瘦瘦長長的大當歲，雖然質地跟模樣很漂亮，但體型太瘦了吧⋯⋯錦鯉鑑賞不是體型最重要嗎？_    是的！體型最重要，有多重要？當愛好家開始追求大型化錦鯉的時候，會期待80公分以上的愛鯉是豐滿健壯的，在視覺上也會很震撼，所以在選擇入手的錦鯉不管年齡如何，都希望看起來是骨架大，頭型寬，未來體型好壯壯的。    但是，小時候胖不是胖⋯⋯⋯    做為專業代理，每次的拍賣會我必須要先研究所有拍賣魚的資料，其中最重要的是血統。畢竟現在能看到的是質地跟模樣，但未來到底會如何變化，必須拿出族譜研究一下祖宗18代⋯⋯  我也會先到漁場看即將拍賣的魚隻，看看實際在池塘裡與其他魚隻的比較（拍賣時是一隻隻拍的），看泳姿是否優美、眼神是否迷人、鰭條是否線條流暢、頭型、365度無死角⋯⋯哈哈哈    然後再將客戶初選的名單，一一分析實際狀況，跟客戶討論競拍的優先順序，預估落點單價等等。這樣才能在隔天的拍賣會場下手_    雪姬在我還沒有看到她本人時，我給她95分，700-800萬的預估落點，這個價錢是參考歷屆同品質的大當歲的拍賣單價，還有目前國際市場上各代理可能給的預估價。  然後，看到本尊後，非常冷豔的雪白肌膚，加上365度完美的模樣，喔喔⋯⋯我看到很多代理的眼睛跟我一樣是閃閃發亮的⋯⋯看來大家都會建議委託方出價到800萬的⋯⋯⋯    為什麼呢？因為到了秋天池揚，2歲的雪姬一定更迷人，那時候800萬不見得買得到了⋯⋯    所以呢？當競爭白熱化即將到800萬時，只剩下兩個競標者仍然不放棄，我的客戶直接出價1000萬了。。。。    初戀無價，真愛無敵哦⋯⋯≧∇≦    360+5 度？    一般看魚都是從上往下看，商品照也是如此，但我還需要幫客戶看;  1. 眼睛，錦鯉的眼睛也有不同風格的  2. 嘴形，大小適中沒有缺損  3. 腮蓋，弧度平整流暢  4. 肚子，不能有小腹≧∇≦  5. 頭蓋到背的弧度要適度弓形    這就是神秘的5度⋯⋯呵呵⋯⋯"
+---
+
+日幣1000萬，買的是血統啊～～  
+很多人問我，為什麼有人這麼瘋狂，花這麼高的價錢買一隻瘦瘦長長的大當歲，雖然質地跟模樣很漂亮，但體型太瘦了吧⋯⋯錦鯉鑑賞不是體型最重要嗎？^_^  
+  
+是的！體型最重要，有多重要？當愛好家開始追求大型化錦鯉的時候，會期待80公分以上的愛鯉是豐滿健壯的，在視覺上也會很震撼，所以在選擇入手的錦鯉不管年齡如何，都希望看起來是骨架大，頭型寬，未來體型好壯壯的。  
+  
+但是，小時候胖不是胖⋯⋯⋯  
+  
+做為專業代理，每次的拍賣會我必須要先研究所有拍賣魚的資料，其中最重要的是血統。畢竟現在能看到的是質地跟模樣，但未來到底會如何變化，必須拿出族譜研究一下祖宗18代⋯⋯  
+我也會先到漁場看即將拍賣的魚隻，看看實際在池塘裡與其他魚隻的比較（拍賣時是一隻隻拍的），看泳姿是否優美、眼神是否迷人、鰭條是否線條流暢、頭型、365度無死角⋯⋯哈哈哈  
+  
+然後再將客戶初選的名單，一一分析實際狀況，跟客戶討論競拍的優先順序，預估落點單價等等。這樣才能在隔天的拍賣會場下手^_^  
+  
+雪姬在我還沒有看到她本人時，我給她95分，700-800萬的預估落點，這個價錢是參考歷屆同品質的大當歲的拍賣單價，還有目前國際市場上各代理可能給的預估價。  
+然後，看到本尊後，非常冷豔的雪白肌膚，加上365度完美的模樣，喔喔⋯⋯我看到很多代理的眼睛跟我一樣是閃閃發亮的⋯⋯看來大家都會建議委託方出價到800萬的⋯⋯⋯  
+  
+為什麼呢？因為到了秋天池揚，2歲的雪姬一定更迷人，那時候800萬不見得買得到了⋯⋯  
+  
+所以呢？當競爭白熱化即將到800萬時，只剩下兩個競標者仍然不放棄，我的客戶直接出價1000萬了。。。。  
+  
+初戀無價，真愛無敵哦⋯⋯(≧∇≦)  
+  
+360+5 度？  
+  
+一般看魚都是從上往下看，商品照也是如此，但我還需要幫客戶看：  
+1.) 眼睛，錦鯉的眼睛也有不同風格的  
+2.) 嘴形，大小適中沒有缺損  
+3.) 腮蓋，弧度平整流暢  
+4.) 肚子，不能有小腹(≧∇≦)  
+5.) 頭蓋到背的弧度要適度弓形  
+  
+這就是神秘的5度⋯⋯呵呵⋯⋯
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/Gx0oiXm.jpg"><img src="https://i.imgur.com/Gx0oiXm.jpg" height="168" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/EieZjfs.jpg"><img src="https://i.imgur.com/EieZjfs.jpg" height="168" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/32SOd6f.jpg"><img src="https://i.imgur.com/32SOd6f.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/1OYVsDY.jpg"><img src="https://i.imgur.com/1OYVsDY.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/LnkAt5t.jpg"><img src="https://i.imgur.com/LnkAt5t.jpg" height="168" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/1slYTdq.jpg"><img src="https://i.imgur.com/1slYTdq.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/gIN9F32.jpg"><img src="https://i.imgur.com/gIN9F32.jpg" height="300" width="225" /></a> 
+ 
