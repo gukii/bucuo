@@ -1,0 +1,29 @@
+---
+layout: post
+title: "我是負責拍照那個≧" 
+date: 2017-04-02T07:47:30+0000 
+categories: ["Koi "] 
+media:
+  - id: 4yHELD1
+    name: XlgDjWQj2kC98xxRBA8vhNY6rgN
+    description: "我是負責拍照那個≧∇≦Sunny day!! Sing Chang Koi Farm"   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/4yHELD1.jpg
+    prevLoc: BJ8OwK03X1TnKPPxqM7VhZ1gPwxZ15hGLp3Ny3E1cRAvlN63MoiOA6J7ODOjIzM17YR5BOFYn9wNALBGfZXYOO3mr1s829oZmkrBCA3jkxPqzWhMWJ6vvvZ3f6P25j1x0wtL9lM4pVB4TAQAXo6Rjnuyz0q6WxGwhjZVWjAOBNuDxxO06kwEhzYqNvv0oBfW8EY4GQ57f9WDkED1p7h3oz9kj8WVc580zKJN52tq4z8RzKAzuL74xD0kq2f3vV230kAZHmA
+    parentId: XlgDjWQj2kC98xxRBA8vhNY6rgN
+    postId: ODWM6Xk57ViO7O3ry6EWH8QOQVJL0WCPRp6BvRxmSqlN6BwN4zSAwg3o
+    factor: 1.33
+    portrait: 1
+    mInfo: DE85R62ydUCrgrT
+message: "我是負責拍照那個≧∇≦  Sunny day!! Sing Chang Koi Farm"
+---
+
+我是負責拍照那個(≧∇≦)  
+Sunny day!! Sing Chang Koi Farm
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/4yHELD1.jpg"><img src="https://i.imgur.com/4yHELD1.jpg" height="300" width="225" /></a> 
+ 
