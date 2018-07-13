@@ -1,0 +1,73 @@
+---
+layout: post
+title: "到手！在下一城！ " 
+date: 2017-04-18T07:18:54+0000 
+categories: ["Auction","Sakai"] 
+media:
+  - id: qZjcNKp
+    name: xxYkZPvvM0hjOmZ29YklfkvR5O2
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/qZjcNKp.jpg
+    prevLoc: zJBQW2jM4qTrq88XDxMRTzwrJ93zwPsZKMAz7ANlcVLvw31oxkHWo06gW9WZFR7n97z02wI68m74M59jhp4596DXMocwxQ39Y3EDU3vDDMqMjrtJE3oYJGxEurpn6qwEL2tZJ3okLn6YIE4y2MlMXyu3pPPQEgYEcXGRkXo0Eyu3RRmE1MP9UlVwLzzZ05UAoERQjLZVhpnO7g3VVlUlVEODqMj9HqG38Yo9yRSQn1qEqARGfPRZGG2xRDHPoK88E194fEQ
+    parentId: 70o3vjLLZxsYqEJyKPQJIpJNEkm
+    postId: NBVLWKj5xQC6O6o5G2w4hLMOM2l1nyfBQ1nOjn74iGmqpjmJ4muL42YN
+    factor: 1.33
+    portrait: 0
+    mInfo: uMsH5l7gZKViBDl
+  - id: m1EDmic
+    name: kLGRJyZZvxIvNYg2B4vkToYpJZJ
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/m1EDmic.jpg
+    prevLoc: 3njEZoDLrYs4K77j3GpmHMv6jG3MvkTjMX6PZ6YWhnoOAgWGYBSXEKYxXjXRIkX3KXl7M1fMXAklQPLoC3ZKnOL1QxfLMgnpJmxBcwo22GjG9NixVy29KOl2HEyD7mWLqmi0lAqLjr9KIRWZDDp2m6ukmzZQGNVQsBrVpB748vI166o02pQWH0q8XnnVJLi3E8X9ygM2H4OEYxkm4xS9rBqNQNDYUPMX1OE3l3URwqAXv8MEcr4nkk2x4minGXLpED6Yio6
+    parentId: 70o3vjLLZxsYqEJyKPQJIpJNEkm
+    postId: NBVLWKj5xQC6O6o5G2w4hLMOM2l1nyfBQ1nOjn74iGmqpjmJ4muL42YN
+    factor: 1.33
+    portrait: 0
+    mInfo: S0QigH9tjVelduH
+  - id: 9R5aEhO
+    name: BmDBKxLLZMiNoPvWj4XMuR6W2l1
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/9R5aEhO.jpg
+    prevLoc: mp28DL4v07TMl11VXAj5s1Dkwj81D6C42orB8rNZu8lwXmgOzWHLDxVqLJLEcOmrLmj9wJsx5wlnLG64uJ3ZAvELkGCDqkLXZGNmu71rrOMOgmcNoK8kNZDoIomQwNB0WvTRgpOyrn2Ph5yqgr5KPKtLY1W9WkX6s9NDm9Yj7lCOkk34QlLptZw0q33DkrTRYqlv5J4jT728j1W0JxsXoDj13pjBHj4MyZpVwWIX5gXNgWnAHvX33vmRrZtqrZmLQPnRfyQ
+    parentId: 70o3vjLLZxsYqEJyKPQJIpJNEkm
+    postId: NBVLWKj5xQC6O6o5G2w4hLMOM2l1nyfBQ1nOjn74iGmqpjmJ4muL42YN
+    factor: 1.33
+    portrait: 0
+    mInfo: WFDHpMLUgnd5AJU
+message: "到手！在下一城！    阪井大當歲拍賣會  標王002號 紅白45公分  日幣1,000萬  台幣280萬    Yes! Got it!    Sakai Jumbo Tosai Auction  No.002 KOHAKU 45cm  JPY 10,000,000-  USD 92,000-  EUR 86,000-"
+---
+
+到手！在下一城！  
+  
+阪井大當歲拍賣會  
+標王002號 紅白45公分  
+日幣1,000萬  
+台幣280萬  
+  
+Yes! Got it!  
+  
+Sakai Jumbo Tosai Auction  
+No.002 KOHAKU 45cm  
+JPY 10,000,000-  
+USD 92,000-  
+EUR 86,000-
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/qZjcNKp.jpg"><img src="https://i.imgur.com/qZjcNKp.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/m1EDmic.jpg"><img src="https://i.imgur.com/m1EDmic.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/9R5aEhO.jpg"><img src="https://i.imgur.com/9R5aEhO.jpg" height="225" width="300" /></a> 
+ 
