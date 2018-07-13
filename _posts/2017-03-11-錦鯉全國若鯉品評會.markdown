@@ -1,88 +1,40 @@
 ---
 layout: post
 title: "錦鯉全國若鯉品評會" 
-date: 2017-03-11T03:28:31+0000 
-categories: ["Champion","Sakai","IKI","Koi ","錦鯉"] 
+date: 2017-03-11T04:04:22+0000 
+categories: ["Champion","IKI","Koi ","錦鯉"] 
 media:
-  - id: cRpdDOY
-    name: vvW2Xr8rRBFZXApX60xwUkXEJrZ
+  - id: F2NIHSy
+    name: jKERGN0NV5C09357YQ1oh6O5pnx
     description: ""   
-    height: 540
+    height: 405
     width: 720
     type: image/jpeg
-    link: https://i.imgur.com/cRpdDOY.jpg
-    prevLoc: 1lYEXmAJpVIZGnnrgkMph91EWgv91xugB2XkpXP0srwjYE0R3BHM46pAMNMRcE0rG0KM7pfYwn2DZLo8f1Jpo1XJmgh4J9Ao1kD0CBoO27EVokI5YARPmLLySmqAZrMrp7f2kMpwo0ZNhp9pYVOzqoIjZl4okKkEfrpBVrnoR6Ix44LGME3qFYoX0ggEyRTvknXW0O4oCjB9Z0QnRBc4V5GPnP0BIlKAX0R20vhvQZ4lQlAOfMO87ypmP8fNW9jK4vm1um8
-    parentId: ODWY1zPzLnckGZwyK0A1tGym6VR
-    postId: xxYnLz57GOfX7XZq32PYs9KoKp0GjAsBM7VkDloWu7N80jJPE6h5vw3y
-    factor: 1.33
+    link: https://i.imgur.com/F2NIHSy.jpg
+    prevLoc: 0k2EWlzGoACyBJJnvMG2I63VpEG63mhr8kJ9PJM2S6Xyzw0n7pHzZBX7zNB4TmXOl85ZyyClQjN2GZZLuW8Wygj3ozsoxP4XKPPKSEnWo2j3ZOHr3nrqE4qxHVmDDYKJGDt1Pvz8MJknH8YOOyxX4mT1yG7P0XA1iA24Kk5VVXhKl5NYy3rXS9ZOKQMXQyiY8kO53Yn9H7Bmqm7xQwF8L4EDnnPrf7k47p4K9KHRx3VJQRBNH1rwV1QQxXIN3KLmo7kvHjQgn6
+    parentId: jKERGN0NV5C09357YQ1oh6O5pnx
+    postId: pmN8LoKXgrswVw5EBjpYHXn8nr3KNxfVMz8YKXwrcoDwv4nqorSAp5Or
+    factor: 1.78
     portrait: 0
-    mInfo: ukG8s3ZzsW0NtLV
-  - id: pMbHnJu
-    name: kLGRJNrNBnTvN58oxWElSoVDgY4
-    description: ""   
-    height: 720
-    width: 540
-    type: image/jpeg
-    link: https://i.imgur.com/pMbHnJu.jpg
-    prevLoc: JgYz0Vw3KEunwppkO1q8hMO9njxMOrTK7OL93Lkjcp4LQYAxkrSwxrVlw3wXIwyBzK1LJQF1E9J3Nm56tvgWRv2q6GtNkYvzlyDDSrNGPnB7NGTzLqZk8PPwsLZOGpW1BLIv6RgA2vxvTYD1BXEyj1iJvMjXp9Pnhp74ZpgM9yTX22104KMBsYpqQzzl0Js59ymrOlX2TJ1ZNwkONpCOL2rn0QKpH2B31G4PQBCQxg6QyjGGslWGGlxMB3fr7MW69pnOuk3
-    parentId: ODWY1zPzLnckGZwyK0A1tGym6VR
-    postId: xxYnLz57GOfX7XZq32PYs9KoKp0GjAsBM7VkDloWu7N80jJPE6h5vw3y
-    factor: 1.33
-    portrait: 1
-    mInfo: YX3gEpuleF00sPp
-  - id: hREYTVp
-    name: mjKZLgYg8pIq2WB2XKNzSJvWnqx
-    description: ""   
-    height: 720
-    width: 720
-    type: image/jpeg
-    link: https://i.imgur.com/hREYTVp.jpg
-    prevLoc: 0k2EWlzGoACyBJJnvMG2I63VpEG63mhr8kJ9PJM2S6Xyzw0n7pHzZBX7z4z5cmLEXgr3ZkUqxL2y4EgXSW17oWQ1J4foxwA7kM8vUE879RqM8miKkr4XPl6zf4Vl3yZ0n4u1DrrNn2jpTQrvj56WQNIGz8r6DGzXsAZQoAODWpfKEE8Q9ND0iL143yyZ7GhE8W6LZpvQs7Zwp9voM0toj7AgzxKNSmZnMlPvA2HqOVqOM1NXcEwl927V9xtgJP70m67NT9q
-    parentId: ODWY1zPzLnckGZwyK0A1tGym6VR
-    postId: xxYnLz57GOfX7XZq32PYs9KoKp0GjAsBM7VkDloWu7N80jJPE6h5vw3y
-    factor: 1.00
-    portrait: 0
-    mInfo: dzkNpdGSigoRT7x
-  - id: LwYLniv
-    name: 9NqrxPDPGwsj12LZomXPCrmWMvk
-    description: ""   
-    height: 540
-    width: 720
-    type: image/jpeg
-    link: https://i.imgur.com/LwYLniv.jpg
-    prevLoc: AGQWvJk3X8HROrrx0nN9TjMPwxDjMWskMJ1G91Pzu1E0ROX78WurAYVgrBrMiLXOkXz34BuDZk6YznqETy3OgkqRRoT82oB5rjpGS6Q8KEPqQNSKEX8JxBZRhWNk0LWMG0U3NO2n8AnvFZ2rGj7Z0pcAj45OMr3xs1xB01jEOPINPP6kv97wFvYKDBBr71UPryVJwO9nfB7vX1zRZ9SrEJR5w22BH8P0prOgpBFBgWY56Oo2u82yy8WLY3U5O35l3ZAOU7z
-    parentId: ODWY1zPzLnckGZwyK0A1tGym6VR
-    postId: xxYnLz57GOfX7XZq32PYs9KoKp0GjAsBM7VkDloWu7N80jJPE6h5vw3y
-    factor: 1.33
-    portrait: 0
-    mInfo: Zq2OnC94gVbna0d
-message: "錦鯉全國若鯉品評會  大會総合優勝  第63部 大正三色  魚主;陳昌 中國  業者;阪井養魚場  代理;成田養魚園    Nishikigoi All Japan Young Koi Show  The Grand Champion  Sanke 63 Bu  Owner; Mr. Chen, Chang - China  Bred by; Sakai Fish Farm  Handling by; Narita Koi Farm"
+    mInfo: PavjuE8vqrbnLhE
+message: "錦鯉全國若鯉品評會  成魚部総合優勝  第63部 昭和三色  魚主;外山 隆寬 日本  業者;伊佐養魚場  代理;成田養魚園    Nishikigoi All Japan Young Koi Show  Adult Champion  Sanke 63 Bu  Owner; Mr. Sotoyama Takahiro  Bred by; Isa Koi Farm  Handling by; Narita Koi Farm"
 ---
 
 錦鯉全國若鯉品評會  
-大會総合優勝  
-第63部 大正三色  
-魚主：陳昌 中國  
-業者：阪井養魚場  
+成魚部総合優勝  
+第63部 昭和三色  
+魚主：外山 隆寬 日本  
+業者：伊佐養魚場  
 代理：成田養魚園  
   
 Nishikigoi All Japan Young Koi Show  
-The Grand Champion  
+Adult Champion  
 Sanke 63 Bu  
-Owner: Mr. Chen, Chang - China  
-Bred by: Sakai Fish Farm  
+Owner: Mr. Sotoyama Takahiro  
+Bred by: Isa Koi Farm  
 Handling by: Narita Koi Farm
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/cRpdDOY.jpg"><img src="https://i.imgur.com/cRpdDOY.jpg" height="225" width="300" /></a> 
-  
-
-<a href="https://i.imgur.com/pMbHnJu.jpg"><img src="https://i.imgur.com/pMbHnJu.jpg" height="300" width="225" /></a> 
-  
-
-<a href="https://i.imgur.com/hREYTVp.jpg"><img src="https://i.imgur.com/hREYTVp.jpg" height="300" width="300" /></a> 
-  
-
-<a href="https://i.imgur.com/LwYLniv.jpg"><img src="https://i.imgur.com/LwYLniv.jpg" height="225" width="300" /></a> 
+<a href="https://i.imgur.com/F2NIHSy.jpg"><img src="https://i.imgur.com/F2NIHSy.jpg" height="168" width="300" /></a> 
  
