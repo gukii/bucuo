@@ -1,0 +1,31 @@
+---
+layout: post
+title: "即將登場的是⋯⋯若" 
+date: 2017-02-16T00:04:16+0000 
+categories: [] 
+media:
+  - id: p9H96rI
+    name: xxYkZ829XEujOxnP6nWGskW6A4O
+    description: "即將登場的是⋯⋯若鯉賽！3月11-12號在姬路城舉辦哦！I will be there !!!"   
+    height: 720
+    width: 499
+    type: image/jpeg
+    link: https://i.imgur.com/p9H96rI.jpg
+    prevLoc: NmEXMZA3K7h63VVYLE0NC60W9MK60ohZxjgD2gnPczw1rPn0KmiBrQyNBnB4CoRNpqgx5wC3ARx6K9qMflA7gANKXntZPKpAEpvguwqPMOrk7ksPnY3JzAoKFGYOxmnNkJf8z5WWEQpNTv8VMZ0B4qfEBWl54ozzuQZwXQVDvOioKK0NxRWOtOzM9KKYAAC2OJw9vrymsR5LoR0AV0iDwQP0VNljsyr9EP9DR2CzKKWMWp0VIkjDXVogWKcZ6XJLAYJAtw5
+    parentId: xxYkZ829XEujOxnP6nWGskW6A4O
+    postId: qnO7Lp5MjwS2E296opJqc3GyG0oVOMtAZwNXZlqWFXN6KOqlrVhK7VBN
+    factor: 1.44
+    portrait: 1
+    mInfo: UjpIZvbQ8zkESoI
+message: "即將登場的是⋯⋯若鯉賽！  3月11-12號在姬路城舉辦哦！    I will be there !!!"
+---
+
+即將登場的是⋯⋯若鯉賽！  
+3月11-12號在姬路城舉辦哦！  
+  
+I will be there !!!
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/p9H96rI.jpg"><img src="https://i.imgur.com/p9H96rI.jpg" height="300" width="207" /></a> 
+ 
