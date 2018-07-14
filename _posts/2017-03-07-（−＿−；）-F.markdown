@@ -1,0 +1,45 @@
+---
+layout: post
+title: "（−＿−；）  F" 
+date: 2017-03-07T08:26:07+0000 
+categories: [] 
+media:
+  - id: IhwWAIs
+    name: 43lxp27wV0fx7jjky5kmu1xV72o
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/IhwWAIs.jpg
+    prevLoc: mp28DL4v07TMl11VXAj5s1Dkwj81D6C42orB8rNZu8lwXmgOzWHLDxVqLJLEcOm27Dw54Mhx5wlOM1z9cJ3QqAJzB8crLmXr5vkqs7EVpogkY4ujqMkjl70NIBpnOXjkVPiRzGZx4ADMt5VgJ5k5n4tAM2QVQEoQu9NDm9Yj7lCOkk34QlLptZw0q33DkgFRYDZjWRg7fRMmmnRp4vtXQ220lEwYt10VMEM9oOcr39zzok0Ps7V2JZB1kwTqrZRR65RyFrM
+    parentId: nkL5MlpX74UV6yyRoZ5ntyJm75P
+    postId: BmDN9XpRglsnwnvJOgzYhAw4wop3L7FD2r065rG6HXBjAQ44RkS1J8Kv
+    factor: 1.33
+    portrait: 1
+    mInfo: ljeYvPkUeZcw6Tt
+  - id: KAuGTHM
+    name: DoGkMx5r6nUZO66GxzJ6UDx3VYm
+    description: ""   
+    height: 720
+    width: 405
+    type: image/jpeg
+    link: https://i.imgur.com/KAuGTHM.jpg
+    prevLoc: jmv5zG4pgAhOmllzE3njhmnqgl0mnvhwnxVKAVNouLjxn1ZOVDiqWxnpqAqkuLPNWVxYy5I9A6zJvWrQtWNQYqLz03f1krNzMVgvsQvXEVqNkACMvG1rJ8oMIv0xm60rE5sZKwOzxDWPTwpKMWoq0VIqZkknOAvMsOBy8OrDjPIQPPR149pLS0oPD55Z9XHk9lXAv0VAfV3ZM408NpFODrl8EM0os4vlDJxkVxiQpgVkVADohQO034pOMWTqyQBBgEMRtP9
+    parentId: nkL5MlpX74UV6yyRoZ5ntyJm75P
+    postId: BmDN9XpRglsnwnvJOgzYhAw4wop3L7FD2r065rG6HXBjAQ44RkS1J8Kv
+    factor: 1.78
+    portrait: 1
+    mInfo: uDx0QMYw2e13b8S
+message: "（−＿−；）  Fukuoka....."
+---
+
+（−＿−；）  
+Fukuoka.....
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/IhwWAIs.jpg"><img src="https://i.imgur.com/IhwWAIs.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/KAuGTHM.jpg"><img src="https://i.imgur.com/KAuGTHM.jpg" height="300" width="168" /></a> 
+ 
