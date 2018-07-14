@@ -1,0 +1,213 @@
+---
+layout: post
+title: "尾形養鯉場  3月" 
+date: 2017-03-06T02:17:53+0000 
+categories: ["Auction","Koi "] 
+media:
+  - id: tFRancg
+    name: roPkQp3xVYCO9n413ApKFMBgKEV
+    description: ""   
+    height: 720
+    width: 502
+    type: image/jpeg
+    link: https://i.imgur.com/tFRancg.jpg
+    prevLoc: 1lYEXmAJpVIZGnnrgkMph91EWgv91xugB2XkpXP0srwjYE0R3BHM46pAMNMRcE0LxR73BwcYwn2m0ABqf1JpoX1KAri8Kr21EwYkiBwv00E5WDt9BMYvD6KOHmqAZ9BrKzcn5ooXB3p6up8kGN7pZ1cqzY8BV9ZZsrpBVrnoR6Ix44LGME3qFYoX0ggEvMHv7BWxwY2VsjyAwwx05ZH4VYypGAYYTj3zMjjgBKFvQZ9jppm5FVoGrNR9BXUNW9pp8M4EFm9
+    parentId: jKERGB3m6nU0935NYWLns6oRx2y
+    postId: kLG8XjKO59SwKwg3pMoxH7MvMAG5B0iNzk1ZJyxZfyRo4E0o6kCp8xkq
+    factor: 1.43
+    portrait: 1
+    mInfo: 3UMJvCiMywqw4eH
+  - id: SvUCMkG
+    name: 3Xk1o3AnV9FvB9W5EZPqcZj2DyX
+    description: ""   
+    height: 720
+    width: 496
+    type: image/jpeg
+    link: https://i.imgur.com/SvUCMkG.jpg
+    prevLoc: QpNjP3E9KATRPBBnV3k6TZA2vXzZANhxXJym9yNAhjw1Erq9LRt9PwVz9o97szyEO7X9YKF7VRowQEZPSrXZK62kE6u6mjV8vxjGfWJgjjB7m0UqRlYAq9LKin7jD1E2j0trDrxl7AogcVW264Q63BcD2WQ5xLooT6AmD6zG1jFEVV6YyOlgCDzkXNNYBJIxgJ7owMvKCpjYAP6V01fg4nlR9LljsWE7lvVgREUVk4WOPO3Ziyj4BkMRj0sxMyx2kGEBcv8
+    parentId: jKERGB3m6nU0935NYWLns6oRx2y
+    postId: kLG8XjKO59SwKwg3pMoxH7MvMAG5B0iNzk1ZJyxZfyRo4E0o6kCp8xkq
+    factor: 1.45
+    portrait: 1
+    mInfo: Srvdw7oHWbz2aj8
+  - id: YqaWYJs
+    name: mjKZLk3pNETq2Pk3GWMYtJwB9PW
+    description: ""   
+    height: 720
+    width: 501
+    type: image/jpeg
+    link: https://i.imgur.com/YqaWYJs.jpg
+    prevLoc: NmEXMZA3K7h63VVYLE0NC60W9MK60ohZxjgD2gnPczw1rPn0KmiBrQyNBnB4CoRNpqgx5wC3ARx6K9qMflA7MzGk0WiZPpGG2Pp8fkY1yyq7OnsJBXEDJl98sGlD5ywj9rt8jGDpo6vxsm1N0jN9xLhD30wJjrl2iQZwXQVDvOioKK0NxRWOtOzM9KKYnAHWERnklAvWIqWk2pRB4KSO9vw0j3lpSX4M515jpjulvoyMkADNTx1LYv9ONzUZ6XJLAnLqi8K
+    parentId: jKERGB3m6nU0935NYWLns6oRx2y
+    postId: kLG8XjKO59SwKwg3pMoxH7MvMAG5B0iNzk1ZJyxZfyRo4E0o6kCp8xkq
+    factor: 1.44
+    portrait: 1
+    mInfo: ovGQWetWmKSsxY5
+  - id: rgjiFnb
+    name: zz1p2A3JYnTzL4QPJG3zFLvOZ61
+    description: ""   
+    height: 720
+    width: 502
+    type: image/jpeg
+    link: https://i.imgur.com/rgjiFnb.jpg
+    prevLoc: xEV8RZ4KzohXvmmp891Ji6WmxKr6W1h1pWnLEnJZsBlV7O5mYxiGA217GoGnIgN5OBE3Dpi23mkMy4LpuBJ70GyXYRuZ8OR79jqAi2rXmmloPxtw85Pp2yopuvy9qJ6GBOcz8pQvMggQsJWJ9Dzk50ILYkM51EwAIQBpKQGVnXiP55VkoOrjuWZ0NwwMJMUKwmy9G8AwIRD5jzkoGYUrMkmm2NDYu7RR0MVowrCGJA2YVYVDcKl5Vygpj7Hov7J7Rq6gCWD
+    parentId: jKERGB3m6nU0935NYWLns6oRx2y
+    postId: kLG8XjKO59SwKwg3pMoxH7MvMAG5B0iNzk1ZJyxZfyRo4E0o6kCp8xkq
+    factor: 1.43
+    portrait: 1
+    mInfo: 2SQcH78dvbzdVZS
+  - id: 1pifyAa
+    name: XlgDjPJzpMsZJOV650ZXSNPVMlx
+    description: ""   
+    height: 720
+    width: 501
+    type: image/jpeg
+    link: https://i.imgur.com/1pifyAa.jpg
+    prevLoc: WywpYgN3KWS4qzz13P5jH7plr437pGSVAjrxkrn8HN2V91DAg3tlLKJrl0l1tqXJ0Yj97DtRwGk47rqLUw52zqpEGztRlGJLXJXNckOAjj9oLWupQyV03PvDIQX7L14AXgSo2vq7AJErTM9Ev7lK8qhKjJAEpDL2ckMWDkZJj7HEJJomNQLvCZvnV99BjWHMRy4gO4m1SmD3GzmmA0Sxm4J20n1qt7XoVL47WzcGNVX4mVx7CyXXDl5wo8ijQEWl4q6Ocx6
+    parentId: jKERGB3m6nU0935NYWLns6oRx2y
+    postId: kLG8XjKO59SwKwg3pMoxH7MvMAG5B0iNzk1ZJyxZfyRo4E0o6kCp8xkq
+    factor: 1.44
+    portrait: 1
+    mInfo: xT9WO28r8DfUVcP
+  - id: h3399Yk
+    name: 8Np2wgJvK9FgrPQKoE0xfPN1RLL
+    description: ""   
+    height: 720
+    width: 502
+    type: image/jpeg
+    link: https://i.imgur.com/h3399Yk.jpg
+    prevLoc: LkY0KXy31AC39NN0qmRPuvgJAQRvgpT0xB9MD9oVtlQM4YrEROijwl4kjojViJy7wG1x3MF05RDg9kNvS31LMQAX9gHw1olvNpz8FGM177OnRJilVmnvAzX4sMNnY3NJroH3RBB6mm83uqk5Eyq6BEhx7qyWmX4ZF7BqX725JNiYZZ5GmA7niXBAWNNvROiZnM6m2P9GInNq1Y5ODgirO7YVkyR7tJrXpWkB6LcDozK9O3Emc09X3pvr3NSR92o3EZqPSp7
+    parentId: jKERGB3m6nU0935NYWLns6oRx2y
+    postId: kLG8XjKO59SwKwg3pMoxH7MvMAG5B0iNzk1ZJyxZfyRo4E0o6kCp8xkq
+    factor: 1.43
+    portrait: 1
+    mInfo: b9cIN0KlJeJE8JZ
+  - id: HKz2zLP
+    name: olM2Nm5rXOsm4vj4gZO2CREV6K3
+    description: ""   
+    height: 720
+    width: 502
+    type: image/jpeg
+    link: https://i.imgur.com/HKz2zLP.jpg
+    prevLoc: knwBAJ4qj6swBYYDlrOnTW8xyMmW8LCPJ6V5nVWBcxkBy95OY4fPEj4APWP8cgNG3r1Bkvi4EMyYKW9xc1DKzyqmmQTOKGDJjmNXhvwNoo56mpT6VDpB6XYoU1vg50jqXmfWQYMOQMl6iz3RVxlAj2FN7jjZOV19TxQqgx9wjosmVV3G9xy5S32JowwxVksVlYmqLmD0F9jqLLrNWnfM18VPE5OOhv8lnYx7pYF9PpL1l6vOC6x7rD8grlHNZpy36np9U5j
+    parentId: jKERGB3m6nU0935NYWLns6oRx2y
+    postId: kLG8XjKO59SwKwg3pMoxH7MvMAG5B0iNzk1ZJyxZfyRo4E0o6kCp8xkq
+    factor: 1.43
+    portrait: 1
+    mInfo: MmR2n0lj6RPVQIu
+  - id: TVHxgeG
+    name: MAR8YXrlW9CYlkr6AowGt5NJW4g
+    description: ""   
+    height: 720
+    width: 501
+    type: image/jpeg
+    link: https://i.imgur.com/TVHxgeG.jpg
+    prevLoc: nqY7EM4wmGiWDll4wK7Gs8EjKQD8ExsM3EvmQvXgFBv10RGkYOiZY2wKZRZguonpPQWA3yClWJjwO26vtA2JqzW9y1S6VE630mArfGkV22XDGYCEW8QrEpkgTKJgOZwnNAinp2z0PyxrUjwjK0BX22hKn0839M4WsoxA7oBYKguLXXD43m18t91zlQQOxjfQ7J32r1xjClpwRVNW41F3nPvDA3kOcr5AKY7j76fq2yvGP7yWIJr1K5vE46UMxXMwwEp6UxX
+    parentId: jKERGB3m6nU0935NYWLns6oRx2y
+    postId: kLG8XjKO59SwKwg3pMoxH7MvMAG5B0iNzk1ZJyxZfyRo4E0o6kCp8xkq
+    factor: 1.44
+    portrait: 1
+    mInfo: qepO1K8vm4g8iU0
+  - id: jcYEgur
+    name: 70o3vMGrVAhYqVnXPn1AUprBNlX
+    description: ""   
+    height: 720
+    width: 496
+    type: image/jpeg
+    link: https://i.imgur.com/jcYEgur.jpg
+    prevLoc: NmEXMZA3K7h63VVYLE0NC60W9MK60ohZxjgD2gnPczw1rPn0KmiBrQyNBnB4CoRNpqgx5wC3ARx6K9qMflA7M0XGWxSZM2ng4n4qFkY1yyq7OYhJBXEDJl98sy15lG4EJrfxEAEO996gtvq5LRMoYNsEp1OMlWl7IQA8OnWWVjhozyQJN44muO5DqvODN3HlnzO7vVWJhp4NKBKprzhGlAGPJZ8rH96wR5L5kjIzM0PMnDqEukKYNAmYjMcZR77j132N
+    parentId: jKERGB3m6nU0935NYWLns6oRx2y
+    postId: kLG8XjKO59SwKwg3pMoxH7MvMAG5B0iNzk1ZJyxZfyRo4E0o6kCp8xkq
+    factor: 1.45
+    portrait: 1
+    mInfo: ELMjbYH0lDNkmlA
+  - id: C71aZvs
+    name: NBVkZGvmW8IpRjDp1g1ofGvJNkO
+    description: ""   
+    height: 720
+    width: 504
+    type: image/jpeg
+    link: https://i.imgur.com/C71aZvs.jpg
+    prevLoc: NmEXMZA3K7h63VVYLE0NC60W9MK60ohZxjgD2gnPczw1rPn0KmiBrQyNBnB4CoRNpqgx5wC3ARx6K9qMflA7MzGk09FW5Znnz8nDFkY1yyq7JwFPolynvYkEIyW3665r7YI8Qz11BMqvHmwl1M04n3hDjNmYnEVxCQZwXQVDvOioKK0NxRWOtOzM9KKYnnIlZXOV7RPxCqW4WGgqkrHMlMxYzNxNuX4M51YY8xSzM5X4RJnOTkjDXVogWKcZ637xxrNOuwZ
+    parentId: jKERGB3m6nU0935NYWLns6oRx2y
+    postId: kLG8XjKO59SwKwg3pMoxH7MvMAG5B0iNzk1ZJyxZfyRo4E0o6kCp8xkq
+    factor: 1.43
+    portrait: 1
+    mInfo: PyBUXJQzJXnSOLQ
+  - id: qnmRYBx
+    name: xxYkZy3ELlTjORP5Z9B8hkjvgVB
+    description: ""   
+    height: 720
+    width: 498
+    type: image/jpeg
+    link: https://i.imgur.com/qnmRYBx.jpg
+    prevLoc: WywpYgN3KWS4qzz13P5jH7plr437pGSVAjrxkrn8HN2V91DAg3tlLKJrl0l1tqXJ0Yj97DtRwGk47rqLUw52zqVpoguRqXXjvmAytkOAjj9omOhpQyV03PvBHlEgKDW6y3UoQzLkWmXPIMrOWl5MmlCKY9WQ9KNQskMWDkZJj7HEJJomNQLvCZvnV99BjAFRB29RPgMZI5EmKKO6z8S9r9lwVJnoCmpLxokJyzfG4QZwQNG3F4Zr6L0lvEfjQE1m2GOmTnQ
+    parentId: jKERGB3m6nU0935NYWLns6oRx2y
+    postId: kLG8XjKO59SwKwg3pMoxH7MvMAG5B0iNzk1ZJyxZfyRo4E0o6kCp8xkq
+    factor: 1.45
+    portrait: 1
+    mInfo: OV6aTF0MX6nlhtM
+  - id: ARRh8wJ
+    name: 70o3vMGrVAhYqVykxGLOiprBN6E
+    description: ""   
+    height: 720
+    width: 504
+    type: image/jpeg
+    link: https://i.imgur.com/ARRh8wJ.jpg
+    prevLoc: wDE2QY4JynINx0056AGLU78gXMW78jS3xM4kG4D7F659koQgVNHvz4Kov0vGf14ExLwZRMiAm0OkqMg2Sl3WDJ17R8sPjlxgJOpLc4r9BBKAx8T6WxAV6BX3Uj7k2M8WjGS4Bz7kmD6qIgmLD11648uwrm3vr6WRsnyg1nOA5DFXyy9vAG5rs5JngOOqPkhRoYl7W92kCQvW7GEK3DC3Pv1qlG5ZsxVpqJkjGXU94M9m4R7Lh2n552QLkxHpl5ZYqWYmIkw
+    parentId: jKERGB3m6nU0935NYWLns6oRx2y
+    postId: kLG8XjKO59SwKwg3pMoxH7MvMAG5B0iNzk1ZJyxZfyRo4E0o6kCp8xkq
+    factor: 1.43
+    portrait: 1
+    mInfo: 9JGT8ErGqpgXvzc
+message: "尾形養鯉場  3月8日 春季拍賣會  品種蠻多的喔_  參考網址;www.ogatakoi.comeng    OGATA KOI FARM  3rd Ogata Spring Auction  Wednesday March 8th, 2017    PS. 如需代標請私訊，謝謝_"
+---
+
+尾形養鯉場  
+3月8日 春季拍賣會  
+品種蠻多的喔^_^  
+參考網址：www.ogatakoi.com/eng/  
+  
+OGATA KOI FARM  
+3rd Ogata Spring Auction  
+Wednesday March 8th, 2017  
+  
+PS. 如需代標請私訊，謝謝^_^
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/tFRancg.jpg"><img src="https://i.imgur.com/tFRancg.jpg" height="300" width="209" /></a> 
+  
+
+<a href="https://i.imgur.com/SvUCMkG.jpg"><img src="https://i.imgur.com/SvUCMkG.jpg" height="300" width="206" /></a> 
+  
+
+<a href="https://i.imgur.com/YqaWYJs.jpg"><img src="https://i.imgur.com/YqaWYJs.jpg" height="300" width="208" /></a> 
+  
+
+<a href="https://i.imgur.com/rgjiFnb.jpg"><img src="https://i.imgur.com/rgjiFnb.jpg" height="300" width="209" /></a> 
+  
+
+<a href="https://i.imgur.com/1pifyAa.jpg"><img src="https://i.imgur.com/1pifyAa.jpg" height="300" width="208" /></a> 
+  
+
+<a href="https://i.imgur.com/h3399Yk.jpg"><img src="https://i.imgur.com/h3399Yk.jpg" height="300" width="209" /></a> 
+  
+
+<a href="https://i.imgur.com/HKz2zLP.jpg"><img src="https://i.imgur.com/HKz2zLP.jpg" height="300" width="209" /></a> 
+  
+
+<a href="https://i.imgur.com/TVHxgeG.jpg"><img src="https://i.imgur.com/TVHxgeG.jpg" height="300" width="208" /></a> 
+  
+
+<a href="https://i.imgur.com/jcYEgur.jpg"><img src="https://i.imgur.com/jcYEgur.jpg" height="300" width="206" /></a> 
+  
+
+<a href="https://i.imgur.com/C71aZvs.jpg"><img src="https://i.imgur.com/C71aZvs.jpg" height="300" width="210" /></a> 
+  
+
+<a href="https://i.imgur.com/qnmRYBx.jpg"><img src="https://i.imgur.com/qnmRYBx.jpg" height="300" width="207" /></a> 
+  
+
+<a href="https://i.imgur.com/ARRh8wJ.jpg"><img src="https://i.imgur.com/ARRh8wJ.jpg" height="300" width="210" /></a> 
+ 
