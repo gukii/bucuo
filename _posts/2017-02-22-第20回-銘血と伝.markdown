@@ -1,0 +1,83 @@
+---
+layout: post
+title: "第20回 銘血と伝" 
+date: 2017-02-22T08:42:16+0000 
+categories: ["Niigata"] 
+media:
+  - id: mZnaGAh
+    name: W056gpWZqPU4M4W6094qh5x10wB
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/mZnaGAh.jpg
+    prevLoc: 9wpGkxM0A3tOqRRJnMkmhA1nqyvA19t54wDlND8PFjn6xJwEW0tqmYnAqPqMuAG6mGQMqyI41W0rLMvzFoN7WP1Rw2i6vy41xoo3C8xmZnLoKQTrXOxEAGLwCGz6Zo76q6F83AroZr6Kh0DzXG0Rz8iv4rrWljvLINlMLNZgYmF7GGzZ0YvQH9Pp4DD2jWTvOMl1V87mulVjErEWQ0cYDWWVzvOpcoqOKQ3XBnijkQLK9yBYFBWWDN4YLGi2LXMLwYkNsM0
+    parentId: yyZP17p0Xwf483nPw4wzs3MP0g5
+    postId: xxYnLz57GOfX7XZq32PYs9KoKp0GjAsBMJq9Gxg4c7p7jz0YXEH53J3E
+    factor: 1.33
+    portrait: 0
+    mInfo: P6xZa4C6sl6Vg2W
+  - id: NFbnXdh
+    name: 43lxpVW5L6F8D8PvEy6VI19KW8r
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/NFbnXdh.jpg
+    prevLoc: 8voWjwLQzXukqOOm3z6jcpwx4Q7pwrTG4APkgP3xcJA0r2z68wS8wYyv878xI8w2zwKjGQTZgG0VPN8yfOjPGjqXL8fwxN7BJBNBCxXPBlnWwYcwD8WEwA84sKomwrE4NAhDmqYwLg5Eiol105KjlLcQ4PZk2GMwFgzJAg028qfWjjANYgO0tJW1Evvq80Hz86LmByPvt9y8vXrJ1MsyjyX9ogWPUy1k1K52Zri8mqokAyDJIRpJ197ExwClwg3zENJGUx3
+    parentId: yyZP17p0Xwf483nPw4wzs3MP0g5
+    postId: xxYnLz57GOfX7XZq32PYs9KoKp0GjAsBMJq9Gxg4c7p7jz0YXEH53J3E
+    factor: 1.33
+    portrait: 0
+    mInfo: WSTE9xvm07Qiky4
+  - id: MiAoEqm
+    name: PE0N2g6PQjc6j6gjROByI20BXvQ
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/MiAoEqm.jpg
+    prevLoc: zJBQW2jM4qTrq88XDxMRTzwrJ93zwPsZKMAz7ANlcVLvw31oxkHWo06gW9WZFR7n97z02wI68m74M59jhp4Qw5ZWoziD8JM891pQc3BmM46ZN9hNn2kVpYO5crpn27JQ1KhZWEPODv5MFE8zrjk44Gc3AmkJ6BByTXGRkXo0Eyu3RRmE1MP9UlVwLzzZ00cywENL5Em0t0qwGBXRBGHn5lQGMYELtqAVWxvjGnSmoGG74wrzSGO40rw7kltPoKYYRJGqhBL
+    parentId: yyZP17p0Xwf483nPw4wzs3MP0g5
+    postId: xxYnLz57GOfX7XZq32PYs9KoKp0GjAsBMJq9Gxg4c7p7jz0YXEH53J3E
+    factor: 1.33
+    portrait: 0
+    mInfo: XyI9imQjpE3XDPX
+  - id: iLxXeI5
+    name: mjKZL87AyqCMgMrp6E5quJvk9LG
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/iLxXeI5.jpg
+    prevLoc: DLY6yMn3ZwIxAjj7pn5Bszk0vGPzkYsmw1ZRGZOYFrLK42NEWRHEGNZmEnE3TNgmLgq7yOFm7xnNY3RZSWNJONAkZzhL2PqjNqN4TBnVKNoDPgIy82oqyx2wtV0z9p990xf27rV8lYxYhZ51BNp6JmSYNRpLpM5puk4nYk7mZBHnKKZov3VEhnGKLrrmM3TVBvn8wvn8s3LMgnmwAnhnXBO1mAYrCBx9K4r931sgA5V8lDK0FW5xABvq60fP78p9jmOoSG6
+    parentId: yyZP17p0Xwf483nPw4wzs3MP0g5
+    postId: xxYnLz57GOfX7XZq32PYs9KoKp0GjAsBMJq9Gxg4c7p7jz0YXEH53J3E
+    factor: 1.33
+    portrait: 0
+    mInfo: sfHVWuZxn4kt8bn
+message: "第20回 銘血と伝統の祭典  日期;2017年3月1日水  会場;長岡市山古志支所体育館  展示;8;30～10;00  競売;11;00 開始  官網;http;jnpa-niigata.com    委託代拍請私訊聯繫喔_"
+---
+
+第20回 銘血と伝統の祭典  
+日期：2017年3月1日(水)  
+会場：長岡市山古志支所体育館  
+展示：8:30～10:00  
+競売：11:00 開始  
+官網：http://jnpa-niigata.com  
+  
+委託代拍請私訊聯繫喔^_^
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/mZnaGAh.jpg"><img src="https://i.imgur.com/mZnaGAh.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/NFbnXdh.jpg"><img src="https://i.imgur.com/NFbnXdh.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/MiAoEqm.jpg"><img src="https://i.imgur.com/MiAoEqm.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/iLxXeI5.jpg"><img src="https://i.imgur.com/iLxXeI5.jpg" height="225" width="300" /></a> 
+ 
