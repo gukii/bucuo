@@ -1,0 +1,28 @@
+---
+layout: post
+title: "Good morn" 
+date: 2017-02-17T01:21:31+0000 
+categories: [] 
+media:
+  - id: kBCmKia
+    name: QGYW3j71wQURpLXVmGMKCDvkg3B
+    description: "Good morning HK"   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/kBCmKia.jpg
+    prevLoc: GOYzBPq3XwU84WWrn01JSq0OX59q0xfRyLZPmZ5pcwOq06RQ1xuEGNDrE0EQTXrgAr5kyluE398yPNKrCVoPmoKkZpfRO3gyygjBhNz5jqkMXKCwx9JmPAWZCQ423Xlz8Lh3lMkVPrJBfY7gxMB7VnHPY00y3qnmhO0jxOJ36XIj11A7QXqEhAQx1RRrNJi3V897ZrN6fGYGrng1Z2fxPj3mQ95xUJELWJMGB6H9G5y075X7UBznnB5329tMADZk2JL2fNo
+    parentId: QGYW3j71wQURpLXVmGMKCDvkg3B
+    postId: 075YDopXgvTy7yj0LRY1tlEzEMqZkoU0pM48oBYEtqwKlq37V3io22N5
+    factor: 1.33
+    portrait: 0
+    mInfo: bQN1seRfzB0ojMw
+message: "Good morning HK"
+---
+
+Good morning HK
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/kBCmKia.jpg"><img src="https://i.imgur.com/kBCmKia.jpg" height="225" width="300" /></a> 
+ 
