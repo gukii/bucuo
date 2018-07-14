@@ -1,100 +1,48 @@
 ---
 layout: post
 title: "錦鯉全國若鯉品評會" 
-date: 2017-03-10T04:36:37+0000 
+date: 2017-03-10T07:04:10+0000 
 categories: ["IKI","Koi ","錦鯉"] 
 media:
-  - id: 6ScRCvS
-    name: Znk6lN8Lo0fYGQ5NYO4Ki07DggR
-    description: ""   
-    height: 720
-    width: 540
-    type: image/jpeg
-    link: https://i.imgur.com/6ScRCvS.jpg
-    prevLoc: knwBAJ4qj6swBYYDlrOnTW8xyMmW8LCPJ6V5nVWBcxkBy95OY4fPEj4APWP8cgNG3r1Bkvi4EMyYKW9xc1DKz1y93wsOYz7W16QntXxG7xmmDASgl6D2gvOjf1pnkq9kBXcWQ6D4JNmrtzD9pJW12ETN5Q9Oq5mAuxQqgx9wjosmVV3G9xy5S32Jowwxn1IXjxjDpJo0tJ9vrKk9JjIxX4K9pYDDSlPJJE826LC9BLnJv2XKu6qN5zygQviNZpxZrm69U5V
-    parentId: ODWY1zgw28ikGvALWPjpHG5G8XK
-    postId: DoG1WZrJRpHxExXrkRD4uoGQGgLMV8IQy3rgNmBnh4K9Vm2E7Dhj3QNz
-    factor: 1.33
-    portrait: 1
-    mInfo: DCSU3J9VZ9aKcmE
-  - id: W6jenHX
-    name: W056gXPGlqS8kD5KPj9gt5X851J
-    description: ""   
-    height: 720
-    width: 540
-    type: image/jpeg
-    link: https://i.imgur.com/W6jenHX.jpg
-    prevLoc: ZBwv2lQ7GZIjgPP1vD5MuOP6m45OPWsGLxqNVq64cR9vZK8VYmiDAgNwDBDZTQxZKpWJGMU4WrzJjQD1cVAomWrw7yCxyJmM5OGBTXgq9gPP2yIY6ZEvqo26cLRjY42x1Nh2krLM3MpBUW18nkQQ7Mc7v8B15W8JuMZ2kGRROwf89DXJ100pS6RVXo6QzguG0QxqMG6zhwRO4VEnXDTnD2OQ42KpUpqloJAAwvFRz5QO7RrGS5ZBj8qB2Gc8VrWP47GX
-    parentId: ODWY1zgw28ikGvALWPjpHG5G8XK
-    postId: DoG1WZrJRpHxExXrkRD4uoGQGgLMV8IQy3rgNmBnh4K9Vm2E7Dhj3QNz
-    factor: 1.33
-    portrait: 1
-    mInfo: BrlIfNzvzvRpCrE
-  - id: 002xIfc
-    name: vvW2XrQ3zZiZXA76nVMDFk5kqPN
+  - id: XVdnnTe
+    name: Vj4O8KvEzgiZ6VV64g2Ofpxk6rl
     description: ""   
     height: 540
     width: 720
     type: image/jpeg
-    link: https://i.imgur.com/002xIfc.jpg
-    prevLoc: ZBwv2lQ7GZIjgPP1vD5MuOP6m45OPWsGLxqNVq64cR9vZK8VYmiDAgNwDBDZTQxjlxmqWOs4WrzNVRvnFVAomV7ME6uxD0ZJkx8KSXgq9gPP2nSY7GV5D8j4sqKxyBzqwOi4YVZmQ2xOFW5x9Agq5JTln6jxwD7AsM3QpMOKvkh855q1zGQLc6AErNNDB4hG0D19wB4NCwJLo7WRDxs4GlmEpyEjsXNQEyk8L7IqWEDD3woJuJ6ExMYOlXf8YLPAJo72ty5
-    parentId: ODWY1zgw28ikGvALWPjpHG5G8XK
-    postId: DoG1WZrJRpHxExXrkRD4uoGQGgLMV8IQy3rgNmBnh4K9Vm2E7Dhj3QNz
+    link: https://i.imgur.com/XVdnnTe.jpg
+    prevLoc: 8voWjwLQzXukqOOm3z6jcpwx4Q7pwrTG4APkgP3xcJA0r2z68wS8wYyv878xI8w2zwKjGQTZgG0VPN8yfOjPLORjK1CwryJWX5AoHk76QK1Kw3sPz5jlr4xrFKp7D94okoHDA8q6LKomFoEXq8YqXwiQqkzXXzR3sgzJAg028qfWjjANYgO0tJW1Evvq85tz8xkRwjxNF6Q9LyEB45cyj60NBv8WUy561KgRjRC7kP5kyjqrcRqjOOwEqGilw5lM5ZLYix5
+    parentId: AlBDJg6VEjURXLVYjWM1iVLjvz4
+    postId: 075YDopXgvTy7yj0LRY1tlEzEMqZkoU0p3BgX8M0izGXRXA85PFoXkKk
     factor: 1.33
     portrait: 0
-    mInfo: yT6BuGsOyVsU5qU
-  - id: W6jenHX
-    name: W056gXPGlqS8kD5KPj9gt5X851J
-    description: ""   
-    height: 720
-    width: 540
-    type: image/jpeg
-    link: https://i.imgur.com/W6jenHX.jpg
-    prevLoc: ZBwv2lQ7GZIjgPP1vD5MuOP6m45OPWsGLxqNVq64cR9vZK8VYmiDAgNwDBDZTQxZKpWJGMU4WrzJjQD1cVAomWrw7yCxyJmM5OGBTXgq9gPP2yIY6ZEvqo26cLRjY42x1Nh2krLM3MpBUW18nkQQ7Mc7v8B15W8JuMZ2kGRROwf89DXJ100pS6RVXo6QzguG0QxqMG6zhwRO4VEnXDTnD2OQ42KpUpqloJAAwvFRz5QO7RrGS5ZBj8qB2Gc8VrWP47GX
-    parentId: ODWY1zgw28ikGvALWPjpHG5G8XK
-    postId: DoG1WZrJRpHxExXrkRD4uoGQGgLMV8IQy3rgNmBnh4K9Vm2E7Dhj3QNz
-    factor: 1.33
-    portrait: 1
-    mInfo: BrlIfNzvzvRpCrE
-  - id: 6ScRCvS
-    name: Znk6lN8Lo0fYGQ5NYO4Ki07DggR
-    description: ""   
-    height: 720
-    width: 540
-    type: image/jpeg
-    link: https://i.imgur.com/6ScRCvS.jpg
-    prevLoc: knwBAJ4qj6swBYYDlrOnTW8xyMmW8LCPJ6V5nVWBcxkBy95OY4fPEj4APWP8cgNG3r1Bkvi4EMyYKW9xc1DKz1y93wsOYz7W16QntXxG7xmmDASgl6D2gvOjf1pnkq9kBXcWQ6D4JNmrtzD9pJW12ETN5Q9Oq5mAuxQqgx9wjosmVV3G9xy5S32Jowwxn1IXjxjDpJo0tJ9vrKk9JjIxX4K9pYDDSlPJJE826LC9BLnJv2XKu6qN5zygQviNZpxZrm69U5V
-    parentId: ODWY1zgw28ikGvALWPjpHG5G8XK
-    postId: DoG1WZrJRpHxExXrkRD4uoGQGgLMV8IQy3rgNmBnh4K9Vm2E7Dhj3QNz
-    factor: 1.33
-    portrait: 1
-    mInfo: DCSU3J9VZ9aKcmE
-  - id: 002xIfc
-    name: vvW2XrQ3zZiZXA76nVMDFk5kqPN
+    mInfo: t9hRg1QfMO6IKFv
+  - id: z9VuNqo
+    name: ODWY1zgwpVUOjDDQy0Z9FGY5gW8
     description: ""   
     height: 540
     width: 720
     type: image/jpeg
-    link: https://i.imgur.com/002xIfc.jpg
-    prevLoc: ZBwv2lQ7GZIjgPP1vD5MuOP6m45OPWsGLxqNVq64cR9vZK8VYmiDAgNwDBDZTQxjlxmqWOs4WrzNVRvnFVAomV7ME6uxD0ZJkx8KSXgq9gPP2nSY7GV5D8j4sqKxyBzqwOi4YVZmQ2xOFW5x9Agq5JTln6jxwD7AsM3QpMOKvkh855q1zGQLc6AErNNDB4hG0D19wB4NCwJLo7WRDxs4GlmEpyEjsXNQEyk8L7IqWEDD3woJuJ6ExMYOlXf8YLPAJo72ty5
-    parentId: ODWY1zgw28ikGvALWPjpHG5G8XK
-    postId: DoG1WZrJRpHxExXrkRD4uoGQGgLMV8IQy3rgNmBnh4K9Vm2E7Dhj3QNz
+    link: https://i.imgur.com/z9VuNqo.jpg
+    prevLoc: nqY7EM4wmGiWDll4wK7Gs8EjKQD8ExsM3EvmQvXgFBv10RGkYOiZY2wKZRZguonrRnLDWJclWJjBNQopfA2J5A02zEu6VOjMmjXLFyM1NPYPzxTEGQ0YPxWPiKXjwK7rLGS6gEZBGzqkSj7zGvvJkMtK19EVjVE6FoxA7oBYKguLXXD43m18t91zlQQOxLSgpR9O7GEwsWZXq2PE4lcWjK8owmDKHX5kJMjEAmCL16EG1Kmmhgk5Wom375cMxQL5JK9pTqr
+    parentId: AlBDJg6VEjURXLVYjWM1iVLjvz4
+    postId: 075YDopXgvTy7yj0LRY1tlEzEMqZkoU0p3BgX8M0izGXRXA85PFoXkKk
     factor: 1.33
     portrait: 0
-    mInfo: yT6BuGsOyVsU5qU
-  - id: 3knplfI
-    name: 54myqX7DrLi1vWoE19Jxs1qJ1Nw
+    mInfo: ICpx5cYlnVKS4hr
+  - id: 032CfCh
+    name: W056gXPGAkC4K11K0EyAiQZ7VY7
     description: ""   
     height: 540
     width: 720
     type: image/jpeg
-    link: https://i.imgur.com/3knplfI.jpg
-    prevLoc: OnELN1B3XJsOx55DY0pAhz5BYQ4z57s4VjyzBy9xumZ9q5NzQYirP8BnrXrmiD6A46QnLyF6n7KDMw3lhP2yWRm99MFvXGxRkWKvCB5JA5OORPHoqmQxv3GqTWkO03R9ZjFkNKVg4qWXtrJ6WMKAz2uoKEyq1ZExc2EWq2D5R8slGGJL6wQyIo2JAEEG4OTlRJ2KnZz6U2r5q9prwyTgj1zxY25MhDGGnRAN4EsAK1EX0mk9flW3QDMBqEH3nr8W7APRiyY
-    parentId: ODWY1zgw28ikGvALWPjpHG5G8XK
-    postId: DoG1WZrJRpHxExXrkRD4uoGQGgLMV8IQy3rgNmBnh4K9Vm2E7Dhj3QNz
+    link: https://i.imgur.com/032CfCh.jpg
+    prevLoc: PoMgO2D3K6C6XvvBgoK4CMrpQOKMr5TpwBv2lvK5ImPnkYzJ6Zi2Jr7j2p28ulpNWpY16xFMNRWr0ylpCrY2wXr4Lrtz7ovyAoAECkoXyxVx17s48zXMoW57UgGV90zJmKt949Mg7pkJCMpxgkBmGOs9qgEGoVo4cryL2rmO51IkYYoZ0yVAtk7BO55mWmUplGXZ2yrrcB02ZKN5QAH61gq87x2PsVyY3q8xN5IlpgRE4xJ3SjKA065J0mSE4rOKzR9MFDV
+    parentId: AlBDJg6VEjURXLVYjWM1iVLjvz4
+    postId: 075YDopXgvTy7yj0LRY1tlEzEMqZkoU0p3BgX8M0izGXRXA85PFoXkKk
     factor: 1.33
     portrait: 0
-    mInfo: XyO21Fa9g5lg5Uh
+    mInfo: Akc6AiCraE21KHU
 message: "錦鯉全國若鯉品評會  Nishikigoi All Japan Young Koi Show"
 ---
 
@@ -103,23 +51,11 @@ Nishikigoi All Japan Young Koi Show
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/6ScRCvS.jpg"><img src="https://i.imgur.com/6ScRCvS.jpg" height="300" width="225" /></a> 
+<a href="https://i.imgur.com/XVdnnTe.jpg"><img src="https://i.imgur.com/XVdnnTe.jpg" height="225" width="300" /></a> 
   
 
-<a href="https://i.imgur.com/W6jenHX.jpg"><img src="https://i.imgur.com/W6jenHX.jpg" height="300" width="225" /></a> 
+<a href="https://i.imgur.com/z9VuNqo.jpg"><img src="https://i.imgur.com/z9VuNqo.jpg" height="225" width="300" /></a> 
   
 
-<a href="https://i.imgur.com/002xIfc.jpg"><img src="https://i.imgur.com/002xIfc.jpg" height="225" width="300" /></a> 
-  
-
-<a href="https://i.imgur.com/W6jenHX.jpg"><img src="https://i.imgur.com/W6jenHX.jpg" height="300" width="225" /></a> 
-  
-
-<a href="https://i.imgur.com/6ScRCvS.jpg"><img src="https://i.imgur.com/6ScRCvS.jpg" height="300" width="225" /></a> 
-  
-
-<a href="https://i.imgur.com/002xIfc.jpg"><img src="https://i.imgur.com/002xIfc.jpg" height="225" width="300" /></a> 
-  
-
-<a href="https://i.imgur.com/3knplfI.jpg"><img src="https://i.imgur.com/3knplfI.jpg" height="225" width="300" /></a> 
+<a href="https://i.imgur.com/032CfCh.jpg"><img src="https://i.imgur.com/032CfCh.jpg" height="225" width="300" /></a> 
  
