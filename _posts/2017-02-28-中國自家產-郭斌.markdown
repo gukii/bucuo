@@ -1,22 +1,61 @@
 ---
 layout: post
 title: "中國自家產  郭斌" 
-date: 2017-02-28T09:29:43+0000 
+date: 2017-02-28T09:21:10+0000 
 categories: ["Koi "] 
 media:
-  - id: ehSyVdt
-    name: 8Np2wgv4A8sgwv8ZrgzvcPqO4yo
+  - id: IoID8DH
+    name: 43lxp2oXwmh81BDq9rrvH1Mr31Q
     description: ""   
     height: 405
     width: 720
     type: image/jpeg
-    link: https://i.imgur.com/ehSyVdt.jpg
-    prevLoc: yG67V1gLApH4o66GD0rNHXAqnJoXA8TGj86wm6rJc67lw9rk5MHQLPXBQYPNszOnXPyqRRiM74DPk99GFYOYKjJBKrtEv9vqZBQ2t3B11pWKYnUMmZGgQz1PCXyxvMYpP9i7zxMGmgllhKoDOkPMJyH702AvDKgMfWLYp2VqqysvW7xP2Z4Eh25oByMQyKuW312yQZVEsnzRRpPD0mhXxYEWqDKRHLv3QPO1vpSn5QJ8wGgofPDwGBV3v1tk9Yv6oBZ9Ig608O
-    parentId: 8Np2wgv4A8sgwv8ZrgzvcPqO4yo
-    postId: olMVXnK6YpHwgwkp076OH8xGxlNkY2CDBmmQW83gUjPN3mL0DlI2vowo
+    link: https://i.imgur.com/IoID8DH.jpg
+    prevLoc: KjYzJWx37Ah1W88QKB2qugG8kDRgG0hmJK1wB15VFYMmPJvBLkfk1wWKkZkOIBG14wRQ09IvVJKgMyXRFJlRMwN10OCKWyjRJXKJI4vVLMWv8rilB8lYqmE0FyP7GL2KrOF4509loYRpcY1LPJ79KBi7Py9jZJ6ruRO0rRL1K3FOyy7Nkz4XtXl5K33YBWuL61nMxGoPC02klXvN94HLVM0jlz3ltrW15O56R6U7DLX67MNZIkyPzDpqYrUA7NRMOvXzu7z
+    parentId: PE0N2Go4lmi6x4nJVBAmt2kr8vm
+    postId: pmN8LoKXgrswVw5EBjpYHXn8nr3KNxfVMzzvxNBKHoyLqEZVRJTAD9g2
     factor: 1.78
     portrait: 0
-    mInfo: epvx5wASAa1EEUc
+    mInfo: vqr3SSqFPcf0wrr
+  - id: 9VrmCPk
+    name: 1NgwmMlRq1sZYMPyD0Dzu0lrNGn
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/9VrmCPk.jpg
+    prevLoc: xEV8RZ4KzohXvmmp891Ji6WmxKr6W1h1pWnLEnJZsBlV7O5mYxiGA217GoGnIgNY9Nn4ELu23mkxDPBZuBJ76oEN67UZRzGOKvZXSDVGyEqVLLfw7Jvr36pniOz8XMrYV7fzmoxRQOqKhJ19D3APRRSDxYmkvlAAUQZ2Xo88GwhPEJ41kXXmUWX4RBW4B2h3zg3AQwBPSRl2QNMQpESoJQvDpLykIJBjoAZwLmcZ4GAMPOykUovVjEYV1ktoYrQzgp3k
+    parentId: PE0N2Go4lmi6x4nJVBAmt2kr8vm
+    postId: pmN8LoKXgrswVw5EBjpYHXn8nr3KNxfVMzzvxNBKHoyLqEZVRJTAD9g2
+    factor: 1.33
+    portrait: 0
+    mInfo: s8LnRKTSw5SceRM
+  - id: ZiDAttv
+    name: 3Xk1o3nWvRc4Qpyl6Br3HZrvwoz
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/ZiDAttv.jpg
+    prevLoc: rxEBLQ4AqgTmZwwyM18AuoN23WnoNAInV48m68MBCjxBWq81Mzt6PK706j65uvO0oOz1QEs769yMDgzoiDlyKorDQXIoKkWnLnkPu1glx5AgpmCLNmKPWRqLiW1DVjv49zFP7y2DjWV3hL4nq6Bp4yukxE30ARjQsOlwBORjZgIR11jOr67PHknOwMMoDzFm92P3k4ADc6A5xrOXL2f8Jg84P59vI171pmMgZwH9Dm75PR9MTgZzJJ5OZvTnrVZZzBL3hlg
+    parentId: PE0N2Go4lmi6x4nJVBAmt2kr8vm
+    postId: pmN8LoKXgrswVw5EBjpYHXn8nr3KNxfVMzzvxNBKHoyLqEZVRJTAD9g2
+    factor: 1.33
+    portrait: 0
+    mInfo: jPbKTLGFjtZVsaP
+  - id: m4DZ6l5
+    name: JxO6V1g5ADFnYq65w3L5hJ3OD7D
+    description: ""   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/m4DZ6l5.jpg
+    prevLoc: orv8GN4xnAIwYllA9BrXTXoMEx4XowT9KwvWqvPnc05YNk3x9MS8JX0m8Z8BIzwkGY3qmnFry1M9Rp0QsAzEX08WojsKrZ57J7ZETlnw2qLnE2uz0EBvn67zFkGNZrpD8Auy89BRP3pWurlqL30mrKUK1O1PELNms7qME7lB2JiEKKNk2GMZC6MEX33jB5IYn7kYA2Llf2Jr5MxA36cy6loJm3vAi5pJ7zwP0MhwAWmR6OAlFPAy3WYwA2U40gx2yLG6hjO
+    parentId: PE0N2Go4lmi6x4nJVBAmt2kr8vm
+    postId: pmN8LoKXgrswVw5EBjpYHXn8nr3KNxfVMzzvxNBKHoyLqEZVRJTAD9g2
+    factor: 1.78
+    portrait: 0
+    mInfo: FYUm0IdWMJt8kJW
 message: "中國自家產  郭斌養鯉場 - 寧波    China Koi  Guobin Koi Farm"
 ---
 
@@ -28,5 +67,14 @@ Guobin Koi Farm
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/ehSyVdt.jpg"><img src="https://i.imgur.com/ehSyVdt.jpg" height="168" width="300" /></a> 
+<a href="https://i.imgur.com/IoID8DH.jpg"><img src="https://i.imgur.com/IoID8DH.jpg" height="168" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/9VrmCPk.jpg"><img src="https://i.imgur.com/9VrmCPk.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/ZiDAttv.jpg"><img src="https://i.imgur.com/ZiDAttv.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/m4DZ6l5.jpg"><img src="https://i.imgur.com/m4DZ6l5.jpg" height="168" width="300" /></a> 
  
