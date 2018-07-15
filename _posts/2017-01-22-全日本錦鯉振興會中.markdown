@@ -1,0 +1,71 @@
+---
+layout: post
+title: "全日本錦鯉振興會中" 
+date: 2017-01-22T06:44:40+0000 
+categories: ["Auction","IKI","錦鯉"] 
+media:
+  - id: FzO5nj0
+    name: 8Np2zwvmM5SgEk0n9WkLUPlLnrN
+    description: ""   
+    height: 720
+    width: 405
+    type: image/jpeg
+    link: https://i.imgur.com/FzO5nj0.jpg
+    prevLoc: QpNjP3E9KATRPBBnV3k6TZA2vXzZANhxXJym9yNAhjw1Erq9LRt9PwVz9o97szyEO7X9YKF7VRowQEZPSrXZPBEwr5sX0Q9OV4n5tWxzpL6Lm0FzGw21LAgkCnw4PBxVqDcpNpRzGJBzsYRVxDLgBOcDAV6kOp9NH6AmD6zG1jFEVV6YyOlgCDzkXNNYB0cyZxGYXzORFMRPDv2q98ig5pz9R1N3fDvq2RYnowUVZGANrA97TKBJQ8xREjixM4A6gE5Mi5l
+    parentId: Vj4O28x1lWCZ683M9N4Jip210PX
+    postId: 9Nq1YABL8RfOlO8Vp5rGHYyly6B85Gs2NlkBRQxWSQ065xVnwVCKwKDx
+    factor: 1.78
+    portrait: 1
+    mInfo: RjfMhOlPEN8FaAB
+  - id: zNRIdTH
+    name: nkL5mMqDgpFVkW1w82oziy89vGg
+    description: ""   
+    height: 226
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/zNRIdTH.jpg
+    prevLoc: xEV8RZ4KzohXvmmp891Ji6WmxKr6W1h1pWnLEnJZsBlV7O5mYxiGA217NN9ZhgOnykGYKGt2vzqzYw1EtB0QZ50o9AiZLABzKW0zS2LpAxRw1ncw7Ppm9LOntO4NJz5rylfzQ9qn3BqPUJjOJoEWw3fLnvR3pNAxuLvj10znYYiXlmYX8Q2ZCp6gPMwV5mf3xLyRA6rXtRo6106JBJTr9RpNL1mpi7VEnywgxDiGg81k26YpuonYn9oNR7C8vBnvk8AjixZE
+    parentId: Vj4O28x1lWCZ683M9N4Jip210PX
+    postId: 9Nq1YABL8RfOlO8Vp5rGHYyly6B85Gs2NlkBRQxWSQ065xVnwVCKwKDx
+    factor: 3.19
+    portrait: 0
+    mInfo: e1okzOfNhvSoImn
+  - id: qk1rn52
+    name: kLGRjJnzrmCvPvJnZyYRhARLOOD
+    description: ""   
+    height: 720
+    width: 405
+    type: image/jpeg
+    link: https://i.imgur.com/qk1rn52.jpg
+    prevLoc: EMZ1zNo3XKTqx11wyg3WT6Q2Kvl6QWh1DPVyGVq7s2rKlRGxP5HZpRjNZYZ3u7Xgv6D5ALfxgZ8rYLE2cV7g29WDj7CvQKEYXG3kfLy3xvnvoZhqWLDPM33mtz4EgZB8M2hV3Gl8N7oxFkw2qx25n8CKqXw3mjArsYjXWYy89KFoPPXzAQjvtnXRxkk5A0TXkJlxQZyMs1y3yWNxw9cK6y7PLmrQiQ7gq6n2RziVDB03y9RncyBQz5K5MLc2zGn1ZvKlULv
+    parentId: Vj4O28x1lWCZ683M9N4Jip210PX
+    postId: 9Nq1YABL8RfOlO8Vp5rGHYyly6B85Gs2NlkBRQxWSQ065xVnwVCKwKDx
+    factor: 1.78
+    portrait: 1
+    mInfo: gTsPWcJzxSZupuE
+message: "全日本錦鯉振興會中囯地區  第一屆生產業者聯合拍賣會   拍賣地點;廣島機場酒店  入場資格;限定代理業者參加  活動時間;2017年2月9日上午9點  拍賣業者;中國地區18家業者  活動網址;http;www.jnpa-chugoku.comuploadkoinolist.html    Nishikigoi Chugoku district  Breeder auction   Date;2017.02.09  http;www.jnpa-chugoku.comauction-e.html"
+---
+
+全日本錦鯉振興會中囯地區  
+第一屆生產業者聯合拍賣會   
+拍賣地點：廣島機場酒店  
+入場資格：限定代理業者參加  
+活動時間：2017年2月9日上午9點  
+拍賣業者：中國地區18家業者  
+活動網址：http://www.jnpa-chugoku.com/upload/koinolist.html  
+  
+Nishikigoi Chugoku district  
+Breeder auction   
+Date:2017.02.09  
+http://www.jnpa-chugoku.com/auction-e.html
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/FzO5nj0.jpg"><img src="https://i.imgur.com/FzO5nj0.jpg" height="300" width="168" /></a> 
+  
+
+<a href="https://i.imgur.com/zNRIdTH.jpg"><img src="https://i.imgur.com/zNRIdTH.jpg" height="94" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/qk1rn52.jpg"><img src="https://i.imgur.com/qk1rn52.jpg" height="300" width="168" /></a> 
+ 
