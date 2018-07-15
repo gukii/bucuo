@@ -1,0 +1,77 @@
+---
+layout: post
+title: "第48回全日本縂合" 
+date: 2017-02-04T11:00:22+0000 
+categories: ["錦鯉品評會","錦鯉"] 
+media:
+  - id: oDMNQgr
+    name: YmjEZvM449sX61okxl6MSkRALMA
+    description: ""   
+    height: 200
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/oDMNQgr.jpg
+    prevLoc: pvRBJO5yo9uwoQQgkvnzTO26Vn4O2MsGlw0x20O9c1ZXoVD6pzuK7Ej8rr1zFz0Dx0KkDqFKVBlj0vxrhkK4ZJyJQysmGGlYqElJC4LBgDY1AySXD1LBqVm0sEv64PjlyvSxlBGJxPgqTkYBN1NYZWHr5yXyx3lycLgj7Gy4NNi13961jJmqIDRo8Kl1QOCJ44LGAQnKiB0vG5nY0MUBW8G8Kl8QF1nlwjQy8OckRpnK9wPLsnmWLynkzYUwB5zNmzAjh37D
+    parentId: ODWYGyZQQ0ck3E41NOVWCGxnry5
+    postId: BmDN9XpRglsnwnvJOgzYhAw4wop3L7FDyNNP8Z4gHXB6yy28Jvf1yp5v
+    factor: 3.60
+    portrait: 0
+    mInfo: hCrCFfV0OZptFwM
+  - id: MNhqBbl
+    name: 9NqrjQ2nnEFjY3Bn1zPNsr1rYA0
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/MNhqBbl.jpg
+    prevLoc: yG67V1gLApH4o66GD0rNHXAqnJoXA8TGj86wm6rJc67lw9rk5MHQLPXBQNQ3uz1Gk1nqRjc5QGPMnWJBSYow3JvK8gcEA5GnK6A2i3y3WE297NsMoqBJZWzkhXB0mXyQEQsWxMrVyo8mcKoD4MNOkXI74Aw9Y0krcW9O8W01KgfvAAwgJxrmip3jEKK5NwCD9oPlRxzLir06pvEDnZIGxo2XGWKmhLg86JDO8KfQzmk91XrYSm8lMMDo84CGy1RQOOODtEm
+    parentId: ODWYGyZQQ0ck3E41NOVWCGxnry5
+    postId: BmDN9XpRglsnwnvJOgzYhAw4wop3L7FDyNNP8Z4gHXB6yy28Jvf1yp5v
+    factor: 1.33
+    portrait: 0
+    mInfo: vIVnDgLD2yJ97vx
+  - id: lEe8w2Q
+    name: RJZ6XoLWWVuXgmPkmpQ8C3k1Aoz
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/lEe8w2Q.jpg
+    prevLoc: Vx5oX8M32JTZy00VB5xlhPkoxwBPkYFR5qK4rK83c5xVBj6n8vI6Yjxq656Du2n0QnyEjKFy3RL4PM9wtWXzmJlwwXUowjX22yxRHq6qxlY24PFvLXjmz7RKiJGV340jMpUvn4yp1P7JhB8AJ6GQBPF1j40NmMzws0kOM0mAY4sv88W9NVMliEBmKyy1r7IwE79qNy1NhNmL2689W8IYrwWBp0v4hXnLqDQJ33iZGzvYQ7ZruBjXJGMy1oiK8Vw3VW1XI4m
+    parentId: ODWYGyZQQ0ck3E41NOVWCGxnry5
+    postId: BmDN9XpRglsnwnvJOgzYhAw4wop3L7FDyNNP8Z4gHXB6yy28Jvf1yp5v
+    factor: 1.33
+    portrait: 0
+    mInfo: CNATfS8dYN9LTED
+  - id: rK09Ytk
+    name: 1NgwMr955vFXEzY27B1RT010M9m
+    description: ""   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/rK09Ytk.jpg
+    prevLoc: 1lYEXmAJpVIZGnnrgkMph91EWgv91xugB2XkpXP0srwjYE0R3BHM46pAMNMRcE0LxR73BwcYwn2m0ABqf1JpPGjK54I8xR8K1KOjhBjBJDG2z4I5YO3Nn7Pwc9xKo8ZP9pU2VKAoNE5YFp8vXN7Qr6tjD5A617NrIrpBVrnoR6Ix44LGME3qFYoX0ggEvmuvJy0L7RgzUjM7y5YwOkc4O1WGoV5jHjVLZMREz7snK20Bvo6JUVppymA9X5iNW9qWx76zCm5
+    parentId: ODWYGyZQQ0ck3E41NOVWCGxnry5
+    postId: BmDN9XpRglsnwnvJOgzYhAw4wop3L7FDyNNP8Z4gHXB6yy28Jvf1yp5v
+    factor: 1.33
+    portrait: 1
+    mInfo: hT0fbMRPhtZaicy
+message: "第48回全日本縂合錦鯉品評會懇親會  Party!!!!!"
+---
+
+第48回全日本縂合錦鯉品評會懇親會  
+Party!!!!!
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/oDMNQgr.jpg"><img src="https://i.imgur.com/oDMNQgr.jpg" height="83" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/MNhqBbl.jpg"><img src="https://i.imgur.com/MNhqBbl.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/lEe8w2Q.jpg"><img src="https://i.imgur.com/lEe8w2Q.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/rK09Ytk.jpg"><img src="https://i.imgur.com/rK09Ytk.jpg" height="300" width="225" /></a> 
+ 
