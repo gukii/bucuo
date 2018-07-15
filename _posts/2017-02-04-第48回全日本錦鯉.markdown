@@ -1,207 +1,81 @@
 ---
 layout: post
 title: "第48回全日本錦鯉" 
-date: 2017-02-04T02:06:22+0000 
-categories: ["IKI","錦鯉"] 
+date: 2017-02-04T10:53:14+0000 
+categories: ["錦鯉"] 
 media:
-  - id: Yhpptrv
-    name: jKERBqnvQzI09A4v5BX7t6Gm4q2
+  - id: zisD2wv
+    name: 3Xk132977XSvB2mApM12SZRm5qK
     description: ""   
     height: 720
-    width: 499
+    width: 405
     type: image/jpeg
-    link: https://i.imgur.com/Yhpptrv.jpg
-    prevLoc: LkY0KXy31AC39NN0qmRPuvgJAQRvgpT0xB9MD9oVtlQM4YrEROijwl4kjojViJy7wG1x3MF05RDg9kNvS31LWyK55AcwqvrvmNBMfGXxr8Blo0Ul0JPvnpmzI7zA6VwGRxs36w0XJo9yfqVOoYAMWyFxGP5D73AZU7BqX725JNiYZZ5GmA7niXBAWNNvpZSDKjlRMV6PSnRPArqXWwIxzwEnQAQoCN8w71yKNVFq2ABw3BR3I0vVNLkr2JCR92kLxWA9tp7
-    parentId: wwXpxmkE9Qsn25BVoPnytOq8jZL
-    postId: ZnkYrGym4qSjkjznp3XJUw4Y41RAgMIEVNNWJp23UZ79W3rX5LiEMEqv
-    factor: 1.44
+    link: https://i.imgur.com/zisD2wv.jpg
+    prevLoc: jmv5zG4pgAhOmllzE3njhmnqgl0mnvhwnxVKAVNouLjxn1ZOVDiqWxnpqAqkuLPNWVxYy5I9A6zJvWrQtWNQj2zMkBs18RpMMp7riQkQJ3pQ9DfMzXqLWX48c9rDA49jnYI95EVnO3WAFwkAGr0J9XsqzgnmD0vwsOBy8OrDjPIQPPR149pLS0oPD55ZkkF02MABDG59uVv7m1glGoCOLj1O1MLRS71lW8zoKoTQ3664yr3KSExjPG8OxBhqyQzRRLvwFPn
+    parentId: Znk6gVW559hjL15AM3rGh0myr3l
+    postId: 075YDopXgvTy7yj0LRY1tlEzEMqZkoU0P99LovXzIz2LPVWl4nUogRvZ
+    factor: 1.78
     portrait: 1
-    mInfo: soWXgppFElrIQoo
-  - id: IHausYD
-    name: PE0NGZYMmOFnP6Ry97QGT2qpNv9
+    mInfo: wIKC1hZZYXy9AWb
+  - id: kNu7oA5
+    name: EpJRy9PDDpSjPpVA9RNZT8KQB4x
     description: ""   
     height: 720
-    width: 516
+    width: 405
     type: image/jpeg
-    link: https://i.imgur.com/IHausYD.jpg
-    prevLoc: yG67V1gLApH4o66GD0rNHXAqnJoXA8TGj86wm6rJc67lw9rk5MHQLPXBQNQ3uz1lOMR5wpF5QGPXjO2qSYow3JZ5NEcX4mM4r9ADS390PpxzZ6f81MD3XPgNFXkxrv9OY2H7wKm4124QIqPO2zyZ7vt7NNPPpjJBuW9O8W01KgfvAAwgJxrmip3jEKK5xNI6PXlK8ArQurPXKNDm1YS4AXkzvj9gi04KGrmAmnhmN1nl82xzimx1o8QoYgsGy17AvnxDHPY
-    parentId: wwXpxmkE9Qsn25BVoPnytOq8jZL
-    postId: ZnkYrGym4qSjkjznp3XJUw4Y41RAgMIEVNNWJp23UZ79W3rX5LiEMEqv
-    factor: 1.40
+    link: https://i.imgur.com/kNu7oA5.jpg
+    prevLoc: 6qmG3rJOxYiWmVVRk1rosAL3vKoAL7tzAP4G74n6C3LXjw0rOGuRNQ7vRDR4tOx89RWorNhqAGMPVR6ES8NYzgvAkQuPQqL0EYwmuv8vzEBv32SmOMVPNXxXIv1WoRVRwPCQ8yJKNpV3cD6yzOzGAYTPQlLPJ7JmHy35RyzxW9C5QQJE2DXrSV10MLL23oFWv0ypr5J0FjV8Eqw8J5I17V2521AoiXQrwrMOOLcOPp4O5p0Et7qkk7ogw6t9NrEElqRohmv
+    parentId: Znk6gVW559hjL15AM3rGh0myr3l
+    postId: 075YDopXgvTy7yj0LRY1tlEzEMqZkoU0P99LovXzIz2LPVWl4nUogRvZ
+    factor: 1.78
     portrait: 1
-    mInfo: IN7dpTKp2U1ASUS
-  - id: Nn2s5DF
-    name: pmNYnQzRwJTZDy0LkXREioA6mEJ
+    mInfo: xxevvwQlxIymTsD
+  - id: 48ba2vO
+    name: EpJRy9PDDpSjPpVAmX7NU819J3B
     description: ""   
     height: 720
-    width: 502
+    width: 405
     type: image/jpeg
-    link: https://i.imgur.com/Nn2s5DF.jpg
-    prevLoc: ZBwv2lQ7GZIjgPP1vD5MuOP6m45OPWsGLxqNVq64cR9vZK8VYmiDAgNwDBDZTQxZKpWJGMU4WrzJjQD1cVAo30MQQvcXNywX2mYRTm5wJDrYR9TqRYyD2zoniq0kLgPqy7U4oL4PV3ELIWNkkZAYrNslnz5woZVpUM3QpMOKvkh855q1zGQLc6AErNND7XTzk9EL854VFmpJLq4pgnhnWJwyPq5ntWPNOyQ67RFpq4vlo8x4iEVVqWNvX1I8Y5LV9N8Kuy5
-    parentId: wwXpxmkE9Qsn25BVoPnytOq8jZL
-    postId: ZnkYrGym4qSjkjznp3XJUw4Y41RAgMIEVNNWJp23UZ79W3rX5LiEMEqv
-    factor: 1.43
+    link: https://i.imgur.com/48ba2vO.jpg
+    prevLoc: 7rnYgvKPyDIRNEErMQAmTJRGrgwJRDhlErDX3Dzvcw4n18lzL5uX4j2xXlXnIREAGqyY1VuZO4KXAvJph4lZ1p8Bo3urw4ryPyVLfBQB17PB9vSgWP6G0Px0SljVBZzmPgiAj3qVYQonhvWkOVKzynCX8z7lKEz9SLKmyL65QosVQQqwj7mzURlZQPP4wvsw9V8J38rPUPVp1QDWLRtg2xR83x4PCA0AwVzXZLHpRlpY9qXBu1BwypgOGQhjZkXnQX7Gcpr
+    parentId: Znk6gVW559hjL15AM3rGh0myr3l
+    postId: 075YDopXgvTy7yj0LRY1tlEzEMqZkoU0P99LovXzIz2LPVWl4nUogRvZ
+    factor: 1.78
     portrait: 1
-    mInfo: wPr2c0lgD1LFWvf
-  - id: 2Mnzsx7
-    name: W056178wOYC8V4K2qkPQt5NlYwJ
+    mInfo: BFTTRBwCcmk1r5a
+  - id: le8dJV7
+    name: KyPrGZ6MMyTkJ4qmRJXPf1kGoQ7
     description: ""   
     height: 720
-    width: 501
+    width: 540
     type: image/jpeg
-    link: https://i.imgur.com/2Mnzsx7.jpg
-    prevLoc: JgYz0Vw3KEunwppkO1q8hMO9njxMOrTK7OL93Lkjcp4LQYAxkrSwxrVlw3wXIwyBzK1LJQF1E9J3Nm56tvgWQAq44kUNkXXrq0RnsrPVyOWmKYtJrzX6PwoRCLzEx1JDYAFv8qq1kj7NHkZ3jxzqOnFV0JyNNgxnIp74ZpgM9yTX22104KMBsYpqQzzl0yc59yWjA9EwHX4vxoJnV8i8k1ZlqWkOtAkrM4ZOGBUYKGRgoQGKIloVOOjMo8tr7MWY5BxyHkq
-    parentId: wwXpxmkE9Qsn25BVoPnytOq8jZL
-    postId: ZnkYrGym4qSjkjznp3XJUw4Y41RAgMIEVNNWJp23UZ79W3rX5LiEMEqv
-    factor: 1.44
+    link: https://i.imgur.com/le8dJV7.jpg
+    prevLoc: vBYRPX4GxmIl8OOJ127Wf45VWGm45xsry9RjlRVnS3EropJAjMuXLjD6XnXvIzB4WXRMj1FXkDLYQ9Gqf7Qxo20yyLhXP59W20LRCQGQ1Y8Qg2fq8knJj9x9h0pyNJppBpULl6G6RX5jU5ogw0pD80F4NM2VnDRxhzvV8zqw9YT0VVWEM4xpuAL2NDD7JyHnXOV6x76Rc96xl8K4n5SB6XnprAJGfjyE1wqvk8T0AwPpWyNgsKEoLR8E02S8V3mq7O2XImN
+    parentId: Znk6gVW559hjL15AM3rGh0myr3l
+    postId: 075YDopXgvTy7yj0LRY1tlEzEMqZkoU0P99LovXzIz2LPVWl4nUogRvZ
+    factor: 1.33
     portrait: 1
-    mInfo: GWXjk2ZZCXVyLDB
-  - id: nY2R2tE
-    name: EpJRy9PZOzSjYjM5XyzMh8qE6rV
-    description: ""   
-    height: 720
-    width: 499
-    type: image/jpeg
-    link: https://i.imgur.com/nY2R2tE.jpg
-    prevLoc: wDE2QY4JynINx0056AGLU78gXMW78jS3xM4kG4D7F659koQgVNHvz4Kov0vGf14ExLwZRMiAm0OkqMg2Sl3WyxMZ8QhRODvO61KBf4GnLQR2Klf64Ro1zBQNcxjAk8PnJjUzqyY0LzAytgo44llX4WUwA2L7n80Lcnyg1nOA5DFXyy9vAG5rs5JngOOqPkhGzgpZWKZBsQ7NQ70BAKtB5rlOzq7ESw4lz7nNZlIrgwWRZA4PCJNwq80nNLSplJ58xpRGck7
-    parentId: wwXpxmkE9Qsn25BVoPnytOq8jZL
-    postId: ZnkYrGym4qSjkjznp3XJUw4Y41RAgMIEVNNWJp23UZ79W3rX5LiEMEqv
-    factor: 1.44
-    portrait: 1
-    mInfo: DOY6df4xiteXUj8
-  - id: e0VSvCH
-    name: ODWYGyZElNfkGwLnRX9ycGvAmkD
-    description: ""   
-    height: 720
-    width: 501
-    type: image/jpeg
-    link: https://i.imgur.com/e0VSvCH.jpg
-    prevLoc: 3njEZoDLrYs4K77j3GpmHMv6jG3MvkTjMX6PZ6YWhnoOAgWGYBSXEKYxXjXRIkXVOmMq2rSMXAk8RzG4t3ZKmo9YyBc925vBBv1mtwP5GXBL7Zfx21Dl36NrHE7Pn4pvEKf91XYWrL5riRn9r8PxrkfLxk3OOvEQFBrVpB748vI166o02pQWH0q8XnnVJVtWPGWpxNjPtk7XpxPqGWF91opEWAKWIPMNq5PMZpFRBkm4ymYPuApgrw1EoWTnGXLEyk21Ho6
-    parentId: wwXpxmkE9Qsn25BVoPnytOq8jZL
-    postId: ZnkYrGym4qSjkjznp3XJUw4Y41RAgMIEVNNWJp23UZ79W3rX5LiEMEqv
-    factor: 1.44
-    portrait: 1
-    mInfo: Mbmy1w3jdFpRuBR
-  - id: oYEk8fr
-    name: XlgDPoM7xZHZW9RppMqGsNW4YKQ
-    description: ""   
-    height: 720
-    width: 504
-    type: image/jpeg
-    link: https://i.imgur.com/oYEk8fr.jpg
-    prevLoc: 6qmG3rJOxYiWmVVRk1rosAL3vKoAL7tzAP4G74n6C3LXjw0rOGuRNQ7vRDR4tOx89RWorNhqAGMPVR6ES8NYzmBVEVC1vl02418NtvWK0w9k2mTmrxBP71oOivX9xjQRvBHQlPoK4wYWiD6vV8yjxrcPQlLAq4RlSy35RyzxW9C5QQJE2DXrSV10MLL23RfWv06q9Q3os2kJkNmzGJC1LK2mMoq5U3NGKvDGzRuOkl5QGpgEU7Ooyr3gGxf9N8MNvRVNSEA
-    parentId: wwXpxmkE9Qsn25BVoPnytOq8jZL
-    postId: ZnkYrGym4qSjkjznp3XJUw4Y41RAgMIEVNNWJp23UZ79W3rX5LiEMEqv
-    factor: 1.43
-    portrait: 1
-    mInfo: LfJvU632UT9AntF
-  - id: 4tjY6Ur
-    name: LzQ9G8PY6Kf273rVg3EPcV8JEox
-    description: ""   
-    height: 720
-    width: 495
-    type: image/jpeg
-    link: https://i.imgur.com/4tjY6Ur.jpg
-    prevLoc: YAQr1kP3YVc9lkkKYNL3ToZWQmNoZ5IPrwoZJoK0cvnzol3MRmHgP3OZgrgLTPGLRq07M4uWMK85mzVQf8DX2PjZLKfK4AN4RkJjHLQ3256vZJCQ49v7nBlVu2mry56DBQfNp4mJMLmXCkNjon5p56sYrQJqMNJGT4Pr9BKKV1S7gxm2q55JT75pBN7pzkhAXmYG0gmQu7zQrNZMVyfB8QZyGBvqtA0kJnlExzUWwZ5vRZmJtYq30Gm3E6C4ML96moyE
-    parentId: wwXpxmkE9Qsn25BVoPnytOq8jZL
-    postId: ZnkYrGym4qSjkjznp3XJUw4Y41RAgMIEVNNWJp23UZ79W3rX5LiEMEqv
-    factor: 1.45
-    portrait: 1
-    mInfo: Bz5jqNEgRlgFOQM
-  - id: LgiYQG8
-    name: wwXpxmkE9QsnpPEWZZ1rHO2gDEK
-    description: ""   
-    height: 720
-    width: 501
-    type: image/jpeg
-    link: https://i.imgur.com/LgiYQG8.jpg
-    prevLoc: PoMgO2D3K6C6XvvBgoK4CMrpQOKMr5TpwBv2lvK5ImPnkYzJ6Zi2Jr7j2p28ulpOR069MqIMNRWJq5j9trY2VR355nIzYxPzg75yfwGqANO0xgi48zXr6ykMug4AxjlmxNs98AP95vR4ulZ2rLynROFBDZR6qBVDiryL2rmO51IkYYoZ0yVAtk7BO55mLwuMkEPkjyK2CB0158l24AC6PADpw8Z7cVx9Rl2QqlcOkK8JG7OWHqY3OO5LYmUE4rGLLNm0hlK
-    parentId: wwXpxmkE9Qsn25BVoPnytOq8jZL
-    postId: ZnkYrGym4qSjkjznp3XJUw4Y41RAgMIEVNNWJp23UZ79W3rX5LiEMEqv
-    factor: 1.44
-    portrait: 1
-    mInfo: uLgjmnErDM7Ws0k
-  - id: sd4iMzf
-    name: MAR8XQ9EDLiY7YwNmQELu5yXg9Y
-    description: ""   
-    height: 720
-    width: 498
-    type: image/jpeg
-    link: https://i.imgur.com/sd4iMzf.jpg
-    prevLoc: 5plV2qGNwATl9ggy8xZ0fK8LjrXK8gH31MOBqOnmFomzOxQ9KLhj9Y1JjxjEiR7N31nwMXumLEJk7qBPi9E2w7P886uVpO3kLoYOUWoEJN1R2kTm1q2zYDLAtL3MmRp1B8iQKNn08YJrSp4Z4Kz3YwIJ6nDJYNQZtkN2KkE1GVHMRR13qv9BtpVJ300R5gCWJNGlERjmcwzM7Dl9pkuYP4VPzM81FLRGGloqAZcPDEY3nRQWc2JxK5PwXMfGwX1mAMNqhDQ
-    parentId: wwXpxmkE9Qsn25BVoPnytOq8jZL
-    postId: ZnkYrGym4qSjkjznp3XJUw4Y41RAgMIEVNNWJp23UZ79W3rX5LiEMEqv
-    factor: 1.45
-    portrait: 1
-    mInfo: Ej1Q8M8isQtotv9
-  - id: ebPDuvq
-    name: mjKZkQE2RDfq9qQ5vpAOSJY21Wq
-    description: ""   
-    height: 720
-    width: 498
-    type: image/jpeg
-    link: https://i.imgur.com/ebPDuvq.jpg
-    prevLoc: 3njEZoDLrYs4K77j3GpmHMv6jG3MvkTjMX6PZ6YWhnoOAgWGYBSXEKYxXjXRIkXVOmMq2rSMXAk8RzG4t3ZKmo9YYji92nKlJPVktwP5GXynYMfxBWQjr3GlFE05mj6VmRc9EqXK5r6GsRnDQPYlY4fLpQkR2wB4sBrVpB748vI166o02pQWH0q8XnnVJgc3pjNLV5KzF4DEVwWEDMcZvy1zgOgBsPMBWgwo91HRKX21KpjYTkL106ZGY1HnGXOj2kNDSjq
-    parentId: wwXpxmkE9Qsn25BVoPnytOq8jZL
-    postId: ZnkYrGym4qSjkjznp3XJUw4Y41RAgMIEVNNWJp23UZ79W3rX5LiEMEqv
-    factor: 1.45
-    portrait: 1
-    mInfo: LbcNEpGezoVEfTn
-  - id: SWPPyZe
-    name: zz1pAKnBPWfz7zk5qZNVSLXBy9P
-    description: ""   
-    height: 720
-    width: 498
-    type: image/jpeg
-    link: https://i.imgur.com/SWPPyZe.jpg
-    prevLoc: jmv5zG4pgAhOmllzE3njhmnqgl0mnvhwnxVKAVNouLjxn1ZOVDiqWxnpqAqkuLPNWVxYy5I9A6zJvWrQtWNQjvgBAXt10JDZYAXytQvX7nmj2NfMl43Vjk6rcv3ArANmLxT97x48xpAwIwq44Nv25jIqzQBqnnz9sOBy8OrDjPIQPPR149pLS0oPD55Z9XHrXA4N0WWgtVz9No3onRCqZ3rm8JWMI4O13KMmYwuAXL7qZ6OZUQkq5gyOoqhqyQ4Ew2gkSAV
-    parentId: wwXpxmkE9Qsn25BVoPnytOq8jZL
-    postId: ZnkYrGym4qSjkjznp3XJUw4Y41RAgMIEVNNWJp23UZ79W3rX5LiEMEqv
-    factor: 1.45
-    portrait: 1
-    mInfo: gwUJpda5NVCGR4k
-message: "第48回全日本錦鯉縂合品評會  2017 NISHIKIGOI of THE WORLD    恭喜！"
+    mInfo: hGL1FtZVXydj0VO
+message: "第48回全日本錦鯉縂合品評會  恭賀 袁建棟 先生愛鯉榮獲;  巨鯉部縂合優勝-阪井紅白80部  參議院議長賞-阪井紅白80部  宮日出雄賞A-阪井大正90部  椿賞-篠田德國昭和80部"
 ---
 
 第48回全日本錦鯉縂合品評會  
-2017 NISHIKIGOI of THE WORLD  
-  
-恭喜！
+恭賀 袁建棟 先生愛鯉榮獲：  
+巨鯉部縂合優勝-阪井紅白80部  
+參議院議長賞-阪井紅白80部  
+宮日出雄賞A-阪井大正90部  
+椿賞-篠田德國昭和80部
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/Yhpptrv.jpg"><img src="https://i.imgur.com/Yhpptrv.jpg" height="300" width="207" /></a> 
+<a href="https://i.imgur.com/zisD2wv.jpg"><img src="https://i.imgur.com/zisD2wv.jpg" height="300" width="168" /></a> 
   
 
-<a href="https://i.imgur.com/IHausYD.jpg"><img src="https://i.imgur.com/IHausYD.jpg" height="300" width="215" /></a> 
+<a href="https://i.imgur.com/kNu7oA5.jpg"><img src="https://i.imgur.com/kNu7oA5.jpg" height="300" width="168" /></a> 
   
 
-<a href="https://i.imgur.com/Nn2s5DF.jpg"><img src="https://i.imgur.com/Nn2s5DF.jpg" height="300" width="209" /></a> 
+<a href="https://i.imgur.com/48ba2vO.jpg"><img src="https://i.imgur.com/48ba2vO.jpg" height="300" width="168" /></a> 
   
 
-<a href="https://i.imgur.com/2Mnzsx7.jpg"><img src="https://i.imgur.com/2Mnzsx7.jpg" height="300" width="208" /></a> 
-  
-
-<a href="https://i.imgur.com/nY2R2tE.jpg"><img src="https://i.imgur.com/nY2R2tE.jpg" height="300" width="207" /></a> 
-  
-
-<a href="https://i.imgur.com/e0VSvCH.jpg"><img src="https://i.imgur.com/e0VSvCH.jpg" height="300" width="208" /></a> 
-  
-
-<a href="https://i.imgur.com/oYEk8fr.jpg"><img src="https://i.imgur.com/oYEk8fr.jpg" height="300" width="210" /></a> 
-  
-
-<a href="https://i.imgur.com/4tjY6Ur.jpg"><img src="https://i.imgur.com/4tjY6Ur.jpg" height="300" width="206" /></a> 
-  
-
-<a href="https://i.imgur.com/LgiYQG8.jpg"><img src="https://i.imgur.com/LgiYQG8.jpg" height="300" width="208" /></a> 
-  
-
-<a href="https://i.imgur.com/sd4iMzf.jpg"><img src="https://i.imgur.com/sd4iMzf.jpg" height="300" width="207" /></a> 
-  
-
-<a href="https://i.imgur.com/ebPDuvq.jpg"><img src="https://i.imgur.com/ebPDuvq.jpg" height="300" width="207" /></a> 
-  
-
-<a href="https://i.imgur.com/SWPPyZe.jpg"><img src="https://i.imgur.com/SWPPyZe.jpg" height="300" width="207" /></a> 
+<a href="https://i.imgur.com/le8dJV7.jpg"><img src="https://i.imgur.com/le8dJV7.jpg" height="300" width="225" /></a> 
  
