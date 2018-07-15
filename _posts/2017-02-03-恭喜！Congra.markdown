@@ -1,0 +1,78 @@
+---
+layout: post
+title: "恭喜！Congra" 
+date: 2017-02-03T01:46:58+0000 
+categories: ["Champion","Koi "] 
+media:
+  - id: uAjyi3u
+    name: W05617PPrOs8kDjV9z2jt5Y93rP
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/uAjyi3u.jpg
+    prevLoc: RqMkQ4G3K8iOWnnwYRvrh8ojExD8o5sqPzYx6YopTgwvEK207Wc83zgO8V86Ijyzqy0wP7FRyGXQjgAPF78qDonmxMTP5WlRWkPmSnK8gx9pxlSXW5nxjE1nS35rGpJqG7FnGg0gXW8gTR7ZPvX8GxhpgkDjLLARIDolmDExA2FqKK6oRBkjfR3Qw99g77txw3p85KXviKrWXxnqRYhB3OkGk2WmtRv5rg6L1VIEqAPY5kpkH2Gl5314NRU5wj8mzmKmuKx
+    parentId: PE0NGZjjkmFnl3BpPzXkC2rMmVy
+    postId: 1NgW3pqBjxfZPZ8w97LViMgDgJkzjmHvpkkLlVqwUYLwMmYPPwuqRG0Q
+    factor: 1.33
+    portrait: 0
+    mInfo: kOdhDywsjlh4qHw
+  - id: NMHD8zr
+    name: LzQ9G8ZZO6I2vQP5Am0MuVEORAJ
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/NMHD8zr.jpg
+    prevLoc: lovXBK4rk8CMEOOWGA2osRYQLM8RYPhBKjWGMWE6upW3vjAnOVSDoLjpD0DvTLW0zWp842u7oxWyz2NAiY59vlY45JFRvYq4JEqNIvA3xQKoQOSvL7Vg2AJVF5xn571r62CpjEK8jPnAF1Bw5ggAwYhzPRzkNyJyIOXPoOyzJ2IvBBwQA9jOi5xnz33X1YhXY9O3ZBA6ixQ4rOn730u7gBy78Kl0uEkAxm67lqt5oMj8NlpOSVmQLznxqoSgZY8ALOB2u6G
+    parentId: PE0NGZjjkmFnl3BpPzXkC2rMmVy
+    postId: 1NgW3pqBjxfZPZ8w97LViMgDgJkzjmHvpkkLlVqwUYLwMmYPPwuqRG0Q
+    factor: 1.33
+    portrait: 0
+    mInfo: FVxqm3inMA1kAIC
+  - id: Qb3qkGe
+    name: 3Xk13266gRhvB2mOwA0yIZvMO81
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/Qb3qkGe.jpg
+    prevLoc: Vx5oX8M32JTZy00VB5xlhPkoxwBPkYFR5qK4rK83c5xVBj6n8vI6Yjxq656Du2n0QnyEjKFy3RL4PM9wtWXzmJvRgQFoMNNBNWE0HqL26pEZprIXVNW31G8ZUJGV6YqqrwSvn7Lz8gM7uB8M86M8zwFR4joLyZpGc0kOM0mAY4sv88W9NVMliEBmKyy1rpcgQjX6XgXjcBXxP7QN0NIYmnkpxgwmsrJyNERWKBuJ83EL23o7fp179O6BAJHK8VG7rZM9T4q
+    parentId: PE0NGZjjkmFnl3BpPzXkC2rMmVy
+    postId: 1NgW3pqBjxfZPZ8w97LViMgDgJkzjmHvpkkLlVqwUYLwMmYPPwuqRG0Q
+    factor: 1.33
+    portrait: 0
+    mInfo: rMKRge2dwgEuH5h
+  - id: kUMGa3V
+    name: 1NgwMr66O1sXRqpAYpvzT0l7vWn
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/kUMGa3V.jpg
+    prevLoc: KjYzJWx37Ah1W88QKB2qugG8kDRgG0hmJK1wB15VFYMmPJvBLkfk1wWKkZkOIBG6EGqNRJhvVJKz9mBYHJlR8ODGy6U14Qj32zAGiEg8qk2WkEcgyNvDRxZviyk101R0Z2uzgBwBLK6WHYQYZGM02mi7Pr7o5qErTRO0rRL1K3FOyy7Nkz4XtXl5K33YBYf0rlp68N2VfOwvN4LqkOtR5Y76ERqEhr3nWglv6yUPjXrzJqLrTPZG6NE62ACA7NRZ2q50H7R
+    parentId: PE0NGZjjkmFnl3BpPzXkC2rMmVy
+    postId: 1NgW3pqBjxfZPZ8w97LViMgDgJkzjmHvpkkLlVqwUYLwMmYPPwuqRG0Q
+    factor: 1.33
+    portrait: 0
+    mInfo: ivg9JiwmGbgSBsa
+message: "恭喜！Congratulations！  2017 東京大賽縂合冠軍  Grand Champion 2017 Tokyo koi show"
+---
+
+恭喜！Congratulations！  
+2017 東京大賽縂合冠軍  
+Grand Champion 2017 Tokyo koi show
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/uAjyi3u.jpg"><img src="https://i.imgur.com/uAjyi3u.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/NMHD8zr.jpg"><img src="https://i.imgur.com/NMHD8zr.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/Qb3qkGe.jpg"><img src="https://i.imgur.com/Qb3qkGe.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/kUMGa3V.jpg"><img src="https://i.imgur.com/kUMGa3V.jpg" height="225" width="300" /></a> 
+ 
