@@ -4,32 +4,6 @@ title: "找到神奇寶貝，淺黃"
 date: 2018-07-24T09:28:26+0000 
 categories: ["Omosako","IKI"] 
 media:
-  - id: cIYwSC6
-    name: 2Njx6k9m9ACQj8PQn7o7IVgyvk3
-    description: "目前公母未明，2歲。"   
-    height: 540
-    width: 720
-    type: image/jpeg
-    link: https://i.imgur.com/cIYwSC6.jpg
-    prevLoc: orv8GN4xnAIwYllA9BrXTXoMEx4XowT9KwvWqvPnc05YNk3x9MS8JX0m8Z8BIzwNMwZEM2CrLnjJpj3liZxPLZPZG3HKzA07vzPltNBpmVpZWyIznM452R67iGPZg3MmEDSyOqyKE55KUrxVgy47ngTkwzyK9AxLhApGgNYo8RSgWwolGMX1f4Mrnyl4RgT8KmrzQ7REtzM2okw58QFQW3mEowymf5N2NQwNJ0cwAlg6JwVjugzvWMRNknHzj0WvOoENULoYBky78
-    parentId: 1NgW5w9l9zCXlZop9V6GIJrDApq
-    postId: NBVLWKj5xQC6O6o5G2w4hLMOM2l1nyfBXvW4gKMQuG0pYk2AAofLkxLW
-    factor: 1.33
-    portrait: 0
-    mInfo: 6vnfRpQEAjivwDE
-  - id: 4DBJaNO
-    name: 43lQgx9o9Dsxo9RrPG0rFgpYXwD
-    description: ""   
-    height: 405
-    width: 720
-    type: image/jpeg
-    link: https://i.imgur.com/4DBJaNO.jpg
-    prevLoc: q0V6KP4zpAI2NLLgBz8OuKr4YGkKrAHVOW6YK6wMHzy7XQ18AWinwryAnzrYF50yQDJV44H4K1OMBVV9CGmGVRkvzJTvV55Q97MJHVA86MgN4ptO8X8KxlA5F16zqKVvwmiZBYZJqW15UrEYZ0kK2xU5m5pXWzRMCK85DvyYYmuVBrnOlxRECxzBqYwyYQIZ1kLV3gq7crDkMDqZBBf4rowjlEk4IVEvG2MLQGszA4OMMJpxUO1P363LkNT1oMpvzgJmUm5xQG
-    parentId: 1NgW5w9l9zCXlZop9V6GIJrDApq
-    postId: NBVLWKj5xQC6O6o5G2w4hLMOM2l1nyfBXvW4gKMQuG0pYk2AAofLkxLW
-    factor: 1.78
-    portrait: 0
-    mInfo: 8sDNaPbTewJXswt
   - id: Gjs1zkI
     name: KyP1Mr6j6kFkJ4zznkB1U1kGoA7
     description: "面迫社長的神奇寶貝≧∇≦"   
@@ -43,6 +17,32 @@ media:
     factor: 1.33
     portrait: 1
     mInfo: zMDWtDKuc72j0Fq
+  - id: 4DBJaNO
+    name: 43lQgx9o9Dsxo9RrPG0rFgpYXwD
+    description: ""   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/4DBJaNO.jpg
+    prevLoc: q0V6KP4zpAI2NLLgBz8OuKr4YGkKrAHVOW6YK6wMHzy7XQ18AWinwryAnzrYF50yQDJV44H4K1OMBVV9CGmGVRkvzJTvV55Q97MJHVA86MgN4ptO8X8KxlA5F16zqKVvwmiZBYZJqW15UrEYZ0kK2xU5m5pXWzRMCK85DvyYYmuVBrnOlxRECxzBqYwyYQIZ1kLV3gq7crDkMDqZBBf4rowjlEk4IVEvG2MLQGszA4OMMJpxUO1P363LkNT1oMpvzgJmUm5xQG
+    parentId: 1NgW5w9l9zCXlZop9V6GIJrDApq
+    postId: NBVLWKj5xQC6O6o5G2w4hLMOM2l1nyfBXvW4gKMQuG0pYk2AAofLkxLW
+    factor: 1.78
+    portrait: 0
+    mInfo: 8sDNaPbTewJXswt
+  - id: cIYwSC6
+    name: 2Njx6k9m9ACQj8PQn7o7IVgyvk3
+    description: "目前公母未明，2歲。"   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/cIYwSC6.jpg
+    prevLoc: orv8GN4xnAIwYllA9BrXTXoMEx4XowT9KwvWqvPnc05YNk3x9MS8JX0m8Z8BIzwNMwZEM2CrLnjJpj3liZxPLZPZG3HKzA07vzPltNBpmVpZWyIznM452R67iGPZg3MmEDSyOqyKE55KUrxVgy47ngTkwzyK9AxLhApGgNYo8RSgWwolGMX1f4Mrnyl4RgT8KmrzQ7REtzM2okw58QFQW3mEowymf5N2NQwNJ0cwAlg6JwVjugzvWMRNknHzj0WvOoENULoYBky78
+    parentId: 1NgW5w9l9zCXlZop9V6GIJrDApq
+    postId: NBVLWKj5xQC6O6o5G2w4hLMOM2l1nyfBXvW4gKMQuG0pYk2AAofLkxLW
+    factor: 1.33
+    portrait: 0
+    mInfo: 6vnfRpQEAjivwDE
   - id: iYdRV6d
     name: DoG1Bk0L07UZP3NZvLXJTDvkRZq
     description: "理想狀態≧∇≦ 如果墨可以完成到這樣就太完美啦！"   
@@ -69,13 +69,13 @@ Wish my Dream come true !
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/cIYwSC6.jpg"><img src="https://i.imgur.com/cIYwSC6.jpg" height="225" width="300" /></a> 
+<a href="https://i.imgur.com/Gjs1zkI.jpg"><img src="https://i.imgur.com/Gjs1zkI.jpg" height="300" width="225" /></a> 
   
 
 <a href="https://i.imgur.com/4DBJaNO.jpg"><img src="https://i.imgur.com/4DBJaNO.jpg" height="168" width="300" /></a> 
   
 
-<a href="https://i.imgur.com/Gjs1zkI.jpg"><img src="https://i.imgur.com/Gjs1zkI.jpg" height="300" width="225" /></a> 
+<a href="https://i.imgur.com/cIYwSC6.jpg"><img src="https://i.imgur.com/cIYwSC6.jpg" height="225" width="300" /></a> 
   
 
 <a href="https://i.imgur.com/iYdRV6d.jpg"><img src="https://i.imgur.com/iYdRV6d.jpg" height="221" width="300" /></a> 
