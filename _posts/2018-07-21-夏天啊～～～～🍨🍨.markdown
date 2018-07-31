@@ -30,19 +30,6 @@ media:
     factor: 1.33
     portrait: 0
     mInfo: WRQsjc4c7aC3nfs
-  - id: 8cjCpHV
-    name: ODWMQYM4DBSkpB4lXYPGiG5znRR
-    description: ""   
-    height: 720
-    width: 540
-    type: image/jpeg
-    link: https://i.imgur.com/8cjCpHV.jpg
-    prevLoc: YAQr1kP3YVc9lkkKYNL3ToZWQmNoZ5IPrwoZJoK0cvnzol3MRmHgP3OZgrgLTPGLRq07M4uWMK85mzVQfBv93nK64oFomOMXm7WYuLyJ2pX857T96WmMgzKpiYVQqxWZ0vFNBwMlMPAMi9RoAPzp6WsxDmNnx3A1T4pXY4VLv9s7RR1qvw4NH74PDrrw0yujMG4j1yqPiQ4y9YvOq8UjgAQB8rN8s9N14ZrxRpUWRg034v0DiPxQ3LVz0pf4k8x0Dv31f4k
-    parentId: olMVE2VLl4imrygRkgV3HRoXPm7
-    postId: BmDN9XpRglsnwnvJOgzYhAw4wop3L7FDPRrErnZOfljlVrkvyrh1RBzA
-    factor: 1.33
-    portrait: 1
-    mInfo: ef3rkjQW5r9AuDl
 message: "夏天啊～～～～🍨🍨🍨  哈密瓜跟芒果啊～～～  雪花冰都是照水果口味做的喔～～～  來熱呼呼的屏東一定不要錯過喔～～～"
 ---
 
@@ -57,7 +44,4 @@ message: "夏天啊～～～～🍨🍨🍨  哈密瓜跟芒果啊～～～  雪
   
 
 <a href="https://i.imgur.com/6DoaJdp.jpg"><img src="https://i.imgur.com/6DoaJdp.jpg" height="225" width="300" /></a> 
-  
-
-<a href="https://i.imgur.com/8cjCpHV.jpg"><img src="https://i.imgur.com/8cjCpHV.jpg" height="300" width="225" /></a> 
  
