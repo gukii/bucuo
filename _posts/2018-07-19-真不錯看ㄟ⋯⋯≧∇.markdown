@@ -1,0 +1,28 @@
+---
+layout: post
+title: "真不錯看ㄟ⋯⋯≧∇" 
+date: 2018-07-19T01:30:04+0000 
+categories: [] 
+media:
+  - id: 1T8sM4Y
+    name: JxV2zrXVvOUnv9lQ00M4Iv97LR
+    description: ""   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/1T8sM4Y.jpg
+    prevLoc: NmEXMZA3K7h63VVYLE0NC60W9MK60ohZxjgD2gnPczw1rPn0KmiBrQyNBWQnCopBPAVMggc8yz0x1BBRfl4lPJ6VkBUZLooME5RVcwoVpzrg0EhJvRmRJ2EnuGjGKn55DQFxrZBWEmMOfm34L6j91OiEzR7NR0Y7sPMN6oLvppi4pmZ45LjvS2NrPYKV1ptY5Kxm3JBGFRvVAZEZR1cOMEm33BOWc9BWgM7zl5Uz49Z6Pl4zhkgQOBvYQ2U96Lz6ryxQtK68
+    parentId: JxV2zrXVvOUnv9lQ00M4Iv97LR
+    postId: BmDN9XpRglsnwnvJOgzYhAw4wop3L7FDP8nAr526UlnpNN1YnOs1BOon
+    factor: 1.78
+    portrait: 0
+    mInfo: KuWWcsQ1FPWeLZ3
+message: "真不錯看ㄟ⋯⋯≧∇≦"
+---
+
+真不錯看ㄟ⋯⋯(≧∇≦)
+
+
+[//]: #media:  
+<a href="https://i.imgur.com/1T8sM4Y.jpg"><img src="https://i.imgur.com/1T8sM4Y.jpg" height="168" width="300" /></a> 
+ 
