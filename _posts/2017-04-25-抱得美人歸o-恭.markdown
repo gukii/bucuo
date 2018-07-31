@@ -147,7 +147,7 @@ media:
     factor: 1.33
     portrait: 0
     mInfo: C7t8D8TWjvivZjI
-message: "抱得美人歸o  恭喜蘇州蘇信！    第18回大日拍賣會  標王 ;  No.01   品種;昭和 Showa  血統;Super Monster   尺寸;59公分  年齡;2歲 2015年6月誕生  得標;1,500萬日幣 台幣約413萬    在拍賣會之前的迎賓晚宴上，間野 太社長、間野 茂 先生與我分享了更多關於Super Monster 的家族歷史，讓我學習到更多的血統配對知識。  每一個錦鯉業者都是一名藝術家，在創作的過程不斷的挑戰自己突破困難，日積月累一代代傳承才能有今天的成就！    Got this beautiful Showa!  Super Happy!!!   Congratulations to my customer "Suzhou Suxin"    The 18th Dainichi Auction  No.01  Variety;Showa  Offspring of;Super Monster   Size;59cm  Age;2y  2015.06    Auction Price;  JPY 1,500,000-  CNY 940,000  USD 137,000-  EUR 126,000-"
+message: "抱得美人歸o  恭喜蘇州蘇信！    第18回大日拍賣會  標王 ;  No.01   品種;昭和 Showa  血統;Super Monster   尺寸;59公分  年齡;2歲 2015年6月誕生  得標;1,500萬日幣 台幣約413萬    在拍賣會之前的迎賓晚宴上，間野 太社長、間野 茂 先生與我分享了更多關於Super Monster 的家族歷史，讓我學習到更多的血統配對知識。  每一個錦鯉業者都是一名藝術家，在創作的過程不斷的挑戰自己突破困難，日積月累一代代傳承才能有今天的成就！    Got this beautiful Showa!  Super Happy!!!   Congratulations to my customer 'Suzhou Suxin'    The 18th Dainichi Auction  No.01  Variety;Showa  Offspring of;Super Monster   Size;59cm  Age;2y  2015.06    Auction Price;  JPY 1,500,000-  CNY 940,000  USD 137,000-  EUR 126,000-"
 ---
 
 抱得美人歸*\(^o^)/*  
