@@ -4,45 +4,6 @@ title: "阪井稚魚池狀況都很"
 date: 2018-07-25T06:04:18+0000 
 categories: [] 
 media:
-  - id: 3VIM5q6
-    name: W05L2P0vXoI8PBgQ907ru576OLp
-    description: ""   
-    height: 720
-    width: 540
-    type: image/jpeg
-    link: https://i.imgur.com/3VIM5q6.jpg
-    prevLoc: orv8GN4xnAIwYllA9BrXTXoMEx4XowT9KwvWqvPnc05YNk3x9MS8JX0m8Z8BIzwkGY3qmnFry1M9Rp0QsZgo30v7EGSKzA9zNjO3SlrD4NkM5OszqL0LrApzHGx9Jpglp9iyOoV9wZ7jHKg9DMp6A4tKzwWOVk4LF7qME7lB2JiEKKNk2GMZC6MEX33j5BH12K9PjOXWcjE35jVwlyTQk3L89mPLUg16Zry37YcwAyLw2V4vUglBRmK29oF40gvR5R8Qf97
-    parentId: W05L2P0vXBS4K863vJrOF5Agm85
-    postId: 3XkQVrvKlBf4y4ZYE5Wnc7GlGJ9K0OiLOGyE6O1WfxGo0xym3QC0Gr0V
-    factor: 1.33
-    portrait: 1
-    mInfo: zMXpPtzNEctE7vu
-  - id: eInoicp
-    name: kLG8z2LKNXuvg4o1zgxKcoY7GAy
-    description: ""   
-    height: 720
-    width: 404
-    type: image/jpeg
-    link: https://i.imgur.com/eInoicp.jpg
-    prevLoc: 7rnYgvKPyDIRNEErMQAmTJRGrgwJRDhlErDX3Dzvcw4n18lzL5uX4j2xXlXnIREAGqyY1VuZO4KXAvJphx9rjQv0Nncr09ExkQXWfDoRrV2wWmIgA252XK7NTkgjpl7jj6SA3zWyoyjXfowrjR64YZHXDnnD7K11sLKmyL65QosVQQqwj7mzURlZQPP4vKcw6YGrgmW5TkKy4V4Xm6IA9oqB2ryoTALr8RZXQ6IrnvM6qNr3T14JWAjO0xFjn1mQELVXcpQ
-    parentId: W05L2P0vXBS4K863vJrOF5Agm85
-    postId: 3XkQVrvKlBf4y4ZYE5Wnc7GlGJ9K0OiLOGyE6O1WfxGo0xym3QC0Gr0V
-    factor: 1.78
-    portrait: 1
-    mInfo: OZ3TIifqAOrXn7o
-  - id: iXc15vf
-    name: olMVEZlKkXhmk86l6K6yflywqp8
-    description: ""   
-    height: 540
-    width: 720
-    type: image/jpeg
-    link: https://i.imgur.com/iXc15vf.jpg
-    prevLoc: 6qmG3rJOxYiWmVVRk1rosAL3vKoAL7tzAP4G74n6C3LXjw0rOGuRNQ7vRDR4tOxL1xykWmsqAGMWrg4NSl0EO1On1ntPW9jD219gIg6wpoAM5ZfmrN8vDx55fvX9K9X81GIjvLZ6gYZAHDqJn1MRjGuVmoM8JXv3uy35RyzxW9C5QQJE2DXrSV10MLL2GOcyQylwMjnZSjw2yLDkZjuBKOVOwZV5tXAJ6OjAAyUO6njMQ8qgFnwNyVKVLpi9NzrYM3l9Umv
-    parentId: W05L2P0vXBS4K863vJrOF5Agm85
-    postId: 3XkQVrvKlBf4y4ZYE5Wnc7GlGJ9K0OiLOGyE6O1WfxGo0xym3QC0Gr0V
-    factor: 1.33
-    portrait: 0
-    mInfo: URLTc5z0kOwuNMb
   - id: oI4FFvP
     name: DoG1BqorlWHZnVKWR6x6SgOYrDj
     description: ""   
@@ -56,19 +17,19 @@ media:
     factor: 1.33
     portrait: 0
     mInfo: GsByecmR85BURNM
-  - id: zpkVppP
-    name: PE07RjElAWFnQZZ7yMXRU3G5N7M
+  - id: 3VIM5q6
+    name: W05L2P0vXoI8PBgQ907ru576OLp
     description: ""   
-    height: 540
-    width: 720
+    height: 720
+    width: 540
     type: image/jpeg
-    link: https://i.imgur.com/zpkVppP.jpg
-    prevLoc: nqY7EM4wmGiWDll4wK7Gs8EjKQD8ExsM3EvmQvXgFBv10RGkYOiZY2wKZRZguonrRnLDWJclWJjBNQopf49pG1L3LGC6VKGzOQxzCyXKBzO6VZsE7JD1zv66UKL5ZY4X4PInmOvvOJ6qC1xQRvGKX7HM3YrXYz2wsoxA7oBYKguLXXD43m18t91zlQQOxKiQGyYP2jqDil9NDDqK93S3Q4686XD9HX5XyP4WjlfqlmgynwARfAvjZO5J9LTMxL0G6r4nHqn
+    link: https://i.imgur.com/3VIM5q6.jpg
+    prevLoc: orv8GN4xnAIwYllA9BrXTXoMEx4XowT9KwvWqvPnc05YNk3x9MS8JX0m8Z8BIzwkGY3qmnFry1M9Rp0QsZgo30v7EGSKzA9zNjO3SlrD4NkM5OszqL0LrApzHGx9Jpglp9iyOoV9wZ7jHKg9DMp6A4tKzwWOVk4LF7qME7lB2JiEKKNk2GMZC6MEX33j5BH12K9PjOXWcjE35jVwlyTQk3L89mPLUg16Zry37YcwAyLw2V4vUglBRmK29oF40gvR5R8Qf97
     parentId: W05L2P0vXBS4K863vJrOF5Agm85
     postId: 3XkQVrvKlBf4y4ZYE5Wnc7GlGJ9K0OiLOGyE6O1WfxGo0xym3QC0Gr0V
     factor: 1.33
-    portrait: 0
-    mInfo: CmGXJajIvuBevzu
+    portrait: 1
+    mInfo: zMXpPtzNEctE7vu
   - id: U2uxhRf
     name: YmjW47mxNqcXNxLz7JrxuvB5Rkx
     description: ""   
@@ -82,6 +43,45 @@ media:
     factor: 1.33
     portrait: 0
     mInfo: hg0BHYnmgv6Fke3
+  - id: zpkVppP
+    name: PE07RjElAWFnQZZ7yMXRU3G5N7M
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/zpkVppP.jpg
+    prevLoc: nqY7EM4wmGiWDll4wK7Gs8EjKQD8ExsM3EvmQvXgFBv10RGkYOiZY2wKZRZguonrRnLDWJclWJjBNQopf49pG1L3LGC6VKGzOQxzCyXKBzO6VZsE7JD1zv66UKL5ZY4X4PInmOvvOJ6qC1xQRvGKX7HM3YrXYz2wsoxA7oBYKguLXXD43m18t91zlQQOxKiQGyYP2jqDil9NDDqK93S3Q4686XD9HX5XyP4WjlfqlmgynwARfAvjZO5J9LTMxL0G6r4nHqn
+    parentId: W05L2P0vXBS4K863vJrOF5Agm85
+    postId: 3XkQVrvKlBf4y4ZYE5Wnc7GlGJ9K0OiLOGyE6O1WfxGo0xym3QC0Gr0V
+    factor: 1.33
+    portrait: 0
+    mInfo: CmGXJajIvuBevzu
+  - id: iXc15vf
+    name: olMVEZlKkXhmk86l6K6yflywqp8
+    description: ""   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/iXc15vf.jpg
+    prevLoc: 6qmG3rJOxYiWmVVRk1rosAL3vKoAL7tzAP4G74n6C3LXjw0rOGuRNQ7vRDR4tOxL1xykWmsqAGMWrg4NSl0EO1On1ntPW9jD219gIg6wpoAM5ZfmrN8vDx55fvX9K9X81GIjvLZ6gYZAHDqJn1MRjGuVmoM8JXv3uy35RyzxW9C5QQJE2DXrSV10MLL2GOcyQylwMjnZSjw2yLDkZjuBKOVOwZV5tXAJ6OjAAyUO6njMQ8qgFnwNyVKVLpi9NzrYM3l9Umv
+    parentId: W05L2P0vXBS4K863vJrOF5Agm85
+    postId: 3XkQVrvKlBf4y4ZYE5Wnc7GlGJ9K0OiLOGyE6O1WfxGo0xym3QC0Gr0V
+    factor: 1.33
+    portrait: 0
+    mInfo: URLTc5z0kOwuNMb
+  - id: eInoicp
+    name: kLG8z2LKNXuvg4o1zgxKcoY7GAy
+    description: ""   
+    height: 720
+    width: 404
+    type: image/jpeg
+    link: https://i.imgur.com/eInoicp.jpg
+    prevLoc: 7rnYgvKPyDIRNEErMQAmTJRGrgwJRDhlErDX3Dzvcw4n18lzL5uX4j2xXlXnIREAGqyY1VuZO4KXAvJphx9rjQv0Nncr09ExkQXWfDoRrV2wWmIgA252XK7NTkgjpl7jj6SA3zWyoyjXfowrjR64YZHXDnnD7K11sLKmyL65QosVQQqwj7mzURlZQPP4vKcw6YGrgmW5TkKy4V4Xm6IA9oqB2ryoTALr8RZXQ6IrnvM6qNr3T14JWAjO0xFjn1mQELVXcpQ
+    parentId: W05L2P0vXBS4K863vJrOF5Agm85
+    postId: 3XkQVrvKlBf4y4ZYE5Wnc7GlGJ9K0OiLOGyE6O1WfxGo0xym3QC0Gr0V
+    factor: 1.78
+    portrait: 1
+    mInfo: OZ3TIifqAOrXn7o
 message: "阪井稚魚池狀況都很好，在這次的大水災情中很幸運的沒有嚴重的損失，現在正是選別的季節，全體員工分區分工作業中，加油！"
 ---
 
@@ -89,20 +89,20 @@ message: "阪井稚魚池狀況都很好，在這次的大水災情中很幸運�
 
 
 [//]: #media:  
+<a href="https://i.imgur.com/oI4FFvP.jpg"><img src="https://i.imgur.com/oI4FFvP.jpg" height="225" width="300" /></a> 
+  
+
 <a href="https://i.imgur.com/3VIM5q6.jpg"><img src="https://i.imgur.com/3VIM5q6.jpg" height="300" width="225" /></a> 
   
 
-<a href="https://i.imgur.com/eInoicp.jpg"><img src="https://i.imgur.com/eInoicp.jpg" height="300" width="168" /></a> 
-  
-
-<a href="https://i.imgur.com/iXc15vf.jpg"><img src="https://i.imgur.com/iXc15vf.jpg" height="225" width="300" /></a> 
-  
-
-<a href="https://i.imgur.com/oI4FFvP.jpg"><img src="https://i.imgur.com/oI4FFvP.jpg" height="225" width="300" /></a> 
+<a href="https://i.imgur.com/U2uxhRf.jpg"><img src="https://i.imgur.com/U2uxhRf.jpg" height="225" width="300" /></a> 
   
 
 <a href="https://i.imgur.com/zpkVppP.jpg"><img src="https://i.imgur.com/zpkVppP.jpg" height="225" width="300" /></a> 
   
 
-<a href="https://i.imgur.com/U2uxhRf.jpg"><img src="https://i.imgur.com/U2uxhRf.jpg" height="225" width="300" /></a> 
+<a href="https://i.imgur.com/iXc15vf.jpg"><img src="https://i.imgur.com/iXc15vf.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/eInoicp.jpg"><img src="https://i.imgur.com/eInoicp.jpg" height="300" width="168" /></a> 
  
