@@ -4,32 +4,6 @@ title: "人太多⋯⋯躲回酒店"
 date: 2018-07-14T15:39:18+0000 
 categories: [] 
 media:
-  - id: TZVoG1T
-    name: EpJ8AAE916Cj6PQz7mMKC8Kpz04
-    description: "不同風格的吊燈"   
-    height: 720
-    width: 514
-    type: image/jpeg
-    link: https://i.imgur.com/TZVoG1T.jpg
-    prevLoc: BJ8OwK03X1TnKPPxqM7VhZ1gPwxZ15hGLp3Ny3E1cRAvlN63MoiOA6J7ODOjIzM17YR5BOFYn9wNALBGf59MqAMlRYh84AznVk6zTYNAn26Z67HMWN4vOz2rIo9Q4KLk3RCLEwn0N2v6hAPY537j94FyLJEQWqlvsjZVWjAOBNuDxxO06kwEhzYqNvv0o0UWK4DokOQYU9DJr3QZwXi3O4BElJ63cg6WZOnNO7CMEqGNG6yrtL833L4k16H3vwXB5p3vUmJ
-    parentId: wwXVOOzm2RcnoPgXyDMLSOEEXvQ
-    postId: pmN8LoKXgrswVw5EBjpYHXn8nr3KNxfV1DqrW2Z1iY616B5GG4FApgN4
-    factor: 1.40
-    portrait: 1
-    mInfo: RCa8UK0TxaXLxtM
-  - id: 6TeOx1R
-    name: gEAZrrOL8QTJY0XlpWVjs9QzN6m
-    description: "選一個？"   
-    height: 540
-    width: 720
-    type: image/jpeg
-    link: https://i.imgur.com/6TeOx1R.jpg
-    prevLoc: 4okV1p0MvWC85YYZPmBJSrMK5nlrMwuJQLxDGxgyF1VqyLJ3pGu06v780R0Efy1K81ArZXtxAgz2q3jruRX0qEAPkWupN9wp1rNwi8Dvr0X66ZcKRZWDwQWltg5DOm3JG9C5Rl2Q72v5sp80L4WBNmh3x3N27kJxFpz5BpOyoNTXvvyNMJnOs7QY9553pGTDqnpW745nsxNYVGR7BMfXGJqqnEw2CZgwkQlLRpS8nPW6NVoVfr99MO40gZfLOnqZm3kKUNk
-    parentId: wwXVOOzm2RcnoPgXyDMLSOEEXvQ
-    postId: pmN8LoKXgrswVw5EBjpYHXn8nr3KNxfV1DqrW2Z1iY616B5GG4FApgN4
-    factor: 1.33
-    portrait: 0
-    mInfo: FaNYUC5yRD6C7lO
   - id: gzlaB36
     name: wwXVOOzm2RcnR8ZXW8PXfOX9DE8
     description: "客房走道"   
@@ -43,32 +17,6 @@ media:
     factor: 1.40
     portrait: 1
     mInfo: sjze31Fo3T7p31C
-  - id: 7AFO58J
-    name: ZnkY33xVvmCYo4ZQ62xlC0mK78E
-    description: "有趣的吊燈"   
-    height: 720
-    width: 540
-    type: image/jpeg
-    link: https://i.imgur.com/7AFO58J.jpg
-    prevLoc: DLY6yMn3ZwIxAjj7pn5Bszk0vGPzkYsmw1ZRGZOYFrLK42NEWRHEGNZmEnE3TNg3J5ykD0Tm7xngEo5jioykM7jo3PhL3QmJQAvmu8RBJom22pfXKn4B6pMju0pREXPB4liyWBDjgn1mcZ6OxD4wl8FQR1mX9W0psk4nYk7mZBHnKKZov3VEhnGKLrrm53cMw8ggZ5qrs3LvVW2rXocWPkVEJLBlS6AGVDW6gGUEqMnKlrpwfW8Yx7KqDBUPrKj3WVMPhjy
-    parentId: wwXVOOzm2RcnoPgXyDMLSOEEXvQ
-    postId: pmN8LoKXgrswVw5EBjpYHXn8nr3KNxfV1DqrW2Z1iY616B5GG4FApgN4
-    factor: 1.33
-    portrait: 1
-    mInfo: 0OXEop83a5U3r8B
-  - id: dPRvL6f
-    name: mjKOAAmQ8MCqR2918LWDCJwB9vE
-    description: "光影變化有趣"   
-    height: 720
-    width: 540
-    type: image/jpeg
-    link: https://i.imgur.com/dPRvL6f.jpg
-    prevLoc: xEV8RZ4KzohXvmmp891Ji6WmxKr6W1h1pWnLEnJZsBlV7O5mYxiGA217GoGnIgN5OBE3Dpi23mkMy4LpuLmYXr45lpCZR663Jpx7UDV2GBKOKJFkVBz8n6rAUvn6gx864js7KL8jOyjvHYPp2ROyZvtDkmxm7XR8fQBpKQGVnXiP55VkoOrjuWZ0NwwMJOhKm9RkZ66LS8YOYlwlMnu7nY5YV1ZNs7r5lLjogKiGg8VwK4xBSoZ9RWNZqAhovDDlM9zXSGx
-    parentId: wwXVOOzm2RcnoPgXyDMLSOEEXvQ
-    postId: pmN8LoKXgrswVw5EBjpYHXn8nr3KNxfV1DqrW2Z1iY616B5GG4FApgN4
-    factor: 1.33
-    portrait: 1
-    mInfo: TCPL82wD5STKlOv
   - id: yCHpLTN
     name: 2Njx33Pv21SQElo6j4nlcKq3nQk
     description: "露台外的風景"   
@@ -82,6 +30,136 @@ media:
     factor: 1.33
     portrait: 0
     mInfo: P8D7HSW1Ns7IlFe
+  - id: 6TeOx1R
+    name: gEAZrrOL8QTJY0XlpWVjs9QzN6m
+    description: "選一個？"   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/6TeOx1R.jpg
+    prevLoc: 4okV1p0MvWC85YYZPmBJSrMK5nlrMwuJQLxDGxgyF1VqyLJ3pGu06v780R0Efy1K81ArZXtxAgz2q3jruRX0qEAPkWupN9wp1rNwi8Dvr0X66ZcKRZWDwQWltg5DOm3JG9C5Rl2Q72v5sp80L4WBNmh3x3N27kJxFpz5BpOyoNTXvvyNMJnOs7QY9553pGTDqnpW745nsxNYVGR7BMfXGJqqnEw2CZgwkQlLRpS8nPW6NVoVfr99MO40gZfLOnqZm3kKUNk
+    parentId: wwXVOOzm2RcnoPgXyDMLSOEEXvQ
+    postId: pmN8LoKXgrswVw5EBjpYHXn8nr3KNxfV1DqrW2Z1iY616B5GG4FApgN4
+    factor: 1.33
+    portrait: 0
+    mInfo: FaNYUC5yRD6C7lO
+  - id: 7AFO58J
+    name: ZnkY33xVvmCYo4ZQ62xlC0mK78E
+    description: "有趣的吊燈"   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/7AFO58J.jpg
+    prevLoc: DLY6yMn3ZwIxAjj7pn5Bszk0vGPzkYsmw1ZRGZOYFrLK42NEWRHEGNZmEnE3TNg3J5ykD0Tm7xngEo5jioykM7jo3PhL3QmJQAvmu8RBJom22pfXKn4B6pMju0pREXPB4liyWBDjgn1mcZ6OxD4wl8FQR1mX9W0psk4nYk7mZBHnKKZov3VEhnGKLrrm53cMw8ggZ5qrs3LvVW2rXocWPkVEJLBlS6AGVDW6gGUEqMnKlrpwfW8Yx7KqDBUPrKj3WVMPhjy
+    parentId: wwXVOOzm2RcnoPgXyDMLSOEEXvQ
+    postId: pmN8LoKXgrswVw5EBjpYHXn8nr3KNxfV1DqrW2Z1iY616B5GG4FApgN4
+    factor: 1.33
+    portrait: 1
+    mInfo: 0OXEop83a5U3r8B
+  - id: TZVoG1T
+    name: EpJ8AAE916Cj6PQz7mMKC8Kpz04
+    description: "不同風格的吊燈"   
+    height: 720
+    width: 514
+    type: image/jpeg
+    link: https://i.imgur.com/TZVoG1T.jpg
+    prevLoc: BJ8OwK03X1TnKPPxqM7VhZ1gPwxZ15hGLp3Ny3E1cRAvlN63MoiOA6J7ODOjIzM17YR5BOFYn9wNALBGf59MqAMlRYh84AznVk6zTYNAn26Z67HMWN4vOz2rIo9Q4KLk3RCLEwn0N2v6hAPY537j94FyLJEQWqlvsjZVWjAOBNuDxxO06kwEhzYqNvv0o0UWK4DokOQYU9DJr3QZwXi3O4BElJ63cg6WZOnNO7CMEqGNG6yrtL833L4k16H3vwXB5p3vUmJ
+    parentId: wwXVOOzm2RcnoPgXyDMLSOEEXvQ
+    postId: pmN8LoKXgrswVw5EBjpYHXn8nr3KNxfV1DqrW2Z1iY616B5GG4FApgN4
+    factor: 1.40
+    portrait: 1
+    mInfo: RCa8UK0TxaXLxtM
+  - id: dPRvL6f
+    name: mjKOAAmQ8MCqR2918LWDCJwB9vE
+    description: "光影變化有趣"   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/dPRvL6f.jpg
+    prevLoc: xEV8RZ4KzohXvmmp891Ji6WmxKr6W1h1pWnLEnJZsBlV7O5mYxiGA217GoGnIgN5OBE3Dpi23mkMy4LpuLmYXr45lpCZR663Jpx7UDV2GBKOKJFkVBz8n6rAUvn6gx864js7KL8jOyjvHYPp2ROyZvtDkmxm7XR8fQBpKQGVnXiP55VkoOrjuWZ0NwwMJOhKm9RkZ66LS8YOYlwlMnu7nY5YV1ZNs7r5lLjogKiGg8VwK4xBSoZ9RWNZqAhovDDlM9zXSGx
+    parentId: wwXVOOzm2RcnoPgXyDMLSOEEXvQ
+    postId: pmN8LoKXgrswVw5EBjpYHXn8nr3KNxfV1DqrW2Z1iY616B5GG4FApgN4
+    factor: 1.33
+    portrait: 1
+    mInfo: TCPL82wD5STKlOv
+  - id: ad97Ui1
+    name: roP8JJrRBMfODoDy1g0gfM34EJV
+    description: "不排隊游船那就躲車子上逛一圈吧≧∇≦"   
+    height: 405
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/ad97Ui1.jpg
+    prevLoc: Vx5oX8M32JTZy00VB5xlhPkoxwBPkYFR5qK4rK83c5xVBj6n8vI6Yjxq656Du2nXZNjB4WTy3RLnGEXmt5DA1lj9NBUG7l1wxJv8Hr0qM7P6pgUXzJ11nAM1iJGV66pkAkFVLzmAJBn2hBnZZKxvvYuR40NpN3voF0kOM0mAY4sv88W9NVMliEBmKyy1prfwzGM6E5rLfNmQnAjmz1sYPD0Qk562cXnPlRZRJPTJgryVnDl0H9oo4DY8xMiK0v3XkjrDIGl
+    parentId: wwXVOOzm2RcnoPgXyDMLSOEEXvQ
+    postId: pmN8LoKXgrswVw5EBjpYHXn8nr3KNxfV1DqrW2Z1iY616B5GG4FApgN4
+    factor: 1.78
+    portrait: 0
+    mInfo: GzUS0WDC6epIxd0
+  - id: g2lwTl4
+    name: mjKOAAmQ8MCqRDR9X0zkFqzmq9z
+    description: "人很多⋯⋯"   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/g2lwTl4.jpg
+    prevLoc: EMZ1zNo3XKTqx11wyg3WT6Q2Kvl6QWh1DPVyGVq7s2rKlRGxP5HZpRjNZYZ3u7XnrXEZDpFxgZ86wPQqu31WRnK9AJTvLryMXjEytr1L8QDwnlUq9A1n3YN0Cz73wZlQ5wHlzV1yKGnYfkw6k9pp4XfKQ8DY6JXkIYjXWYy89KFoPPXzAQjvtnXRxkk5P0c4PDmKlw2ju1A9mVxZpwhNP8DzKQjDfQLKA9k6wwTN0YlBj41kCy0NGZ63l9f2zrGKzABzsLv
+    parentId: wwXVOOzm2RcnoPgXyDMLSOEEXvQ
+    postId: pmN8LoKXgrswVw5EBjpYHXn8nr3KNxfV1DqrW2Z1iY616B5GG4FApgN4
+    factor: 1.33
+    portrait: 0
+    mInfo: d16nvyXL9NuL3sU
+  - id: GfzVH7i
+    name: ZnkY33xVvmCYo2gEkRz4I0lnzEB
+    description: "廊道"   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/GfzVH7i.jpg
+    prevLoc: wDE2QY4JynINx0056AGLU78gXMW78jS3xM4kG4D7F659koQgVNHvz4Kov0vGf14ExLwZRMiAm0OkqMg2SQgR7Lg74YsRzKKV4Px9fNM4Onm7Y3t6OL4V5r4msjPA7KoQMyfzRP58QKOoUgp1z6P8Jpc7n7OZ0mXRunyg1nOA5DFXyy9vAG5rs5JngOOqBQTGz8mmJKKXi0RQYPVEKGH3D2527Kpju0GkR6nqvKU94GQP5r5LFJkYOGvGEXHplJJMVvOKcn9
+    parentId: wwXVOOzm2RcnoPgXyDMLSOEEXvQ
+    postId: pmN8LoKXgrswVw5EBjpYHXn8nr3KNxfV1DqrW2Z1iY616B5GG4FApgN4
+    factor: 1.33
+    portrait: 1
+    mInfo: U8vFkRKunMBSnmg
+  - id: HbJqese
+    name: LzQ7LLO805S2Y49E2qqXcVlq112
+    description: "是玫瑰花"   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/HbJqese.jpg
+    prevLoc: yG67V1gLApH4o66GD0rNHXAqnJoXA8TGj86wm6rJc67lw9rk5MHQLPXBQNQ3uz1Gk1nqRjc5QGPMnWJBS2QpL6p72LhEvRgW3M3KfO6370vyjVs8yo4E6O7YIXON6B1OkzU7k0g9NKnLHKQ3Gzj8YlHpLJ5kG3LJuW9O8W01KgfvAAwgJxrmip3jEKK5x5CWk87V9A8zinQn4kM8j1UK3QrMX8kgf06Xq98wP4UR5Zkqw7O4hP60xnRj6oUGy14DL0voIE7
+    parentId: wwXVOOzm2RcnoPgXyDMLSOEEXvQ
+    postId: pmN8LoKXgrswVw5EBjpYHXn8nr3KNxfV1DqrW2Z1iY616B5GG4FApgN4
+    factor: 1.33
+    portrait: 0
+    mInfo: ajaHFHxRjLFUZAH
+  - id: ooh7CVn
+    name: 54mQ66k9V1f1W4LEwxjEt15O44Y
+    description: "大堂"   
+    height: 720
+    width: 540
+    type: image/jpeg
+    link: https://i.imgur.com/ooh7CVn.jpg
+    prevLoc: rxEBLQ4AqgTmZwwyM18AuoN23WnoNAInV48m68MBCjxBWq81Mzt6PK706j65uvOLNyQqAlT769yJK4k8Sg4jpNnDzvILGJZQQkGWh1gylrWwZDiLn7wPZA85FWpqw4G24YCPm2yE0E1BtL2OPqOMxYtkgOBzMpmYFOlwBORjZgIR11jOr67PHknOwMMoD6SXvDqE4EX0Sy2BypwzkkS6BBoP5xp5f1pnZvjRgkC05vKDLw9pfJE1G3qNR0CnAP1EMo0BHrA
+    parentId: wwXVOOzm2RcnoPgXyDMLSOEEXvQ
+    postId: pmN8LoKXgrswVw5EBjpYHXn8nr3KNxfV1DqrW2Z1iY616B5GG4FApgN4
+    factor: 1.33
+    portrait: 1
+    mInfo: Taa8Po8VUHDa8jT
+  - id: NU8Gb0O
+    name: W05LZZr7pjC8yGmYrYQGi5rKY47
+    description: "休閒區"   
+    height: 540
+    width: 720
+    type: image/jpeg
+    link: https://i.imgur.com/NU8Gb0O.jpg
+    prevLoc: YAQr1kP3YVc9lkkKYNL3ToZWQmNoZ5IPrwoZJoK0cvnzol3MRmHgP3OZgrgLTPGA5G1j0BIWMK87JpOgtBv94QOOAPhoXgnP575JHpwLr37AM2u9rZ07kY0Mf2mryAq758Tz4EE1r34OIk0D7rwQ7RCYr44D33vzh4pXY4VLv9s7RR1qvw4NH74PDrrw05TE0MGlwXgRTQZ4vWVEKwTjERnZ9GAzH9DXqAqDKDfgpA679NNzTY35xmZr05t4PGqDyll1c4J
+    parentId: wwXVOOzm2RcnoPgXyDMLSOEEXvQ
+    postId: pmN8LoKXgrswVw5EBjpYHXn8nr3KNxfV1DqrW2Z1iY616B5GG4FApgN4
+    factor: 1.33
+    portrait: 0
+    mInfo: IKZRLq4qA7bVaEr
 message: "人太多⋯⋯躲回酒店洗洗睡先～  這個酒店是我喜歡的風格❤️"
 ---
 
@@ -90,20 +168,38 @@ message: "人太多⋯⋯躲回酒店洗洗睡先～  這個酒店是我喜歡�
 
 
 [//]: #media:  
-<a href="https://i.imgur.com/TZVoG1T.jpg"><img src="https://i.imgur.com/TZVoG1T.jpg" height="300" width="214" /></a> 
+<a href="https://i.imgur.com/gzlaB36.jpg"><img src="https://i.imgur.com/gzlaB36.jpg" height="300" width="213" /></a> 
+  
+
+<a href="https://i.imgur.com/yCHpLTN.jpg"><img src="https://i.imgur.com/yCHpLTN.jpg" height="225" width="300" /></a> 
   
 
 <a href="https://i.imgur.com/6TeOx1R.jpg"><img src="https://i.imgur.com/6TeOx1R.jpg" height="225" width="300" /></a> 
   
 
-<a href="https://i.imgur.com/gzlaB36.jpg"><img src="https://i.imgur.com/gzlaB36.jpg" height="300" width="213" /></a> 
+<a href="https://i.imgur.com/7AFO58J.jpg"><img src="https://i.imgur.com/7AFO58J.jpg" height="300" width="225" /></a> 
   
 
-<a href="https://i.imgur.com/7AFO58J.jpg"><img src="https://i.imgur.com/7AFO58J.jpg" height="300" width="225" /></a> 
+<a href="https://i.imgur.com/TZVoG1T.jpg"><img src="https://i.imgur.com/TZVoG1T.jpg" height="300" width="214" /></a> 
   
 
 <a href="https://i.imgur.com/dPRvL6f.jpg"><img src="https://i.imgur.com/dPRvL6f.jpg" height="300" width="225" /></a> 
   
 
-<a href="https://i.imgur.com/yCHpLTN.jpg"><img src="https://i.imgur.com/yCHpLTN.jpg" height="225" width="300" /></a> 
+<a href="https://i.imgur.com/ad97Ui1.jpg"><img src="https://i.imgur.com/ad97Ui1.jpg" height="168" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/g2lwTl4.jpg"><img src="https://i.imgur.com/g2lwTl4.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/GfzVH7i.jpg"><img src="https://i.imgur.com/GfzVH7i.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/HbJqese.jpg"><img src="https://i.imgur.com/HbJqese.jpg" height="225" width="300" /></a> 
+  
+
+<a href="https://i.imgur.com/ooh7CVn.jpg"><img src="https://i.imgur.com/ooh7CVn.jpg" height="300" width="225" /></a> 
+  
+
+<a href="https://i.imgur.com/NU8Gb0O.jpg"><img src="https://i.imgur.com/NU8Gb0O.jpg" height="225" width="300" /></a> 
  
